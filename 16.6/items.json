@@ -1,0 +1,3530 @@
+{
+  "source": "Blitz 16.6 + CDragon",
+  "patch": "16.6",
+  "scraped_at": "2026-03-23T22:22:32.949620+00:00",
+  "items": [
+    {
+      "apiName": "TFT_Item_CursedBlade",
+      "name": "tft_item_name_CursedBlade",
+      "name_es": "tft_item_name_CursedBlade",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_CursedBlade",
+        "TFT_Item_CursedBlade"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_CursedBlade.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/tft_item_cursedblade.png",
+      "stats": null,
+      "top_users": []
+    },
+    {
+      "apiName": "TFT_Item_HextechChestguard",
+      "name": "tft_item_name_HextechChestguard",
+      "name_es": "tft_item_name_HextechChestguard",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_HextechChestguard",
+        "TFT_Item_HextechChestguard"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_HextechChestguard.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/tft_item_hextechchestguard.png",
+      "stats": null,
+      "top_users": []
+    },
+    {
+      "apiName": "TFT_Item_AdaptiveHelm",
+      "name": "Adaptive Helm",
+      "name_es": "Yelmo adaptable",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_NegatronCloak",
+        "TFT_Item_TearOfTheGoddess"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_AdaptiveHelm.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_adaptivehelm.tft_set13.png",
+      "stats": {
+        "nb_games": 37938,
+        "pick_rate": 0.18924272818455365,
+        "avg_placement": 3.9599441961646686,
+        "top_4_percent": 0.6015818968574874,
+        "top_1_percent": 0.17740181126007898,
+        "score": 0.8860086163696486,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Darius",
+        "TFT16_Annie",
+        "TFT16_Swain"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_ArchangelsStaff",
+      "name": "Archangel's Staff",
+      "name_es": "Bastón del arcángel",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_NeedlesslyLargeRod",
+        "TFT_Item_TearOfTheGoddess"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_ArchangelsStaff.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_archangelsstaff.tft_set13.png",
+      "stats": {
+        "nb_games": 28671,
+        "pick_rate": 0.10534854563691073,
+        "avg_placement": 4.112697236047866,
+        "top_4_percent": 0.5742878322566981,
+        "top_1_percent": 0.14573758339510748,
+        "score": 0.32571216468489683,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Bard",
+        "TFT16_Lux",
+        "TFT16_Seraphine"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_Bilgewater_BlackmarketExplosives",
+      "name": "Blackmarket Explosives",
+      "name_es": "Explosivos del mercado negro",
+      "type": "unique",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_Bilgewater_BlackmarketExplosives.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/tft16/tft16_item_bilgewater_blackmarketexplosives.tft_set16.png",
+      "stats": {
+        "nb_games": 1123,
+        "pick_rate": 0.0028585757271815445,
+        "avg_placement": 4.520175438596492,
+        "top_4_percent": 0.49473684210526314,
+        "top_1_percent": 0.15087719298245614,
+        "score": 0.014044979436641914,
+        "craftable": false,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Fizz",
+        "TFT16_MissFortune",
+        "TFT16_Ryze"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Bloodthirster",
+      "name": "Bloodthirster",
+      "name_es": "Sanguinaria",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_BFSword",
+        "TFT_Item_NegatronCloak"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Bloodthirster.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_bloodthirster.tft_set13.png",
+      "stats": {
+        "nb_games": 42840,
+        "pick_rate": 0.253691073219659,
+        "avg_placement": 4.23997159141989,
+        "top_4_percent": 0.5510545336857435,
+        "top_1_percent": 0.13803333513134472,
+        "score": 0.674135310060623,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Yone",
+        "TFT16_Warwick",
+        "TFT16_Volibear"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_BlueBuff",
+      "name": "Blue Buff",
+      "name_es": "Mejora azul",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_TearOfTheGoddess",
+        "TFT_Item_TearOfTheGoddess"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_BlueBuff.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_bluebuff.tft_set13.png",
+      "stats": {
+        "nb_games": 31780,
+        "pick_rate": 0.1256394182547643,
+        "avg_placement": 4.095079232693911,
+        "top_4_percent": 0.5776594131473197,
+        "top_1_percent": 0.15435211160815832,
+        "score": 0.4623887592222559,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Kalista",
+        "TFT16_Annie",
+        "TFT16_Mel"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_BrambleVest",
+      "name": "Bramble Vest",
+      "name_es": "Chaleco de zarzas",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_ChainVest",
+        "TFT_Item_ChainVest"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_BrambleVest.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_bramblevest.tft_set13.png",
+      "stats": {
+        "nb_games": 41768,
+        "pick_rate": 0.24110080240722168,
+        "avg_placement": 4.1205863931731,
+        "top_4_percent": 0.5717235575041102,
+        "top_1_percent": 0.15250919909183433,
+        "score": 0.7763440696855173,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Garen",
+        "TFT16_Braum",
+        "TFT16_Swain"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_Bilgewater_CaptainsBrew",
+      "name": "Captain's Brew",
+      "name_es": "Bebida del capitán",
+      "type": "unique",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_Bilgewater_CaptainsBrew.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/tft16/tft16_item_bilgewater_jollyroger.tft_set16.png",
+      "stats": {
+        "nb_games": 7433,
+        "pick_rate": 0.019809428284854564,
+        "avg_placement": 4.567054655870446,
+        "top_4_percent": 0.4672317813765182,
+        "top_1_percent": 0.16396761133603238,
+        "score": 0.7231354359750446,
+        "craftable": false,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_TwistedFate",
+        "TFT16_MissFortune",
+        "TFT16_Fizz"
+      ]
+    },
+    {
+      "apiName": "TFT9_Item_CrownOfDemacia",
+      "name": "Crown of Demacia",
+      "name_es": "Corona de Demacia",
+      "type": "unique",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT9_Item_CrownOfDemacia.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/tft9_regionitems/crownofdemacia.png",
+      "stats": {
+        "nb_games": 2249,
+        "pick_rate": 0.005807422266800401,
+        "avg_placement": 4.012521588946459,
+        "top_4_percent": 0.6001727115716753,
+        "top_1_percent": 0.13773747841105355,
+        "score": 0.0,
+        "craftable": false,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Vayne",
+        "TFT16_Jinx",
+        "TFT16_Kaisa"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Crownguard",
+      "name": "Crownguard",
+      "name_es": "Regiaguardia",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_NeedlesslyLargeRod",
+        "TFT_Item_ChainVest"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Crownguard.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_crownguard.tft_set13.png",
+      "stats": {
+        "nb_games": 20683,
+        "pick_rate": 0.0683801404212638,
+        "avg_placement": 3.7558556657522684,
+        "top_4_percent": 0.643244003657593,
+        "top_1_percent": 0.18073433213758178,
+        "score": 0.3775498423957119,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Swain",
+        "TFT16_Taric",
+        "TFT16_Braum"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_Bilgewater_BilgeratCutlass",
+      "name": "Cutthroat's Cutlass",
+      "name_es": "Sable despiadado",
+      "type": "unique",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_Bilgewater_BilgeratCutlass.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/tft16/tft16_item_bilgewater_bilgeratcutlass.tft_set16.png",
+      "stats": {
+        "nb_games": 1353,
+        "pick_rate": 0.0034428284854563693,
+        "avg_placement": 4.281864530225783,
+        "top_4_percent": 0.5229424617625638,
+        "top_1_percent": 0.17698470502549163,
+        "score": 0.1613745381708624,
+        "craftable": false,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_MissFortune",
+        "TFT16_Gangplank",
+        "TFT16_Fizz"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_Bilgewater_DeadmansDagger",
+      "name": "Dead Man's Dagger",
+      "name_es": "Daga del muerto",
+      "type": "unique",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_Bilgewater_DeadmansDagger.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/tft16/tt16_item_bilgewater_deadmansdagger.tft_set16.png",
+      "stats": {
+        "nb_games": 4237,
+        "pick_rate": 0.01097542627883651,
+        "avg_placement": 4.352524560201051,
+        "top_4_percent": 0.5046835732236692,
+        "top_1_percent": 0.19419693854238063,
+        "score": 0.6070261994431123,
+        "craftable": false,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_MissFortune",
+        "TFT16_Fizz",
+        "TFT16_Graves"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Deathblade",
+      "name": "Deathblade",
+      "name_es": "Filo mortal",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_BFSword",
+        "TFT_Item_BFSword"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Deathblade.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_deathblade.tft_set13.png",
+      "stats": {
+        "nb_games": 22203,
+        "pick_rate": 0.07290872617853561,
+        "avg_placement": 4.004578282176941,
+        "top_4_percent": 0.5949509930358524,
+        "top_1_percent": 0.15427521279339695,
+        "score": 0.24095485637593325,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Kaisa",
+        "TFT16_Draven",
+        "TFT16_Vayne"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_DragonsClaw",
+      "name": "Dragon's Claw",
+      "name_es": "Garra de dragón",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_NegatronCloak",
+        "TFT_Item_NegatronCloak"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_DragonsClaw.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_dragonsclaw.tft_set13.png",
+      "stats": {
+        "nb_games": 42694,
+        "pick_rate": 0.2611384152457372,
+        "avg_placement": 4.132330624522965,
+        "top_4_percent": 0.5686436492614376,
+        "top_1_percent": 0.15380954518924259,
+        "score": 0.8258264700375909,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Garen",
+        "TFT16_Braum",
+        "TFT16_Swain"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_GuardianAngel",
+      "name": "Edge of Night",
+      "name_es": "Filo de la noche",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_BFSword",
+        "TFT_Item_ChainVest"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_GuardianAngel.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_guardianangel.tft_set13.png",
+      "stats": {
+        "nb_games": 28834,
+        "pick_rate": 0.10715145436308927,
+        "avg_placement": 3.9199891938134583,
+        "top_4_percent": 0.609041176073302,
+        "top_1_percent": 0.16733830117742407,
+        "score": 0.48707620753051273,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Thresh",
+        "TFT16_Sylas",
+        "TFT16_Warwick"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_SpectralGauntlet",
+      "name": "Evenshroud",
+      "name_es": "Mortaja de la quietud",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_NegatronCloak",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_SpectralGauntlet.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_spectralgauntlet.tft_set13.png",
+      "stats": {
+        "nb_games": 30794,
+        "pick_rate": 0.1210431293881645,
+        "avg_placement": 4.061268879718659,
+        "top_4_percent": 0.583985526396032,
+        "top_1_percent": 0.1543512288333706,
+        "score": 0.44223852668491287,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Wukong",
+        "TFT16_Swain",
+        "TFT16_Garen"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_Bilgewater_FirstMatesFlintlock",
+      "name": "First Mate's Flintlock",
+      "name_es": "Pistola de pedernal del primer oficial",
+      "type": "unique",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_Bilgewater_FirstMatesFlintlock.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/tft16/tft16_item_bilgewater_dreadwaycannon.tft_set16.png",
+      "stats": {
+        "nb_games": 4676,
+        "pick_rate": 0.012086258776328986,
+        "avg_placement": 4.271161825726141,
+        "top_4_percent": 0.5201244813278009,
+        "top_1_percent": 0.2,
+        "score": 0.7289805083731826,
+        "craftable": false,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_MissFortune",
+        "TFT16_TwistedFate",
+        "TFT16_Fizz"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_GargoyleStoneplate",
+      "name": "Gargoyle Stoneplate",
+      "name_es": "Protector pétreo de gárgola",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_ChainVest",
+        "TFT_Item_NegatronCloak"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_GargoyleStoneplate.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_gargoylestoneplate.tft_set13.png",
+      "stats": {
+        "nb_games": 44086,
+        "pick_rate": 0.29199348044132395,
+        "avg_placement": 4.289192345701195,
+        "top_4_percent": 0.5393869972748779,
+        "top_1_percent": 0.13619620878627256,
+        "score": 0.7059140439906534,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Leona",
+        "TFT16_Swain",
+        "TFT16_Braum"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_MadredsBloodrazor",
+      "name": "Giant Slayer",
+      "name_es": "Verdugo de gigantes",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_BFSword",
+        "TFT_Item_RecurveBow"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_MadredsBloodrazor.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_madredsbloodrazor.tft_set13.png",
+      "stats": {
+        "nb_games": 33946,
+        "pick_rate": 0.14401203610832497,
+        "avg_placement": 4.046159864389099,
+        "top_4_percent": 0.5882611813795802,
+        "top_1_percent": 0.15517016560177338,
+        "score": 0.5446551276110787,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Kindred",
+        "TFT16_Kaisa",
+        "TFT16_Lucian"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_GuinsoosRageblade",
+      "name": "Guinsoo's Rageblade",
+      "name_es": "Hoja de furia de Guinsoo",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_RecurveBow",
+        "TFT_Item_NeedlesslyLargeRod"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_GuinsoosRageblade.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_guinsoosrageblade.tft_set13.png",
+      "stats": {
+        "nb_games": 46215,
+        "pick_rate": 0.3671213640922768,
+        "avg_placement": 4.299790938297269,
+        "top_4_percent": 0.5374893697439289,
+        "top_1_percent": 0.13167934423131436,
+        "score": 0.7686669148871017,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Jinx",
+        "TFT16_Kaisa",
+        "TFT16_Yone"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_UnstableConcoction",
+      "name": "Hand Of Justice",
+      "name_es": "Mano de la justicia",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_TearOfTheGoddess",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_UnstableConcoction.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_unstableconcoction.tft_set13.png",
+      "stats": {
+        "nb_games": 35719,
+        "pick_rate": 0.15748495486459377,
+        "avg_placement": 4.159868326892801,
+        "top_4_percent": 0.5658079290110205,
+        "top_1_percent": 0.14883354801774726,
+        "score": 0.5660108286567024,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Sylas",
+        "TFT16_Sett",
+        "TFT16_Fizz"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_HextechGunblade",
+      "name": "Hextech Gunblade",
+      "name_es": "Sable-pistola hextech",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_BFSword",
+        "TFT_Item_NeedlesslyLargeRod"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_HextechGunblade.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_hextechgunblade.tft_set13.png",
+      "stats": {
+        "nb_games": 39961,
+        "pick_rate": 0.21352808425275827,
+        "avg_placement": 4.017010855899684,
+        "top_4_percent": 0.5928436335013283,
+        "top_1_percent": 0.16112210427348558,
+        "score": 0.7666240417974161,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Vayne",
+        "TFT16_Zoe",
+        "TFT16_Kaisa"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_InfinityEdge",
+      "name": "Infinity Edge",
+      "name_es": "Filo infinito",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_BFSword",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_InfinityEdge.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_infinityedge.tft_set13.png",
+      "stats": {
+        "nb_games": 42212,
+        "pick_rate": 0.24441825476429288,
+        "avg_placement": 4.254663815633167,
+        "top_4_percent": 0.5484343074364457,
+        "top_1_percent": 0.13860774530767403,
+        "score": 0.6304940199902042,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Kaisa",
+        "TFT16_MissFortune",
+        "TFT16_Aphelios"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_IonicSpark",
+      "name": "Ionic Spark",
+      "name_es": "Chispa iónica",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_NeedlesslyLargeRod",
+        "TFT_Item_NegatronCloak"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_IonicSpark.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_ionicspark.tft_set13.png",
+      "stats": {
+        "nb_games": 34278,
+        "pick_rate": 0.14746489468405216,
+        "avg_placement": 3.9588719346944137,
+        "top_4_percent": 0.5987385641312025,
+        "top_1_percent": 0.1686677726130447,
+        "score": 0.6799924780945789,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Thresh",
+        "TFT16_Kennen",
+        "TFT16_Swain"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_JeweledGauntlet",
+      "name": "Jeweled Gauntlet",
+      "name_es": "Guantelete enjoyado",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_NeedlesslyLargeRod",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_JeweledGauntlet.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_jeweledgauntlet.tft_set13.png",
+      "stats": {
+        "nb_games": 46779,
+        "pick_rate": 0.4318731193580742,
+        "avg_placement": 4.285634480277236,
+        "top_4_percent": 0.536851175033613,
+        "top_1_percent": 0.14603177609029105,
+        "score": 0.94269296525493,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Malzahar",
+        "TFT16_Mel",
+        "TFT16_Ahri"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_RunaansHurricane",
+      "name": "Kraken's Fury",
+      "name_es": "Furia del kraken",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_NegatronCloak",
+        "TFT_Item_RecurveBow"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_RunaansHurricane.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_krakenslayer.tft_tft14_5.png",
+      "stats": {
+        "nb_games": 38623,
+        "pick_rate": 0.18441825476429288,
+        "avg_placement": 4.022618619795921,
+        "top_4_percent": 0.5994859899593802,
+        "top_1_percent": 0.1467433325710303,
+        "score": 0.5546883316778028,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Vayne",
+        "TFT16_Jinx",
+        "TFT16_Aphelios"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_LastWhisper",
+      "name": "Last Whisper",
+      "name_es": "Últimas palabras",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_RecurveBow",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_LastWhisper.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_lastwhisper.tft_set13.png",
+      "stats": {
+        "nb_games": 37008,
+        "pick_rate": 0.17414994984954865,
+        "avg_placement": 4.014951080741484,
+        "top_4_percent": 0.5967020090073555,
+        "top_1_percent": 0.15436743798619249,
+        "score": 0.6092354584407815,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Kalista",
+        "TFT16_Kaisa",
+        "TFT16_Jinx"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_Bilgewater_LuckyEyepatch",
+      "name": "Lucky Doubloon",
+      "name_es": "Doblón de la suerte",
+      "type": "unique",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_Bilgewater_LuckyEyepatch.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/tft16/tft16_item_luckydubloon.tft_set16.png",
+      "stats": {
+        "nb_games": 4090,
+        "pick_rate": 0.01063691073219659,
+        "avg_placement": 4.8021201413427566,
+        "top_4_percent": 0.4249705535924617,
+        "top_1_percent": 0.1380447585394582,
+        "score": 0.2511354880980608,
+        "craftable": false,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_MissFortune",
+        "TFT16_Gangplank",
+        "TFT16_TwistedFate"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Morellonomicon",
+      "name": "Morellonomicon",
+      "name_es": "Morellonomicón",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_NeedlesslyLargeRod",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Morellonomicon.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_morellonomicon.tft_set13.png",
+      "stats": {
+        "nb_games": 31698,
+        "pick_rate": 0.1262111334002006,
+        "avg_placement": 3.957044941194797,
+        "top_4_percent": 0.6040579484383519,
+        "top_1_percent": 0.16541397305086067,
+        "score": 0.5352324289176655,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Thresh",
+        "TFT16_Seraphine",
+        "TFT16_Ryze"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Leviathan",
+      "name": "Nashor's Tooth",
+      "name_es": "Diente de Nashor",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_RecurveBow",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Leviathan.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_leviathan.tft_set13.png",
+      "stats": {
+        "nb_games": 42699,
+        "pick_rate": 0.26284353059177534,
+        "avg_placement": 4.224980917071043,
+        "top_4_percent": 0.5477209530559948,
+        "top_1_percent": 0.15042118750340766,
+        "score": 0.7938073255184747,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Malzahar",
+        "TFT16_Mel",
+        "TFT16_Ahri"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_Bilgewater_PileOCitrus",
+      "name": "Pile O' Citrus",
+      "name_es": "Montón de cítricos",
+      "type": "unique",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_Bilgewater_PileOCitrus.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/tft16/tft16_item_pileofcitrus.tft_set16.png",
+      "stats": {
+        "nb_games": 5284,
+        "pick_rate": 0.013816449348044133,
+        "avg_placement": 4.0484573502722325,
+        "top_4_percent": 0.5542649727767696,
+        "top_1_percent": 0.22722323049001814,
+        "score": 1.0,
+        "craftable": false,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_TahmKench",
+        "TFT16_Nautilus",
+        "TFT16_Illaoi"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_FrozenHeart",
+      "name": "Protector's Vow",
+      "name_es": "Promesa del protector",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_TearOfTheGoddess",
+        "TFT_Item_ChainVest"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_FrozenHeart.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_frozenheart.tft_set13.png",
+      "stats": {
+        "nb_games": 34726,
+        "pick_rate": 0.1558976930792377,
+        "avg_placement": 3.951845569582251,
+        "top_4_percent": 0.6049025052912833,
+        "top_1_percent": 0.16821027034329544,
+        "score": 0.6811102474283878,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Swain",
+        "TFT16_Sejuani",
+        "TFT16_TahmKench"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Quicksilver",
+      "name": "Quicksilver",
+      "name_es": "Fajín de mercurio",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_SparringGloves",
+        "TFT_Item_NegatronCloak"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Quicksilver.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_quicksilver.tft_set13.png",
+      "stats": {
+        "nb_games": 21516,
+        "pick_rate": 0.07053159478435306,
+        "avg_placement": 3.9867261190190364,
+        "top_4_percent": 0.6013719773623735,
+        "top_1_percent": 0.15486194477791115,
+        "score": 0.2616127119445796,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_BelVeth",
+        "TFT16_Warwick",
+        "TFT16_Yone"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_RabadonsDeathcap",
+      "name": "Rabadon's Deathcap",
+      "name_es": "Sombrero mortal de Rabadon",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_NeedlesslyLargeRod",
+        "TFT_Item_NeedlesslyLargeRod"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_RabadonsDeathcap.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_rabadonsdeathcap.tft_set13.png",
+      "stats": {
+        "nb_games": 32412,
+        "pick_rate": 0.1284804413239719,
+        "avg_placement": 4.09588024034809,
+        "top_4_percent": 0.5698079977899027,
+        "top_1_percent": 0.16406519787278126,
+        "score": 0.5340981538364041,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Veigar",
+        "TFT16_Ziggs",
+        "TFT16_Lux"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_RapidFireCannon",
+      "name": "Red Buff",
+      "name_es": "Mejora roja",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_RecurveBow",
+        "TFT_Item_RecurveBow"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_RapidFireCannon.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_rapidfirecannon.tft_set13.png",
+      "stats": {
+        "nb_games": 23474,
+        "pick_rate": 0.08002256770310932,
+        "avg_placement": 3.998798336157757,
+        "top_4_percent": 0.5929440764134956,
+        "top_1_percent": 0.17042058234478508,
+        "score": 0.39174099765832804,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Lucian",
+        "TFT16_Seraphine",
+        "TFT16_Ziggs"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_SpearOfShojin",
+      "name": "Spear of Shojin",
+      "name_es": "Lanza de Shojin",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_BFSword",
+        "TFT_Item_TearOfTheGoddess"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_SpearOfShojin.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_spearofshojin.tft_set13.png",
+      "stats": {
+        "nb_games": 46333,
+        "pick_rate": 0.41247743229689066,
+        "avg_placement": 4.195149720443442,
+        "top_4_percent": 0.5542489389679391,
+        "top_1_percent": 0.15470221614051594,
+        "score": 1.0,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Kaisa",
+        "TFT16_Kalista",
+        "TFT16_Annie"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Redemption",
+      "name": "Spirit Visage",
+      "name_es": "Rostro espiritual",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_TearOfTheGoddess",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Redemption.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_spiritvisagerr.tft_tft14_5.png",
+      "stats": {
+        "nb_games": 45359,
+        "pick_rate": 0.3403084252758275,
+        "avg_placement": 4.149494011212214,
+        "top_4_percent": 0.5680877090842487,
+        "top_1_percent": 0.14469905605453035,
+        "score": 0.8568800735952852,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Garen",
+        "TFT16_Wukong",
+        "TFT16_Braum"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_NightHarvester",
+      "name": "Steadfast Heart",
+      "name_es": "Corazón resuelto",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_ChainVest",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_NightHarvester.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_nightharvester.tft_set13.png",
+      "stats": {
+        "nb_games": 33412,
+        "pick_rate": 0.14291875626880643,
+        "avg_placement": 3.9774653845528056,
+        "top_4_percent": 0.6000715901140561,
+        "top_1_percent": 0.16215160833699419,
+        "score": 0.5887175854389756,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Garen",
+        "TFT16_Swain",
+        "TFT16_Braum"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_SteraksGage",
+      "name": "Sterak's Gage",
+      "name_es": "Calibrador de Sterak",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_BFSword",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_SteraksGage.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_steraksgage.tft_set13.png",
+      "stats": {
+        "nb_games": 35140,
+        "pick_rate": 0.15465396188565697,
+        "avg_placement": 4.044455760269111,
+        "top_4_percent": 0.5865197666882696,
+        "top_1_percent": 0.159800018516804,
+        "score": 0.6040982700877879,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Darius",
+        "TFT16_Warwick",
+        "TFT16_Volibear"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_PowerGauntlet",
+      "name": "Striker's Flail",
+      "name_es": "Mangual del guerrero",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_GiantsBelt",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_PowerGauntlet.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_powergauntlet.tft_set13.png",
+      "stats": {
+        "nb_games": 30122,
+        "pick_rate": 0.11551404212637914,
+        "avg_placement": 3.9377898475036557,
+        "top_4_percent": 0.6085230833507416,
+        "top_1_percent": 0.16269062043033214,
+        "score": 0.4725799679369757,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Kalista",
+        "TFT16_Kaisa",
+        "TFT16_Sylas"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_RedBuff",
+      "name": "Sunfire Cape",
+      "name_es": "Capa de fuego solar",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_ChainVest",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_RedBuff.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_redbuff.tft_set13.png",
+      "stats": {
+        "nb_games": 45615,
+        "pick_rate": 0.36203861584754266,
+        "avg_placement": 4.2125823469551715,
+        "top_4_percent": 0.5540611108135611,
+        "top_1_percent": 0.14351132772749184,
+        "score": 0.868427835490924,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Garen",
+        "TFT16_Swain",
+        "TFT16_Wukong"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_ForceOfNature",
+      "name": "Tactician's Crown",
+      "name_es": "Corona de estratega",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_Spatula"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_ForceOfNature.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_forceofnature.tft_set13.png",
+      "stats": {
+        "nb_games": 10547,
+        "pick_rate": 0.035965396188565694,
+        "avg_placement": 4.075459098497496,
+        "top_4_percent": 0.5760934891485809,
+        "top_1_percent": 0.16674457429048414,
+        "score": 1.0,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Seraphine",
+        "TFT16_Kaisa",
+        "TFT16_Azir"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_ThiefsGloves",
+      "name": "Thief's Gloves",
+      "name_es": "Guantes de ladrón",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_SparringGloves",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_ThiefsGloves.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_thiefsgloves.tft_set13.png",
+      "stats": {
+        "nb_games": 41188,
+        "pick_rate": 0.23658224674022066,
+        "avg_placement": 4.058440507655676,
+        "top_4_percent": 0.5795581515415379,
+        "top_1_percent": 0.15809914234856248,
+        "score": 0.8488547426787532,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Swain",
+        "TFT16_Shyvana",
+        "TFT16_Taric"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_TitansResolve",
+      "name": "Titan's Resolve",
+      "name_es": "Resolución titánica",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_ChainVest",
+        "TFT_Item_RecurveBow"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_TitansResolve.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_titansresolve.tft_set13.png",
+      "stats": {
+        "nb_games": 39423,
+        "pick_rate": 0.1970987963891675,
+        "avg_placement": 4.198371027735585,
+        "top_4_percent": 0.5576419370656971,
+        "top_1_percent": 0.1391443709559747,
+        "score": 0.5524625602154116,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Yone",
+        "TFT16_Darius",
+        "TFT16_Warwick"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_StatikkShiv",
+      "name": "Void Staff",
+      "name_es": "Bastón del Vacío",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_RecurveBow",
+        "TFT_Item_TearOfTheGoddess"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_StatikkShiv.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_voidstaff.tft_tft14_5.png",
+      "stats": {
+        "nb_games": 39029,
+        "pick_rate": 0.199746740220662,
+        "avg_placement": 4.127523351328853,
+        "top_4_percent": 0.564973618813275,
+        "top_1_percent": 0.168496823239928,
+        "score": 0.8634285434466628,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Annie",
+        "TFT16_Seraphine",
+        "TFT16_Ryze"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_WarmogsArmor",
+      "name": "Warmog's Armor",
+      "name_es": "Armadura de Warmog",
+      "type": "unique",
+      "composition": [
+        "TFT_Item_GiantsBelt",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_WarmogsArmor.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_warmogsarmor.tft_set13.png",
+      "stats": {
+        "nb_games": 41131,
+        "pick_rate": 0.22821464393179539,
+        "avg_placement": 4.123756873756874,
+        "top_4_percent": 0.5725205725205725,
+        "top_1_percent": 0.14953589953589955,
+        "score": 0.7334723143554506,
+        "craftable": true,
+        "item_type": "other"
+      },
+      "top_users": [
+        "TFT16_Garen",
+        "TFT16_Swain",
+        "TFT16_Braum"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_SorcererEmblemItem",
+      "name": "Arcanist Emblem",
+      "name_es": "Emblema de arcanólogo",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_NeedlesslyLargeRod"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_SorcererEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_arcanist.tft_set16.png",
+      "stats": {
+        "nb_games": 4922,
+        "pick_rate": 0.01407221664994985,
+        "avg_placement": 4.48507718696398,
+        "top_4_percent": 0.49897084048027446,
+        "top_1_percent": 0.13687821612349915,
+        "score": 0.28456816975850485,
+        "craftable": true,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Mel",
+        "TFT16_Taric",
+        "TFT16_Fiddlesticks"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_BilgewaterEmblemItem",
+      "name": "Bilgewater Emblem",
+      "name_es": "Emblema de Aguas Estancadas",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_TearOfTheGoddess"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_BilgewaterEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_bilgewater.tft_set16.png",
+      "stats": {
+        "nb_games": 5726,
+        "pick_rate": 0.016178535606820463,
+        "avg_placement": 4.688167787890779,
+        "top_4_percent": 0.44136657433056325,
+        "top_1_percent": 0.19535681308534494,
+        "score": 0.4205914532623133,
+        "craftable": true,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Lucian",
+        "TFT16_Shyvana",
+        "TFT16_Ornn"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_BrawlerEmblemItem",
+      "name": "Bruiser Emblem",
+      "name_es": "Emblema de luchador",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_BrawlerEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_bruiser.tft_set16.png",
+      "stats": {
+        "nb_games": 5179,
+        "pick_rate": 0.01494483450351053,
+        "avg_placement": 3.9969155844155844,
+        "top_4_percent": 0.5862012987012987,
+        "top_1_percent": 0.17646103896103896,
+        "score": 0.5846052403113903,
+        "craftable": true,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Swain",
+        "TFT16_Kennen",
+        "TFT16_Taric"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_DefenderEmblemItem",
+      "name": "Defender Emblem",
+      "name_es": "Emblema de defensor",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_ChainVest"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_DefenderEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_defender.tft_set16.png",
+      "stats": {
+        "nb_games": 4932,
+        "pick_rate": 0.01420260782347041,
+        "avg_placement": 4.195209580838323,
+        "top_4_percent": 0.5562018819503849,
+        "top_1_percent": 0.1532934131736527,
+        "score": 0.38336474945850285,
+        "craftable": true,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Swain",
+        "TFT16_Taric",
+        "TFT16_Braum"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_DemaciaEmblemItem",
+      "name": "Demacia Emblem",
+      "name_es": "Emblema de Demacia",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_ChainVest"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_DemaciaEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_demacia.tft_set16.png",
+      "stats": {
+        "nb_games": 7715,
+        "pick_rate": 0.022359578736208627,
+        "avg_placement": 4.261018313543973,
+        "top_4_percent": 0.5440732541758905,
+        "top_1_percent": 0.13986717649426444,
+        "score": 0.5305311302430695,
+        "craftable": true,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Swain",
+        "TFT16_Taric",
+        "TFT16_Shyvana"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_MagusEmblemItem",
+      "name": "Disruptor Emblem",
+      "name_es": "Emblema de disruptor",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_MagusEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_disruptor.tft_set16.png",
+      "stats": {
+        "nb_games": 3110,
+        "pick_rate": 0.00913741223671013,
+        "avg_placement": 4.070641955412302,
+        "top_4_percent": 0.5793714746172441,
+        "top_1_percent": 0.16196615632554393,
+        "score": 0.6376951286229372,
+        "craftable": false,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Zoe",
+        "TFT16_Leblanc",
+        "TFT16_Ryze"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_FreljordEmblemItem",
+      "name": "Freljord Emblem",
+      "name_es": "Emblema de Freljord",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_FreljordEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_freljord.tft_set16.png",
+      "stats": {
+        "nb_games": 5644,
+        "pick_rate": 0.016155967903711134,
+        "avg_placement": 4.128694404591105,
+        "top_4_percent": 0.5674318507890961,
+        "top_1_percent": 0.1631276901004304,
+        "score": 0.5248821719771743,
+        "craftable": true,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Loris",
+        "TFT16_Taric",
+        "TFT16_Ornn"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_GunslingerEmblemItem",
+      "name": "Gunslinger Emblem",
+      "name_es": "Emblema de pistolero",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_GunslingerEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_gunslinger.tft_set16.png",
+      "stats": {
+        "nb_games": 2950,
+        "pick_rate": 0.008530591775325978,
+        "avg_placement": 4.10835734870317,
+        "top_4_percent": 0.5783861671469741,
+        "top_1_percent": 0.14812680115273774,
+        "score": 0.43722088285556965,
+        "craftable": false,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Warwick",
+        "TFT16_Kindred",
+        "TFT16_Shyvana"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_InvokerEmblemItem",
+      "name": "Invoker Emblem",
+      "name_es": "Emblema de conjurador",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_TearOfTheGoddess"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_InvokerEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_invoker.tft_set16.png",
+      "stats": {
+        "nb_games": 5161,
+        "pick_rate": 0.01478936810431294,
+        "avg_placement": 4.263029315960912,
+        "top_4_percent": 0.5356677524429967,
+        "top_1_percent": 0.15977198697068404,
+        "score": 0.45926374604640235,
+        "craftable": true,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Mel",
+        "TFT16_Seraphine",
+        "TFT16_Ryze"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_IoniaEmblemItem",
+      "name": "Ionia Emblem",
+      "name_es": "Emblema de Jonia",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_NeedlesslyLargeRod"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_IoniaEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_ionia.tft_set16.png",
+      "stats": {
+        "nb_games": 5602,
+        "pick_rate": 0.0157271815446339,
+        "avg_placement": 4.335909090909091,
+        "top_4_percent": 0.5277272727272727,
+        "top_1_percent": 0.1318181818181818,
+        "score": 0.31876514355439833,
+        "craftable": true,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Neeko",
+        "TFT16_Aatrox",
+        "TFT16_Kindred"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_IxtalEmblemItem",
+      "name": "Ixtal Emblem",
+      "name_es": "Emblema de Ixtal",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_IxtalEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_ixtal.tft_set16.png",
+      "stats": {
+        "nb_games": 2608,
+        "pick_rate": 0.0074398194583751255,
+        "avg_placement": 5.382142857142857,
+        "top_4_percent": 0.337012987012987,
+        "top_1_percent": 0.08961038961038961,
+        "score": 0.0,
+        "craftable": false,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Vi",
+        "TFT16_Swain",
+        "TFT16_Taric"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_JuggernautEmblemItem",
+      "name": "Juggernaut Emblem",
+      "name_es": "Emblema de coloso",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_NegatronCloak"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_JuggernautEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_juggernaut.tft_set16.png",
+      "stats": {
+        "nb_games": 5274,
+        "pick_rate": 0.015288365095285857,
+        "avg_placement": 4.086294416243655,
+        "top_4_percent": 0.5715418781725888,
+        "top_1_percent": 0.16941624365482233,
+        "score": 0.5062623312263401,
+        "craftable": true,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Garen",
+        "TFT16_Taric",
+        "TFT16_RiftHerald"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_LongshotEmblemItem",
+      "name": "Longshot Emblem",
+      "name_es": "Emblema de tiro largo",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_LongshotEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_longshot.tft_set16.png",
+      "stats": {
+        "nb_games": 3137,
+        "pick_rate": 0.009047141424272818,
+        "avg_placement": 4.151785714285714,
+        "top_4_percent": 0.5657467532467533,
+        "top_1_percent": 0.14962121212121213,
+        "score": 0.5333373305240431,
+        "craftable": false,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Lux",
+        "TFT16_Ryze",
+        "TFT16_Swain"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_NoxusEmblemItem",
+      "name": "Noxus Emblem",
+      "name_es": "Emblema de Noxus",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_BFSword"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_NoxusEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_noxus.tft_set16.png",
+      "stats": {
+        "nb_games": 7771,
+        "pick_rate": 0.022512537612838515,
+        "avg_placement": 4.114173979397177,
+        "top_4_percent": 0.5445440671499427,
+        "top_1_percent": 0.21585272796642502,
+        "score": 1.0,
+        "craftable": true,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Kindred",
+        "TFT16_Kobuko",
+        "TFT16_Shyvana"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_PiltoverEmblemItem",
+      "name": "Piltover Emblem",
+      "name_es": "Emblema de Piltover",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_PiltoverEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_piltover.tft_set16.png",
+      "stats": {
+        "nb_games": 3528,
+        "pick_rate": 0.010343530591775327,
+        "avg_placement": 4.611700872847369,
+        "top_4_percent": 0.4850200518990328,
+        "top_1_percent": 0.11464968152866242,
+        "score": 0.4760074656411056,
+        "craftable": false,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Braum",
+        "TFT16_Swain",
+        "TFT16_Taric"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_RapidfireEmblemItem",
+      "name": "Quickstriker Emblem",
+      "name_es": "Emblema de impactoveloz",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_RecurveBow"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_RapidfireEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_quickstriker.tft_set16.png",
+      "stats": {
+        "nb_games": 4814,
+        "pick_rate": 0.013728686058174523,
+        "avg_placement": 4.136890136890137,
+        "top_4_percent": 0.5644085644085645,
+        "top_1_percent": 0.14935064935064934,
+        "score": 0.3260262169680137,
+        "craftable": true,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Jinx",
+        "TFT16_Lucian",
+        "TFT16_Ambessa"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_SlayerEmblemItem",
+      "name": "Slayer Emblem",
+      "name_es": "Emblema de verdugo",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_BFSword"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_SlayerEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_slayer.tft_set16.png",
+      "stats": {
+        "nb_games": 3195,
+        "pick_rate": 0.009139919759277833,
+        "avg_placement": 4.387053809270112,
+        "top_4_percent": 0.5191795418220565,
+        "top_1_percent": 0.12866275972296218,
+        "score": 0.0,
+        "craftable": true,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Ambessa",
+        "TFT16_Sett",
+        "TFT16_Shyvana"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_VanquisherEmblemItem",
+      "name": "Vanquisher Emblem",
+      "name_es": "Emblema de conquistador",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_VanquisherEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_vanquisher.tft_set16.png",
+      "stats": {
+        "nb_games": 5816,
+        "pick_rate": 0.016494483450351052,
+        "avg_placement": 4.022893117756475,
+        "top_4_percent": 0.5870653884675919,
+        "top_1_percent": 0.1825726141078838,
+        "score": 0.6901001739522854,
+        "craftable": true,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Thresh",
+        "TFT16_Mel",
+        "TFT16_Seraphine"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_VoidEmblemItem",
+      "name": "Void Emblem",
+      "name_es": "Emblema del Vacío",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_RecurveBow"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_VoidEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_void.tft_set16.png",
+      "stats": {
+        "nb_games": 4315,
+        "pick_rate": 0.012316950852557674,
+        "avg_placement": 4.477956884832007,
+        "top_4_percent": 0.5035929306661487,
+        "top_1_percent": 0.12157700524373664,
+        "score": 0.12432062368528135,
+        "craftable": true,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Volibear",
+        "TFT16_Swain",
+        "TFT16_Shyvana"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_WardenEmblemItem",
+      "name": "Warden Emblem",
+      "name_es": "Emblema de guardián",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_WardenEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_warden.tft_set16.png",
+      "stats": {
+        "nb_games": 3550,
+        "pick_rate": 0.01033099297893681,
+        "avg_placement": 4.014667612964277,
+        "top_4_percent": 0.5907262834161344,
+        "top_1_percent": 0.17530163236337828,
+        "score": 1.0,
+        "craftable": false,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Sejuani",
+        "TFT16_Taric",
+        "TFT16_Swain"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_YordleEmblemItem",
+      "name": "Yordle Emblem",
+      "name_es": "Emblema de yordle",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_NegatronCloak"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_YordleEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_yordle.tft_set16.png",
+      "stats": {
+        "nb_games": 5194,
+        "pick_rate": 0.01478184553660983,
+        "avg_placement": 4.129825704512135,
+        "top_4_percent": 0.557256882228376,
+        "top_1_percent": 0.16892001954715752,
+        "score": 0.47296304485968566,
+        "craftable": true,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Swain",
+        "TFT16_Volibear",
+        "TFT16_Shyvana"
+      ]
+    },
+    {
+      "apiName": "TFT16_Item_ZaunEmblemItem",
+      "name": "Zaun Emblem",
+      "name_es": "Emblema de Zaun",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_Item_ZaunEmblemItem.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_zaun.tft_set16.png",
+      "stats": {
+        "nb_games": 4779,
+        "pick_rate": 0.01350802407221665,
+        "avg_placement": 4.247715911049819,
+        "top_4_percent": 0.5505947250474056,
+        "top_1_percent": 0.12204792277193588,
+        "score": 0.15265501256436403,
+        "craftable": true,
+        "item_type": "emblem"
+      },
+      "top_users": [
+        "TFT16_Wukong",
+        "TFT16_Lucian",
+        "TFT16_Shyvana"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_AegisOfDawn",
+      "name": "Aegis of Dawn",
+      "name_es": "Égida del amanecer",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_AegisOfDawn.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_aegisofdawn.tft_set16.png",
+      "stats": {
+        "nb_games": 3554,
+        "pick_rate": 0.009327983951855566,
+        "avg_placement": 3.7804036112586297,
+        "top_4_percent": 0.6226765799256505,
+        "top_1_percent": 0.20419543281996813,
+        "score": 0.7235091909659965,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Ornn",
+        "TFT16_Braum",
+        "TFT16_Garen"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_AegisOfDusk",
+      "name": "Aegis of Dusk",
+      "name_es": "Égida del anochecer",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_AegisOfDusk.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_aegisofdusk.tft_set16.png",
+      "stats": {
+        "nb_games": 3503,
+        "pick_rate": 0.009094784353059177,
+        "avg_placement": 3.765058599073317,
+        "top_4_percent": 0.6252384846007086,
+        "top_1_percent": 0.2144998637230853,
+        "score": 0.8825158607649848,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Ornn",
+        "TFT16_Braum",
+        "TFT16_Swain"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_BlightingJewel",
+      "name": "Blighting Jewel",
+      "name_es": "Joya de la plaga",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_BlightingJewel.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_blightingjewel.tft_set13.png",
+      "stats": {
+        "nb_games": 2885,
+        "pick_rate": 0.007462387161484453,
+        "avg_placement": 3.911598537720173,
+        "top_4_percent": 0.6055167829843802,
+        "top_1_percent": 0.17879694250581588,
+        "score": 0.4808838189753999,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Seraphine",
+        "TFT16_Malzahar",
+        "TFT16_Thresh"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_CappaJuice",
+      "name": "Cappa Juice",
+      "name_es": "Zumito de la risa",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_CappaJuice.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft16_artifact_kappajuice.tft_set16.png",
+      "stats": {
+        "nb_games": 685,
+        "pick_rate": 0.0017326980942828486,
+        "avg_placement": 4.244573082489146,
+        "top_4_percent": 0.5499276410998553,
+        "top_1_percent": 0.15340086830680175,
+        "score": 0.0,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Vayne",
+        "TFT16_Jinx",
+        "TFT16_Kaisa"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_Dawncore",
+      "name": "Dawncore",
+      "name_es": "Corazón del alba",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_Dawncore.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_dawncore.tft_set15.png",
+      "stats": {
+        "nb_games": 3409,
+        "pick_rate": 0.008921765295887663,
+        "avg_placement": 3.9521424596549806,
+        "top_4_percent": 0.5965498052309405,
+        "top_1_percent": 0.18196994991652754,
+        "score": 0.6080721806148798,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Seraphine",
+        "TFT16_Ahri",
+        "TFT16_Malzahar"
+      ]
+    },
+    {
+      "apiName": "TFT4_Item_OrnnDeathsDefiance",
+      "name": "Death's Defiance",
+      "name_es": "Desafío de la muerte",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT4_Item_OrnnDeathsDefiance.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft4_item_ornndeathsdefiance.tft_set13.png",
+      "stats": {
+        "nb_games": 2873,
+        "pick_rate": 0.007449849548645937,
+        "avg_placement": 3.6539491298527444,
+        "top_4_percent": 0.6516064257028112,
+        "top_1_percent": 0.21151271753681392,
+        "score": 0.6494482975335979,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Warwick",
+        "TFT16_Ornn",
+        "TFT16_Shyvana"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_EternalPact",
+      "name": "Eternal Pact",
+      "name_es": "Pacto eterno",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_EternalPact.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft16_artifact_eternalpact.tft_set16.png",
+      "stats": {
+        "nb_games": 2464,
+        "pick_rate": 0.006321464393179539,
+        "avg_placement": 3.8332022029897717,
+        "top_4_percent": 0.6188040912667191,
+        "top_1_percent": 0.2006294256490952,
+        "score": 0.5194889553230887,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Ornn",
+        "TFT16_Seraphine",
+        "TFT16_Fiddlesticks"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_Fishbones",
+      "name": "Fishbones",
+      "name_es": "Espinas",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_Fishbones.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_fishbones.tft_set13.png",
+      "stats": {
+        "nb_games": 2623,
+        "pick_rate": 0.006795386158475426,
+        "avg_placement": 3.6242201834862384,
+        "top_4_percent": 0.6568807339449542,
+        "top_1_percent": 0.20733944954128442,
+        "score": 0.5726358196300869,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Jinx",
+        "TFT16_Kalista",
+        "TFT16_Vayne"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_NavoriFlickerblades",
+      "name": "Flickerblades",
+      "name_es": "Filofugaz",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_NavoriFlickerblades.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_navoriflickerplade.tft_tft14_5.png",
+      "stats": {
+        "nb_games": 3845,
+        "pick_rate": 0.010060180541624875,
+        "avg_placement": 3.941711756025578,
+        "top_4_percent": 0.602803738317757,
+        "top_1_percent": 0.17289719626168223,
+        "score": 0.6493595300517553,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Jinx",
+        "TFT16_Vayne",
+        "TFT16_Kaisa"
+      ]
+    },
+    {
+      "apiName": "TFT7_Item_ShimmerscaleGamblersBlade",
+      "name": "Gambler's Blade",
+      "name_es": "Espada del apostador",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT7_Item_ShimmerscaleGamblersBlade.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft7_item_shimmerscalegamblersblade.tft_set13.png",
+      "stats": {
+        "nb_games": 2262,
+        "pick_rate": 0.006171013039117352,
+        "avg_placement": 4.166666666666667,
+        "top_4_percent": 0.5693430656934306,
+        "top_1_percent": 0.15125709651257097,
+        "score": 0.2802445887259333,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Jinx",
+        "TFT16_Draven",
+        "TFT16_Vayne"
+      ]
+    },
+    {
+      "apiName": "TFT4_Item_OrnnTheCollector",
+      "name": "Gold Collector",
+      "name_es": "Coleccionista de oro",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT4_Item_OrnnTheCollector.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft4_item_ornnthecollector.tft_set13.png",
+      "stats": {
+        "nb_games": 2736,
+        "pick_rate": 0.007021063189568706,
+        "avg_placement": 3.5440084835630965,
+        "top_4_percent": 0.6800989749027925,
+        "top_1_percent": 0.23153057617532696,
+        "score": 0.7235955829202456,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Kalista",
+        "TFT16_Kaisa",
+        "TFT16_MissFortune"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_HellfireHatchet",
+      "name": "Hellfire Hatchet",
+      "name_es": "Hacha infernal",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_HellfireHatchet.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_hellfirehatchet.tft_set16.png",
+      "stats": {
+        "nb_games": 2427,
+        "pick_rate": 0.006253761283851554,
+        "avg_placement": 3.6713286713286712,
+        "top_4_percent": 0.6398601398601399,
+        "top_1_percent": 0.22144522144522144,
+        "score": 0.5345732214428365,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Ornn",
+        "TFT16_Volibear",
+        "TFT16_Warwick"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_HorizonFocus",
+      "name": "Horizon Focus",
+      "name_es": "Precisión infalible",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_HorizonFocus.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_horizonfocus.tft_set13.png",
+      "stats": {
+        "nb_games": 2251,
+        "pick_rate": 0.005794884653961886,
+        "avg_placement": 3.680650684931507,
+        "top_4_percent": 0.6399828767123288,
+        "top_1_percent": 0.21618150684931506,
+        "score": 0.49810555623115854,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Swain",
+        "TFT16_Ornn",
+        "TFT16_Fiddlesticks"
+      ]
+    },
+    {
+      "apiName": "TFT9_Item_OrnnHullbreaker",
+      "name": "Hullcrusher",
+      "name_es": "Aplastacráneos",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT9_Item_OrnnHullbreaker.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/ornn_items/tft9_ornnitem_hullbreaker.png",
+      "stats": {
+        "nb_games": 2789,
+        "pick_rate": 0.007221664994984955,
+        "avg_placement": 3.749054657958061,
+        "top_4_percent": 0.6280508765898934,
+        "top_1_percent": 0.21450670333447922,
+        "score": 0.6529251610545268,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Ornn",
+        "TFT16_Garen",
+        "TFT16_Shyvana"
+      ]
+    },
+    {
+      "apiName": "TFT4_Item_OrnnInfinityForce",
+      "name": "Infinity Force",
+      "name_es": "Fuerza del infinito",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT4_Item_OrnnInfinityForce.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft4_item_ornninfinityforce.tft_set13.png",
+      "stats": {
+        "nb_games": 4460,
+        "pick_rate": 0.011755265797392176,
+        "avg_placement": 3.825875897002955,
+        "top_4_percent": 0.6205149852258337,
+        "top_1_percent": 0.1948079358379063,
+        "score": 1.0,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Ornn",
+        "TFT16_Warwick",
+        "TFT16_Yone"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_LichBane",
+      "name": "Lich Bane",
+      "name_es": "Perdición del liche",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_LichBane.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/particles/tft/item_icons/ornn_items/tft_item_artifact_lichbane.png",
+      "stats": {
+        "nb_games": 2860,
+        "pick_rate": 0.007424774322968907,
+        "avg_placement": 3.728853226345704,
+        "top_4_percent": 0.632230023403544,
+        "top_1_percent": 0.21430959545302575,
+        "score": 0.7056816818620331,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Seraphine",
+        "TFT16_Ahri",
+        "TFT16_Sylas"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_LightshieldCrest",
+      "name": "Lightshield Crest",
+      "name_es": "Blasón de Escudo de luz",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_LightshieldCrest.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_lightshieldcrest.tft_set13.png",
+      "stats": {
+        "nb_games": 3504,
+        "pick_rate": 0.009180040120361083,
+        "avg_placement": 3.7035445757250267,
+        "top_4_percent": 0.6372180451127819,
+        "top_1_percent": 0.22126745435016112,
+        "score": 0.9378694923403975,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Ornn",
+        "TFT16_Braum",
+        "TFT16_Garen"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_LudensTempest",
+      "name": "Luden's Tempest",
+      "name_es": "Tempestad de Luden",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_LudensTempest.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_ludenstempest.tft_set13.png",
+      "stats": {
+        "nb_games": 2828,
+        "pick_rate": 0.007316950852557673,
+        "avg_placement": 3.894701086956522,
+        "top_4_percent": 0.6097146739130435,
+        "top_1_percent": 0.1800271739130435,
+        "score": 0.45401723405098804,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Seraphine",
+        "TFT16_Lissandra",
+        "TFT16_Lux"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_Mittens",
+      "name": "Mittens",
+      "name_es": "Mitones",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_Mittens.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_mittens.tft_set13.png",
+      "stats": {
+        "nb_games": 2637,
+        "pick_rate": 0.006805416248746239,
+        "avg_placement": 3.7425018288222387,
+        "top_4_percent": 0.6346013167520117,
+        "top_1_percent": 0.20958302852962693,
+        "score": 0.6011872445914966,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Ornn",
+        "TFT16_Yone",
+        "TFT16_Volibear"
+      ]
+    },
+    {
+      "apiName": "TFT7_Item_ShimmerscaleMogulsMail",
+      "name": "Mogul's Mail",
+      "name_es": "Malla de magnate",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT7_Item_ShimmerscaleMogulsMail.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft7_item_shimmerscalemogulsmail.tft_set13.png",
+      "stats": {
+        "nb_games": 3752,
+        "pick_rate": 0.010180541624874624,
+        "avg_placement": 4.254100367197062,
+        "top_4_percent": 0.5392900856793146,
+        "top_1_percent": 0.1525091799265606,
+        "score": 0.5690467579598062,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Garen",
+        "TFT16_Leona",
+        "TFT16_Wukong"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_ProwlersClaw",
+      "name": "Prowler's Claw",
+      "name_es": "Garra de merodeador",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_ProwlersClaw.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_prowlersclaw.tft_set13.png",
+      "stats": {
+        "nb_games": 2141,
+        "pick_rate": 0.005486459378134403,
+        "avg_placement": 3.759183673469388,
+        "top_4_percent": 0.6317460317460317,
+        "top_1_percent": 0.2036281179138322,
+        "score": 0.42820136065959785,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Ornn",
+        "TFT16_Ambessa",
+        "TFT16_Warwick"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_RapidFirecannon",
+      "name": "Rapid Firecannon",
+      "name_es": "Cañón de fuego rápido",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_RapidFirecannon.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_rapidfirecannon.tft_set13.png",
+      "stats": {
+        "nb_games": 2647,
+        "pick_rate": 0.0068480441323971915,
+        "avg_placement": 3.8268115942028986,
+        "top_4_percent": 0.6275362318840579,
+        "top_1_percent": 0.1786231884057971,
+        "score": 0.44746133944202315,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Vayne",
+        "TFT16_Warwick",
+        "TFT16_Kindred"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_SeekersArmguard",
+      "name": "Seeker's Armguard",
+      "name_es": "Brazalete de la buscadora",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_SeekersArmguard.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_seekersarmguard.tft_set13.png",
+      "stats": {
+        "nb_games": 2935,
+        "pick_rate": 0.007582748244734203,
+        "avg_placement": 3.850785340314136,
+        "top_4_percent": 0.6109293193717278,
+        "top_1_percent": 0.19993455497382198,
+        "score": 0.5947561369565966,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Thresh",
+        "TFT16_Ornn",
+        "TFT16_Sylas"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_SilvermereDawn",
+      "name": "Silvermere Dawn",
+      "name_es": "Amanecer de Meraplata",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_SilvermereDawn.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_silvermeredawn.tft_set13.png",
+      "stats": {
+        "nb_games": 2653,
+        "pick_rate": 0.006908224674022067,
+        "avg_placement": 3.630994989262706,
+        "top_4_percent": 0.6546170365068003,
+        "top_1_percent": 0.23120973514674303,
+        "score": 0.7351406258520068,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Ornn",
+        "TFT16_Darius",
+        "TFT16_Shyvana"
+      ]
+    },
+    {
+      "apiName": "TFT9_Item_OrnnHorizonFocus",
+      "name": "Sniper's Focus",
+      "name_es": "Concentración de francotirador",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT9_Item_OrnnHorizonFocus.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft9_item_ornnhorizonfocus.tft_set13.png",
+      "stats": {
+        "nb_games": 2947,
+        "pick_rate": 0.007680541624874624,
+        "avg_placement": 3.7669148591777275,
+        "top_4_percent": 0.6413078666235027,
+        "top_1_percent": 0.19164778245386857,
+        "score": 0.5551871784596392,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Kalista",
+        "TFT16_Kaisa",
+        "TFT16_Lucian"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_StatikkShiv",
+      "name": "Statikk Shiv",
+      "name_es": "Puñal de Statikk",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_StatikkShiv.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_stattikshiv.tft_tft14_5.png",
+      "stats": {
+        "nb_games": 2632,
+        "pick_rate": 0.006797893681043129,
+        "avg_placement": 3.8075237399561725,
+        "top_4_percent": 0.62490869247626,
+        "top_1_percent": 0.20051132213294376,
+        "score": 0.5445641169369454,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Kaisa",
+        "TFT16_Seraphine",
+        "TFT16_Ornn"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_TalismanOfAscension",
+      "name": "Talisman Of Ascension",
+      "name_es": "Emblema de la ascensión",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_TalismanOfAscension.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_talismanofascension.tft_set13.png",
+      "stats": {
+        "nb_games": 2865,
+        "pick_rate": 0.007409729187562688,
+        "avg_placement": 3.7945113788487284,
+        "top_4_percent": 0.6278447121820616,
+        "top_1_percent": 0.19511378848728247,
+        "score": 0.548183577815484,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Ornn",
+        "TFT16_Thresh",
+        "TFT16_Sion"
+      ]
+    },
+    {
+      "apiName": "TFT16_TheDarkinAegis",
+      "name": "The Darkin Aegis",
+      "name_es": "Égida de los Oscuros",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_TheDarkinAegis.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft16_thedarkinaegis.tft_set16.png",
+      "stats": {
+        "nb_games": 4042,
+        "pick_rate": 0.010659478435305918,
+        "avg_placement": 4.041159962581852,
+        "top_4_percent": 0.5869971936389149,
+        "top_1_percent": 0.17305893358278765,
+        "score": 0.7172993496373858,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Ornn",
+        "TFT16_Sion",
+        "TFT16_Braum"
+      ]
+    },
+    {
+      "apiName": "TFT16_TheDarkinBow",
+      "name": "The Darkin Bow",
+      "name_es": "Arco de los Oscuros",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_TheDarkinBow.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft16_thedarkinbow.tft_set16.png",
+      "stats": {
+        "nb_games": 3623,
+        "pick_rate": 0.009501003009027082,
+        "avg_placement": 3.9340514976353127,
+        "top_4_percent": 0.6074619022595901,
+        "top_1_percent": 0.1673673147661587,
+        "score": 0.5720499302179011,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Vayne",
+        "TFT16_Jinx",
+        "TFT16_Kindred"
+      ]
+    },
+    {
+      "apiName": "TFT16_TheDarkinScythe",
+      "name": "The Darkin Scythe",
+      "name_es": "Guadaña de los Oscuros",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_TheDarkinScythe.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft16_thedarkinscythe.tft_set16.png",
+      "stats": {
+        "nb_games": 2989,
+        "pick_rate": 0.007703109327983952,
+        "avg_placement": 4.0239482200647245,
+        "top_4_percent": 0.5977346278317152,
+        "top_1_percent": 0.15080906148867315,
+        "score": 0.38862059264403875,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Yone",
+        "TFT16_Ornn",
+        "TFT16_Ambessa"
+      ]
+    },
+    {
+      "apiName": "TFT16_TheDarkinStaff",
+      "name": "The Darkin Staff",
+      "name_es": "Vara de los Oscuros",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT16_TheDarkinStaff.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft16_thedarkinstaff.tft_set16.png",
+      "stats": {
+        "nb_games": 4142,
+        "pick_rate": 0.010945336008024073,
+        "avg_placement": 3.880191693290735,
+        "top_4_percent": 0.6077133728890918,
+        "top_1_percent": 0.1827932450935646,
+        "score": 0.75535889848908,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Leblanc",
+        "TFT16_Ahri",
+        "TFT16_Seraphine"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_TheIndomitable",
+      "name": "The Indomitable",
+      "name_es": "Indomable",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_TheIndomitable.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_theindomitable.tft_tft14_5.png",
+      "stats": {
+        "nb_games": 3706,
+        "pick_rate": 0.009719157472417252,
+        "avg_placement": 3.786206896551724,
+        "top_4_percent": 0.6357598978288633,
+        "top_1_percent": 0.19693486590038314,
+        "score": 0.7615721938649164,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Ornn",
+        "TFT16_Braum",
+        "TFT16_Garen"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_TitanicHydra",
+      "name": "Titanic Hydra",
+      "name_es": "Hidra titánica",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_TitanicHydra.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_titanichydra.tft_tft14_5.png",
+      "stats": {
+        "nb_games": 1009,
+        "pick_rate": 0.0025651955867602807,
+        "avg_placement": 3.941013824884793,
+        "top_4_percent": 0.5852534562211982,
+        "top_1_percent": 0.21566820276497695,
+        "score": 0.13506123338024992,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Volibear",
+        "TFT16_Warwick",
+        "TFT16_Ornn"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_VoidGauntlet",
+      "name": "Void Gauntlet",
+      "name_es": "Guantelete del Vacío",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_VoidGauntlet.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft16_artifact_voidgauntlet.tft_set16.png",
+      "stats": {
+        "nb_games": 2878,
+        "pick_rate": 0.00746740220661986,
+        "avg_placement": 3.6740642596886386,
+        "top_4_percent": 0.6419344153693276,
+        "top_1_percent": 0.2361709175223584,
+        "score": 0.8048328900817636,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Ornn",
+        "TFT16_Braum",
+        "TFT16_Swain"
+      ]
+    },
+    {
+      "apiName": "TFT_Item_Artifact_WitsEnd",
+      "name": "Wit's End",
+      "name_es": "Final del ingenio",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT_Item_Artifact_WitsEnd.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_witsend.tft_set13.png",
+      "stats": {
+        "nb_games": 2648,
+        "pick_rate": 0.006812938816449348,
+        "avg_placement": 3.6728597449908924,
+        "top_4_percent": 0.6491803278688525,
+        "top_1_percent": 0.21602914389799635,
+        "score": 0.6615910893773226,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Thresh",
+        "TFT16_Ornn",
+        "TFT16_Sylas"
+      ]
+    },
+    {
+      "apiName": "TFT4_Item_OrnnZhonyasParadox",
+      "name": "Zhonya's Paradox",
+      "name_es": "Paradoja de Zhonya",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT4_Item_OrnnZhonyasParadox.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft4_item_ornnzhonyasparadox.tft_set13.png",
+      "stats": {
+        "nb_games": 2647,
+        "pick_rate": 0.006850551654964895,
+        "avg_placement": 3.5809248554913293,
+        "top_4_percent": 0.6701589595375722,
+        "top_1_percent": 0.22471098265895953,
+        "score": 0.6452942434972202,
+        "craftable": false,
+        "item_type": "ornn"
+      },
+      "top_users": [
+        "TFT16_Thresh",
+        "TFT16_Ornn",
+        "TFT16_Sylas"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_AdaptiveHelmRadiant",
+      "name": "Radiant Adaptive Helm",
+      "name_es": "Yelmo adaptable radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_AdaptiveHelmRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_adaptivehelmradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 684,
+        "pick_rate": 0.0017377131394182548,
+        "avg_placement": 4.1568345323741,
+        "top_4_percent": 0.5553956834532374,
+        "top_1_percent": 0.19136690647482013,
+        "score": 0.2041212010414681,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Darius",
+        "TFT16_Mel",
+        "TFT16_Annie"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_ArchangelsStaffRadiant",
+      "name": "Radiant Archangel's Staff",
+      "name_es": "Bastón del arcángel radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_ArchangelsStaffRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_archangelsstaffradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 619,
+        "pick_rate": 0.0015646940822467402,
+        "avg_placement": 3.858730158730159,
+        "top_4_percent": 0.6253968253968254,
+        "top_1_percent": 0.2126984126984127,
+        "score": 0.29555073654083747,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Mel",
+        "TFT16_Bard",
+        "TFT16_Lux"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_BloodthirsterRadiant",
+      "name": "Radiant Bloodthirster",
+      "name_es": "Sanguinaria radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_BloodthirsterRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_bloodthirsterradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 863,
+        "pick_rate": 0.0021765295887662987,
+        "avg_placement": 3.8,
+        "top_4_percent": 0.6091954022988506,
+        "top_1_percent": 0.23218390804597702,
+        "score": 0.6631718719295607,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Brock",
+        "TFT16_Yone",
+        "TFT16_Warwick"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_BlueBuffRadiant",
+      "name": "Radiant Blue Buff",
+      "name_es": "Mejora azul radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_BlueBuffRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_bluebuffradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 823,
+        "pick_rate": 0.002111334002006018,
+        "avg_placement": 3.9087677725118484,
+        "top_4_percent": 0.5971563981042654,
+        "top_1_percent": 0.19194312796208532,
+        "score": 0.2379509002817171,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Mel",
+        "TFT16_Annie",
+        "TFT16_Veigar"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_BrambleVestRadiant",
+      "name": "Radiant Bramble Vest",
+      "name_es": "Chaleco de zarzas radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_BrambleVestRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_bramblevestradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 735,
+        "pick_rate": 0.0018706118355065195,
+        "avg_placement": 3.8970588235294117,
+        "top_4_percent": 0.6149732620320856,
+        "top_1_percent": 0.18716577540106952,
+        "score": 0.20750010617456505,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Garen",
+        "TFT16_Swain",
+        "TFT16_Leona"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_CrownguardRadiant",
+      "name": "Radiant Crownguard",
+      "name_es": "Regiaguardia radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_CrownguardRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_crownguardradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 226,
+        "pick_rate": 0.0005692076228686058,
+        "avg_placement": 2.9210526315789473,
+        "top_4_percent": 0.7894736842105263,
+        "top_1_percent": 0.32894736842105265,
+        "score": 0.3716868989316992,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Sylas",
+        "TFT16_Swain",
+        "TFT16_Taric"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_DeathbladeRadiant",
+      "name": "Radiant Deathblade",
+      "name_es": "Filo mortal radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_DeathbladeRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_deathbladeradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 620,
+        "pick_rate": 0.0015747241725175528,
+        "avg_placement": 3.464968152866242,
+        "top_4_percent": 0.6990445859872612,
+        "top_1_percent": 0.25,
+        "score": 0.7123538750180524,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Vayne",
+        "TFT16_Jinx",
+        "TFT16_Kalista"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_DragonsClawRadiant",
+      "name": "Radiant Dragon's Claw",
+      "name_es": "Garra de dragón radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_DragonsClawRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_dragonsclawradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 956,
+        "pick_rate": 0.0024699097291875625,
+        "avg_placement": 4.216380182002022,
+        "top_4_percent": 0.5530839231547017,
+        "top_1_percent": 0.1506572295247725,
+        "score": 0.0,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Garen",
+        "TFT16_Leona",
+        "TFT16_Braum"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_GuardianAngelRadiant",
+      "name": "Radiant Edge of Night",
+      "name_es": "Filo de la noche radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_GuardianAngelRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_guardianangelradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 427,
+        "pick_rate": 0.001078234704112337,
+        "avg_placement": 3.5416666666666665,
+        "top_4_percent": 0.6712962962962963,
+        "top_1_percent": 0.27546296296296297,
+        "score": 0.15766563817189844,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Thresh",
+        "TFT16_Sylas",
+        "TFT16_Brock"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_SpectralGauntletRadiant",
+      "name": "Radiant Evenshroud",
+      "name_es": "Mortaja de la quietud radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_SpectralGauntletRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_spectralgauntletradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 339,
+        "pick_rate": 0.0008550651955867602,
+        "avg_placement": 3.4926686217008798,
+        "top_4_percent": 0.6891495601173021,
+        "top_1_percent": 0.2668621700879765,
+        "score": 0.14830309578543766,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Swain",
+        "TFT16_Wukong",
+        "TFT16_Garen"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_GargoyleStoneplateRadiant",
+      "name": "Radiant Gargoyle Stoneplate",
+      "name_es": "Protector pétreo de gárgola radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_GargoyleStoneplateRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_gargoylestoneplateradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 813,
+        "pick_rate": 0.0020787362086258777,
+        "avg_placement": 3.9110576923076925,
+        "top_4_percent": 0.6057692307692307,
+        "top_1_percent": 0.1935096153846154,
+        "score": 0.345384875265289,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Leona",
+        "TFT16_Swain",
+        "TFT16_Garen"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_GiantSlayerRadiant",
+      "name": "Radiant Giant Slayer",
+      "name_es": "Verdugo de gigantes radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_GiantSlayerRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_giantslayerradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 693,
+        "pick_rate": 0.0017577733199598796,
+        "avg_placement": 3.5142450142450143,
+        "top_4_percent": 0.6723646723646723,
+        "top_1_percent": 0.2378917378917379,
+        "score": 0.738294171468473,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Jinx",
+        "TFT16_Kaisa",
+        "TFT16_Brock"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_GuinsoosRagebladeRadiant",
+      "name": "Radiant Guinsoo's Rageblade",
+      "name_es": "Hoja de furia de Guinsoo radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_GuinsoosRagebladeRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_guinsoosragebladeradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 1209,
+        "pick_rate": 0.0031093279839518556,
+        "avg_placement": 4.047504025764895,
+        "top_4_percent": 0.5853462157809984,
+        "top_1_percent": 0.17310789049919484,
+        "score": 0.37501348251974576,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Jinx",
+        "TFT16_Kaisa",
+        "TFT16_Vayne"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_HandOfJusticeRadiant",
+      "name": "Radiant Hand of Justice",
+      "name_es": "Mano de la justicia radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_HandOfJusticeRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_handofjusticeradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 660,
+        "pick_rate": 0.0016675025075225678,
+        "avg_placement": 3.9323308270676693,
+        "top_4_percent": 0.5969924812030075,
+        "top_1_percent": 0.22556390977443608,
+        "score": 0.47568373896115934,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Brock",
+        "TFT16_Sylas",
+        "TFT16_Nidalee"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_HextechGunbladeRadiant",
+      "name": "Radiant Hextech Gunblade",
+      "name_es": "Sable-pistola hextech radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_HextechGunbladeRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_hextechgunbladeradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 948,
+        "pick_rate": 0.002434804413239719,
+        "avg_placement": 3.7075180226570548,
+        "top_4_percent": 0.6426364572605562,
+        "top_1_percent": 0.223480947476828,
+        "score": 0.6904806470342956,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Vayne",
+        "TFT16_Zoe",
+        "TFT16_Sylas"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_InfinityEdgeRadiant",
+      "name": "Radiant Infinity Edge",
+      "name_es": "Filo infinito radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_InfinityEdgeRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_infinityedgeradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 941,
+        "pick_rate": 0.0024197592778335006,
+        "avg_placement": 3.6831785345717236,
+        "top_4_percent": 0.6377708978328174,
+        "top_1_percent": 0.24251805985552116,
+        "score": 0.7981812117050947,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Kaisa",
+        "TFT16_Brock",
+        "TFT16_MissFortune"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_IonicSparkRadiant",
+      "name": "Radiant Ionic Spark",
+      "name_es": "Chispa iónica radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_IonicSparkRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_ionicsparkradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 428,
+        "pick_rate": 0.001075727181544634,
+        "avg_placement": 3.73953488372093,
+        "top_4_percent": 0.641860465116279,
+        "top_1_percent": 0.22790697674418606,
+        "score": 0.058750303227784406,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Thresh",
+        "TFT16_Swain",
+        "TFT16_Kennen"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_JeweledGauntletRadiant",
+      "name": "Radiant Jeweled Gauntlet",
+      "name_es": "Guantelete enjoyado radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_JeweledGauntletRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_jeweledgauntletradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 1337,
+        "pick_rate": 0.0034754262788365096,
+        "avg_placement": 4.026428571428571,
+        "top_4_percent": 0.5807142857142857,
+        "top_1_percent": 0.20785714285714285,
+        "score": 0.6699536975932866,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Mel",
+        "TFT16_Malzahar",
+        "TFT16_Ahri"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_RunaansHurricaneRadiant",
+      "name": "Radiant Kraken's Fury",
+      "name_es": "Furia del kraken radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_RunaansHurricaneRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_krakenslayerradiant.tft_tft14_5.png",
+      "stats": {
+        "nb_games": 921,
+        "pick_rate": 0.002362086258776329,
+        "avg_placement": 3.731991525423729,
+        "top_4_percent": 0.6419491525423728,
+        "top_1_percent": 0.20021186440677965,
+        "score": 0.2584589703878791,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Vayne",
+        "TFT16_Jinx",
+        "TFT16_Draven"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_LastWhisperRadiant",
+      "name": "Radiant Last Whisper",
+      "name_es": "Últimas palabras radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_LastWhisperRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_lastwhisperradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 612,
+        "pick_rate": 0.0015521564694082246,
+        "avg_placement": 3.5874799357945424,
+        "top_4_percent": 0.6565008025682183,
+        "top_1_percent": 0.21669341894060995,
+        "score": 0.24252149384880273,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Kaisa",
+        "TFT16_Jinx",
+        "TFT16_Kalista"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_MorellonomiconRadiant",
+      "name": "Radiant Morellonomicon",
+      "name_es": "Morellonomicón radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_MorellonomiconRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_morellonomiconradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 419,
+        "pick_rate": 0.0010506519558676028,
+        "avg_placement": 3.534441805225653,
+        "top_4_percent": 0.6508313539192399,
+        "top_1_percent": 0.2826603325415677,
+        "score": 0.15717978849806602,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Thresh",
+        "TFT16_Mel",
+        "TFT16_Ryze"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_LeviathanRadiant",
+      "name": "Radiant Nashor's Tooth",
+      "name_es": "Diente de Nashor radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_LeviathanRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_leviathanradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 1241,
+        "pick_rate": 0.0032171514543630894,
+        "avg_placement": 3.4972889233152595,
+        "top_4_percent": 0.6715724244771495,
+        "top_1_percent": 0.2525174283501162,
+        "score": 1.0,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Mel",
+        "TFT16_Malzahar",
+        "TFT16_Ahri"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_FrozenHeartRadiant",
+      "name": "Radiant Protector's Vow",
+      "name_es": "Promesa del protector radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_FrozenHeartRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_frozenheartradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 362,
+        "pick_rate": 0.0009127382146439318,
+        "avg_placement": 3.629120879120879,
+        "top_4_percent": 0.6456043956043956,
+        "top_1_percent": 0.27197802197802196,
+        "score": 0.0904469984597867,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Swain",
+        "TFT16_TahmKench",
+        "TFT16_Garen"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_QuicksilverRadiant",
+      "name": "Radiant Quicksilver",
+      "name_es": "Fajín radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_QuicksilverRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_quicksilverradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 348,
+        "pick_rate": 0.0008751253761283852,
+        "avg_placement": 3.56,
+        "top_4_percent": 0.6685714285714286,
+        "top_1_percent": 0.26285714285714284,
+        "score": 0.11863453625061965,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Sylas",
+        "TFT16_BelVeth",
+        "TFT16_Yone"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_RabadonsDeathcapRadiant",
+      "name": "Radiant Rabadon's Deathcap",
+      "name_es": "Sombrero mortal de Rabadon radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_RabadonsDeathcapRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_rabadonsdeathcapradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 765,
+        "pick_rate": 0.001955867602808425,
+        "avg_placement": 3.9221938775510203,
+        "top_4_percent": 0.5931122448979592,
+        "top_1_percent": 0.2002551020408163,
+        "score": 0.435565405988197,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Veigar",
+        "TFT16_Mel",
+        "TFT16_Sylas"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_RapidFirecannonRadiant",
+      "name": "Radiant Red Buff",
+      "name_es": "Mejora roja radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_RapidFirecannonRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_rapidfirecannonradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 371,
+        "pick_rate": 0.0009378134403209629,
+        "avg_placement": 3.448,
+        "top_4_percent": 0.696,
+        "top_1_percent": 0.2826666666666667,
+        "score": 0.18274206489290767,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Lucian",
+        "TFT16_Kaisa",
+        "TFT16_Jinx"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_SpearOfShojinRadiant",
+      "name": "Radiant Spear of Shojin",
+      "name_es": "Lanza de Shojin radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_SpearOfShojinRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_spearofshojinradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 1193,
+        "pick_rate": 0.0030641925777331997,
+        "avg_placement": 3.951954397394137,
+        "top_4_percent": 0.5912052117263844,
+        "top_1_percent": 0.21009771986970685,
+        "score": 0.6217379062658513,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Kaisa",
+        "TFT16_Mel",
+        "TFT16_Kalista"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_RedemptionRadiant",
+      "name": "Radiant Spirit Visage",
+      "name_es": "Rostro espiritual radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_RedemptionRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft_item_spiritvisagerr.tft_tft14_5.png",
+      "stats": {
+        "nb_games": 1201,
+        "pick_rate": 0.00309679037111334,
+        "avg_placement": 3.9749798224374495,
+        "top_4_percent": 0.6029055690072639,
+        "top_1_percent": 0.17433414043583534,
+        "score": 0.30318574361585965,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Garen",
+        "TFT16_Swain",
+        "TFT16_Leona"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_NightHarvesterRadiant",
+      "name": "Radiant Steadfast Heart",
+      "name_es": "Corazón resuelto radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_NightHarvesterRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_nightharvesterradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 544,
+        "pick_rate": 0.001374122367101304,
+        "avg_placement": 3.9635036496350367,
+        "top_4_percent": 0.6076642335766423,
+        "top_1_percent": 0.19160583941605838,
+        "score": 0.09395766031560723,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Swain",
+        "TFT16_Garen",
+        "TFT16_Leona"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_SteraksGageRadiant",
+      "name": "Radiant Sterak's Gage",
+      "name_es": "Calibrador de Sterak radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_SteraksGageRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_steraksgageradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 634,
+        "pick_rate": 0.001607321965897693,
+        "avg_placement": 3.6702954898911355,
+        "top_4_percent": 0.6391912908242613,
+        "top_1_percent": 0.2737169517884914,
+        "score": 0.6598204144057536,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Brock",
+        "TFT16_Darius",
+        "TFT16_Warwick"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_TrapClawRadiant",
+      "name": "Radiant Striker's Flail",
+      "name_es": "Mangual del guerrero radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_TrapClawRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_trapclawradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 670,
+        "pick_rate": 0.001720160481444333,
+        "avg_placement": 3.737609329446064,
+        "top_4_percent": 0.6370262390670554,
+        "top_1_percent": 0.2099125364431487,
+        "score": 0.3642180234696188,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Kalista",
+        "TFT16_Kaisa",
+        "TFT16_Mel"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_SunfireCapeRadiant",
+      "name": "Radiant Sunfire Cape",
+      "name_es": "Capa de fuego solar radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_SunfireCapeRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_sunfirecaperadiant.tft_set13.png",
+      "stats": {
+        "nb_games": 650,
+        "pick_rate": 0.0016649949849548646,
+        "avg_placement": 3.9548192771084336,
+        "top_4_percent": 0.6009036144578314,
+        "top_1_percent": 0.18674698795180722,
+        "score": 0.13937368623584223,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Garen",
+        "TFT16_Swain",
+        "TFT16_Kennen"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_ThiefsGlovesRadiant",
+      "name": "Radiant Thief's Gloves",
+      "name_es": "Guantes de ladrón radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_ThiefsGlovesRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_thiefsglovesradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 4863,
+        "pick_rate": 0.015664493480441324,
+        "avg_placement": 4.183909869882577,
+        "top_4_percent": 0.5509362107267534,
+        "top_1_percent": 0.15423675023801967,
+        "score": 0.6896479282040876,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Swain",
+        "TFT16_Sylas",
+        "TFT16_Shyvana"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_TitansResolveRadiant",
+      "name": "Radiant Titan's Resolve",
+      "name_es": "Resolución titánica radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_TitansResolveRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_titansresolveradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 804,
+        "pick_rate": 0.002043630892678034,
+        "avg_placement": 3.8812729498164016,
+        "top_4_percent": 0.6156670746634026,
+        "top_1_percent": 0.21664626682986537,
+        "score": 0.5773038849847342,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Yone",
+        "TFT16_Darius",
+        "TFT16_Warwick"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_StatikkShivRadiant",
+      "name": "Radiant Void Staff",
+      "name_es": "Bastón del Vacío radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_StatikkShivRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_statikkshivradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 668,
+        "pick_rate": 0.0017051153460381143,
+        "avg_placement": 3.834067547723935,
+        "top_4_percent": 0.5976505139500734,
+        "top_1_percent": 0.23348017621145375,
+        "score": 0.5555836408670956,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Mel",
+        "TFT16_Annie",
+        "TFT16_Leblanc"
+      ]
+    },
+    {
+      "apiName": "TFT5_Item_WarmogsArmorRadiant",
+      "name": "Radiant Warmog's Armor",
+      "name_es": "Armadura de Warmog radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/items/set16/TFT5_Item_WarmogsArmorRadiant.webp",
+      "iconUrlCDragon": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/items/hexcore/tft5_item_warmogsarmorradiant.tft_set13.png",
+      "stats": {
+        "nb_games": 1136,
+        "pick_rate": 0.0029287863590772316,
+        "avg_placement": 4.173469387755102,
+        "top_4_percent": 0.548469387755102,
+        "top_1_percent": 0.16666666666666666,
+        "score": 0.17034539732411663,
+        "craftable": false,
+        "item_type": "radiant"
+      },
+      "top_users": [
+        "TFT16_Garen",
+        "TFT16_Swain",
+        "TFT16_Leona"
+      ]
+    }
+  ]
+}

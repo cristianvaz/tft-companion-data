@@ -1,0 +1,5357 @@
+{
+  "source": "Blitz 16.6 + CDragon",
+  "patch": "16.6",
+  "scraped_at": "2026-03-23T22:22:33.005748+00:00",
+  "augments": [
+    {
+      "apiName": "TFT16_Augment_AirAxiom",
+      "name": "Air Axiom",
+      "name_es": "Axioma aéreo",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/airaxiom_i.tft_set16.png",
+      "stats": {
+        "nb_games": 763,
+        "top_users": [
+          "TFT16_TahmKench",
+          "TFT16_MissFortune",
+          "TFT16_DrMundo",
+          "TFT16_Ashe"
+        ],
+        "top_comps": [
+          61,
+          9,
+          18
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_Commander_Ascension",
+      "name": "Ascension",
+      "name_es": "Ascensión",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/ascension2.png",
+      "stats": {
+        "nb_games": 1729,
+        "top_users": [
+          "TFT16_Aatrox",
+          "TFT16_Lux",
+          "TFT16_MissFortune",
+          "TFT16_DrMundo"
+        ],
+        "top_comps": [
+          13,
+          67,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_PowerUp",
+      "name": "Augmented Power",
+      "name_es": "Poder mejorado",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/powerup_i.tft_set13.png",
+      "stats": {
+        "nb_games": 914,
+        "top_users": [
+          "TFT16_Annie",
+          "TFT16_AnnieTibbers",
+          "TFT16_BelVeth",
+          "TFT16_Sett"
+        ],
+        "top_comps": [
+          33,
+          68,
+          50
+        ]
+      }
+    },
+    {
+      "apiName": "TFT7_Augment_BandOfThieves1",
+      "name": "Band of Thieves",
+      "name_es": "Panda de ladrones",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/bandthieves1.png",
+      "stats": {
+        "nb_games": 724,
+        "top_users": [
+          "TFT16_Yasuo",
+          "TFT16_Briar",
+          "TFT16_Yone",
+          "TFT16_Darius"
+        ],
+        "top_comps": [
+          63,
+          68,
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_BigGrabBag",
+      "name": "Big Grab Bag",
+      "name_es": "Bolsa sorpresa grande",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/grab-bag-ii.png",
+      "stats": {
+        "nb_games": 2279,
+        "top_users": [
+          "TFT16_Bard",
+          "TFT16_RekSai",
+          "TFT16_Ashe",
+          "TFT16_Anivia"
+        ],
+        "top_comps": [
+          33,
+          66,
+          36
+        ]
+      }
+    },
+    {
+      "apiName": "TFT11_Augment_Calltochaos",
+      "name": "Call to Chaos",
+      "name_es": "Llamada al caos",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/calltochaos_iii.png",
+      "stats": {
+        "nb_games": 1338,
+        "top_users": [
+          "TFT16_Jinx",
+          "TFT16_Gwen",
+          "TFT16_Kalista",
+          "TFT16_Yorick"
+        ],
+        "top_comps": [
+          15,
+          67,
+          61
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_CelestialBlessing2",
+      "name": "Celestial Blessing II",
+      "name_es": "Gracia celestial II",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/celestialblessing2.png",
+      "stats": {
+        "nb_games": 875,
+        "top_users": [
+          "TFT16_Draven",
+          "TFT16_Leblanc",
+          "TFT16_Kindred",
+          "TFT16_Ambessa"
+        ],
+        "top_comps": [
+          5,
+          53,
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_TradeSector2",
+      "name": "Commerce Core",
+      "name_es": "Núcleo comercial",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/trade3.png",
+      "stats": {
+        "nb_games": 1059,
+        "top_users": [
+          "TFT16_Ahri",
+          "TFT16_Briar",
+          "TFT16_Leblanc",
+          "TFT16_Yasuo"
+        ],
+        "top_comps": [
+          15,
+          59,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_CustomerIsAlwaysRight",
+      "name": "Component Buffet",
+      "name_es": "Bufé de componentes",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/the-customer-is-always-right-i.png",
+      "stats": {
+        "nb_games": 632,
+        "top_users": [
+          "TFT16_Kindred",
+          "TFT16_Yasuo",
+          "TFT16_Shen",
+          "TFT16_Sejuani"
+        ],
+        "top_comps": [
+          61,
+          63,
+          65
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_Coronation",
+      "name": "Coronation",
+      "name_es": "Coronación",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/coronation_iii.tft_set13.png",
+      "stats": {
+        "nb_games": 1347,
+        "top_users": [
+          "TFT16_Aatrox",
+          "TFT16_TahmKench",
+          "TFT16_Fizz",
+          "TFT16_Teemo"
+        ],
+        "top_comps": [
+          15,
+          67,
+          59
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_CrownguardSpirit",
+      "name": "Crown's Will",
+      "name_es": "Voluntad de la corona",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/will-of-the-crown-ii.png",
+      "stats": {
+        "nb_games": 1277,
+        "top_users": [
+          "TFT16_Illaoi",
+          "TFT16_JarvanIV",
+          "TFT16_Bard",
+          "TFT16_Vayne"
+        ],
+        "top_comps": [
+          50,
+          9,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_TeamupAugment_JarvanShyvana",
+      "name": "Dragonguards",
+      "name_es": "Guardia de dragones",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/uncompromisingwill_iii.tft_set16.png",
+      "stats": {
+        "nb_games": 214,
+        "top_users": [
+          "TFT16_Lux",
+          "TFT16_Garen",
+          "TFT16_KogMaw",
+          "TFT16_JarvanIV"
+        ],
+        "top_comps": [
+          61,
+          65,
+          0
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_EarthAxiom",
+      "name": "Earth Axiom",
+      "name_es": "Axioma terrestre",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/earthaxiom_i.tft_set16.png",
+      "stats": {
+        "nb_games": 673,
+        "top_users": [
+          "TFT16_Kobuko",
+          "TFT16_JarvanIV",
+          "TFT16_Malzahar",
+          "TFT16_Vayne"
+        ],
+        "top_comps": [
+          4,
+          18,
+          53
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ExclusiveCustomization",
+      "name": "Exclusive Customization",
+      "name_es": "Hecho a medida",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/exclusivecustomization_ii.tft_set15.png",
+      "stats": {
+        "nb_games": 1771,
+        "top_users": [
+          "TFT16_Ambessa",
+          "TFT16_BelVeth",
+          "TFT16_Briar",
+          "TFT16_Leblanc"
+        ],
+        "top_comps": [
+          9,
+          44,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ExplosiveGrowthPlus",
+      "name": "Explosive Growth+",
+      "name_es": "Crecimiento explosivo+",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/explosivegrowth_ii.tft_set12.png",
+      "stats": {
+        "nb_games": 1228,
+        "top_users": [
+          "TFT16_AnnieTibbers",
+          "TFT16_Annie",
+          "TFT16_Veigar",
+          "TFT16_RiftHerald"
+        ],
+        "top_comps": [
+          67,
+          38,
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_FireAxiom",
+      "name": "Fire Axiom",
+      "name_es": "Axioma ígneo",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/fireaxiom_i.tft_set16.png",
+      "stats": {
+        "nb_games": 784,
+        "top_users": [
+          "TFT16_Rumble",
+          "TFT16_Teemo",
+          "TFT16_JarvanIV",
+          "TFT16_Ashe"
+        ],
+        "top_comps": [
+          5,
+          46,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_GrowthMindset",
+      "name": "Growth Mindset",
+      "name_es": "Apuesta por el crecimiento",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/growthmindset_iii.tft_set16.png",
+      "stats": {
+        "nb_games": 1173,
+        "top_users": [
+          "TFT16_TahmKench",
+          "TFT16_Orianna",
+          "TFT16_MissFortune",
+          "TFT16_Lux"
+        ],
+        "top_comps": [
+          61,
+          65,
+          26
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_HeroicGrabBagPlusPlus",
+      "name": "Heroic Grab Bag++",
+      "name_es": "Bolsa sorpresa heroica++",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/heroic-grab-bag-ii.png",
+      "stats": {
+        "nb_games": 1266,
+        "top_users": [
+          "TFT16_Tristana",
+          "TFT16_Ryze",
+          "TFT16_Sett",
+          "TFT16_Lulu"
+        ],
+        "top_comps": [
+          50,
+          13,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_InvestedPlusPlus",
+      "name": "Invested++",
+      "name_es": "Inversión++",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/invested-iii.png",
+      "stats": {
+        "nb_games": 1118,
+        "top_users": [
+          "TFT16_RiftHerald",
+          "TFT16_BelVeth",
+          "TFT16_Lissandra",
+          "TFT16_ChoGath"
+        ],
+        "top_comps": [
+          5,
+          59,
+          38
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_ItemGrabBag1",
+      "name": "Item Grab Bag",
+      "name_es": "Bolsa sorpresa de objetos",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/itemgrabbag1.png",
+      "stats": {
+        "nb_games": 839,
+        "top_users": [
+          "TFT16_Rumble",
+          "TFT16_Lucian",
+          "TFT16_Fizz",
+          "TFT16_Teemo"
+        ],
+        "top_comps": [
+          65,
+          63,
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_JeweledLotus",
+      "name": "Jeweled Lotus I",
+      "name_es": "Loto enjoyado I",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/jeweled-lotus-ii.png",
+      "stats": {
+        "nb_games": 1708,
+        "top_users": [
+          "TFT16_Gangplank",
+          "TFT16_Viego",
+          "TFT16_MissFortune",
+          "TFT16_Yunara"
+        ],
+        "top_comps": [
+          68,
+          65,
+          59
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_GreaterJeweledLotus",
+      "name": "Jeweled Lotus II",
+      "name_es": "Loto enjoyado II",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/jeweled-lotus-iii.png",
+      "stats": {
+        "nb_games": 1000,
+        "top_users": [
+          "TFT16_Yasuo",
+          "TFT16_Rumble",
+          "TFT16_Ziggs",
+          "TFT16_Sett"
+        ],
+        "top_comps": [
+          53,
+          13,
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_GuardbreakerSpirit",
+      "name": "Mace's Will",
+      "name_es": "Voluntad de la maza",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/will-of-the-flail-ii.png",
+      "stats": {
+        "nb_games": 1048,
+        "top_users": [
+          "TFT16_Leblanc",
+          "TFT16_Lissandra",
+          "TFT16_Sejuani",
+          "TFT16_Yasuo"
+        ],
+        "top_comps": [
+          13,
+          61,
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_MoneyMonsoon",
+      "name": "Money Monsoon",
+      "name_es": "Monzón de oro",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/moneymonsoon_iii.tft_set16.png",
+      "stats": {
+        "nb_games": 1215,
+        "top_users": [
+          "TFT16_ChoGath",
+          "TFT16_AnnieTibbers",
+          "TFT16_Mel",
+          "TFT16_Azir"
+        ],
+        "top_comps": [
+          24,
+          22,
+          44
+        ]
+      }
+    },
+    {
+      "apiName": "TFT7_Augment_PandorasBench",
+      "name": "Pandora's Bench",
+      "name_es": "Banquillo de Pandora",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/pandoras-bench-ii.png",
+      "stats": {
+        "nb_games": 1761,
+        "top_users": [
+          "TFT16_TahmKench",
+          "TFT16_Ziggs",
+          "TFT16_Ryze",
+          "TFT16_Sylas"
+        ],
+        "top_comps": [
+          46
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_PandorasItems",
+      "name": "Pandora's Items",
+      "name_es": "Objetos de Pandora",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/pandora1.png",
+      "stats": {
+        "nb_games": 1484,
+        "top_users": [
+          "TFT16_Singed",
+          "TFT16_Jinx",
+          "TFT16_Warwick",
+          "TFT16_Malzahar"
+        ],
+        "top_comps": [
+          59,
+          50,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_PandorasItems2",
+      "name": "Pandora's Items II",
+      "name_es": "Objetos de Pandora II",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/pandora2.png",
+      "stats": {
+        "nb_games": 2452,
+        "top_users": [
+          "TFT16_Diana",
+          "TFT16_Sett",
+          "TFT16_Anivia",
+          "TFT16_Garen"
+        ],
+        "top_comps": [
+          5,
+          59,
+          46
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_PandorasRadiantBox",
+      "name": "Pandora's Items III",
+      "name_es": "Objetos de Pandora III",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/pandora3.png",
+      "stats": {
+        "nb_games": 1226,
+        "top_users": [
+          "TFT16_Fiddlesticks",
+          "TFT16_Thresh",
+          "TFT16_Yorick",
+          "TFT16_Gwen"
+        ],
+        "top_comps": [
+          65,
+          18,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_LearningFromExperience2",
+      "name": "Patient Study",
+      "name_es": "Estudio y paciencia",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/learning-from-experience-ii.png",
+      "stats": {
+        "nb_games": 1153,
+        "top_users": [
+          "TFT16_Draven",
+          "TFT16_Skarner",
+          "TFT16_JarvanIV",
+          "TFT16_Darius"
+        ],
+        "top_comps": [
+          59,
+          4,
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_PortableForge",
+      "name": "Portable Forge",
+      "name_es": "Forja portátil",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/portableforge2.png",
+      "stats": {
+        "nb_games": 3172,
+        "top_users": [
+          "TFT16_Ryze",
+          "TFT16_JarvanIV",
+          "TFT16_Vayne",
+          "TFT16_Sett"
+        ],
+        "top_comps": [
+          61,
+          66,
+          20
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_GachaAddict",
+      "name": "Prismatic Ticket",
+      "name_es": "Billete prismático",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/goldenticket3.png",
+      "stats": {
+        "nb_games": 1400,
+        "top_users": [
+          "TFT16_Ryze",
+          "TFT16_Yunara",
+          "TFT16_Ashe",
+          "TFT16_Ahri"
+        ],
+        "top_comps": [
+          5,
+          18,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_RadiantRelics",
+      "name": "Radiant Relics",
+      "name_es": "Reliquias radiantes",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/radiantrelic-iii.png",
+      "stats": {
+        "nb_games": 1403,
+        "top_users": [
+          "TFT16_Bard",
+          "TFT16_Azir",
+          "TFT16_ChoGath",
+          "TFT16_Anivia"
+        ],
+        "top_comps": [
+          9,
+          15,
+          50
+        ]
+      }
+    },
+    {
+      "apiName": "TFT11_Augment_Reinfourcement",
+      "name": "ReinFOURcement",
+      "name_es": "Cuatrifuerzos",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/reinfourcement_ii.png",
+      "stats": {
+        "nb_games": 1668,
+        "top_users": [
+          "TFT16_RekSai",
+          "TFT16_Jinx",
+          "TFT16_Briar",
+          "TFT16_Yasuo"
+        ],
+        "top_comps": [
+          50,
+          4,
+          22
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_Replication",
+      "name": "Replication",
+      "name_es": "Réplica",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/replication-ii.png",
+      "stats": {
+        "nb_games": 1136,
+        "top_users": [
+          "TFT16_Ziggs",
+          "TFT16_Leona",
+          "TFT16_Rumble",
+          "TFT16_Sett"
+        ],
+        "top_comps": [
+          65,
+          4,
+          68
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_Commander_RollingForDays",
+      "name": "Rolling For Days I",
+      "name_es": "Tiro porque me toca I",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/rolling-for-days-i.png",
+      "stats": {
+        "nb_games": 982,
+        "top_users": [
+          "TFT16_Illaoi",
+          "TFT16_MissFortune",
+          "TFT16_Fiddlesticks",
+          "TFT16_RiftHerald"
+        ],
+        "top_comps": [
+          5,
+          59,
+          46
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_MagicRollMinus",
+      "name": "Slightly Magic Roll",
+      "name_es": "Pergamino ligeramente mágico",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/slightlymagicroll_i.tft_set16.png",
+      "stats": {
+        "nb_games": 675,
+        "top_users": [
+          "TFT16_Shen",
+          "TFT16_Yasuo",
+          "TFT16_Malzahar",
+          "TFT16_Galio"
+        ],
+        "top_comps": [
+          9,
+          33,
+          68
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_SmallGrabBag",
+      "name": "Small Grab Bag",
+      "name_es": "Bolsa sorpresa pequeña",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/smallgrabbag_i.tft_set16.png",
+      "stats": {
+        "nb_games": 1099,
+        "top_users": [
+          "TFT16_Veigar",
+          "TFT16_Aphelios",
+          "TFT16_Rumble",
+          "TFT16_Lulu"
+        ],
+        "top_comps": [
+          18,
+          38,
+          65
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_AwakenedSoul",
+      "name": "Soul Awakening",
+      "name_es": "Despertar del alma",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/awakenedsoul_iii.tft_set16.png",
+      "stats": {
+        "nb_games": 1071,
+        "top_users": [
+          "TFT16_Teemo",
+          "TFT16_Rumble",
+          "TFT16_Lulu",
+          "TFT16_Ornn"
+        ],
+        "top_comps": [
+          61,
+          46,
+          65
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ShojinSpirit",
+      "name": "Spear's Will",
+      "name_es": "Voluntad de la lanza",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/will-of-the-spear-ii.png",
+      "stats": {
+        "nb_games": 1330,
+        "top_users": [
+          "TFT16_Lux",
+          "TFT16_ChoGath",
+          "TFT16_Galio",
+          "TFT16_JarvanIV"
+        ],
+        "top_comps": [
+          4,
+          5,
+          21
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_SpeedyDoubleKill",
+      "name": "Speedy Double Kill",
+      "name_es": "Asesinato doble veloz",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/speedydoublekill_ii.tft_set16_championaugments.png",
+      "stats": {
+        "nb_games": 1285,
+        "top_users": [
+          "TFT16_Skarner",
+          "TFT16_Ryze",
+          "TFT16_Lucian",
+          "TFT16_Aatrox"
+        ],
+        "top_comps": [
+          9,
+          61,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_SpiritLink1",
+      "name": "Spirit Link",
+      "name_es": "Enlace espiritual",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/spiritlink_ii.tft_set13.png",
+      "stats": {
+        "nb_games": 1306,
+        "top_users": [
+          "TFT16_Shen",
+          "TFT16_Shyvana",
+          "TFT16_Annie",
+          "TFT16_Sylas"
+        ],
+        "top_comps": [
+          61,
+          13,
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ItemSpiritVisage",
+      "name": "Spirit of Redemption",
+      "name_es": "Espíritu de la redención",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/spiritofredemption_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 1187,
+        "top_users": [
+          "TFT16_ChoGath",
+          "TFT16_KogMaw",
+          "TFT16_Kaisa",
+          "TFT16_Teemo"
+        ],
+        "top_comps": [
+          4,
+          38,
+          68
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_ArmyBuilding",
+      "name": "Team Building",
+      "name_es": "Coleguis del curro",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/building-an-army-i.png",
+      "stats": {
+        "nb_games": 1193,
+        "top_users": [
+          "TFT16_JarvanIV",
+          "TFT16_Vayne",
+          "TFT16_Garen",
+          "TFT16_Galio"
+        ],
+        "top_comps": [
+          36,
+          65,
+          26
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_TitanicTitan",
+      "name": "Titanic Titan",
+      "name_es": "Titán titánico",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/titanictitan_i.tft_set13.png",
+      "stats": {
+        "nb_games": 745,
+        "top_users": [
+          "TFT16_Rumble",
+          "TFT16_Leblanc",
+          "TFT16_Lux",
+          "TFT16_Briar"
+        ],
+        "top_comps": [
+          59,
+          4,
+          68
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_TheDarkinForge",
+      "name": "Unsealed From Steel",
+      "name_es": "Libre del acero",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/unsealedfromsteel_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 1439,
+        "top_users": [
+          "TFT16_Shen",
+          "TFT16_Sett",
+          "TFT16_Yunara",
+          "TFT16_Ryze"
+        ],
+        "top_comps": [
+          5,
+          18,
+          38
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_WaterAxiom",
+      "name": "Water Axiom",
+      "name_es": "Axioma acuático",
+      "tier": 1,
+      "tierName": "Silver",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/wateraxiom_i.tft_set16.png",
+      "stats": {
+        "nb_games": 832,
+        "top_users": [
+          "TFT16_Fizz",
+          "TFT16_Lulu",
+          "TFT16_Veigar",
+          "TFT16_Volibear"
+        ],
+        "top_comps": [
+          63,
+          5,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ThreeThrees",
+      "name": "3 Threes",
+      "name_es": "Tres de tres",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/threethrees_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 915,
+        "top_users": [
+          "TFT16_Kobuko",
+          "TFT16_Draven",
+          "TFT16_Darius",
+          "TFT16_Leblanc"
+        ],
+        "top_comps": [
+          33,
+          61,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_MagicRoll",
+      "name": "A Magic Roll",
+      "name_es": "Pergamino mágico",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/a-magical-roll-ii.png",
+      "stats": {
+        "nb_games": 886,
+        "top_users": [
+          "TFT16_TahmKench",
+          "TFT16_MissFortune",
+          "TFT16_Ashe",
+          "TFT16_Jinx"
+        ],
+        "top_comps": [
+          5,
+          9,
+          13
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_RumbleCarry",
+      "name": "Artillery Barrage",
+      "name_es": "Andanada de artillería",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/artillerybarrage_i.tft_set16.png",
+      "stats": {
+        "nb_games": 256,
+        "top_users": [
+          "TFT16_Swain",
+          "TFT16_Veigar",
+          "TFT16_Fizz",
+          "TFT16_Lulu"
+        ],
+        "top_comps": [
+          54
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_AuraFarming",
+      "name": "Aura Farming",
+      "name_es": "Pescando cumplidos",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/aurafarming_ii.tft_set15.png",
+      "stats": {
+        "nb_games": 769,
+        "top_users": [
+          "TFT16_MissFortune",
+          "TFT16_Sylas",
+          "TFT16_Skarner",
+          "TFT16_Anivia"
+        ],
+        "top_comps": [
+          50,
+          33,
+          68
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ComponentQuestBow",
+      "name": "Backup Bows",
+      "name_es": "Arcos de refuerzo",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/recurvewrecker_i.tft_set16.png",
+      "stats": {
+        "nb_games": 331,
+        "top_users": [
+          "TFT16_Galio",
+          "TFT16_Jinx",
+          "TFT16_Poppy",
+          "TFT16_Vayne"
+        ],
+        "top_comps": [
+          13,
+          65,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_BeltOverflow",
+      "name": "Belt Overflow",
+      "name_es": "Sobrecarga de cinturones",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/beltoverflow_iii.tft_set13.png",
+      "stats": {
+        "nb_games": 527,
+        "top_users": [
+          "TFT16_Fiddlesticks",
+          "TFT16_Malzahar",
+          "TFT16_Vayne",
+          "TFT16_KogMaw"
+        ],
+        "top_comps": [
+          13,
+          68,
+          59
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_CelestialBlessing1",
+      "name": "Celestial Blessing I",
+      "name_es": "Gracia celestial I",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/celestialblessing1.png",
+      "stats": {
+        "nb_games": 367,
+        "top_users": [
+          "TFT16_Kobuko",
+          "TFT16_Braum",
+          "TFT16_Loris",
+          "TFT16_Sion"
+        ],
+        "top_comps": [
+          13,
+          9,
+          18
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_CelestialBlessing3",
+      "name": "Celestial Blessing III",
+      "name_es": "Gracia celestial III",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/celestialblessing3.png",
+      "stats": {
+        "nb_games": 441,
+        "top_users": [
+          "TFT16_Sejuani",
+          "TFT16_Jinx",
+          "TFT16_Warwick",
+          "TFT16_Taric"
+        ],
+        "top_comps": [
+          53,
+          33,
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_DuoQueue",
+      "name": "Duo Queue",
+      "name_es": "Cola dúo",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/duoqueue_ii.tft_set12.png",
+      "stats": {
+        "nb_games": 846,
+        "top_users": [
+          "TFT16_TahmKench",
+          "TFT16_Sylas",
+          "TFT16_MissFortune",
+          "TFT16_Lux"
+        ],
+        "top_comps": [
+          26,
+          44,
+          46
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ExpectedUnexpectedness",
+      "name": "Expected Unexpectedness",
+      "name_es": "Espera lo inesperado",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/addicted-to-rolling-iii.png",
+      "stats": {
+        "nb_games": 478,
+        "top_users": [
+          "TFT16_AnnieTibbers",
+          "TFT16_Annie",
+          "TFT16_Darius",
+          "TFT16_Draven"
+        ],
+        "top_comps": [
+          4,
+          9,
+          26
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ExplosiveGrowth",
+      "name": "Explosive Growth",
+      "name_es": "Crecimiento explosivo",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/explosivegrowth_ii.tft_set12.png",
+      "stats": {
+        "nb_games": 749,
+        "top_users": [
+          "TFT16_Yorick",
+          "TFT16_Gwen",
+          "TFT16_Kalista",
+          "TFT16_Thresh"
+        ],
+        "top_comps": [
+          50,
+          53,
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_EyeForAnEyePlus",
+      "name": "Eye For An Eye+",
+      "name_es": "Ojo por ojo+",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/eyeforaneye_i.tft_set13.png",
+      "stats": {
+        "nb_games": 319,
+        "top_users": [
+          "TFT16_Seraphine",
+          "TFT16_JarvanIV",
+          "TFT16_Vi",
+          "TFT16_Braum"
+        ],
+        "top_comps": [
+          5,
+          63,
+          13
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_FeedTheFlames",
+      "name": "Feed the Flames",
+      "name_es": "Alimentad las llamas",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/feedtheflames_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 702,
+        "top_users": [
+          "TFT16_Lissandra",
+          "TFT16_Ashe",
+          "TFT16_Jinx",
+          "TFT16_Braum"
+        ],
+        "top_comps": [
+          53,
+          59,
+          50
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_FindYourCenter",
+      "name": "Find Your Center",
+      "name_es": "El centro de todo",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/findyourcenter_i.tft_set12.png",
+      "stats": {
+        "nb_games": 313,
+        "top_users": [
+          "TFT16_Darius",
+          "TFT16_Draven",
+          "TFT16_Sion",
+          "TFT16_Shyvana"
+        ],
+        "top_comps": [
+          63,
+          29,
+          18
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_MarksMan",
+      "name": "Focused Fire",
+      "name_es": "Fuego concentrado",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/marksman_i.tft_set16.png",
+      "stats": {
+        "nb_games": 300,
+        "top_users": [
+          "TFT16_Galio",
+          "TFT16_KogMaw",
+          "TFT16_Garen",
+          "TFT16_Vayne"
+        ],
+        "top_comps": [
+          53,
+          68,
+          13
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_GainGold",
+      "name": "Gain @Gold@ Gold",
+      "name_es": "Consigue @Gold@ de oro",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/windfall2.png",
+      "stats": {
+        "nb_games": 826,
+        "top_users": [
+          "TFT16_Zilean",
+          "TFT16_Rumble",
+          "TFT16_Teemo",
+          "TFT16_Veigar"
+        ],
+        "top_comps": [
+          4,
+          26,
+          13
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_GildedSteel",
+      "name": "Gilded Steel",
+      "name_es": "Acero dorado",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/gildedsteel_ii.tft_16_4.png",
+      "stats": {
+        "nb_games": 847,
+        "top_users": [
+          "TFT16_Yorick",
+          "TFT16_Gwen",
+          "TFT16_Nasus",
+          "TFT16_Kalista"
+        ],
+        "top_comps": [
+          46,
+          63,
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_HealingOrbsII",
+      "name": "Healing Orbs II",
+      "name_es": "Orbes curativos II",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/healing-orbs-ii.png",
+      "stats": {
+        "nb_games": 764,
+        "top_users": [
+          "TFT16_ChoGath",
+          "TFT16_Kaisa",
+          "TFT16_KogMaw",
+          "TFT16_Vayne"
+        ],
+        "top_comps": [
+          9,
+          4,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_HedgeFund",
+      "name": "Hedge Fund",
+      "name_es": "Fondo con intereses",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/richgetricher3.png",
+      "stats": {
+        "nb_games": 455,
+        "top_users": [
+          "TFT16_Sejuani",
+          "TFT16_Garen",
+          "TFT16_Vayne",
+          "TFT16_Draven"
+        ],
+        "top_comps": [
+          63,
+          33,
+          29
+        ]
+      }
+    },
+    {
+      "apiName": "TFT10_Augment_HeroicGrabBag",
+      "name": "Heroic Grab Bag",
+      "name_es": "Bolsa sorpresa heroica",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/heroic-grab-bag-ii.png",
+      "stats": {
+        "nb_games": 865,
+        "top_users": [
+          "TFT16_Yasuo",
+          "TFT16_Ahri",
+          "TFT16_Mel",
+          "TFT16_Neeko"
+        ],
+        "top_comps": [
+          46,
+          18,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_HeroicGrabBagPlus",
+      "name": "Heroic Grab Bag+",
+      "name_es": "Bolsa sorpresa heroica+",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/heroic-grab-bag-ii.png",
+      "stats": {
+        "nb_games": 825,
+        "top_users": [
+          "TFT16_Garen",
+          "TFT16_JarvanIV",
+          "TFT16_Lucian",
+          "TFT16_Poppy"
+        ],
+        "top_comps": [
+          4,
+          53,
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_JustSlayer",
+      "name": "Indiscriminate Killer",
+      "name_es": "Daño indiscriminado",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/indiscriminateslayer_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 452,
+        "top_users": [
+          "TFT16_JarvanIV",
+          "TFT16_Garen",
+          "TFT16_Vayne",
+          "TFT16_Kennen"
+        ],
+        "top_comps": [
+          18,
+          65,
+          26
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_InvestedPlus",
+      "name": "Invested+",
+      "name_es": "Inversión+",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/invested-iii.png",
+      "stats": {
+        "nb_games": 788,
+        "top_users": [
+          "TFT16_Yasuo",
+          "TFT16_Yorick",
+          "TFT16_Thresh",
+          "TFT16_Gwen"
+        ],
+        "top_comps": [
+          13,
+          66,
+          18
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_IronAssets",
+      "name": "Iron Assets",
+      "name_es": "Recursos de hierro",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/iron-assets-i.png",
+      "stats": {
+        "nb_games": 324,
+        "top_users": [
+          "TFT16_Kaisa",
+          "TFT16_Wukong",
+          "TFT16_Garen",
+          "TFT16_Loris"
+        ],
+        "top_comps": [
+          18,
+          65,
+          61
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_LastSecondSave",
+      "name": "Last Second Save",
+      "name_es": "En el último segundo",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/lastsecondsave_ii.tft_set15.png",
+      "stats": {
+        "nb_games": 815,
+        "top_users": [
+          "TFT16_Volibear",
+          "TFT16_Vayne",
+          "TFT16_ChoGath",
+          "TFT16_Loris"
+        ],
+        "top_comps": [
+          61,
+          46,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT7_Augment_LategameSpecialist",
+      "name": "Late Game Specialist",
+      "name_es": "Especialista en final de partida",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/late-game-specialist-i.png",
+      "stats": {
+        "nb_games": 393,
+        "top_users": [
+          "TFT16_Mel",
+          "TFT16_Azir",
+          "TFT16_Kindred",
+          "TFT16_Sylas"
+        ],
+        "top_comps": [
+          63,
+          24,
+          26
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_MaxLevel10",
+      "name": "Level Up!",
+      "name_es": "¡Subes de nivel!",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/levelup3.png",
+      "stats": {
+        "nb_games": 588,
+        "top_users": [
+          "TFT16_RiftHerald",
+          "TFT16_ChoGath",
+          "TFT16_Ambessa",
+          "TFT16_Mel"
+        ],
+        "top_comps": [
+          9,
+          63,
+          59
+        ]
+      }
+    },
+    {
+      "apiName": "TFT7_Augment_LuckyGlovesPlus",
+      "name": "Lucky Gloves+",
+      "name_es": "Guantes de la suerte+",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/lucky-gloves-iii.png",
+      "stats": {
+        "nb_games": 586,
+        "top_users": [
+          "TFT16_Mel",
+          "TFT16_Ahri",
+          "TFT16_Vi",
+          "TFT16_Kobuko"
+        ],
+        "top_comps": [
+          59,
+          53,
+          13
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_MirroredMonetization",
+      "name": "Malicious Monetization",
+      "name_es": "Monetización malvada",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/mirroredmonetization_ii.tft_set13.png",
+      "stats": {
+        "nb_games": 725,
+        "top_users": [
+          "TFT16_Thresh",
+          "TFT16_Kalista",
+          "TFT16_Rumble",
+          "TFT16_Ornn"
+        ],
+        "top_comps": [
+          65,
+          61,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_FoodfightTactics",
+      "name": "Mess Hall",
+      "name_es": "Caos en el comedor",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/foodfighttactics_ii.tft_set15.png",
+      "stats": {
+        "nb_games": 988,
+        "top_users": [
+          "TFT16_Rumble",
+          "TFT16_Veigar",
+          "TFT16_Teemo",
+          "TFT16_Ryze"
+        ],
+        "top_comps": [
+          68,
+          26,
+          50
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_MinMaxer",
+      "name": "Min-Max",
+      "name_es": "Mínimo - Máximo",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/minmax_iii.tft_set16.png",
+      "stats": {
+        "nb_games": 435,
+        "top_users": [
+          "TFT16_Leona",
+          "TFT16_Zoe",
+          "TFT16_Malzahar",
+          "TFT16_Vayne"
+        ],
+        "top_comps": [
+          50,
+          61,
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_Waverider",
+      "name": "On a Roll",
+      "name_es": "En racha",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/onaroll_i.tft_set16.png",
+      "stats": {
+        "nb_games": 307,
+        "top_users": [
+          "TFT16_Neeko",
+          "TFT16_Vi",
+          "TFT16_Kobuko",
+          "TFT16_Wukong"
+        ],
+        "top_comps": [
+          33,
+          18,
+          53
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_OneTwosThree",
+      "name": "One Twos Three",
+      "name_es": "Uno, dos y tres",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/threes-company-i.png",
+      "stats": {
+        "nb_games": 396,
+        "top_users": [
+          "TFT16_Vayne",
+          "TFT16_KogMaw",
+          "TFT16_Garen",
+          "TFT16_Kaisa"
+        ],
+        "top_comps": [
+          61,
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_PlaceboPlus",
+      "name": "Placebo+",
+      "name_es": "Placebo+",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/placebo_i.tft_set12.png",
+      "stats": {
+        "nb_games": 561,
+        "top_users": [
+          "TFT16_Nautilus",
+          "TFT16_Fizz",
+          "TFT16_Lux",
+          "TFT16_Lucian"
+        ],
+        "top_comps": [
+          61,
+          15,
+          13
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_PlotArmor",
+      "name": "Plot Armor",
+      "name_es": "Armadura de trama",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/plotarmor_ii.tft_set15.png",
+      "stats": {
+        "nb_games": 566,
+        "top_users": [
+          "TFT16_Nautilus",
+          "TFT16_Kindred",
+          "TFT16_Leona",
+          "TFT16_Ornn"
+        ],
+        "top_comps": [
+          5,
+          61,
+          59
+        ]
+      }
+    },
+    {
+      "apiName": "TFT11_Augment_Prizefighter",
+      "name": "Prizefighter",
+      "name_es": "A por el bote",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/prizefighter_ii.png",
+      "stats": {
+        "nb_games": 461,
+        "top_users": [
+          "TFT16_Seraphine",
+          "TFT16_Vi",
+          "TFT16_Kennen",
+          "TFT16_Sejuani"
+        ],
+        "top_comps": [
+          33,
+          53,
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_RollTheDice",
+      "name": "Radiant Rascal",
+      "name_es": "Pillín radiante",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/roll-the-dice-iii.png",
+      "stats": {
+        "nb_games": 524,
+        "top_users": [
+          "TFT16_Ahri",
+          "TFT16_Yasuo",
+          "TFT16_Wukong",
+          "TFT16_Shen"
+        ],
+        "top_comps": [
+          53,
+          63,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT11_Augment_RainingGold",
+      "name": "Raining Gold",
+      "name_es": "Lluvia de oro",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/raininggold_ii.png",
+      "stats": {
+        "nb_games": 819,
+        "top_users": [
+          "TFT16_Fizz",
+          "TFT16_Loris",
+          "TFT16_Kalista",
+          "TFT16_Jinx"
+        ],
+        "top_comps": [
+          4,
+          15,
+          50
+        ]
+      }
+    },
+    {
+      "apiName": "TFT8_Augment_SalvageBinPlus",
+      "name": "Salvage Bin+",
+      "name_es": "Contenedor de chatarra+",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/salvage2.png",
+      "stats": {
+        "nb_games": 757,
+        "top_users": [
+          "TFT16_AnnieTibbers",
+          "TFT16_Ashe",
+          "TFT16_Warwick",
+          "TFT16_Sejuani"
+        ],
+        "top_comps": [
+          4,
+          50,
+          13
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_SavingsAccount",
+      "name": "Savings Account",
+      "name_es": "Cuenta de ahorros",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/savingsaccount_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 739,
+        "top_users": [
+          "TFT16_Zilean",
+          "TFT16_Volibear",
+          "TFT16_Vi",
+          "TFT16_Sejuani"
+        ],
+        "top_comps": [
+          50,
+          46,
+          59
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_SecondWind1",
+      "name": "Second Wind",
+      "name_es": "Fuerzas renovadas",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/second--wind-i.png",
+      "stats": {
+        "nb_games": 470,
+        "top_users": [
+          "TFT16_Shen",
+          "TFT16_Sion",
+          "TFT16_Vi",
+          "TFT16_Sejuani"
+        ],
+        "top_comps": [
+          5,
+          59,
+          61
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_SilverSpoon",
+      "name": "Silver Spoon",
+      "name_es": "Burguesía",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/silver-spoon-i.png",
+      "stats": {
+        "nb_games": 389,
+        "top_users": [
+          "TFT16_Loris",
+          "TFT16_Seraphine",
+          "TFT16_JarvanIV",
+          "TFT16_Darius"
+        ],
+        "top_comps": [
+          33,
+          9,
+          18
+        ]
+      }
+    },
+    {
+      "apiName": "TFT11_Augment_Slammin",
+      "name": "Slammin'",
+      "name_es": "Golpetazos",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/slammin_ii.png",
+      "stats": {
+        "nb_games": 919,
+        "top_users": [
+          "TFT16_Yasuo",
+          "TFT16_Shen",
+          "TFT16_Gwen",
+          "TFT16_Mel"
+        ],
+        "top_comps": [
+          33,
+          63,
+          46
+        ]
+      }
+    },
+    {
+      "apiName": "TFT11_Augment_Slammin_Plus",
+      "name": "Slammin'+",
+      "name_es": "Golpetazos+",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/slammin_ii.png",
+      "stats": {
+        "nb_games": 662,
+        "top_users": [
+          "TFT16_Kennen",
+          "TFT16_Lux",
+          "TFT16_Kobuko",
+          "TFT16_Draven"
+        ],
+        "top_comps": [
+          59,
+          44,
+          18
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ItemGargoyleStoneplate",
+      "name": "Solo Plate",
+      "name_es": "Protección en solitario",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/soloplate_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 604,
+        "top_users": [
+          "TFT16_Leona",
+          "TFT16_Zoe",
+          "TFT16_Neeko",
+          "TFT16_Vi"
+        ],
+        "top_comps": [
+          4,
+          18,
+          53
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ForgeRod",
+      "name": "Staffsmith",
+      "name_es": "Forja de varas",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/rodsmith_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 676,
+        "top_users": [
+          "TFT16_Draven",
+          "TFT16_Bard",
+          "TFT16_Fiddlesticks",
+          "TFT16_Darius"
+        ],
+        "top_comps": [
+          18,
+          24,
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_StarsAreBorn",
+      "name": "Stars Are Born",
+      "name_es": "Lluvia de estrellas",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/stars-are-born-ii.png",
+      "stats": {
+        "nb_games": 717,
+        "top_users": [
+          "TFT16_Teemo",
+          "TFT16_Lulu",
+          "TFT16_Rumble",
+          "TFT16_Fizz"
+        ],
+        "top_comps": [
+          4,
+          13,
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_StarterKit",
+      "name": "Starter Kit",
+      "name_es": "Paquete inicial",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/starter-kit-iii.png",
+      "stats": {
+        "nb_games": 364,
+        "top_users": [
+          "TFT16_Shen",
+          "TFT16_Garen",
+          "TFT16_Ambessa",
+          "TFT16_Lux"
+        ],
+        "top_comps": [
+          9,
+          33,
+          59
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_Survivor",
+      "name": "Survivor",
+      "name_es": "Superviviente",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/survivor_i.tft_set13.png",
+      "stats": {
+        "nb_games": 398,
+        "top_users": [
+          "TFT16_Lucian",
+          "TFT16_Kindred",
+          "TFT16_Fiddlesticks",
+          "TFT16_Braum"
+        ],
+        "top_comps": [
+          61,
+          33,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_SweetTreats",
+      "name": "Sweet Treats",
+      "name_es": "Caprichitos",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/sweettreats_iii.tft_set16_championaugments.png",
+      "stats": {
+        "nb_games": 528,
+        "top_users": [
+          "TFT16_Kindred",
+          "TFT16_Draven",
+          "TFT16_Darius",
+          "TFT16_Ambessa"
+        ],
+        "top_comps": [
+          5,
+          4,
+          46
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ForgeSword",
+      "name": "Swordsmith",
+      "name_es": "Forja de espadas",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/swordsmith_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 532,
+        "top_users": [
+          "TFT16_Galio",
+          "TFT16_Poppy",
+          "TFT16_Garen",
+          "TFT16_JarvanIV"
+        ],
+        "top_comps": [
+          4,
+          61,
+          65
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_Commander_TeamingUp1",
+      "name": "Teaming Up",
+      "name_es": "La unión hace la fuerza",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/teaming-up-i.png",
+      "stats": {
+        "nb_games": 496,
+        "top_users": [
+          "TFT16_JarvanIV",
+          "TFT16_Vayne",
+          "TFT16_Leona",
+          "TFT16_KogMaw"
+        ],
+        "top_comps": [
+          13,
+          18,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_TheGoldenEgg",
+      "name": "The Golden Egg",
+      "name_es": "El huevo dorado",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/the-golden-egg-iii.png",
+      "stats": {
+        "nb_games": 466,
+        "top_users": [
+          "TFT16_Ornn",
+          "TFT16_Ambessa",
+          "TFT16_Fiddlesticks",
+          "TFT16_Kobuko"
+        ],
+        "top_comps": [
+          5,
+          4,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ThornPlatedArmor",
+      "name": "Thorn-Plated Armor",
+      "name_es": "Armadura espinosa",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/thornplatedarmor_ii.tft_set12.png",
+      "stats": {
+        "nb_games": 660,
+        "top_users": [
+          "TFT16_Illaoi",
+          "TFT16_Vayne",
+          "TFT16_Kaisa",
+          "TFT16_JarvanIV"
+        ],
+        "top_comps": [
+          68,
+          13,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_TiniestTitanPlus",
+      "name": "Tiniest Titan",
+      "name_es": "Estratega diminuto",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/tiniest-titaniii.png",
+      "stats": {
+        "nb_games": 541,
+        "top_users": [
+          "TFT16_Thresh",
+          "TFT16_Fiddlesticks",
+          "TFT16_Skarner",
+          "TFT16_Loris"
+        ],
+        "top_comps": [
+          24,
+          53,
+          61
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_TradeSector",
+      "name": "Trade Sector",
+      "name_es": "Sector comercial",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/trade2.png",
+      "stats": {
+        "nb_games": 758,
+        "top_users": [
+          "TFT16_Shen",
+          "TFT16_Aphelios",
+          "TFT16_Ryze",
+          "TFT16_Nautilus"
+        ],
+        "top_comps": [
+          50,
+          33,
+          18
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_Trifecta2",
+      "name": "Trifecta II",
+      "name_es": "Triplete II",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/trifecta-iii.png",
+      "stats": {
+        "nb_games": 512,
+        "top_users": [
+          "TFT16_Taric",
+          "TFT16_Neeko",
+          "TFT16_Shyvana",
+          "TFT16_Leona"
+        ],
+        "top_comps": [
+          61,
+          33,
+          3
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_UltraRapidFire",
+      "name": "U.R.F",
+      "name_es": "U.R.F.",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/ultrarapidfire_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 790,
+        "top_users": [
+          "TFT16_Volibear",
+          "TFT16_Leblanc",
+          "TFT16_Lissandra",
+          "TFT16_Mel"
+        ],
+        "top_comps": [
+          50,
+          59,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_WandOverflow",
+      "name": "Wand Overflow",
+      "name_es": "Sobrecarga de varitas",
+      "tier": 2,
+      "tierName": "Gold",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/wandoverflow_iii.tft_set13.png",
+      "stats": {
+        "nb_games": 381,
+        "top_users": [
+          "TFT16_Fizz",
+          "TFT16_Rumble",
+          "TFT16_Lulu",
+          "TFT16_Teemo"
+        ],
+        "top_comps": [
+          53,
+          65,
+          61
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ArcaneViktory",
+      "name": "Arcane Viktor-y",
+      "name_es": "Viktor-ia de Arcane",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/arcaneviktory_ii.tft_set16_championaugments.png",
+      "stats": {
+        "nb_games": 489,
+        "top_users": [
+          "TFT16_Shen",
+          "TFT16_Volibear",
+          "TFT16_Malzahar",
+          "TFT16_Kennen"
+        ],
+        "top_comps": [
+          4,
+          33,
+          53
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_BandOfThieves2PlusPlus",
+      "name": "Band of Thieves II++",
+      "name_es": "Panda de ladrones II++",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/bandthieves3.png",
+      "stats": {
+        "nb_games": 289,
+        "top_users": [
+          "TFT16_Vi",
+          "TFT16_Wukong",
+          "TFT16_Seraphine",
+          "TFT16_Garen"
+        ],
+        "top_comps": [
+          63,
+          61,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_BirthdayReunion",
+      "name": "Birthday Reunion",
+      "name_es": "Reunión cumpleañera",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/birthdayreunion_ii.tft_set16_championaugments.png",
+      "stats": {
+        "nb_games": 528,
+        "top_users": [
+          "TFT16_Sylas",
+          "TFT16_Lucian",
+          "TFT16_MissFortune",
+          "TFT16_Ahri"
+        ],
+        "top_comps": [
+          63,
+          9,
+          67
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_TheDarkinBlade",
+      "name": "Blood Offering",
+      "name_es": "Ofrenda de sangre",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/trailofblood_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 308,
+        "top_users": [
+          "TFT16_Ahri",
+          "TFT16_Ornn",
+          "TFT16_Taric",
+          "TFT16_Braum"
+        ],
+        "top_comps": [
+          9,
+          69
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_BoxingLessons",
+      "name": "Boxing Lessons",
+      "name_es": "Clases de boxeo",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/boxinglessons_i.tft_set16.png",
+      "stats": {
+        "nb_games": 158,
+        "top_users": [
+          "TFT16_Taric",
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          53,
+          4,
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_BranchingOut",
+      "name": "Branching Out",
+      "name_es": "Ramificación",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/branching-out-i.png",
+      "stats": {
+        "nb_games": 229,
+        "top_users": [
+          "TFT16_Wukong",
+          "TFT16_Swain",
+          "TFT16_Braum",
+          "TFT16_Taric"
+        ],
+        "top_comps": [
+          29,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_BranchingOutPlus",
+      "name": "Branching Out+",
+      "name_es": "Ramificación+",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/branching-out-i.png",
+      "stats": {
+        "nb_games": 211,
+        "top_users": [],
+        "top_comps": [
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_Noxus_BringerOfRuin",
+      "name": "Bringer of Ruin",
+      "name_es": "Portador de la Ruina",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/bringerofruin_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 545,
+        "top_users": [
+          "TFT16_Azir",
+          "TFT16_Wukong",
+          "TFT16_Ambessa",
+          "TFT16_Neeko"
+        ],
+        "top_comps": [
+          15,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_BuildingACollectionPlusPlus",
+      "name": "Buried Treasures",
+      "name_es": "Tesoros enterrados",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/buried-treasures-iii.png",
+      "stats": {
+        "nb_games": 260,
+        "top_users": [
+          "TFT16_Garen",
+          "TFT16_Poppy",
+          "TFT16_KogMaw",
+          "TFT16_Taric"
+        ],
+        "top_comps": [
+          61,
+          18,
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_HomeCooking",
+      "name": "Care Package",
+      "name_es": "Provisiones",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/carepackage_ii.tft_set15.png",
+      "stats": {
+        "nb_games": 482,
+        "top_users": [
+          "TFT16_Ornn",
+          "TFT16_Wukong",
+          "TFT16_Lucian",
+          "TFT16_Loris"
+        ],
+        "top_comps": [
+          4,
+          46,
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ComponentQuestSword",
+      "name": "Carve a Path",
+      "name_es": "Lábrate un camino",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/carveapath_i.tft_set16.png",
+      "stats": {
+        "nb_games": 169,
+        "top_users": [
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          61,
+          33,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_TeamupAugment_AmbessaKindred",
+      "name": "Chosen Wolves",
+      "name_es": "Lobos elegidos",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/chosenwolves_iii.tft_set16.png",
+      "stats": {
+        "nb_games": 157,
+        "top_users": [
+          "TFT16_Briar",
+          "TFT16_Draven",
+          "TFT16_Darius",
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT7_Augment_ClutteredMind",
+      "name": "Cluttered Mind",
+      "name_es": "Mente saturada",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/dizzy-ii.png",
+      "stats": {
+        "nb_games": 531,
+        "top_users": [
+          "TFT16_Volibear",
+          "TFT16_Kobuko",
+          "TFT16_Seraphine",
+          "TFT16_Shen"
+        ],
+        "top_comps": [
+          18,
+          9,
+          59
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ComponentQuestRod",
+      "name": "Continuous Conjuration",
+      "name_es": "Conjuración continua",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/hyperbolicrodextender_i.tft_set16.png",
+      "stats": {
+        "nb_games": 230,
+        "top_users": [
+          "TFT16_Kennen",
+          "TFT16_Veigar",
+          "TFT16_Taric",
+          "TFT16_Kobuko"
+        ],
+        "top_comps": [
+          9,
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_Corrosion",
+      "name": "Corrosion",
+      "name_es": "Corrosión",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/corrosion_i.tft_set13.png",
+      "stats": {
+        "nb_games": 174,
+        "top_users": [
+          "TFT16_Taric",
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          5,
+          33,
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT10_Augment_CrashTestDummies",
+      "name": "Crash Test Dummies",
+      "name_es": "A prueba de choques",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/crash-test-dummies-ii.png",
+      "stats": {
+        "nb_games": 459,
+        "top_users": [
+          "TFT16_Azir",
+          "TFT16_Vi",
+          "TFT16_Sejuani",
+          "TFT16_Fiddlesticks"
+        ],
+        "top_comps": [
+          5,
+          61,
+          13
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_CryMeARiver",
+      "name": "Cry Me A River",
+      "name_es": "Una lágrima en la arena",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/crymeariver_ii.tft_set15.png",
+      "stats": {
+        "nb_games": 402,
+        "top_users": [
+          "TFT16_KogMaw",
+          "TFT16_Neeko",
+          "TFT16_Sylas",
+          "TFT16_Vi"
+        ],
+        "top_comps": [
+          67,
+          63,
+          68
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_NoxianInvasion",
+      "name": "Darkwill's Invasion",
+      "name_es": "Invasión de Darkwill",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/noxianinvasion_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 468,
+        "top_users": [
+          "TFT16_Kobuko",
+          "TFT16_Azir",
+          "TFT16_Shyvana",
+          "TFT16_Sylas"
+        ],
+        "top_comps": [
+          26,
+          63,
+          15
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_DeadlierCaps",
+      "name": "Deadlier Caps",
+      "name_es": "Sombreros más mortales",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/deadliercaps_ii.tft_set15.png",
+      "stats": {
+        "nb_games": 312,
+        "top_users": [
+          "TFT16_Fizz",
+          "TFT16_Lulu",
+          "TFT16_Rumble",
+          "TFT16_Kennen"
+        ],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT_Augment_HeadStart",
+      "name": "Delayed Start",
+      "name_es": "Comienzo tardío",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/headstart_i.tft_set12.png",
+      "stats": {
+        "nb_games": 192,
+        "top_users": [
+          "TFT16_Shyvana",
+          "TFT16_Taric",
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          33,
+          46,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_DemaciaForever",
+      "name": "Demacia Forever",
+      "name_es": "Demacia eterna",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/demaciaforever_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 396,
+        "top_users": [
+          "TFT16_KogMaw",
+          "TFT16_Taric",
+          "TFT16_Neeko",
+          "TFT16_Kaisa"
+        ],
+        "top_comps": [
+          61,
+          46,
+          11
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_EpicRolldown",
+      "name": "Epic Rolldown",
+      "name_es": "Cambiazo épico",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/epicrolldown_ii.tft_set16_championaugments.png",
+      "stats": {
+        "nb_games": 513,
+        "top_users": [
+          "TFT16_Kalista",
+          "TFT16_Ornn",
+          "TFT16_Thresh",
+          "TFT16_Fiddlesticks"
+        ],
+        "top_comps": [
+          61,
+          50,
+          46
+        ]
+      }
+    },
+    {
+      "apiName": "TFT11_Augment_Epoch",
+      "name": "Epoch",
+      "name_es": "Época",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/epoch_ii.png",
+      "stats": {
+        "nb_games": 628,
+        "top_users": [
+          "TFT16_KogMaw",
+          "TFT16_Draven",
+          "TFT16_Malzahar",
+          "TFT16_Vayne"
+        ],
+        "top_comps": [
+          13,
+          5,
+          24
+        ]
+      }
+    },
+    {
+      "apiName": "TFT11_Augment_EpochPlus",
+      "name": "Epoch+",
+      "name_es": "Época+",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/epoch_ii.png",
+      "stats": {
+        "nb_games": 496,
+        "top_users": [
+          "TFT16_JarvanIV",
+          "TFT16_KogMaw",
+          "TFT16_Vayne",
+          "TFT16_Kaisa"
+        ],
+        "top_comps": [
+          15,
+          29,
+          61
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ComponentQuestBelt",
+      "name": "Extra Buckles",
+      "name_es": "Cinturones adicionales",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/extrabuckles_i.tft_set16.png",
+      "stats": {
+        "nb_games": 225,
+        "top_users": [
+          "TFT16_Taric",
+          "TFT16_Braum",
+          "TFT16_Wukong"
+        ],
+        "top_comps": [
+          53,
+          61,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ForgedInStrength",
+      "name": "Forged in Strength",
+      "name_es": "Forjado a la fuerza",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/forgedinstrength_iii.tft_set16_championaugments.png",
+      "stats": {
+        "nb_games": 256,
+        "top_users": [
+          "TFT16_Braum",
+          "TFT16_Vi",
+          "TFT16_Wukong",
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          61,
+          4,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_GiantAndMighty",
+      "name": "Giant and Mighty",
+      "name_es": "Gigantes y fuertes",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/giantandmighty_iii.tft_set12.png",
+      "stats": {
+        "nb_games": 389,
+        "top_users": [
+          "TFT16_Shyvana",
+          "TFT16_Neeko",
+          "TFT16_Vi",
+          "TFT16_Braum"
+        ],
+        "top_comps": [
+          63,
+          61,
+          59
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_GlassCannonII",
+      "name": "Glass Cannon II",
+      "name_es": "Fuerte pero frágil II",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/glasscannon_ii.tft_set13.png",
+      "stats": {
+        "nb_games": 456,
+        "top_users": [
+          "TFT16_XinZhao",
+          "TFT16_Ornn",
+          "TFT16_Volibear",
+          "TFT16_Shen"
+        ],
+        "top_comps": [
+          4,
+          5,
+          65
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_HealingOrbsI",
+      "name": "Healing Orbs I",
+      "name_es": "Orbes curativos",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/healing-orbs-i.png",
+      "stats": {
+        "nb_games": 197,
+        "top_users": [
+          "TFT16_Taric",
+          "TFT16_Neeko",
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          9,
+          53,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_WarmogsBuckle",
+      "name": "Heart of Steel",
+      "name_es": "Corazón de acero",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/healthygains_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 331,
+        "top_users": [
+          "TFT16_Volibear",
+          "TFT16_Garen",
+          "TFT16_Wukong",
+          "TFT16_Ornn"
+        ],
+        "top_comps": [
+          68,
+          5,
+          61
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_HighVoltage",
+      "name": "High Voltage",
+      "name_es": "Alto voltaje",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/highvoltage_ii.tft_set12.png",
+      "stats": {
+        "nb_games": 374,
+        "top_users": [
+          "TFT16_Wukong",
+          "TFT16_Loris",
+          "TFT16_Kennen",
+          "TFT16_Neeko"
+        ],
+        "top_comps": [
+          63,
+          9,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_HoldTheLine",
+      "name": "Hold the Line",
+      "name_es": "Posición defensiva",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/holdtheline_iii.tft_set15.png",
+      "stats": {
+        "nb_games": 379,
+        "top_users": [
+          "TFT16_Vayne",
+          "TFT16_JarvanIV",
+          "TFT16_Kaisa",
+          "TFT16_Shyvana"
+        ],
+        "top_comps": [
+          4,
+          61,
+          53
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_LateGameScaling",
+      "name": "Late Game Scaling",
+      "name_es": "Progresión final",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/lategamescaling_ii.tft_set16_championaugments.png",
+      "stats": {
+        "nb_games": 526,
+        "top_users": [
+          "TFT16_AnnieTibbers",
+          "TFT16_Annie",
+          "TFT16_Mel",
+          "TFT16_Azir"
+        ],
+        "top_comps": [
+          9,
+          46,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_LongTimeCrafting",
+      "name": "Latent Forge",
+      "name_es": "Forja latente",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/long-time-crafting-i.png",
+      "stats": {
+        "nb_games": 240,
+        "top_users": [
+          "TFT16_KogMaw",
+          "TFT16_Braum",
+          "TFT16_Taric",
+          "TFT16_Seraphine"
+        ],
+        "top_comps": [
+          9,
+          61,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_LegionOfThrees",
+      "name": "Legion of Threes",
+      "name_es": "Legión del tres",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/legionofthrees_ii.tft_set16_championaugments.png",
+      "stats": {
+        "nb_games": 451,
+        "top_users": [
+          "TFT16_Poppy",
+          "TFT16_Vayne",
+          "TFT16_Sion",
+          "TFT16_Briar"
+        ],
+        "top_comps": [
+          5,
+          36,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_Weightlifting",
+      "name": "Lifting Competition",
+      "name_es": "Competición de peso",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/liftingcontest_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 501,
+        "top_users": [
+          "TFT16_Illaoi",
+          "TFT16_Bard",
+          "TFT16_Swain",
+          "TFT16_Aphelios"
+        ],
+        "top_comps": [
+          53,
+          24
+        ]
+      }
+    },
+    {
+      "apiName": "TFT7_Augment_LivingForge",
+      "name": "Living Forge",
+      "name_es": "Forja viviente",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/living-forge-iii.png",
+      "stats": {
+        "nb_games": 235,
+        "top_users": [
+          "TFT16_Vi",
+          "TFT16_Neeko",
+          "TFT16_Wukong",
+          "TFT16_Braum"
+        ],
+        "top_comps": [
+          9,
+          53,
+          61
+        ]
+      }
+    },
+    {
+      "apiName": "TFT11_Augment_BloodBank",
+      "name": "Lunch Money",
+      "name_es": "Dinerito para el almuerzo",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/bloodbank_i.png",
+      "stats": {
+        "nb_games": 231,
+        "top_users": [
+          "TFT16_Kennen",
+          "TFT16_Garen",
+          "TFT16_Taric"
+        ],
+        "top_comps": [
+          33,
+          4,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_LuxurySubscription",
+      "name": "Luxury Subscription",
+      "name_es": "Suscripción de lujo",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/luxurysubscription_iii.tft_set16.png",
+      "stats": {
+        "nb_games": 376,
+        "top_users": [
+          "TFT16_Zilean",
+          "TFT16_Azir",
+          "TFT16_Mel",
+          "TFT16_Neeko"
+        ],
+        "top_comps": [
+          67,
+          63,
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_MissedConnections",
+      "name": "Missed Connections",
+      "name_es": "Conexión perdida",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/missed-connections-i.png",
+      "stats": {
+        "nb_games": 196,
+        "top_users": [
+          "TFT16_Garen",
+          "TFT16_Shyvana",
+          "TFT16_Taric"
+        ],
+        "top_comps": [
+          9,
+          53
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_OneBuffTwoBuff",
+      "name": "One Buff, Two Buff",
+      "name_es": "Una mejora, dos mejoras...",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/onebufftwobuff_iii.tft_set13.png",
+      "stats": {
+        "nb_games": 300,
+        "top_users": [
+          "TFT16_Neeko",
+          "TFT16_Shyvana",
+          "TFT16_Seraphine",
+          "TFT16_Garen"
+        ],
+        "top_comps": [
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_PatienceIsAVirtue",
+      "name": "Patience is a Virtue",
+      "name_es": "La paciencia es una virtud",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/patienceisavirtue_i.tft_set12.png",
+      "stats": {
+        "nb_games": 264,
+        "top_users": [
+          "TFT16_Vi",
+          "TFT16_Neeko",
+          "TFT16_KogMaw",
+          "TFT16_Seraphine"
+        ],
+        "top_comps": [
+          4,
+          61,
+          7
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ChallengerDash",
+      "name": "Precision and Grace",
+      "name_es": "Precisión y elegancia",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/precisiongrace_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 429,
+        "top_users": [
+          "TFT16_Sejuani",
+          "TFT16_Braum",
+          "TFT16_Seraphine",
+          "TFT16_Lucian"
+        ],
+        "top_comps": [
+          53,
+          50,
+          61
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_SeraphimsStaff",
+      "name": "Seraphim's Staff",
+      "name_es": "Bastón del serafín",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/seraphimsstaff_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 511,
+        "top_users": [
+          "TFT16_Sona",
+          "TFT16_Lissandra",
+          "TFT16_Aphelios",
+          "TFT16_Bard"
+        ],
+        "top_comps": [
+          13,
+          46,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ShimmerscaleEssence",
+      "name": "Shimmerscale Essence",
+      "name_es": "Esencia de brilloescama",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/shimmerscaleessence_iii.tft_set12.png",
+      "stats": {
+        "nb_games": 223,
+        "top_users": [
+          "TFT16_Wukong",
+          "TFT16_Taric",
+          "TFT16_Swain",
+          "TFT16_Shyvana"
+        ],
+        "top_comps": [
+          9,
+          53,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_Zaun_SilcosRevenge",
+      "name": "Silco's Revenge",
+      "name_es": "Venganza de Silco",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/silcosrevenge_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 324,
+        "top_users": [
+          "TFT16_Blitzcrank",
+          "TFT16_Lucian",
+          "TFT16_Wukong",
+          "TFT16_DrMundo"
+        ],
+        "top_comps": [
+          50,
+          7
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_SliceOfLife",
+      "name": "Slice of Life",
+      "name_es": "Cotidiano",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/slice_of_life_i.tft_set15.png",
+      "stats": {
+        "nb_games": 198,
+        "top_users": [
+          "TFT16_Neeko",
+          "TFT16_Taric",
+          "TFT16_Vi",
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          9,
+          5,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_DravenSpoilsOfWar",
+      "name": "Spoils of War I",
+      "name_es": "Botín de guerra I",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/spoils-of-war-legend-i.png",
+      "stats": {
+        "nb_games": 187,
+        "top_users": [
+          "TFT16_Taric"
+        ],
+        "top_comps": [
+          5,
+          4,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_DravenSpoilsOfWar2",
+      "name": "Spoils of War II",
+      "name_es": "Botín de guerra II",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/spoils-of-war-legend-ii.png",
+      "stats": {
+        "nb_games": 369,
+        "top_users": [
+          "TFT16_Kobuko",
+          "TFT16_Neeko",
+          "TFT16_Poppy",
+          "TFT16_Shyvana"
+        ],
+        "top_comps": [
+          5,
+          9,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_SpreadingRoots",
+      "name": "Spreading Roots",
+      "name_es": "Raíces expansivas",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/spreadingroots_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 511,
+        "top_users": [
+          "TFT16_Zilean",
+          "TFT16_Sylas",
+          "TFT16_Shyvana",
+          "TFT16_Ambessa"
+        ],
+        "top_comps": [
+          33,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_SwordOverflow",
+      "name": "Sword Overflow",
+      "name_es": "Sobrecarga de espadas",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/bladeoverflow_iii.tft_set13.png",
+      "stats": {
+        "nb_games": 248,
+        "top_users": [
+          "TFT16_Garen",
+          "TFT16_Poppy",
+          "TFT16_Vayne",
+          "TFT16_KogMaw"
+        ],
+        "top_comps": [
+          61,
+          53
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_ShadowIsles_RuinedKing",
+      "name": "The Ruined King",
+      "name_es": "El Rey Arruinado",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/ruinedking_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 409,
+        "top_users": [
+          "TFT16_Ornn",
+          "TFT16_Kindred",
+          "TFT16_Viego",
+          "TFT16_Fiddlesticks"
+        ],
+        "top_comps": [
+          9,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT11_Augment_TinyButDeadly",
+      "name": "Tiny, but Deadly",
+      "name_es": "Pequeños pero matones",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/tinybutdeadly_iii.png",
+      "stats": {
+        "nb_games": 364,
+        "top_users": [
+          "TFT16_Garen",
+          "TFT16_JarvanIV",
+          "TFT16_Poppy",
+          "TFT16_Neeko"
+        ],
+        "top_comps": [
+          18,
+          13,
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_TonsOfStats",
+      "name": "Tons of Stats!",
+      "name_es": "¡Estadísticas a tutiplén!",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/tons-of-stats-ii.png",
+      "stats": {
+        "nb_games": 397,
+        "top_users": [
+          "TFT16_Ornn",
+          "TFT16_Braum",
+          "TFT16_Garen",
+          "TFT16_Taric"
+        ],
+        "top_comps": [
+          5,
+          46,
+          13
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_XinZhaoCarry",
+      "name": "Trials of Twilight",
+      "name_es": "Desafíos del crepúsculo",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/thedarkenglaive_i.tft_set16.png",
+      "stats": {
+        "nb_games": 511,
+        "top_users": [
+          "TFT16_Sett",
+          "TFT16_Aatrox",
+          "TFT16_Galio",
+          "TFT16_Ornn"
+        ],
+        "top_comps": [
+          20,
+          52
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_XinZhaoCarryII",
+      "name": "Trials of Twilight II",
+      "name_es": "Desafíos del crepúsculo II",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/thedarkenglaive_i.tft_set16.png",
+      "stats": {
+        "nb_games": 308,
+        "top_users": [
+          "TFT16_Aatrox",
+          "TFT16_Yone",
+          "TFT16_Wukong",
+          "TFT16_Sett"
+        ],
+        "top_comps": [
+          52
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_Trifecta1",
+      "name": "Trifecta I",
+      "name_es": "Triplete I",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/trifecta-ii.png",
+      "stats": {
+        "nb_games": 684,
+        "top_users": [
+          "TFT16_Ashe",
+          "TFT16_Vi",
+          "TFT16_Sejuani",
+          "TFT16_Jinx"
+        ],
+        "top_comps": [
+          66,
+          63,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_TwinGuardians",
+      "name": "Twin Guardians",
+      "name_es": "Guardianes gemelos",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/twinguardians_i.tft_set16.png",
+      "stats": {
+        "nb_games": 155,
+        "top_users": [
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          33,
+          5,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_TwoTrick",
+      "name": "Two Trick",
+      "name_es": "Dos de dos",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/two-trick-ii.png",
+      "stats": {
+        "nb_games": 495,
+        "top_users": [
+          "TFT16_Vi",
+          "TFT16_Loris",
+          "TFT16_Lucian",
+          "TFT16_Seraphine"
+        ],
+        "top_comps": [
+          61,
+          46,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_UpwardMobility",
+      "name": "Upward Mobility",
+      "name_es": "Ascenso social",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/upwardmobility_iii.tft_set12.png",
+      "stats": {
+        "nb_games": 394,
+        "top_users": [
+          "TFT16_Shyvana",
+          "TFT16_Annie",
+          "TFT16_AnnieTibbers",
+          "TFT16_Azir"
+        ],
+        "top_comps": [
+          63,
+          29
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_Unforgotten",
+      "name": "Warlord's Honor",
+      "name_es": "Honor de señor de la guerra",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/unforgotten_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 334,
+        "top_users": [
+          "TFT16_Swain",
+          "TFT16_Seraphine",
+          "TFT16_Kennen",
+          "TFT16_Taric"
+        ],
+        "top_comps": [
+          65,
+          5,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_Warpath",
+      "name": "Warpath",
+      "name_es": "Sendero de guerra",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/warpath_ii.tft_set13.png",
+      "stats": {
+        "nb_games": 480,
+        "top_users": [
+          "TFT16_Darius",
+          "TFT16_Kobuko",
+          "TFT16_Sion",
+          "TFT16_Draven"
+        ],
+        "top_comps": [
+          33,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_WoodAxiom",
+      "name": "Wood Axiom",
+      "name_es": "Axioma de madera",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/woodaxiom_i.tft_set16.png",
+      "stats": {
+        "nb_games": 197,
+        "top_users": [
+          "TFT16_Kobuko",
+          "TFT16_Sion",
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          5,
+          53,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_TheVidalion",
+      "name": "Woven Magic",
+      "name_es": "Magia entretejida",
+      "tier": 3,
+      "tierName": "Prismatic",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/wovenmagic_iii.tft_set16.png",
+      "stats": {
+        "nb_games": 388,
+        "top_users": [
+          "TFT16_Zoe",
+          "TFT16_Vi",
+          "TFT16_JarvanIV",
+          "TFT16_Neeko"
+        ],
+        "top_comps": [
+          13,
+          4,
+          18
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_AdvancedLoan",
+      "name": "Advanced Loan",
+      "name_es": "Préstamo avanzado",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/advancedloan_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 186,
+        "top_users": [
+          "TFT16_Neeko",
+          "TFT16_Swain",
+          "TFT16_Taric"
+        ],
+        "top_comps": [
+          9,
+          5,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_AdvancedLoanPlus",
+      "name": "Advanced Loan+",
+      "name_es": "Préstamo avanzado+",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/advancedloan_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 307,
+        "top_users": [
+          "TFT16_Taric",
+          "TFT16_Wukong",
+          "TFT16_Garen",
+          "TFT16_Galio"
+        ],
+        "top_comps": [
+          33,
+          5,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_BandOfThieves2",
+      "name": "Band of Thieves II",
+      "name_es": "Panda de ladrones II",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/bandthieves3.png",
+      "stats": {
+        "nb_games": 104,
+        "top_users": [],
+        "top_comps": [
+          63,
+          9,
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_BandOfThieves2Plus",
+      "name": "Band of Thieves II+",
+      "name_es": "Panda de ladrones II+",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/bandthieves3.png",
+      "stats": {
+        "nb_games": 200,
+        "top_users": [
+          "TFT16_Swain",
+          "TFT16_Garen",
+          "TFT16_Shyvana",
+          "TFT16_Taric"
+        ],
+        "top_comps": [
+          61,
+          33,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT7_Augment_BestFriends1",
+      "name": "Best Friends I",
+      "name_es": "Mejores amiguis I",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/best-friends-i.png",
+      "stats": {
+        "nb_games": 89,
+        "top_users": [],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT7_Augment_BestFriends2",
+      "name": "Best Friends II",
+      "name_es": "Mejores amiguis II",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/best-friends-ii.png",
+      "stats": {
+        "nb_games": 214,
+        "top_users": [
+          "TFT16_KogMaw",
+          "TFT16_Garen",
+          "TFT16_Poppy",
+          "TFT16_JarvanIV"
+        ],
+        "top_comps": [
+          13,
+          5,
+          53
+        ]
+      }
+    },
+    {
+      "apiName": "TFT7_Augment_BigFriend",
+      "name": "Big Friend I",
+      "name_es": "Gran colega I",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/big-friend-i.png",
+      "stats": {
+        "nb_games": 77,
+        "top_users": [],
+        "top_comps": [
+          54,
+          53
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_BodyguardTraining",
+      "name": "Bodyguard Training",
+      "name_es": "Adiestramiento de guardaespaldas",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/bodyguardstraining_ii.tft_set16_championaugments.png",
+      "stats": {
+        "nb_games": 179,
+        "top_users": [
+          "TFT16_Taric",
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          5,
+          61,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_BronzeForLifeI",
+      "name": "Bronze For Life I",
+      "name_es": "Bronce de por vida I",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/bronzeforlife_ii.tft_set13.png",
+      "stats": {
+        "nb_games": 294,
+        "top_users": [
+          "TFT16_Braum",
+          "TFT16_Warwick",
+          "TFT16_Ashe",
+          "TFT16_Jinx"
+        ],
+        "top_comps": [
+          4,
+          33,
+          66
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_BronzeForLife2",
+      "name": "Bronze For Life II",
+      "name_es": "Bronce de por vida II",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/bronzeforlife_iii.tft_set13.png",
+      "stats": {
+        "nb_games": 211,
+        "top_users": [
+          "TFT16_Taric",
+          "TFT16_Swain",
+          "TFT16_Sejuani",
+          "TFT16_Braum"
+        ],
+        "top_comps": [
+          33,
+          66
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_CalculatedLoss",
+      "name": "Calculated Loss",
+      "name_es": "Pérdida calculada",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/calculatedloss2.png",
+      "stats": {
+        "nb_games": 233,
+        "top_users": [
+          "TFT16_Wukong",
+          "TFT16_Taric",
+          "TFT16_Kennen",
+          "TFT16_Vi"
+        ],
+        "top_comps": [
+          4,
+          9,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_BardPlaybook1",
+      "name": "Caretaker's Ally",
+      "name_es": "Alianza del protector",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/caretaker_s-chosen-i.png",
+      "stats": {
+        "nb_games": 100,
+        "top_users": [],
+        "top_comps": [
+          54
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ChaosEvolution",
+      "name": "Chaotic Evolution",
+      "name_es": "Evolución caótica",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/chaosevolution_i.tft_set15.png",
+      "stats": {
+        "nb_games": 77,
+        "top_users": [],
+        "top_comps": [
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_MuseumHeist",
+      "name": "Component Heist",
+      "name_es": "Robo de componentes",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/museumheist_iii.tft_set16.png",
+      "stats": {
+        "nb_games": 183,
+        "top_users": [
+          "TFT16_Taric",
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          9,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ConstructACompanion",
+      "name": "Construct a Companion",
+      "name_es": "Crea un coleguita",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/constructacompanion_iii.tft_set16.png",
+      "stats": {
+        "nb_games": 160,
+        "top_users": [
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_Targon_CosmicCalling",
+      "name": "Cosmic Calling",
+      "name_es": "Vocación cósmica",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/staff-of-flowing-waters-ii.png",
+      "stats": {
+        "nb_games": 215,
+        "top_users": [
+          "TFT16_Neeko",
+          "TFT16_AurelionSol",
+          "TFT16_Swain",
+          "TFT16_Vi"
+        ],
+        "top_comps": [
+          22,
+          61,
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_CraftedCrafting",
+      "name": "Crafted Crafting",
+      "name_es": "Forja forjada",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/craftedcrafting_i.tft_set13.png",
+      "stats": {
+        "nb_games": 54,
+        "top_users": [],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ComponentQuestGlove",
+      "name": "Critical Success",
+      "name_es": "Éxito crítico",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/criticalsuccess_i.tft_set16.png",
+      "stats": {
+        "nb_games": 119,
+        "top_users": [],
+        "top_comps": [
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT7_Augment_CursedCrown",
+      "name": "Cursed Crown",
+      "name_es": "Corona maldita",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/cursedcrown-iii.png",
+      "stats": {
+        "nb_games": 126,
+        "top_users": [],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT_Augment_TragicalBlade",
+      "name": "Deadlier Blades",
+      "name_es": "Hojas más letales",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/deadlierblades_ii.tft_set15.png",
+      "stats": {
+        "nb_games": 160,
+        "top_users": [
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          13,
+          53
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_DefenseOfIonia",
+      "name": "Defense of the Placidium",
+      "name_es": "Defensa del Placidium",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/defenseofionia_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 279,
+        "top_users": [
+          "TFT16_Neeko",
+          "TFT16_Shen",
+          "TFT16_Ahri",
+          "TFT16_Yunara"
+        ],
+        "top_comps": [
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_Dummify",
+      "name": "Dummify",
+      "name_es": "Objetivización de práctica",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/dummify_i.tft_set13.png",
+      "stats": {
+        "nb_games": 95,
+        "top_users": [],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT_Augment_EarlyLearning",
+      "name": "Early Learnings",
+      "name_es": "Aprendizaje inicial",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/earlylearning_ii.tft_set16_championaugments.png",
+      "stats": {
+        "nb_games": 172,
+        "top_users": [],
+        "top_comps": [
+          33,
+          63,
+          7
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_EfficientShopper",
+      "name": "Efficient Shopper",
+      "name_es": "Compra eficiente",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/efficientshopper_i.tft_set15.png",
+      "stats": {
+        "nb_games": 133,
+        "top_users": [
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          4,
+          63,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_Void_EvolveAndOvercome",
+      "name": "Evolve and Overcome",
+      "name_es": "Evolución y superación",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/evolveandovercome_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 287,
+        "top_users": [
+          "TFT16_RekSai",
+          "TFT16_BaronNashor",
+          "TFT16_BelVeth",
+          "TFT16_Malzahar"
+        ],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_Distancing",
+      "name": "Exiles I",
+      "name_es": "Exiliados I",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/exiles1.png",
+      "stats": {
+        "nb_games": 188,
+        "top_users": [
+          "TFT16_Taric",
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          61,
+          54,
+          53
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_Distancing2",
+      "name": "Exiles II",
+      "name_es": "Exiliados II",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/exiles2.png",
+      "stats": {
+        "nb_games": 343,
+        "top_users": [
+          "TFT16_JarvanIV",
+          "TFT16_Darius",
+          "TFT16_Shyvana",
+          "TFT16_Garen"
+        ],
+        "top_comps": [
+          5,
+          4,
+          53
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_EyeForAnEye",
+      "name": "Eye For An Eye",
+      "name_es": "Ojo por ojo",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/eyeforaneye_i.tft_set13.png",
+      "stats": {
+        "nb_games": 150,
+        "top_users": [
+          "TFT16_Swain",
+          "TFT16_Taric"
+        ],
+        "top_comps": [
+          9,
+          5,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ComponentQuestTear",
+      "name": "Flowing Tears",
+      "name_es": "Río de lágrimas",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/griefofthegreatgoddess_i.tft_set16.png",
+      "stats": {
+        "nb_games": 145,
+        "top_users": [],
+        "top_comps": [
+          5,
+          63,
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ForwardThinking",
+      "name": "Forward Thinking",
+      "name_es": "Pensamiento progresista",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/forwardthinking_ii.tft_set13.png",
+      "stats": {
+        "nb_games": 360,
+        "top_users": [
+          "TFT16_Seraphine",
+          "TFT16_Braum",
+          "TFT16_Lucian",
+          "TFT16_Galio"
+        ],
+        "top_comps": [
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_GlassCannonI",
+      "name": "Glass Cannon I",
+      "name_es": "Fuerte pero frágil I",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/glasscannon_i.tft_set13.png",
+      "stats": {
+        "nb_games": 157,
+        "top_users": [
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT10_Augment_GoingLong",
+      "name": "Going Long",
+      "name_es": "Largo plazo",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/going-long-iii.png",
+      "stats": {
+        "nb_games": 181,
+        "top_users": [
+          "TFT16_Swain",
+          "TFT16_Shyvana"
+        ],
+        "top_comps": [
+          9,
+          54
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_Golemify",
+      "name": "Golemify",
+      "name_es": "Golemificar",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/golemify_ii.tft_set13.png",
+      "stats": {
+        "nb_games": 188,
+        "top_users": [
+          "TFT16_Taric",
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          5,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT10_Augment_GoodForSomethingSilver",
+      "name": "Good For Something I",
+      "name_es": "Porque yo lo valgo",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/good-for-something-i.png",
+      "stats": {
+        "nb_games": 132,
+        "top_users": [
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_HeavyIsTheCrown",
+      "name": "Heavy Is the Crown",
+      "name_es": "El peso de la corona",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/heavyisthecrown_ii.tft_set15.png",
+      "stats": {
+        "nb_games": 305,
+        "top_users": [
+          "TFT16_Poppy",
+          "TFT16_Garen",
+          "TFT16_Taric",
+          "TFT16_Kaisa"
+        ],
+        "top_comps": [
+          61,
+          53,
+          65
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_HeftyRolls",
+      "name": "Hefty Rolls",
+      "name_es": "Cambios importantes",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/heftyrolls_ii.tft_set15.png",
+      "stats": {
+        "nb_games": 196,
+        "top_users": [
+          "TFT16_Neeko",
+          "TFT16_Vi",
+          "TFT16_Kobuko",
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          5,
+          33,
+          13
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_InfinityProtection",
+      "name": "Infinity Protection",
+      "name_es": "Protección infinita",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/infinityprotection_ii.tft_set16_championaugments.png",
+      "stats": {
+        "nb_games": 177,
+        "top_users": [
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          63,
+          5,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_Ixtal_Expeditionist",
+      "name": "Ixtal Expeditionist",
+      "name_es": "Expedicionario ixtalí",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/rejuvenating-flames-ii.png",
+      "stats": {
+        "nb_games": 526,
+        "top_users": [
+          "TFT16_Ryze",
+          "TFT16_Brock",
+          "TFT16_Sylas",
+          "TFT16_Shyvana"
+        ],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_IllaoiCarry",
+      "name": "Leap of Faith",
+      "name_es": "Salto de fe",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/leapoffaith_i.tft_set16.png",
+      "stats": {
+        "nb_games": 114,
+        "top_users": [],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT_Augment_Lineup",
+      "name": "Lineup",
+      "name_es": "Alineación",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/lineup-i.png",
+      "stats": {
+        "nb_games": 97,
+        "top_users": [],
+        "top_comps": [
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT7_Augment_LuckyGloves",
+      "name": "Lucky Gloves",
+      "name_es": "Guantes de la suerte",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/lucky-gloves-iii.png",
+      "stats": {
+        "nb_games": 171,
+        "top_users": [
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          33,
+          7,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_MakeshiftArmor1",
+      "name": "Makeshift Armor I",
+      "name_es": "Armadura improvisada I",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/makeshift1.png",
+      "stats": {
+        "nb_games": 96,
+        "top_users": [],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_OneTwoFive",
+      "name": "One, Two, Five!",
+      "name_es": "Uno, dos... ¡cinco!",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/one-two-five-i.png",
+      "stats": {
+        "nb_games": 133,
+        "top_users": [],
+        "top_comps": [
+          9,
+          54
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_Placebo",
+      "name": "Placebo",
+      "name_es": "Placebo",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/placebo_i.tft_set12.png",
+      "stats": {
+        "nb_games": 194,
+        "top_users": [
+          "TFT16_Swain",
+          "TFT16_Taric"
+        ],
+        "top_comps": [
+          63,
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_Pyromaniac",
+      "name": "Pyromaniac",
+      "name_es": "Piromanía",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/pyromaniac_ii.tft_set13.png",
+      "stats": {
+        "nb_games": 228,
+        "top_users": [
+          "TFT16_Kobuko",
+          "TFT16_Wukong",
+          "TFT16_Swain",
+          "TFT16_Shyvana"
+        ],
+        "top_comps": [
+          44,
+          9,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_RestartMission",
+      "name": "Restart Mission",
+      "name_es": "Reinicio de misión",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/restartmission_i.tft_set12.png",
+      "stats": {
+        "nb_games": 99,
+        "top_users": [
+          "TFT16_Swain"
+        ],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT_Augment_Retribution",
+      "name": "Retribution",
+      "name_es": "Venganza",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/retribution_iii.tft_set16.png",
+      "stats": {
+        "nb_games": 209,
+        "top_users": [
+          "TFT16_Swain"
+        ],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_RiskyMoves",
+      "name": "Risky Moves",
+      "name_es": "Hemos venido a jugar",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/risky-moves-i.png",
+      "stats": {
+        "nb_games": 43,
+        "top_users": [],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_SalvageBin",
+      "name": "Salvage Bin",
+      "name_es": "Contenedor de chatarra",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/salvage2.png",
+      "stats": {
+        "nb_games": 399,
+        "top_users": [
+          "TFT16_Fiddlesticks",
+          "TFT16_Seraphine",
+          "TFT16_Kennen",
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          33,
+          13,
+          18
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_Shurima_SecretsOfTheSands",
+      "name": "Secrets of the Sands",
+      "name_es": "Secretos de las arenas",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/secretsofsand_iii.tft_set16.png",
+      "stats": {
+        "nb_games": 253,
+        "top_users": [
+          "TFT16_Shyvana",
+          "TFT16_Renekton",
+          "TFT16_Sylas",
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          34
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_SoloLeveling",
+      "name": "Solo Leveling",
+      "name_es": "Niveles en solitario",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/sololeveling_ii.tft_set15.png",
+      "stats": {
+        "nb_games": 268,
+        "top_users": [
+          "TFT16_Shyvana",
+          "TFT16_Garen",
+          "TFT16_Swain",
+          "TFT16_Wukong"
+        ],
+        "top_comps": [
+          9,
+          33,
+          29
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_DravenSpoilsOfWar3",
+      "name": "Spoils of War III",
+      "name_es": "Botín de guerra III",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/spoils-of-war-legend-iii.png",
+      "stats": {
+        "nb_games": 151,
+        "top_users": [
+          "TFT16_Swain",
+          "TFT16_Taric"
+        ],
+        "top_comps": [
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_SpreadingRootsPlus",
+      "name": "Spreading Roots+",
+      "name_es": "Raíces expansivas+",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/spreadingroots_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 285,
+        "top_users": [
+          "TFT16_Ambessa",
+          "TFT16_Mel",
+          "TFT16_Shyvana",
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_Diversify1",
+      "name": "Stand United",
+      "name_es": "Mantenerse unidos",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/standunited1.png",
+      "stats": {
+        "nb_games": 79,
+        "top_users": [],
+        "top_comps": [
+          5,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_TableScraps",
+      "name": "Table Scraps",
+      "name_es": "Las sobras",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/tablescraps_i.tft_set13.png",
+      "stats": {
+        "nb_games": 95,
+        "top_users": [],
+        "top_comps": [
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_TacticiansKitchen",
+      "name": "Tactician's Kitchen",
+      "name_es": "Cocina de estratega",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/tacticianskitchen_iii.tft_set13.png",
+      "stats": {
+        "nb_games": 126,
+        "top_users": [],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT_Augment_TraitTreePlus",
+      "name": "The Trait Tree+",
+      "name_es": "El árbol de los atributos+",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/thetraittree_iii.tft_set16.png",
+      "stats": {
+        "nb_games": 202,
+        "top_users": [
+          "TFT16_Braum",
+          "TFT16_Shyvana",
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_UrfsGambit",
+      "name": "Urf's Gambit",
+      "name_es": "Gambito de Urf",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/urfsgambit_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 266,
+        "top_users": [
+          "TFT16_Shyvana"
+        ],
+        "top_comps": [
+          7,
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_Yordle_WildGrowth",
+      "name": "Wild Growth",
+      "name_es": "Crecimiento salvaje",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/wildgrowth_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 95,
+        "top_users": [
+          "TFT16_Fizz",
+          "TFT16_Tristana",
+          "TFT16_Rumble",
+          "TFT16_Teemo"
+        ],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT_Augment_WinOut",
+      "name": "Win Out",
+      "name_es": "A por la victoria",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/winout_iii.tft_set16.png",
+      "stats": {
+        "nb_games": 235,
+        "top_users": [],
+        "top_comps": [
+          29
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_WorthTheWaitPrismatic",
+      "name": "Worth the Wait II",
+      "name_es": "La espera merece la pena II",
+      "tier": 4,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/worththewait_iii.tft_set12.png",
+      "stats": {
+        "nb_games": 162,
+        "top_users": [],
+        "top_comps": [
+          29
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ComponentQuestBow_PAIRS",
+      "name": "Backup Bows",
+      "name_es": "Arcos de refuerzo",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/recurvewrecker_i.tft_set16.png",
+      "stats": {
+        "nb_games": 1,
+        "top_users": [],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_BandleBountyPlus",
+      "name": "Bandle Bounty II",
+      "name_es": "Botín de Bandle II",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/bandlebountyplus_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 103,
+        "top_users": [
+          "TFT16_Tristana",
+          "TFT16_Veigar"
+        ],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT7_Augment_BirthdayPresents",
+      "name": "Birthday Present",
+      "name_es": "Regalo de cumpleaños",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/golden-gifts-iii.png",
+      "stats": {
+        "nb_games": 112,
+        "top_users": [
+          "TFT16_Taric"
+        ],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT_Augment_CalledShot",
+      "name": "Called Shot",
+      "name_es": "Victoria anunciada",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/calledshot_i.tft_set12.png",
+      "stats": {
+        "nb_games": 42,
+        "top_users": [],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_ClearMind",
+      "name": "Clear Mind",
+      "name_es": "Mente despejada",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/clearmind2.png",
+      "stats": {
+        "nb_games": 73,
+        "top_users": [],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ComebackStory",
+      "name": "Comeback Story",
+      "name_es": "Relato de un regreso",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/comebackstory_iii.tft_set16.png",
+      "stats": {
+        "nb_games": 70,
+        "top_users": [],
+        "top_comps": [
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_ComponentQuestRod_PAIRS",
+      "name": "Continuous Conjuration",
+      "name_es": "Conjuración continua",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/hyperbolicrodextender_i.tft_set16.png",
+      "stats": {
+        "nb_games": 1,
+        "top_users": [],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT_Augment_CookingPot",
+      "name": "Cooking Pot",
+      "name_es": "Olla al fuego",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/cookingpot_ii.tft_set13.png",
+      "stats": {
+        "nb_games": 223,
+        "top_users": [
+          "TFT16_Swain"
+        ],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_Twins2",
+      "name": "Double Trouble",
+      "name_es": "Doble peligro",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/double-trouble-ii.png",
+      "stats": {
+        "nb_games": 280,
+        "top_users": [
+          "TFT16_ChoGath",
+          "TFT16_Seraphine",
+          "TFT16_Loris",
+          "TFT16_Malzahar"
+        ],
+        "top_comps": [
+          3
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_Flexible",
+      "name": "Flexible",
+      "name_es": "Flexible",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/flexible_ii.tft_set12.png",
+      "stats": {
+        "nb_games": 53,
+        "top_users": [],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT_Augment_GoldDestiny",
+      "name": "Gold Destiny",
+      "name_es": "Destino dorado",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/goldendestiny_ii.tft_set15.png",
+      "stats": {
+        "nb_games": 2,
+        "top_users": [],
+        "top_comps": [
+          4,
+          5,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_GoldDestinyPlus",
+      "name": "Gold Destiny+",
+      "name_es": "Destino dorado+",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/goldendestiny_ii.tft_set15.png",
+      "stats": {
+        "nb_games": 3,
+        "top_users": [],
+        "top_comps": [
+          61,
+          5,
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_HardBargain",
+      "name": "Hard Bargain",
+      "name_es": "Trato difícil",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/hardbargain_ii.tft_set15.png",
+      "stats": {
+        "nb_games": 132,
+        "top_users": [
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_HardCommit",
+      "name": "Hard Commit",
+      "name_es": "Compromiso férreo",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/hardcommit_iii.tft_set12.png",
+      "stats": {
+        "nb_games": 84,
+        "top_users": [],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_HyperRoll",
+      "name": "Hustler",
+      "name_es": "Estafa",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/hyperroll2.png",
+      "stats": {
+        "nb_games": 122,
+        "top_users": [],
+        "top_comps": [
+          54
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_Indecision1",
+      "name": "Indecision I",
+      "name_es": "Indecisión",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/indecisioni_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 1,
+        "top_users": [],
+        "top_comps": [
+          18,
+          46,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_Indecision2",
+      "name": "Indecision II",
+      "name_es": "Indecisión II",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/indecisioni_ii.tft_set16.png",
+      "stats": {
+        "nb_games": 5,
+        "top_users": [],
+        "top_comps": [
+          4,
+          18,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_KnowYourEnemy",
+      "name": "Know Your Enemy",
+      "name_es": "Conoce a tus enemigos",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/know-your-enemy-ii.png",
+      "stats": {
+        "nb_games": 234,
+        "top_users": [
+          "TFT16_Garen",
+          "TFT16_Taric",
+          "TFT16_Poppy",
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          61,
+          4
+        ]
+      }
+    },
+    {
+      "apiName": "TFT10_Augment_LittleBuddies",
+      "name": "Little Buddies",
+      "name_es": "Coleguitas",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/little-buddies-ii.png",
+      "stats": {
+        "nb_games": 216,
+        "top_users": [
+          "TFT16_Taric"
+        ],
+        "top_comps": [
+          61
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_MakeshiftArmor2",
+      "name": "Makeshift Armor II",
+      "name_es": "Armadura improvisada II",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/makeshift2.png",
+      "stats": {
+        "nb_games": 137,
+        "top_users": [
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          4,
+          61
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_NoScoutNoPivot",
+      "name": "NO SCOUT NO PIVOT",
+      "name_es": "Obstinación",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/noscoutnopivot_ii.tft_set13.png",
+      "stats": {
+        "nb_games": 75,
+        "top_users": [],
+        "top_comps": [
+          54,
+          53,
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_NineLives",
+      "name": "Nine Lives",
+      "name_es": "Nueve vidas",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/ninelives_iii.tft_set15.png",
+      "stats": {
+        "nb_games": 71,
+        "top_users": [],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT_Augment_Pilfer",
+      "name": "Pilfer",
+      "name_es": "Hurto",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/pilfer_ii.tft_set12.png",
+      "stats": {
+        "nb_games": 184,
+        "top_users": [
+          "TFT16_Taric",
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT7_Augment_Preparation",
+      "name": "Preparation I",
+      "name_es": "Preparación I",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/preparation-i.png",
+      "stats": {
+        "nb_games": 23,
+        "top_users": [],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT7_Augment_Preparation2",
+      "name": "Preparation II",
+      "name_es": "Preparación II",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/preparation-ii.png",
+      "stats": {
+        "nb_games": 59,
+        "top_users": [],
+        "top_comps": [
+          54
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_PrismaticDestiny",
+      "name": "Prismatic Destiny",
+      "name_es": "Destino prismático",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/prismaticdestiny_iii.tft_set15.png",
+      "stats": {
+        "nb_games": 2,
+        "top_users": [],
+        "top_comps": [
+          5,
+          33
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_PrismaticDestinyPlus",
+      "name": "Prismatic Destiny+",
+      "name_es": "Destino prismático+",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/prismaticdestiny_iii.tft_set15.png",
+      "stats": {
+        "nb_games": 4,
+        "top_users": [],
+        "top_comps": [
+          63,
+          9,
+          61
+        ]
+      }
+    },
+    {
+      "apiName": "TFT6_Augment_Recombobulator",
+      "name": "Recombobulator",
+      "name_es": "Recombobulador",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/recombobulator-i.png",
+      "stats": {
+        "nb_games": 150,
+        "top_users": [],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT_Augment_SilverDestiny",
+      "name": "Silver Destiny",
+      "name_es": "Destino plateado",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/silverdestiny_i.tft_set15.png",
+      "stats": {
+        "nb_games": 4,
+        "top_users": [],
+        "top_comps": [
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_SilverDestinyPlus",
+      "name": "Silver Destiny+",
+      "name_es": "Destino plateado+",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/silverdestiny_i.tft_set15.png",
+      "stats": {
+        "nb_games": 3,
+        "top_users": [],
+        "top_comps": [
+          9,
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_TheGoldenDragon",
+      "name": "The Golden Dragon",
+      "name_es": "El Dragón dorado",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/thegoldendragon_ii.tft_set16_championaugments.png",
+      "stats": {
+        "nb_games": 132,
+        "top_users": [],
+        "top_comps": [
+          5
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_TraitTree",
+      "name": "The Trait Tree",
+      "name_es": "El árbol de los atributos",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/thetraittree_iii.tft_set16.png",
+      "stats": {
+        "nb_games": 158,
+        "top_users": [],
+        "top_comps": [
+          63
+        ]
+      }
+    },
+    {
+      "apiName": "TFT16_Augment_TheWorldRunes",
+      "name": "The World Runes",
+      "name_es": "Runas geogénicas",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/theworldrunes_iii.tft_set16.png",
+      "stats": {
+        "nb_games": 174,
+        "top_users": [],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT_Augment_TreasureHunt",
+      "name": "Treasure Hunt",
+      "name_es": "Cazatesoros",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/treasurehunt_ii.tft_set15.png",
+      "stats": {
+        "nb_games": 130,
+        "top_users": [
+          "TFT16_Swain"
+        ],
+        "top_comps": [
+          33,
+          13
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_TwoMuchValue",
+      "name": "Two Much Value",
+      "name_es": "Marchando un doble",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/twomuchvalue_ii.tft_set13.png",
+      "stats": {
+        "nb_games": 156,
+        "top_users": [
+          "TFT16_Nidalee",
+          "TFT16_Bard",
+          "TFT16_Aphelios",
+          "TFT16_Vi"
+        ],
+        "top_comps": [
+          13
+        ]
+      }
+    },
+    {
+      "apiName": "TFT_Augment_WeStickTogether",
+      "name": "We Stick Together",
+      "name_es": "Nos mantenemos unidos",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/westicktogether_iii.tft_set16_championaugments.png",
+      "stats": {
+        "nb_games": 60,
+        "top_users": [],
+        "top_comps": []
+      }
+    },
+    {
+      "apiName": "TFT_Augment_WorthTheWaitGold",
+      "name": "Worth the Wait",
+      "name_es": "La espera merece la pena",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/worththewait_ii.tft_set12.png",
+      "stats": {
+        "nb_games": 165,
+        "top_users": [],
+        "top_comps": [
+          63,
+          9
+        ]
+      }
+    },
+    {
+      "apiName": "TFT9_Augment_YoungAndWildAndFree",
+      "name": "Young and Wild and Free",
+      "name_es": "Libre como el viento",
+      "tier": 5,
+      "tierName": "Unknown",
+      "iconUrl": "https://raw.communitydragon.org/16.6/game/assets/maps/tft/icons/augments/hexcore/young-and-wild-and-free-i.png",
+      "stats": {
+        "nb_games": 1,
+        "top_users": [],
+        "top_comps": []
+      }
+    }
+  ]
+}

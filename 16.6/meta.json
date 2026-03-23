@@ -1,0 +1,4154 @@
+{
+  "source": "Mobalytics",
+  "patch": "16.7",
+  "scraped_at": "2026-03-23T22:22:34.368744+00:00",
+  "comps": [
+    {
+      "name": "Arcanine",
+      "tier": "S",
+      "playstyle": "Fast 9",
+      "difficulty": "Hard",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Galio",
+          "name": "Galio",
+          "name_es": "Galio",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Lux",
+          "name": "Lux",
+          "name_es": "Lux",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Garen",
+          "name": "Garen",
+          "name_es": "Garen",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Sylas",
+          "name": "Sylas",
+          "name_es": "Sylas ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_UnstableConcoction",
+            "TFT_Item_Crownguard",
+            "TFT_Item_JeweledGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT16_AnnieTibbers",
+          "name": "Tibbers",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_DragonsClaw",
+            "TFT_Item_NightHarvester",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT16_Taric",
+          "name": "Taric",
+          "name_es": "Taric",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Annie",
+          "name": "Annie",
+          "name_es": "Annie",
+          "cost": 5,
+          "items": [
+            "TFT_Item_StatikkShiv",
+            "TFT_Item_AdaptiveHelm",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT16_Neeko",
+          "name": "Neeko",
+          "name_es": "Neeko",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Shyvana",
+          "name": "Shyvana",
+          "name_es": "Shyvana",
+          "cost": 5,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "DemaShot",
+      "tier": "S",
+      "playstyle": "Fast 8",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Kaisa",
+          "name": "Kai'Sa",
+          "name_es": "Kai'Sa ",
+          "cost": 4,
+          "items": [
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_LastWhisper"
+          ]
+        },
+        {
+          "apiName": "TFT16_Poppy",
+          "name": "Poppy",
+          "name_es": "Poppy ",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Garen",
+          "name": "Garen",
+          "name_es": "Garen",
+          "cost": 4,
+          "items": [
+            "TFT_Item_DragonsClaw",
+            "TFT_Item_BrambleVest",
+            "TFT_Item_RedBuff"
+          ]
+        },
+        {
+          "apiName": "TFT16_Jarvaniv",
+          "name": "Jarvaniv",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Galio",
+          "name": "Galio",
+          "name_es": "Galio",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Taric",
+          "name": "Taric",
+          "name_es": "Taric",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Vayne",
+          "name": "Vayne",
+          "name_es": "Vayne",
+          "cost": 3,
+          "items": [
+            "TFT_Item_RunaansHurricane",
+            "TFT_Item_HextechGunblade",
+            "TFT_Item_RunaansHurricane"
+          ]
+        },
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kogmaw",
+          "name": "Kogmaw",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Ziggs",
+          "name": "Ziggs",
+          "name_es": "Ziggs ",
+          "cost": 5,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Void Lullaby",
+      "tier": "S",
+      "playstyle": "7 Slow Roll",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Malzahar",
+          "name": "Malzahar",
+          "name_es": "Malzahar",
+          "cost": 3,
+          "items": [
+            "TFT_Item_Leviathan",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan"
+          ]
+        },
+        {
+          "apiName": "TFT16_Neeko",
+          "name": "Neeko",
+          "name_es": "Neeko",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Taric",
+          "name": "Taric",
+          "name_es": "Taric",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Leona",
+          "name": "Leona",
+          "name_es": "Leona",
+          "cost": 3,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_DragonsClaw",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT16_Vi",
+          "name": "Vi",
+          "name_es": "Vi",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Seraphine",
+          "name": "Seraphine",
+          "name_es": "Seraphine",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kogmaw",
+          "name": "Kogmaw",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Zoe",
+          "name": "Zoe",
+          "name_es": "Zoe",
+          "cost": 3,
+          "items": [
+            "TFT_Item_HextechGunblade",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_SpearOfShojin"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fast 9 Fleet",
+      "tier": "S",
+      "playstyle": "Fast 9",
+      "difficulty": "Hard",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Ornn",
+          "name": "Ornn",
+          "name_es": "Ornn",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Luciansenna",
+          "name": "Luciansenna",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_RapidFireCannon",
+            "TFT_Item_LastWhisper"
+          ]
+        },
+        {
+          "apiName": "TFT16_Nautilus",
+          "name": "Nautilus",
+          "name_es": "Nautilus",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Wukong",
+          "name": "Wukong",
+          "name_es": "Wukong",
+          "cost": 4,
+          "items": [
+            "TFT_Item_DragonsClaw",
+            "TFT_Item_BrambleVest",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT16_Taric",
+          "name": "Taric",
+          "name_es": "Taric",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Missfortune",
+          "name": "Missfortune",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_InfinityEdge",
+            "TFT16_Item_Bilgewater_DeadmansDagger",
+            "TFT16_Item_Bilgewater_DreadwayCannon"
+          ]
+        },
+        {
+          "apiName": "TFT16_Shyvana",
+          "name": "Shyvana",
+          "name_es": "Shyvana",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Tahmkench",
+          "name": "Tahmkench",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_SteraksGage",
+            "TFT_Item_AdaptiveHelm",
+            "TFT16_Item_Bilgewater_PileOCitrus"
+          ]
+        },
+        {
+          "apiName": "TFT16_Fiddlesticks",
+          "name": "Fiddlesticks",
+          "name_es": "Fiddlesticks",
+          "cost": 5,
+          "items": [
+            "TFT_Item_ThiefsGloves"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noxus Trio",
+      "tier": "S",
+      "playstyle": "7 Slow Roll",
+      "difficulty": "Easy",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Mel",
+          "name": "Mel",
+          "name_es": "Mel ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_StatikkShiv",
+            "TFT_Item_Morellonomicon"
+          ]
+        },
+        {
+          "apiName": "TFT16_Leblanc",
+          "name": "LeBlanc",
+          "name_es": "LeBlanc ",
+          "cost": 3,
+          "items": [
+            "TFT_Item_Leviathan",
+            "TFT_Item_Leviathan",
+            "TFT_Item_JeweledGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT16_Draven",
+          "name": "Draven",
+          "name_es": "Draven",
+          "cost": 3,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_RunaansHurricane",
+            "TFT_Item_LastWhisper"
+          ]
+        },
+        {
+          "apiName": "TFT16_Darius",
+          "name": "Darius",
+          "name_es": "Darius",
+          "cost": 3,
+          "items": [
+            "TFT_Item_SteraksGage",
+            "TFT_Item_TitansResolve",
+            "TFT_Item_AdaptiveHelm"
+          ]
+        },
+        {
+          "apiName": "TFT16_Kobukoyuumi",
+          "name": "Kobukoyuumi",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Neeko",
+          "name": "Neeko",
+          "name_es": "Neeko",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Sion",
+          "name": "Sion",
+          "name_es": "Sion",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Briar",
+          "name": "Briar",
+          "name_es": "Briar",
+          "cost": 1,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Zaun Wolf",
+      "tier": "S",
+      "playstyle": "Fast 8",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Warwick",
+          "name": "Warwick",
+          "name_es": "Warwick",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT16_Jinx",
+          "name": "Jinx",
+          "name_es": "Jinx",
+          "cost": 3,
+          "items": [
+            "TFT_Item_LastWhisper",
+            "TFT_Item_RunaansHurricane",
+            "TFT_Item_GuinsoosRageblade"
+          ]
+        },
+        {
+          "apiName": "TFT16_Kindred",
+          "name": "Kindred",
+          "name_es": "Kindred",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Ziggs",
+          "name": "Ziggs",
+          "name_es": "Ziggs ",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Singed",
+          "name": "Singed",
+          "name_es": "Singed",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Wukong",
+          "name": "Wukong",
+          "name_es": "Wukong",
+          "cost": 4,
+          "items": [
+            "TFT_Item_RedBuff",
+            "TFT_Item_WarmogsArmor",
+            "TFT_Item_NightHarvester"
+          ]
+        },
+        {
+          "apiName": "TFT16_Luciansenna",
+          "name": "Luciansenna",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Drmundo",
+          "name": "Drmundo",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Shyvana",
+          "name": "Shyvana",
+          "name_es": "Shyvana",
+          "cost": 5,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Kai'Sa Flex",
+      "tier": "S",
+      "playstyle": "Fast 8",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Shen",
+          "name": "Shen",
+          "name_es": "Shen",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kogmaw",
+          "name": "Kogmaw",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kaisa",
+          "name": "Kai'Sa",
+          "name_es": "Kai'Sa ",
+          "cost": 4,
+          "items": [
+            "TFT_Item_HextechGunblade",
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_JeweledGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Volibear",
+          "name": "Volibear",
+          "name_es": "Volibear ",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Riftherald",
+          "name": "Riftherald",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_BrambleVest",
+            "TFT_Item_DragonsClaw",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT16_Wukong",
+          "name": "Wukong",
+          "name_es": "Wukong",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Ziggs",
+          "name": "Ziggs",
+          "name_es": "Ziggs ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_StatikkShiv",
+            "TFT_Item_Morellonomicon"
+          ]
+        },
+        {
+          "apiName": "TFT16_Chogath",
+          "name": "Chogath",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "FlexiMel",
+      "tier": "S",
+      "playstyle": "Fast 9",
+      "difficulty": "Hard",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Darius",
+          "name": "Darius",
+          "name_es": "Darius",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Ryze",
+          "name": "Ryze",
+          "name_es": "Ryze ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_StatikkShiv",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_Morellonomicon"
+          ]
+        },
+        {
+          "apiName": "TFT16_Xerath",
+          "name": "Xerath",
+          "name_es": "Xerath ",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Azir",
+          "name": "Azir",
+          "name_es": "Azir",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Mel",
+          "name": "Mel",
+          "name_es": "Mel ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Leviathan",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan"
+          ]
+        },
+        {
+          "apiName": "TFT16_Taric",
+          "name": "Taric",
+          "name_es": "Taric",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Shyvana",
+          "name": "Shyvana",
+          "name_es": "Shyvana",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Sylas",
+          "name": "Sylas",
+          "name_es": "Sylas ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_ThiefsGloves"
+          ]
+        },
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Redemption",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_BrambleVest"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Unleash The Void",
+      "tier": "S",
+      "playstyle": "Fast 9",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Volibear",
+          "name": "Volibear",
+          "name_es": "Volibear ",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Chogath",
+          "name": "Chogath",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kogmaw",
+          "name": "Kogmaw",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Malzahar",
+          "name": "Malzahar",
+          "name_es": "Malzahar",
+          "cost": 3,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT16_Kaisa",
+          "name": "Kai'Sa",
+          "name_es": "Kai'Sa ",
+          "cost": 4,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_HextechGunblade"
+          ]
+        },
+        {
+          "apiName": "TFT16_Riftherald",
+          "name": "Riftherald",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_WarmogsArmor",
+            "TFT_Item_SpectralGauntlet",
+            "TFT_Item_GargoyleStoneplate"
+          ]
+        },
+        {
+          "apiName": "TFT16_Baronnashor",
+          "name": "Baronnashor",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_SteraksGage",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_Bloodthirster"
+          ]
+        },
+        {
+          "apiName": "TFT16_Reksai",
+          "name": "Reksai",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Belveth",
+          "name": "Belveth",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Atakhan's Army",
+      "tier": "S",
+      "playstyle": "Fast 8",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Fiddlesticks",
+          "name": "Fiddlesticks",
+          "name_es": "Fiddlesticks",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Draven",
+          "name": "Draven",
+          "name_es": "Draven",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Mel",
+          "name": "Mel",
+          "name_es": "Mel ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Leviathan",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT16_Kindred",
+          "name": "Kindred",
+          "name_es": "Kindred",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Sion",
+          "name": "Sion",
+          "name_es": "Sion",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": [
+            "TFT_Item_RedBuff",
+            "TFT_Item_WarmogsArmor",
+            "TFT_Item_SteraksGage"
+          ]
+        },
+        {
+          "apiName": "TFT16_Ambessa",
+          "name": "Ambessa",
+          "name_es": "Ambessa",
+          "cost": 4,
+          "items": [
+            "TFT_Item_UnstableConcoction",
+            "TFT_Item_FreeDeathblade",
+            "TFT_Item_GuardianAngel"
+          ]
+        },
+        {
+          "apiName": "TFT16_Briar",
+          "name": "Briar",
+          "name_es": "Briar",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Darius",
+          "name": "Darius",
+          "name_es": "Darius",
+          "cost": 3,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Shadow Spears",
+      "tier": "A",
+      "playstyle": "Fast 8",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Gwen",
+          "name": "Gwen",
+          "name_es": "Gwen ",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Braum",
+          "name": "Braum",
+          "name_es": "Braum",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Loris",
+          "name": "Loris",
+          "name_es": "Loris",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Yorick",
+          "name": "Yorick",
+          "name_es": "Yorick ",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Seraphine",
+          "name": "Seraphine",
+          "name_es": "Seraphine",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kalista",
+          "name": "Kalista",
+          "name_es": "Kalista ",
+          "cost": 4,
+          "items": [
+            "TFT_Item_LastWhisper",
+            "TFT_Item_Crownguard",
+            "TFT_Item_BlueBuff"
+          ]
+        },
+        {
+          "apiName": "TFT16_Thresh",
+          "name": "Thresh",
+          "name_es": "Thresh ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_GuardianAngel",
+            "TFT_Item_IonicSpark"
+          ]
+        },
+        {
+          "apiName": "TFT16_Ornn",
+          "name": "Ornn",
+          "name_es": "Ornn",
+          "cost": 5,
+          "items": [
+            "TFT_Item_NightHarvester",
+            "TFT_Item_Redemption",
+            "TFT_Item_BrambleVest"
+          ]
+        },
+        {
+          "apiName": "TFT16_Fiddlesticks",
+          "name": "Fiddlesticks",
+          "name_es": "Fiddlesticks",
+          "cost": 5,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Fox & Thunder",
+      "tier": "A",
+      "playstyle": "7 Slow Roll",
+      "difficulty": "Easy",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Shen",
+          "name": "Shen",
+          "name_es": "Shen",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Sett",
+          "name": "Sett",
+          "name_es": "Sett",
+          "cost": 5,
+          "items": [
+            "TFT_Item_ThiefsGloves"
+          ]
+        },
+        {
+          "apiName": "TFT16_Yone",
+          "name": "Yone",
+          "name_es": "Yone",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT16_Kennen",
+          "name": "Kennen",
+          "name_es": "Kennen ",
+          "cost": 3,
+          "items": [
+            "TFT_Item_IonicSpark",
+            "TFT_Item_Redemption",
+            "TFT_Item_RedBuff"
+          ]
+        },
+        {
+          "apiName": "TFT16_Ahri",
+          "name": "Ahri",
+          "name_es": "Ahri",
+          "cost": 3,
+          "items": [
+            "TFT_Item_Leviathan",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan"
+          ]
+        },
+        {
+          "apiName": "TFT16_Neeko",
+          "name": "Neeko",
+          "name_es": "Neeko",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Yasuo",
+          "name": "Yasuo",
+          "name_es": "Yasuo",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Wukong",
+          "name": "Wukong",
+          "name_es": "Wukong",
+          "cost": 4,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Artillery Barrage",
+      "tier": "A",
+      "playstyle": "5 Slow Roll",
+      "difficulty": "Easy",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Kobukoyuumi",
+          "name": "Kobukoyuumi",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Poppy",
+          "name": "Poppy",
+          "name_es": "Poppy ",
+          "cost": 2,
+          "items": [
+            "TFT_Item_Redemption",
+            "TFT_Item_WarmogsArmor",
+            "TFT_Item_Crownguard"
+          ]
+        },
+        {
+          "apiName": "TFT16_Rumble",
+          "name": "Rumble",
+          "name_es": "Rumble",
+          "cost": 1,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_ArchangelsStaff",
+            "TFT_Item_GuinsoosRageblade"
+          ]
+        },
+        {
+          "apiName": "TFT16_Teemo",
+          "name": "Teemo",
+          "name_es": "Teemo",
+          "cost": 2,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_StatikkShiv",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT16_Lulu",
+          "name": "Lulu",
+          "name_es": "Lulu",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Tristana",
+          "name": "Tristana",
+          "name_es": "Tristana",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Fizz",
+          "name": "Fizz",
+          "name_es": "Fizz",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kennen",
+          "name": "Kennen",
+          "name_es": "Kennen ",
+          "cost": 3,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Tiny Terror",
+      "tier": "A",
+      "playstyle": "Fast 8",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Volibear",
+          "name": "Volibear",
+          "name_es": "Volibear ",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Fizz",
+          "name": "Fizz",
+          "name_es": "Fizz",
+          "cost": 4,
+          "items": [
+            "TFT_Item_UnstableConcoction",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Crownguard"
+          ]
+        },
+        {
+          "apiName": "TFT16_Teemo",
+          "name": "Teemo",
+          "name_es": "Teemo",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Veigar",
+          "name": "Veigar",
+          "name_es": "Veigar",
+          "cost": 4,
+          "items": [
+            "TFT_Item_RabadonsDeathcap",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_HextechGunblade"
+          ]
+        },
+        {
+          "apiName": "TFT16_Kennen",
+          "name": "Kennen",
+          "name_es": "Kennen ",
+          "cost": 3,
+          "items": [
+            "TFT_Item_WarmogsArmor",
+            "TFT_Item_NightHarvester",
+            "TFT_Item_BrambleVest"
+          ]
+        },
+        {
+          "apiName": "TFT16_Rumble",
+          "name": "Rumble",
+          "name_es": "Rumble",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Lulu",
+          "name": "Lulu",
+          "name_es": "Lulu",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Ziggs",
+          "name": "Ziggs",
+          "name_es": "Ziggs ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_RapidFireCannon",
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT16_Kobukoyuumi",
+          "name": "Kobukoyuumi",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Mask of Ionia ",
+      "tier": "A",
+      "playstyle": "Fast 8",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Wukong",
+          "name": "Wukong",
+          "name_es": "Wukong",
+          "cost": 4,
+          "items": [
+            "TFT_Item_SpectralGauntlet",
+            "TFT_Item_IonicSpark",
+            "TFT_Item_RedBuff"
+          ]
+        },
+        {
+          "apiName": "TFT16_Sylas",
+          "name": "Sylas",
+          "name_es": "Sylas ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_ThiefsGloves"
+          ]
+        },
+        {
+          "apiName": "TFT16_Kennen",
+          "name": "Kennen",
+          "name_es": "Kennen ",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Volibear",
+          "name": "Volibear",
+          "name_es": "Volibear ",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Luciansenna",
+          "name": "Luciansenna",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Ahri",
+          "name": "Ahri",
+          "name_es": "Ahri",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Aatrox",
+          "name": "Aatrox",
+          "name_es": "Aatrox ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_TitansResolve",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT16_Sett",
+          "name": "Sett",
+          "name_es": "Sett",
+          "cost": 5,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Crownguard",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT16_Yone",
+          "name": "Yone",
+          "name_es": "Yone",
+          "cost": 4,
+          "items": [
+            "TFT_Item_TitansResolve",
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_GuinsoosRageblade"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Total Targon",
+      "tier": "A",
+      "playstyle": "Fast 8",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Shyvana",
+          "name": "Shyvana",
+          "name_es": "Shyvana",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Azir",
+          "name": "Azir",
+          "name_es": "Azir",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Vi",
+          "name": "Vi",
+          "name_es": "Vi",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Taric",
+          "name": "Taric",
+          "name_es": "Taric",
+          "cost": 4,
+          "items": [
+            "TFT_Item_NightHarvester",
+            "TFT_Item_Redemption",
+            "TFT_Item_BrambleVest"
+          ]
+        },
+        {
+          "apiName": "TFT16_Seraphine",
+          "name": "Seraphine",
+          "name_es": "Seraphine",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT16_Aurelionsol",
+          "name": "Aurelionsol",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan",
+            "TFT_Item_Leviathan"
+          ]
+        },
+        {
+          "apiName": "TFT16_Xerath",
+          "name": "Xerath",
+          "name_es": "Xerath ",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Sylas",
+          "name": "Sylas",
+          "name_es": "Sylas ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_ThiefsGloves"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Double Trouble Malz",
+      "tier": "A",
+      "playstyle": "7 Slow Roll",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Nautilus",
+          "name": "Nautilus",
+          "name_es": "Nautilus",
+          "cost": 3,
+          "items": [
+            "TFT_Item_BrambleVest",
+            "TFT_Item_Redemption",
+            "TFT_Item_DragonsClaw"
+          ]
+        },
+        {
+          "apiName": "TFT16_Nautilus",
+          "name": "Nautilus",
+          "name_es": "Nautilus",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Malzahar",
+          "name": "Malzahar",
+          "name_es": "Malzahar",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Seraphine",
+          "name": "Seraphine",
+          "name_es": "Seraphine",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT16_Malzahar",
+          "name": "Malzahar",
+          "name_es": "Malzahar",
+          "cost": 3,
+          "items": [
+            "TFT_Item_Leviathan",
+            "TFT_Item_Leviathan",
+            "TFT_Item_JeweledGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT16_Loris",
+          "name": "Loris",
+          "name_es": "Loris",
+          "cost": 3,
+          "items": [
+            "TFT_Item_ThiefsGloves"
+          ]
+        },
+        {
+          "apiName": "TFT16_Chogath",
+          "name": "Chogath",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Loris",
+          "name": "Loris",
+          "name_es": "Loris",
+          "cost": 3,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Bruiser Bear",
+      "tier": "A",
+      "playstyle": "Fast 8",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Kobukoyuumi",
+          "name": "Kobukoyuumi",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Volibear",
+          "name": "Volibear",
+          "name_es": "Volibear ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_Quicksilver",
+            "TFT_Item_SteraksGage"
+          ]
+        },
+        {
+          "apiName": "TFT16_Wukong",
+          "name": "Wukong",
+          "name_es": "Wukong",
+          "cost": 4,
+          "items": [
+            "TFT_Item_DragonsClaw",
+            "TFT_Item_BrambleVest",
+            "TFT_Item_NightHarvester"
+          ]
+        },
+        {
+          "apiName": "TFT16_Lissandra",
+          "name": "Lissandra",
+          "name_es": "Lissandra",
+          "cost": 4,
+          "items": [
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_Leviathan",
+            "TFT_Item_JeweledGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT16_Sejuani",
+          "name": "Sejuani",
+          "name_es": "Sejuani",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kennen",
+          "name": "Kennen",
+          "name_es": "Kennen ",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Taric",
+          "name": "Taric",
+          "name_es": "Taric",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Shen",
+          "name": "Shen",
+          "name_es": "Shen",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Ryze",
+          "name": "Ryze",
+          "name_es": "Ryze ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv",
+            "TFT_Item_Morellonomicon"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Noxus Deathmark",
+      "tier": "A",
+      "playstyle": "Fast 9",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Fiddlesticks",
+          "name": "Fiddlesticks",
+          "name_es": "Fiddlesticks",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Shyvana",
+          "name": "Shyvana",
+          "name_es": "Shyvana",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Taric",
+          "name": "Taric",
+          "name_es": "Taric",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Skarner",
+          "name": "Skarner",
+          "name_es": "Skarner ",
+          "cost": 4,
+          "items": [
+            "TFT_Item_BrambleVest",
+            "TFT_Item_DragonsClaw",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT16_Luciansenna",
+          "name": "Luciansenna",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_LastWhisper",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_RapidFireCannon"
+          ]
+        },
+        {
+          "apiName": "TFT16_Kindred",
+          "name": "Kindred",
+          "name_es": "Kindred",
+          "cost": 5,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_RunaansHurricane",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT16_Draven",
+          "name": "Draven",
+          "name_es": "Draven",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Ambessa",
+          "name": "Ambessa",
+          "name_es": "Ambessa",
+          "cost": 4,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Demacia Ryze",
+      "tier": "A",
+      "playstyle": "Fast 9",
+      "difficulty": "Hard",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Kennen",
+          "name": "Kennen",
+          "name_es": "Kennen ",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Xerath",
+          "name": "Xerath",
+          "name_es": "Xerath ",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Ryze",
+          "name": "Ryze",
+          "name_es": "Ryze ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_StatikkShiv",
+            "TFT_Item_Leviathan"
+          ]
+        },
+        {
+          "apiName": "TFT16_Xinzhao",
+          "name": "Xinzhao",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Taric",
+          "name": "Taric",
+          "name_es": "Taric",
+          "cost": 4,
+          "items": [
+            "TFT_Item_BrambleVest",
+            "TFT_Item_RedBuff",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT16_Lux",
+          "name": "Lux",
+          "name_es": "Lux",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Azir",
+          "name": "Azir",
+          "name_es": "Azir",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Sylas",
+          "name": "Sylas",
+          "name_es": "Sylas ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_UnstableConcoction",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Bloodthirster"
+          ]
+        },
+        {
+          "apiName": "TFT16_Sett",
+          "name": "Sett",
+          "name_es": "Sett",
+          "cost": 5,
+          "items": [
+            "TFT_Item_ThiefsGloves"
+          ]
+        },
+        {
+          "apiName": "TFT16_Galio",
+          "name": "Galio",
+          "name_es": "Galio",
+          "cost": 5,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Shurima Shuffle",
+      "tier": "A",
+      "playstyle": "Fast 9",
+      "difficulty": "Hard",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Renekton",
+          "name": "Renekton",
+          "name_es": "Renekton ",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Vi",
+          "name": "Vi",
+          "name_es": "Vi",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Annie",
+          "name": "Annie",
+          "name_es": "Annie",
+          "cost": 5,
+          "items": [
+            "TFT_Item_AdaptiveHelm",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT16_Sylas",
+          "name": "Sylas",
+          "name_es": "Sylas ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_UnstableConcoction",
+            "TFT_Item_HextechGunblade",
+            "TFT_Item_JeweledGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT16_AnnieTibbers",
+          "name": "Tibbers",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_SteraksGage",
+            "TFT_Item_WarmogsArmor",
+            "TFT_Item_NightHarvester"
+          ]
+        },
+        {
+          "apiName": "TFT16_Seraphine",
+          "name": "Seraphine",
+          "name_es": "Seraphine",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Azir",
+          "name": "Azir",
+          "name_es": "Azir",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Xerath",
+          "name": "Xerath",
+          "name_es": "Xerath ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Leviathan",
+            "TFT_Item_Leviathan",
+            "TFT_Item_JeweledGauntlet"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "NidaFox",
+      "tier": "A",
+      "playstyle": "7 Slow Roll",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Kennen",
+          "name": "Kennen",
+          "name_es": "Kennen ",
+          "cost": 3,
+          "items": [
+            "TFT_Item_Redemption",
+            "TFT_Item_BrambleVest",
+            "TFT_Item_GargoyleStoneplate"
+          ]
+        },
+        {
+          "apiName": "TFT16_Neeko",
+          "name": "Neeko",
+          "name_es": "Neeko",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kobukoyuumi",
+          "name": "Kobukoyuumi",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Taric",
+          "name": "Taric",
+          "name_es": "Taric",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Wukong",
+          "name": "Wukong",
+          "name_es": "Wukong",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Nidalee",
+          "name": "Nidalee",
+          "name_es": "Nidalee ",
+          "cost": 4,
+          "items": [
+            "TFT_Item_UnstableConcoction",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_HextechGunblade"
+          ]
+        },
+        {
+          "apiName": "TFT16_Ahri",
+          "name": "Ahri",
+          "name_es": "Ahri",
+          "cost": 3,
+          "items": [
+            "TFT_Item_Leviathan",
+            "TFT_Item_Leviathan",
+            "TFT_Item_JeweledGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT16_Milio",
+          "name": "Milio",
+          "name_es": "Milio",
+          "cost": 3,
+          "items": [
+            "TFT_Item_StatikkShiv",
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_SpearOfShojin"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Brock n Roll",
+      "tier": "A",
+      "playstyle": "Fast 8",
+      "difficulty": "Hard",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Ornn",
+          "name": "Ornn",
+          "name_es": "Ornn",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Milio",
+          "name": "Milio",
+          "name_es": "Milio",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kobukoyuumi",
+          "name": "Kobukoyuumi",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Brock",
+          "name": "Brock",
+          "name_es": "Brock",
+          "cost": 5,
+          "items": [
+            "TFT_Item_SteraksGage",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT16_Braum",
+          "name": "Braum",
+          "name_es": "Braum",
+          "cost": 4,
+          "items": [
+            "TFT_Item_SpectralGauntlet",
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT16_Volibear",
+          "name": "Volibear",
+          "name_es": "Volibear ",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Skarner",
+          "name": "Skarner",
+          "name_es": "Skarner ",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Lissandra",
+          "name": "Lissandra",
+          "name_es": "Lissandra",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Zilean",
+          "name": "Zilean",
+          "name_es": "Zilean",
+          "cost": 5,
+          "items": [
+            "TFT_Item_StatikkShiv",
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_BlueBuff"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Ruined King",
+      "tier": "A",
+      "playstyle": "5 Slow Roll",
+      "difficulty": "Easy",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Gwen",
+          "name": "Gwen",
+          "name_es": "Gwen ",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Loris",
+          "name": "Loris",
+          "name_es": "Loris",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Braum",
+          "name": "Braum",
+          "name_es": "Braum",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Redemption",
+            "TFT_Item_WarmogsArmor",
+            "TFT_Item_NightHarvester"
+          ]
+        },
+        {
+          "apiName": "TFT16_Fiddlesticks",
+          "name": "Fiddlesticks",
+          "name_es": "Fiddlesticks",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Viego",
+          "name": "Viego",
+          "name_es": "Viego",
+          "cost": 1,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_TitansResolve",
+            "TFT_Item_GuardianAngel"
+          ]
+        },
+        {
+          "apiName": "TFT16_Kindred",
+          "name": "Kindred",
+          "name_es": "Kindred",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kalista",
+          "name": "Kalista",
+          "name_es": "Kalista ",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Crownguard",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_LastWhisper"
+          ]
+        },
+        {
+          "apiName": "TFT16_Yorick",
+          "name": "Yorick",
+          "name_es": "Yorick ",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Thresh",
+          "name": "Thresh",
+          "name_es": "Thresh ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_IonicSpark",
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_GuardianAngel"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Freeze Time",
+      "tier": "A",
+      "playstyle": "Fast 8",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Anivia",
+          "name": "Anivia",
+          "name_es": "Anivia",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Zilean",
+          "name": "Zilean",
+          "name_es": "Zilean",
+          "cost": 5,
+          "items": [
+            "TFT_Item_BlueBuff",
+            "TFT_Item_StatikkShiv",
+            "TFT_Item_Morellonomicon"
+          ]
+        },
+        {
+          "apiName": "TFT16_Lissandra",
+          "name": "Lissandra",
+          "name_es": "Lissandra",
+          "cost": 4,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_AdaptiveHelm"
+          ]
+        },
+        {
+          "apiName": "TFT16_Kennen",
+          "name": "Kennen",
+          "name_es": "Kennen ",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Volibear",
+          "name": "Volibear",
+          "name_es": "Volibear ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_SteraksGage",
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_Quicksilver"
+          ]
+        },
+        {
+          "apiName": "TFT16_Braum",
+          "name": "Braum",
+          "name_es": "Braum",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_NightHarvester",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT16_Ornn",
+          "name": "Ornn",
+          "name_es": "Ornn",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Sejuani",
+          "name": "Sejuani",
+          "name_es": "Sejuani",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kobukoyuumi",
+          "name": "Kobukoyuumi",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Dive Duo",
+      "tier": "A",
+      "playstyle": "Fast 8",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Sion",
+          "name": "Sion",
+          "name_es": "Sion",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Belveth",
+          "name": "Belveth",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_RunaansHurricane",
+            "TFT_Item_Quicksilver",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT16_Ambessa",
+          "name": "Ambessa",
+          "name_es": "Ambessa",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GuardianAngel",
+            "TFT_Item_UnstableConcoction",
+            "TFT_Item_FreeDeathblade"
+          ]
+        },
+        {
+          "apiName": "TFT16_Riftherald",
+          "name": "Riftherald",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_SpectralGauntlet",
+            "TFT_Item_RedBuff",
+            "TFT_Item_SteraksGage"
+          ]
+        },
+        {
+          "apiName": "TFT16_Luciansenna",
+          "name": "Luciansenna",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Aatrox",
+          "name": "Aatrox",
+          "name_es": "Aatrox ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_TitansResolve",
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_Bloodthirster"
+          ]
+        },
+        {
+          "apiName": "TFT16_Fiddlesticks",
+          "name": "Fiddlesticks",
+          "name_es": "Fiddlesticks",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Shyvana",
+          "name": "Shyvana",
+          "name_es": "Shyvana",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Aphelios Neeko Reroll",
+      "tier": "A",
+      "playstyle": "6 Slow Roll",
+      "difficulty": "Easy",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Neeko",
+          "name": "Neeko",
+          "name_es": "Neeko",
+          "cost": 2,
+          "items": [
+            "TFT_Item_IonicSpark",
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT16_Nidalee",
+          "name": "Nidalee",
+          "name_es": "Nidalee ",
+          "cost": 4,
+          "items": [
+            "TFT_Item_RabadonsDeathcap",
+            "TFT_Item_UnstableConcoction",
+            "TFT_Item_JeweledGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Xinzhao",
+          "name": "Xinzhao",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Bard",
+          "name": "Bard",
+          "name_es": "Bardo ",
+          "cost": 2,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_RabadonsDeathcap",
+            "TFT_Item_Leviathan"
+          ]
+        },
+        {
+          "apiName": "TFT16_Aphelios",
+          "name": "Aphelios",
+          "name_es": "Aphelios",
+          "cost": 2,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_RunaansHurricane",
+            "TFT_Item_InfinityEdge"
+          ]
+        },
+        {
+          "apiName": "TFT16_Vi",
+          "name": "Vi",
+          "name_es": "Vi",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Loris",
+          "name": "Loris",
+          "name_es": "Loris",
+          "cost": 3,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "FOR DEMACIA!",
+      "tier": "B",
+      "playstyle": "Fast 8",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Lux",
+          "name": "Lux",
+          "name_es": "Lux",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Crownguard",
+            "TFT_Item_Leviathan",
+            "TFT_Item_JeweledGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Xinzhao",
+          "name": "Xinzhao",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Jarvaniv",
+          "name": "Jarvaniv",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Galio",
+          "name": "Galio",
+          "name_es": "Galio",
+          "cost": 5,
+          "items": [
+            "TFT_Item_ThiefsGloves"
+          ]
+        },
+        {
+          "apiName": "TFT16_Poppy",
+          "name": "Poppy",
+          "name_es": "Poppy ",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Sona",
+          "name": "Sona",
+          "name_es": "Sona",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Zilean",
+          "name": "Zilean",
+          "name_es": "Zilean",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT16_Garen",
+          "name": "Garen",
+          "name_es": "Garen",
+          "cost": 4,
+          "items": [
+            "TFT_Item_BrambleVest",
+            "TFT_Item_DragonsClaw",
+            "TFT_Item_Redemption"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Yolo Yordles",
+      "tier": "B",
+      "playstyle": "6 Slow Roll",
+      "difficulty": "Easy",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Rumble",
+          "name": "Rumble",
+          "name_es": "Rumble",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Poppy",
+          "name": "Poppy",
+          "name_es": "Poppy ",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kobukoyuumi",
+          "name": "Kobukoyuumi",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Lulu",
+          "name": "Lulu",
+          "name_es": "Lulu",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Ziggs",
+          "name": "Ziggs",
+          "name_es": "Ziggs ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_RabadonsDeathcap",
+            "TFT_Item_JeweledGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kennen",
+          "name": "Kennen",
+          "name_es": "Kennen ",
+          "cost": 3,
+          "items": [
+            "TFT_Item_WarmogsArmor",
+            "TFT_Item_BrambleVest",
+            "TFT_Item_DragonsClaw"
+          ]
+        },
+        {
+          "apiName": "TFT16_Teemo",
+          "name": "Teemo",
+          "name_es": "Teemo",
+          "cost": 2,
+          "items": [
+            "TFT_Item_AdaptiveHelm",
+            "TFT_Item_StatikkShiv",
+            "TFT_Item_Morellonomicon"
+          ]
+        },
+        {
+          "apiName": "TFT16_Tristana",
+          "name": "Tristana",
+          "name_es": "Tristana",
+          "cost": 2,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Fast 9 Ionia",
+      "tier": "B",
+      "playstyle": "Fast 9",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Kindred",
+          "name": "Kindred",
+          "name_es": "Kindred",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Yunara",
+          "name": "Yunara",
+          "name_es": "Yunara",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_Crownguard"
+          ]
+        },
+        {
+          "apiName": "TFT16_Shyvana",
+          "name": "Shyvana",
+          "name_es": "Shyvana",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Sett",
+          "name": "Sett",
+          "name_es": "Sett",
+          "cost": 5,
+          "items": [
+            "TFT_Item_UnstableConcoction",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Crownguard"
+          ]
+        },
+        {
+          "apiName": "TFT16_Shen",
+          "name": "Shen",
+          "name_es": "Shen",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Luciansenna",
+          "name": "Luciansenna",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_RapidFireCannon",
+            "TFT_Item_LastWhisper",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT16_Ahri",
+          "name": "Ahri",
+          "name_es": "Ahri",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Wukong",
+          "name": "Wukong",
+          "name_es": "Wukong",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_Redemption",
+            "TFT_Item_WarmogsArmor"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sunshard Bard",
+      "tier": "B",
+      "playstyle": "6 Slow Roll",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Bard",
+          "name": "Bard",
+          "name_es": "Bardo ",
+          "cost": 2,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_ArchangelsStaff",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT16_Neeko",
+          "name": "Neeko",
+          "name_es": "Neeko",
+          "cost": 2,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_WarmogsArmor",
+            "TFT_Item_NightHarvester"
+          ]
+        },
+        {
+          "apiName": "TFT16_Nidalee",
+          "name": "Nidalee",
+          "name_es": "Nidalee ",
+          "cost": 4,
+          "items": [
+            "TFT_Item_ThiefsGloves"
+          ]
+        },
+        {
+          "apiName": "TFT16_Skarner",
+          "name": "Skarner",
+          "name_es": "Skarner ",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Brock",
+          "name": "Brock",
+          "name_es": "Brock",
+          "cost": 5,
+          "items": [
+            "TFT_Item_SteraksGage",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT16_Vi",
+          "name": "Vi",
+          "name_es": "Vi",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Milio",
+          "name": "Milio",
+          "name_es": "Milio",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Orianna",
+          "name": "Orianna",
+          "name_es": "Orianna ",
+          "cost": 2,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_StatikkShiv"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pyro Punch",
+      "tier": "B",
+      "playstyle": "Fast 9",
+      "difficulty": "Hard",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_AnnieTibbers",
+          "name": "Tibbers",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_NightHarvester",
+            "TFT_Item_BrambleVest",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT16_Annie",
+          "name": "Annie",
+          "name_es": "Annie",
+          "cost": 5,
+          "items": [
+            "TFT_Item_AdaptiveHelm",
+            "TFT_Item_StatikkShiv",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT16_Luciansenna",
+          "name": "Luciansenna",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Zilean",
+          "name": "Zilean",
+          "name_es": "Zilean",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kobukoyuumi",
+          "name": "Kobukoyuumi",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Sylas",
+          "name": "Sylas",
+          "name_es": "Sylas ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_UnstableConcoction",
+            "TFT_Item_HextechGunblade",
+            "TFT_Item_JeweledGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT16_Wukong",
+          "name": "Wukong",
+          "name_es": "Wukong",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kennen",
+          "name": "Kennen",
+          "name_es": "Kennen ",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Sett",
+          "name": "Sett",
+          "name_es": "Sett",
+          "cost": 5,
+          "items": [
+            "TFT_Item_TitansResolve",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_UnstableConcoction"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "4-Cost-Frosts",
+      "tier": "B",
+      "playstyle": "Fast 8",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Sejuani",
+          "name": "Sejuani",
+          "name_es": "Sejuani",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Orianna",
+          "name": "Orianna",
+          "name_es": "Orianna ",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Azir",
+          "name": "Azir",
+          "name_es": "Azir",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Lissandra",
+          "name": "Lissandra",
+          "name_es": "Lissandra",
+          "cost": 4,
+          "items": [
+            "TFT_Item_StatikkShiv",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_Morellonomicon"
+          ]
+        },
+        {
+          "apiName": "TFT16_Loris",
+          "name": "Loris",
+          "name_es": "Loris",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Renekton",
+          "name": "Renekton",
+          "name_es": "Renekton ",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Seraphine",
+          "name": "Seraphine",
+          "name_es": "Seraphine",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Leviathan",
+            "TFT_Item_Leviathan",
+            "TFT_Item_JeweledGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT16_Vi",
+          "name": "Vi",
+          "name_es": "Vi",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Braum",
+          "name": "Braum",
+          "name_es": "Braum",
+          "cost": 4,
+          "items": [
+            "TFT_Item_DragonsClaw",
+            "TFT_Item_BrambleVest",
+            "TFT_Item_Redemption"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Leap of Faith",
+      "tier": "B",
+      "playstyle": "5 Slow Roll",
+      "difficulty": "Easy",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Nautilus",
+          "name": "Nautilus",
+          "name_es": "Nautilus",
+          "cost": 3,
+          "items": [
+            "TFT_Item_WarmogsArmor",
+            "TFT16_Item_Bilgewater_FreebootersFrock",
+            "TFT_Item_SpectralGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT16_Missfortune",
+          "name": "Missfortune",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT16_Item_Bilgewater_LuckyEyepatch",
+            "TFT16_Item_Bilgewater_CaptainsBrew",
+            "TFT16_Item_Bilgewater_DeadmansDagger"
+          ]
+        },
+        {
+          "apiName": "TFT16_Tahmkench",
+          "name": "Tahmkench",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT16_Item_Bilgewater_PileOCitrus",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_Bloodthirster"
+          ]
+        },
+        {
+          "apiName": "TFT16_Gangplank",
+          "name": "Gangplank",
+          "name_es": "Gangplank",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Fizz",
+          "name": "Fizz",
+          "name_es": "Fizz",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Graves",
+          "name": "Graves",
+          "name_es": "Graves ",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Illaoi",
+          "name": "Illaoi",
+          "name_es": "Illaoi",
+          "cost": 1,
+          "items": [
+            "TFT_Item_TitansResolve",
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_InfinityEdge"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Plank Diff",
+      "tier": "B",
+      "playstyle": "Fast 8",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Ambessa",
+          "name": "Ambessa",
+          "name_es": "Ambessa",
+          "cost": 4,
+          "items": [
+            "TFT_Item_ThiefsGloves"
+          ]
+        },
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": [
+            "TFT_Item_RedBuff",
+            "TFT_Item_SpectralGauntlet",
+            "TFT_Item_SteraksGage"
+          ]
+        },
+        {
+          "apiName": "TFT16_Gangplank",
+          "name": "Gangplank",
+          "name_es": "Gangplank",
+          "cost": 3,
+          "items": [
+            "TFT_Item_UnstableConcoction",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_Quicksilver"
+          ]
+        },
+        {
+          "apiName": "TFT16_Nautilus",
+          "name": "Nautilus",
+          "name_es": "Nautilus",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Belveth",
+          "name": "Belveth",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_Quicksilver",
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_RunaansHurricane"
+          ]
+        },
+        {
+          "apiName": "TFT16_Reksai",
+          "name": "Reksai",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Sion",
+          "name": "Sion",
+          "name_es": "Sion",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Illaoi",
+          "name": "Illaoi",
+          "name_es": "Illaoi",
+          "cost": 1,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Chemtech Carnage",
+      "tier": "B",
+      "playstyle": "Fast 8",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Kindred",
+          "name": "Kindred",
+          "name_es": "Kindred",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Seraphine",
+          "name": "Seraphine",
+          "name_es": "Seraphine",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Ekko",
+          "name": "Ekko",
+          "name_es": "Ekko",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Blitzcrank",
+          "name": "Blitzcrank",
+          "name_es": "Blitzcrank",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Vi",
+          "name": "Vi",
+          "name_es": "Vi",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Drmundo",
+          "name": "Drmundo",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_BrambleVest",
+            "TFT_Item_WarmogsArmor",
+            "TFT_Item_DragonsClaw"
+          ]
+        },
+        {
+          "apiName": "TFT16_Ziggs",
+          "name": "Ziggs",
+          "name_es": "Ziggs ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_RabadonsDeathcap",
+            "TFT_Item_GuinsoosRageblade"
+          ]
+        },
+        {
+          "apiName": "TFT16_Singed",
+          "name": "Singed",
+          "name_es": "Singed",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT16_Warwick",
+          "name": "Warwick",
+          "name_es": "Warwick",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_TitansResolve",
+            "TFT_Item_SteraksGage"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Boom & Runes",
+      "tier": "B",
+      "playstyle": "Fast 9",
+      "difficulty": "Hard",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Caitlyn",
+          "name": "Caitlyn",
+          "name_es": "Caitlyn",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Ryze",
+          "name": "Ryze",
+          "name_es": "Ryze ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT16_Ziggs",
+          "name": "Ziggs",
+          "name_es": "Ziggs ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT16_Vi",
+          "name": "Vi",
+          "name_es": "Vi",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Wukong",
+          "name": "Wukong",
+          "name_es": "Wukong",
+          "cost": 4,
+          "items": [
+            "TFT_Item_BrambleVest",
+            "TFT_Item_NightHarvester",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT16_Taric",
+          "name": "Taric",
+          "name_es": "Taric",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Drmundo",
+          "name": "Drmundo",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kennen",
+          "name": "Kennen",
+          "name_es": "Kennen ",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Sett",
+          "name": "Sett",
+          "name_es": "Sett",
+          "cost": 5,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "White Wedding",
+      "tier": "B",
+      "playstyle": "6 Slow Roll",
+      "difficulty": "Easy",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Ashe",
+          "name": "Ashe",
+          "name_es": "Ashe",
+          "cost": 2,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_RunaansHurricane",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT16_Kindred",
+          "name": "Kindred",
+          "name_es": "Kindred",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Draven",
+          "name": "Draven",
+          "name_es": "Draven",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Tryndamere",
+          "name": "Tryndamere",
+          "name_es": "Tryndamere ",
+          "cost": 2,
+          "items": [
+            "TFT_Item_Quicksilver",
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_Bloodthirster"
+          ]
+        },
+        {
+          "apiName": "TFT16_Sejuani",
+          "name": "Sejuani",
+          "name_es": "Sejuani",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Briar",
+          "name": "Briar",
+          "name_es": "Briar",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Neeko",
+          "name": "Neeko",
+          "name_es": "Neeko",
+          "cost": 2,
+          "items": [
+            "TFT_Item_WarmogsArmor",
+            "TFT_Item_RedBuff",
+            "TFT_Item_SpectralGauntlet"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Blood Brothers",
+      "tier": "B",
+      "playstyle": "6 Slow Roll",
+      "difficulty": "Easy",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Yone",
+          "name": "Yone",
+          "name_es": "Yone",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT16_Shen",
+          "name": "Shen",
+          "name_es": "Shen",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kennen",
+          "name": "Kennen",
+          "name_es": "Kennen ",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Sett",
+          "name": "Sett",
+          "name_es": "Sett",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Yasuo",
+          "name": "Yasuo",
+          "name_es": "Yasuo",
+          "cost": 2,
+          "items": [
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_GuardianAngel",
+            "TFT16_Augment_DarkinWeapon_Scythe"
+          ]
+        },
+        {
+          "apiName": "TFT16_Wukong",
+          "name": "Wukong",
+          "name_es": "Wukong",
+          "cost": 4,
+          "items": [
+            "TFT_Item_SpectralGauntlet",
+            "TFT_Item_RedBuff",
+            "TFT_Item_SteraksGage"
+          ]
+        },
+        {
+          "apiName": "TFT16_Yunara",
+          "name": "Yunara",
+          "name_es": "Yunara",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kindred",
+          "name": "Kindred",
+          "name_es": "Kindred",
+          "cost": 5,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Trials of Twilight",
+      "tier": "B",
+      "playstyle": "6 Slow Roll",
+      "difficulty": "Easy",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Sona",
+          "name": "Sona",
+          "name_es": "Sona",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Poppy",
+          "name": "Poppy",
+          "name_es": "Poppy ",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Zaahen",
+          "name": "Zaahen",
+          "name_es": "Zaahen",
+          "cost": 5,
+          "items": [
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT16_Zilean",
+          "name": "Zilean",
+          "name_es": "Zilean",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Lux",
+          "name": "Lux",
+          "name_es": "Lux",
+          "cost": 4,
+          "items": [
+            "TFT_Item_StatikkShiv",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_Morellonomicon"
+          ]
+        },
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Garen",
+          "name": "Garen",
+          "name_es": "Garen",
+          "cost": 4,
+          "items": [
+            "TFT_Item_BrambleVest",
+            "TFT_Item_SpectralGauntlet",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT16_Galio",
+          "name": "Galio",
+          "name_es": "Galio",
+          "cost": 5,
+          "items": [
+            "TFT_Item_ThiefsGloves"
+          ]
+        },
+        {
+          "apiName": "TFT16_Jarvaniv",
+          "name": "Jarvaniv",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "ShuriMoon",
+      "tier": "C",
+      "playstyle": "Fast 8",
+      "difficulty": "Medium",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Vi",
+          "name": "Vi",
+          "name_es": "Vi",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Seraphine",
+          "name": "Seraphine",
+          "name_es": "Seraphine",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_AdaptiveHelm",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT16_Shyvana",
+          "name": "Shyvana",
+          "name_es": "Shyvana",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Renekton",
+          "name": "Renekton",
+          "name_es": "Renekton ",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Diana",
+          "name": "Diana",
+          "name_es": "Diana ",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": [
+            "TFT_Item_SteraksGage",
+            "TFT_Item_Redemption",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT16_Neeko",
+          "name": "Neeko",
+          "name_es": "Neeko",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Azir",
+          "name": "Azir",
+          "name_es": "Azir",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Xerath",
+          "name": "Xerath",
+          "name_es": "Xerath ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Crownguard",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_SpearOfShojin"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bilgewater Ryze",
+      "tier": "C",
+      "playstyle": "Fast 9",
+      "difficulty": "Hard",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Lissandra",
+          "name": "Lissandra",
+          "name_es": "Lissandra",
+          "cost": 4,
+          "items": [
+            "TFT_Item_StatikkShiv",
+            "TFT_Item_Morellonomicon"
+          ]
+        },
+        {
+          "apiName": "TFT16_Ryze",
+          "name": "Ryze",
+          "name_es": "Ryze ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_SpearOfShojin",
+            "TFT16_Item_Bilgewater_BlackmarketExplosives",
+            "TFT_Item_JeweledGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT16_Taric",
+          "name": "Taric",
+          "name_es": "Taric",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Tahmkench",
+          "name": "Tahmkench",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_SteraksGage",
+            "TFT16_Item_Bilgewater_PileOCitrus"
+          ]
+        },
+        {
+          "apiName": "TFT16_Braum",
+          "name": "Braum",
+          "name_es": "Braum",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Volibear",
+          "name": "Volibear",
+          "name_es": "Volibear ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_Quicksilver",
+            "TFT_Item_SteraksGage"
+          ]
+        },
+        {
+          "apiName": "TFT16_Fizz",
+          "name": "Fizz",
+          "name_es": "Fizz",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Illaoi",
+          "name": "Illaoi",
+          "name_es": "Illaoi",
+          "cost": 1,
+          "items": [
+            "TFT_Item_Redemption",
+            "TFT_Item_BrambleVest",
+            "TFT_Item_DragonsClaw"
+          ]
+        },
+        {
+          "apiName": "TFT16_Kobukoyuumi",
+          "name": "Kobukoyuumi",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Bloody Barrels",
+      "tier": "C",
+      "playstyle": "7 Slow Roll",
+      "difficulty": "Easy",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Fiddlesticks",
+          "name": "Fiddlesticks",
+          "name_es": "Fiddlesticks",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Nautilus",
+          "name": "Nautilus",
+          "name_es": "Nautilus",
+          "cost": 3,
+          "items": [
+            "TFT_Item_SpectralGauntlet",
+            "TFT_Item_WarmogsArmor",
+            "TFT_Item_RedBuff"
+          ]
+        },
+        {
+          "apiName": "TFT16_Draven",
+          "name": "Draven",
+          "name_es": "Draven",
+          "cost": 3,
+          "items": [
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_RunaansHurricane"
+          ]
+        },
+        {
+          "apiName": "TFT16_Twistedfate",
+          "name": "Twistedfate",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Gangplank",
+          "name": "Gangplank",
+          "name_es": "Gangplank",
+          "cost": 3,
+          "items": [
+            "TFT_Item_Quicksilver",
+            "TFT_Item_UnstableConcoction",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT16_Ambessa",
+          "name": "Ambessa",
+          "name_es": "Ambessa",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Briar",
+          "name": "Briar",
+          "name_es": "Briar",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Braum",
+          "name": "Braum",
+          "name_es": "Braum",
+          "cost": 4,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "EkkoRoll",
+      "tier": "C",
+      "playstyle": "6 Slow Roll",
+      "difficulty": "Easy",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Seraphine",
+          "name": "Seraphine",
+          "name_es": "Seraphine",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT16_Vi",
+          "name": "Vi",
+          "name_es": "Vi",
+          "cost": 2,
+          "items": [
+            "TFT_Item_ThiefsGloves"
+          ]
+        },
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Singed",
+          "name": "Singed",
+          "name_es": "Singed",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Taric",
+          "name": "Taric",
+          "name_es": "Taric",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Nidalee",
+          "name": "Nidalee",
+          "name_es": "Nidalee ",
+          "cost": 4,
+          "items": [
+            "TFT_Item_RabadonsDeathcap",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_HextechGunblade"
+          ]
+        },
+        {
+          "apiName": "TFT16_Ekko",
+          "name": "Ekko",
+          "name_es": "Ekko",
+          "cost": 2,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_TitansResolve",
+            "TFT_Item_Bloodthirster"
+          ]
+        },
+        {
+          "apiName": "TFT16_Neeko",
+          "name": "Neeko",
+          "name_es": "Neeko",
+          "cost": 2,
+          "items": [
+            "TFT_Item_Redemption",
+            "TFT_Item_BrambleVest",
+            "TFT_Item_NightHarvester"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bardphelios",
+      "tier": "C",
+      "playstyle": "6 Slow Roll",
+      "difficulty": "Easy",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Illaoi",
+          "name": "Illaoi",
+          "name_es": "Illaoi",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Volibear",
+          "name": "Volibear",
+          "name_es": "Volibear ",
+          "cost": 5,
+          "items": [
+            "TFT_Item_ThiefsGloves"
+          ]
+        },
+        {
+          "apiName": "TFT16_Shen",
+          "name": "Shen",
+          "name_es": "Shen",
+          "cost": 1,
+          "items": [
+            "TFT_Item_IonicSpark",
+            "TFT_Item_RedBuff"
+          ]
+        },
+        {
+          "apiName": "TFT16_Sion",
+          "name": "Sion",
+          "name_es": "Sion",
+          "cost": 2,
+          "items": [
+            "TFT_Item_DragonsClaw",
+            "TFT_Item_BrambleVest",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT16_Wukong",
+          "name": "Wukong",
+          "name_es": "Wukong",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Kobukoyuumi",
+          "name": "Kobukoyuumi",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Aphelios",
+          "name": "Aphelios",
+          "name_es": "Aphelios",
+          "cost": 2,
+          "items": [
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_RunaansHurricane",
+            "TFT_Item_GuinsoosRageblade"
+          ]
+        },
+        {
+          "apiName": "TFT16_Bard",
+          "name": "Bard",
+          "name_es": "Bardo ",
+          "cost": 2,
+          "items": [
+            "TFT_Item_ArchangelsStaff",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_SpearOfShojin"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Partner's in Crime",
+      "tier": "C",
+      "playstyle": "6 Slow Roll",
+      "difficulty": "Easy",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Kindred",
+          "name": "Kindred",
+          "name_es": "Kindred",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Twistedfate",
+          "name": "Twistedfate",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT16_Item_Bilgewater_CaptainsBrew",
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_HextechGunblade"
+          ]
+        },
+        {
+          "apiName": "TFT16_Missfortune",
+          "name": "Missfortune",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_InfinityEdge",
+            "TFT16_Item_Bilgewater_FirstMatesFlintlock",
+            "TFT16_Item_Bilgewater_DeadmansDagger"
+          ]
+        },
+        {
+          "apiName": "TFT16_Nautilus",
+          "name": "Nautilus",
+          "name_es": "Nautilus",
+          "cost": 3,
+          "items": [
+            "TFT_Item_SpectralGauntlet",
+            "TFT_Item_BrambleVest",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT16_Tahmkench",
+          "name": "Tahmkench",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT16_Item_Bilgewater_PileOCitrus",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_Bloodthirster"
+          ]
+        },
+        {
+          "apiName": "TFT16_Shyvana",
+          "name": "Shyvana",
+          "name_es": "Shyvana",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Volibear",
+          "name": "Volibear",
+          "name_es": "Volibear ",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Graves",
+          "name": "Graves",
+          "name_es": "Graves ",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Ornn",
+          "name": "Ornn",
+          "name_es": "Ornn",
+          "cost": 5,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Jurassic Guns",
+      "tier": "C",
+      "playstyle": "Fast 8",
+      "difficulty": "Hard",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Thex",
+          "name": "Thex",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_BlueBuff",
+            "TFT_Item_Crownguard"
+          ]
+        },
+        {
+          "apiName": "TFT16_Seraphine",
+          "name": "Seraphine",
+          "name_es": "Seraphine",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Azir",
+          "name": "Azir",
+          "name_es": "Azir",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Zilean",
+          "name": "Zilean",
+          "name_es": "Zilean",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Ornn",
+          "name": "Ornn",
+          "name_es": "Ornn",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Loris",
+          "name": "Loris",
+          "name_es": "Loris",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Braum",
+          "name": "Braum",
+          "name_es": "Braum",
+          "cost": 4,
+          "items": [
+            "TFT_Item_BrambleVest",
+            "TFT_Item_DragonsClaw",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT16_Orianna",
+          "name": "Orianna",
+          "name_es": "Orianna ",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Luciansenna",
+          "name": "Luciansenna",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_RapidFireCannon",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_LastWhisper"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Piltwater",
+      "tier": "C",
+      "playstyle": "Fast 8",
+      "difficulty": "Hard",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Nautilus",
+          "name": "Nautilus",
+          "name_es": "Nautilus",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Ornn",
+          "name": "Ornn",
+          "name_es": "Ornn",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Braum",
+          "name": "Braum",
+          "name_es": "Braum",
+          "cost": 4,
+          "items": [
+            "TFT_Item_BrambleVest",
+            "TFT_Item_NightHarvester",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT16_Thex",
+          "name": "Thex",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_BlueBuff",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_Crownguard"
+          ]
+        },
+        {
+          "apiName": "TFT16_Loris",
+          "name": "Loris",
+          "name_es": "Loris",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Graves",
+          "name": "Graves",
+          "name_es": "Graves ",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Missfortune",
+          "name": "Missfortune",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Luciansenna",
+          "name": "Luciansenna",
+          "name_es": "",
+          "cost": 0,
+          "items": [
+            "TFT_Item_RapidFireCannon",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_LastWhisper"
+          ]
+        },
+        {
+          "apiName": "TFT16_Shyvana",
+          "name": "Shyvana",
+          "name_es": "Shyvana",
+          "cost": 5,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Crescendo Reroll",
+      "tier": "C",
+      "playstyle": "5 Slow Roll",
+      "difficulty": "Easy",
+      "patch": "16.7",
+      "champions": [
+        {
+          "apiName": "TFT16_Jarvaniv",
+          "name": "Jarvaniv",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Zilean",
+          "name": "Zilean",
+          "name_es": "Zilean",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT16_Sona",
+          "name": "Sona",
+          "name_es": "Sona",
+          "cost": 1,
+          "items": [
+            "TFT_Item_HextechGunblade",
+            "TFT_Item_ArchangelsStaff",
+            "TFT_Item_ArchangelsStaff"
+          ]
+        },
+        {
+          "apiName": "TFT16_Garen",
+          "name": "Garen",
+          "name_es": "Garen",
+          "cost": 4,
+          "items": [
+            "TFT_Item_NightHarvester",
+            "TFT_Item_Redemption",
+            "TFT_Item_BrambleVest"
+          ]
+        },
+        {
+          "apiName": "TFT16_Galio",
+          "name": "Galio",
+          "name_es": "Galio",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Poppy",
+          "name": "Poppy",
+          "name_es": "Poppy ",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Lux",
+          "name": "Lux",
+          "name_es": "Lux",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Swain",
+          "name": "Swain",
+          "name_es": "Swain",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT16_Xinzhao",
+          "name": "Xinzhao",
+          "name_es": "",
+          "cost": 0,
+          "items": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,802 @@
+{
+  "source": "Blitz 16.6 + CDragon",
+  "patch": "16.6",
+  "scraped_at": "2026-03-23T22:22:33.008013+00:00",
+  "traits": [
+    {
+      "apiName": "TFT16_Sorcerer",
+      "name": "Arcanist",
+      "name_es": "Arcanólogo",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-sorcerer.webp",
+      "stats": {
+        "nb_games": 73481,
+        "nb_boards": 83805,
+        "avg_placement": 4.798787763088818,
+        "top_4_percent": 0.4340428578246552,
+        "top_1_percent": 0.11246599532286546,
+        "pick_rate": 0.04290837969090402,
+        "style": "3"
+      }
+    },
+    {
+      "apiName": "TFT16_XerathUnique",
+      "name": "Ascendant",
+      "name_es": "Ascendente",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-xerathunique.webp",
+      "stats": {
+        "nb_games": 31958,
+        "nb_boards": 33887,
+        "avg_placement": 3.729051103505252,
+        "top_4_percent": 0.631653487548684,
+        "top_1_percent": 0.21164286557299658,
+        "pick_rate": 0.017350232833192106,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_KaisaUnique",
+      "name": "Assimilator",
+      "name_es": "Asimilación",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-kaisaunique.webp",
+      "stats": {
+        "nb_games": 159157,
+        "nb_boards": 216771,
+        "avg_placement": 4.235084368916812,
+        "top_4_percent": 0.5545376546455952,
+        "top_1_percent": 0.1321441421494008,
+        "pick_rate": 0.11098732025507971,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_Bilgewater",
+      "name": "Bilgewater",
+      "name_es": "Aguas Estancadas",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-bilgewater.webp",
+      "stats": {
+        "nb_games": 2800,
+        "nb_boards": 2829,
+        "avg_placement": 1.269353128313892,
+        "top_4_percent": 0.9773771650759986,
+        "top_1_percent": 0.8900671615411806,
+        "pick_rate": 0.0014484554160917305,
+        "style": "6"
+      }
+    },
+    {
+      "apiName": "TFT16_Blacksmith",
+      "name": "Blacksmith",
+      "name_es": "Herrero",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-blacksmith.webp",
+      "stats": {
+        "nb_games": 188067,
+        "nb_boards": 277440,
+        "avg_placement": 4.1537682501811055,
+        "top_4_percent": 0.5642265815622263,
+        "top_1_percent": 0.16078179793341815,
+        "pick_rate": 0.14205000729603737,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_Brawler",
+      "name": "Bruiser",
+      "name_es": "Luchador",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-brawler.webp",
+      "stats": {
+        "nb_games": 62137,
+        "nb_boards": 69443,
+        "avg_placement": 4.686591020361144,
+        "top_4_percent": 0.45724735765918845,
+        "top_1_percent": 0.11440543731820407,
+        "pick_rate": 0.03555499804158997,
+        "style": "3"
+      }
+    },
+    {
+      "apiName": "TFT16_Caretaker",
+      "name": "Caretaker",
+      "name_es": "Protector",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-caretaker.webp",
+      "stats": {
+        "nb_games": 84161,
+        "nb_boards": 95414,
+        "avg_placement": 4.63430380012157,
+        "top_4_percent": 0.48907962858160936,
+        "top_1_percent": 0.09038126978138297,
+        "pick_rate": 0.04885221812335679,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_SylasTrait",
+      "name": "Chainbreaker",
+      "name_es": "Rompedor de cadenas",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-sylastrait.webp",
+      "stats": {
+        "nb_games": 163558,
+        "nb_boards": 242891,
+        "avg_placement": 3.2503211092265385,
+        "top_4_percent": 0.7288232581882853,
+        "top_1_percent": 0.2616916692739638,
+        "pick_rate": 0.12436082872744308,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_Teamup_AmbessaKindred",
+      "name": "Chosen Wolves",
+      "name_es": "Lobos elegidos",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-teamup_ambessakindred.webp",
+      "stats": {
+        "nb_games": 7077,
+        "nb_boards": 7077,
+        "avg_placement": 4.400734774622015,
+        "top_4_percent": 0.519994347887523,
+        "top_1_percent": 0.10541189769676416,
+        "pick_rate": 0.0036234425520258666,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_Chronokeeper",
+      "name": "Chronokeeper",
+      "name_es": "Guardián del tiempo",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-chronokeeper.webp",
+      "stats": {
+        "nb_games": 106829,
+        "nb_boards": 129173,
+        "avg_placement": 4.0782795832107634,
+        "top_4_percent": 0.5780241217544784,
+        "top_1_percent": 0.16542290482899566,
+        "pick_rate": 0.06613691462100287,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_DarkChild",
+      "name": "Dark Child",
+      "name_es": "Hija de la oscuridad",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-darkchild.webp",
+      "stats": {
+        "nb_games": 136982,
+        "nb_boards": 177213,
+        "avg_placement": 4.190476459170315,
+        "top_4_percent": 0.5462522006048842,
+        "top_1_percent": 0.18095743240193202,
+        "pick_rate": 0.09073352055562524,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_DarkinWeapon",
+      "name": "Darkin",
+      "name_es": "Oscuro",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-darkinweapon.webp",
+      "stats": {
+        "nb_games": 119163,
+        "nb_boards": 150265,
+        "avg_placement": 4.111483024342202,
+        "top_4_percent": 0.5748366317526651,
+        "top_1_percent": 0.14077618217389568,
+        "pick_rate": 0.07693607391269844,
+        "style": "1"
+      }
+    },
+    {
+      "apiName": "TFT16_Defender",
+      "name": "Defender",
+      "name_es": "Defensor",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-defender.webp",
+      "stats": {
+        "nb_games": 285117,
+        "nb_boards": 1065253,
+        "avg_placement": 4.290440551832637,
+        "top_4_percent": 0.5394654954412887,
+        "top_1_percent": 0.14701175136554828,
+        "pick_rate": 0.545412328511122,
+        "style": "1"
+      }
+    },
+    {
+      "apiName": "TFT16_Demacia",
+      "name": "Demacia",
+      "name_es": "Demacia",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-demacia.webp",
+      "stats": {
+        "nb_games": 108364,
+        "nb_boards": 132318,
+        "avg_placement": 4.340018741309473,
+        "top_4_percent": 0.5421074904782057,
+        "top_1_percent": 0.13479384559579227,
+        "pick_rate": 0.06774716286547387,
+        "style": "3"
+      }
+    },
+    {
+      "apiName": "TFT16_Magus",
+      "name": "Disruptor",
+      "name_es": "Disruptor",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-magus.webp",
+      "stats": {
+        "nb_games": 222833,
+        "nb_boards": 394004,
+        "avg_placement": 4.077299455130076,
+        "top_4_percent": 0.5785239532127531,
+        "top_1_percent": 0.15060691961963155,
+        "pick_rate": 0.20173108086313402,
+        "style": "1"
+      }
+    },
+    {
+      "apiName": "TFT16_ShyvanaUnique",
+      "name": "Dragonborn",
+      "name_es": "Hija del dragón",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-shyvanaunique.webp",
+      "stats": {
+        "nb_games": 227092,
+        "nb_boards": 437416,
+        "avg_placement": 3.8134755534422693,
+        "top_4_percent": 0.618959226781028,
+        "top_1_percent": 0.21132990737100063,
+        "pick_rate": 0.22395813866566996,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_Teamup_JarvanShyvana",
+      "name": "Dragonguards",
+      "name_es": "Guardia de dragones",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-teamup_jarvanshyvana.webp",
+      "stats": {
+        "nb_games": 8377,
+        "nb_boards": 8377,
+        "avg_placement": 3.8323982332577295,
+        "top_4_percent": 0.6302972424495643,
+        "top_1_percent": 0.18228482750387967,
+        "pick_rate": 0.004289045959915315,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_Emperor",
+      "name": "Emperor",
+      "name_es": "Emperador",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-emperor.webp",
+      "stats": {
+        "nb_games": 149593,
+        "nb_boards": 206329,
+        "avg_placement": 4.259080665875112,
+        "top_4_percent": 0.5366982480796724,
+        "top_1_percent": 0.1567181177154765,
+        "pick_rate": 0.10564098888186307,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_KindredUnique",
+      "name": "Eternal",
+      "name_es": "Eterno",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-kindredunique.webp",
+      "stats": {
+        "nb_games": 156423,
+        "nb_boards": 212064,
+        "avg_placement": 3.774300021690133,
+        "top_4_percent": 0.635087090598742,
+        "top_1_percent": 0.19368345608691143,
+        "pick_rate": 0.10857732391589844,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_Freljord",
+      "name": "Freljord",
+      "name_es": "Freljord",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-freljord.webp",
+      "stats": {
+        "nb_games": 34233,
+        "nb_boards": 35844,
+        "avg_placement": 4.1457664946296555,
+        "top_4_percent": 0.5662156507183708,
+        "top_1_percent": 0.14596177988561865,
+        "pick_rate": 0.018352221963376453,
+        "style": "3"
+      }
+    },
+    {
+      "apiName": "TFT16_Glutton",
+      "name": "Glutton",
+      "name_es": "Glotón",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-glutton.webp",
+      "stats": {
+        "nb_games": 92777,
+        "nb_boards": 105585,
+        "avg_placement": 4.6558294583921285,
+        "top_4_percent": 0.4467909804627201,
+        "top_1_percent": 0.15264269411798131,
+        "pick_rate": 0.05405979678615955,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_Gunslinger",
+      "name": "Gunslinger",
+      "name_es": "Pistolero",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-gunslinger.webp",
+      "stats": {
+        "nb_games": 7144,
+        "nb_boards": 7289,
+        "avg_placement": 3.9407407407407407,
+        "top_4_percent": 0.5947873799725651,
+        "top_1_percent": 0.18916323731138546,
+        "pick_rate": 0.003731987107773992,
+        "style": "5"
+      }
+    },
+    {
+      "apiName": "TFT16_Harvester",
+      "name": "Harvester",
+      "name_es": "Cosechador",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-harvester.webp",
+      "stats": {
+        "nb_games": 177205,
+        "nb_boards": 257434,
+        "avg_placement": 3.7382733600571765,
+        "top_4_percent": 0.6438154501103135,
+        "top_1_percent": 0.19521223703427487,
+        "pick_rate": 0.1318068828512402,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_Heroic",
+      "name": "Heroic",
+      "name_es": "Heroico",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-heroic.webp",
+      "stats": {
+        "nb_games": 186065,
+        "nb_boards": 271378,
+        "avg_placement": 3.9417428150331615,
+        "top_4_percent": 0.6047310243183494,
+        "top_1_percent": 0.16773028739867354,
+        "pick_rate": 0.1389462474047867,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_HexMech",
+      "name": "HexMech",
+      "name_es": "Mecha hextech",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-hexmech.webp",
+      "stats": {
+        "nb_games": 25340,
+        "nb_boards": 26281,
+        "avg_placement": 4.956935250703797,
+        "top_4_percent": 0.4078596971772046,
+        "top_1_percent": 0.08160237388724036,
+        "pick_rate": 0.01345594089441738,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_Huntress",
+      "name": "Huntress",
+      "name_es": "Cazadora",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-huntress.webp",
+      "stats": {
+        "nb_games": 61617,
+        "nb_boards": 66748,
+        "avg_placement": 4.888660844032299,
+        "top_4_percent": 0.43404593189615137,
+        "top_1_percent": 0.0932869919551767,
+        "pick_rate": 0.034175150976773004,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_ZaahenTrait",
+      "name": "Immortal",
+      "name_es": "Inmortal",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-zaahentrait.webp",
+      "stats": {
+        "nb_games": 21916,
+        "nb_boards": 21916,
+        "avg_placement": 3.6445225167678057,
+        "top_4_percent": 0.6753205274444495,
+        "top_1_percent": 0.1467810375507597,
+        "pick_rate": 0.011221049451773194,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_Invoker",
+      "name": "Invoker",
+      "name_es": "Conjurador",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-invoker.webp",
+      "stats": {
+        "nb_games": 177074,
+        "nb_boards": 264663,
+        "avg_placement": 4.331513505140228,
+        "top_4_percent": 0.5305938936892892,
+        "top_1_percent": 0.15077245094964806,
+        "pick_rate": 0.13550814980172698,
+        "style": "1"
+      }
+    },
+    {
+      "apiName": "TFT16_Ionia",
+      "name": "Ionia",
+      "name_es": "Jonia",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-ionia.webp",
+      "stats": {
+        "nb_games": 84060,
+        "nb_boards": 99581,
+        "avg_placement": 4.439568605398458,
+        "top_4_percent": 0.5093087242930592,
+        "top_1_percent": 0.14756386568123395,
+        "pick_rate": 0.050985733046953204,
+        "style": "1"
+      }
+    },
+    {
+      "apiName": "TFT16_Explorer",
+      "name": "Ixtal",
+      "name_es": "Ixtal",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-explorer.webp",
+      "stats": {
+        "nb_games": 26159,
+        "nb_boards": 27159,
+        "avg_placement": 5.770139911634757,
+        "top_4_percent": 0.25957290132547867,
+        "top_1_percent": 0.0735640648011782,
+        "pick_rate": 0.013905479196053484,
+        "style": "3"
+      }
+    },
+    {
+      "apiName": "TFT16_Juggernaut",
+      "name": "Juggernaut",
+      "name_es": "Coloso",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-juggernaut.webp",
+      "stats": {
+        "nb_games": 1719,
+        "nb_boards": 1725,
+        "avg_placement": 4.517101449275362,
+        "top_4_percent": 0.4950724637681159,
+        "top_1_percent": 0.10434782608695652,
+        "pick_rate": 0.0008832045220071526,
+        "style": "5"
+      }
+    },
+    {
+      "apiName": "TFT16_Longshot",
+      "name": "Longshot",
+      "name_es": "Tiro largo",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-longshot.webp",
+      "stats": {
+        "nb_games": 127001,
+        "nb_boards": 160737,
+        "avg_placement": 4.195560615392272,
+        "top_4_percent": 0.5490503474490336,
+        "top_1_percent": 0.16717368719011091,
+        "pick_rate": 0.08229776536455867,
+        "style": "1"
+      }
+    },
+    {
+      "apiName": "TFT16_Noxus",
+      "name": "Noxus",
+      "name_es": "Noxus",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-noxus.webp",
+      "stats": {
+        "nb_games": 84960,
+        "nb_boards": 94318,
+        "avg_placement": 4.1291280148423,
+        "top_4_percent": 0.564876755897164,
+        "top_1_percent": 0.1440975351179433,
+        "pick_rate": 0.04829106325024384,
+        "style": "5"
+      }
+    },
+    {
+      "apiName": "TFT16_Piltover",
+      "name": "Piltover",
+      "name_es": "Piltover",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-piltover.webp",
+      "stats": {
+        "nb_games": 20738,
+        "nb_boards": 21436,
+        "avg_placement": 4.680505667770677,
+        "top_4_percent": 0.47730559313336757,
+        "top_1_percent": 0.09166394551476419,
+        "pick_rate": 0.010975288193475551,
+        "style": "3"
+      }
+    },
+    {
+      "apiName": "TFT16_Teamup_SingedTeemo",
+      "name": "Poison Pals",
+      "name_es": "Colegas tóxicos",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-teamup_singedteemo.webp",
+      "stats": {
+        "nb_games": 0,
+        "nb_boards": 0,
+        "avg_placement": null,
+        "top_4_percent": null,
+        "top_1_percent": null,
+        "pick_rate": 0,
+        "style": null
+      }
+    },
+    {
+      "apiName": "TFT16_Rapidfire",
+      "name": "Quickstriker",
+      "name_es": "Impactoveloz",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-rapidfire.webp",
+      "stats": {
+        "nb_games": 833,
+        "nb_boards": 834,
+        "avg_placement": 4.089928057553957,
+        "top_4_percent": 0.5839328537170264,
+        "top_1_percent": 0.13069544364508393,
+        "pick_rate": 0.0004270101862921538,
+        "style": "5"
+      }
+    },
+    {
+      "apiName": "TFT16_BaronUnique",
+      "name": "Riftscourge",
+      "name_es": "Azote de la Grieta",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-baronunique.webp",
+      "stats": {
+        "nb_games": 24577,
+        "nb_boards": 25422,
+        "avg_placement": 2.8738593455003145,
+        "top_4_percent": 0.7900409062303335,
+        "top_1_percent": 0.3335824417872876,
+        "pick_rate": 0.01301613064258889,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_RuneMage",
+      "name": "Rune Mage",
+      "name_es": "Hechicero rúnico",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-runemage.webp",
+      "stats": {
+        "nb_games": 105826,
+        "nb_boards": 133213,
+        "avg_placement": 3.6263407970095254,
+        "top_4_percent": 0.6575591301802242,
+        "top_1_percent": 0.21471517680880928,
+        "pick_rate": 0.06820540521167469,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_Teamup_LucianVayne",
+      "name": "Sentinels of Light",
+      "name_es": "Centinelas de la Luz",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-teamup_lucianvayne.webp",
+      "stats": {
+        "nb_games": 0,
+        "nb_boards": 0,
+        "avg_placement": null,
+        "top_4_percent": null,
+        "top_1_percent": null,
+        "pick_rate": 0,
+        "style": null
+      }
+    },
+    {
+      "apiName": "TFT16_ShadowIsles",
+      "name": "Shadow Isles",
+      "name_es": "Islas de la Sombra",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-shadowisles.webp",
+      "stats": {
+        "nb_games": 85794,
+        "nb_boards": 95352,
+        "avg_placement": 4.102346846752376,
+        "top_4_percent": 0.5841110714959837,
+        "top_1_percent": 0.13537887208741428,
+        "pick_rate": 0.04882047396082668,
+        "style": "3"
+      }
+    },
+    {
+      "apiName": "TFT16_Shurima",
+      "name": "Shurima",
+      "name_es": "Shurima",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-shurima.webp",
+      "stats": {
+        "nb_games": 15824,
+        "nb_boards": 16315,
+        "avg_placement": 3.200894772323344,
+        "top_4_percent": 0.7319973034258749,
+        "top_1_percent": 0.27400870258013116,
+        "pick_rate": 0.008353322769012577,
+        "style": "5"
+      }
+    },
+    {
+      "apiName": "TFT16_Slayer",
+      "name": "Slayer",
+      "name_es": "Verdugo",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-slayer.webp",
+      "stats": {
+        "nb_games": 136403,
+        "nb_boards": 170640,
+        "avg_placement": 4.459355405801348,
+        "top_4_percent": 0.5142631116319953,
+        "top_1_percent": 0.11013770876062115,
+        "pick_rate": 0.0873681273248119,
+        "style": "1"
+      }
+    },
+    {
+      "apiName": "TFT16_Soulbound",
+      "name": "Soulbound",
+      "name_es": "Ánima",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-soulbound.webp",
+      "stats": {
+        "nb_games": 168135,
+        "nb_boards": 243068,
+        "avg_placement": 3.748637319149111,
+        "top_4_percent": 0.6386314364815889,
+        "top_1_percent": 0.2034785899698462,
+        "pick_rate": 0.12445145319144034,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_AurelionSolUnique",
+      "name": "Star Forger",
+      "name_es": "Forjador de estrellas",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-aurelionsolunique.webp",
+      "stats": {
+        "nb_games": 39961,
+        "nb_boards": 42262,
+        "avg_placement": 4.7178279900627,
+        "top_4_percent": 0.4384005678457352,
+        "top_1_percent": 0.12199219212114043,
+        "pick_rate": 0.021638254787864512,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_Targon",
+      "name": "Targon",
+      "name_es": "Targon",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-targon.webp",
+      "stats": {
+        "nb_games": 271127,
+        "nb_boards": 750720,
+        "avg_placement": 4.313499711632851,
+        "top_4_percent": 0.532208546056829,
+        "top_1_percent": 0.14886804239330081,
+        "pick_rate": 0.3843706079775128,
+        "style": "5"
+      }
+    },
+    {
+      "apiName": "TFT16_TheBoss",
+      "name": "The Boss",
+      "name_es": "El Jefe",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-theboss.webp",
+      "stats": {
+        "nb_games": 134285,
+        "nb_boards": 168859,
+        "avg_placement": 4.022822559632376,
+        "top_4_percent": 0.5954769405689652,
+        "top_1_percent": 0.14125233910509985,
+        "pick_rate": 0.08645625065600336,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_Teamup_EkkoZilean",
+      "name": "Timewinders",
+      "name_es": "Engranajes temporales",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-teamup_ekkozilean.webp",
+      "stats": {
+        "nb_games": 0,
+        "nb_boards": 0,
+        "avg_placement": null,
+        "top_4_percent": null,
+        "top_1_percent": null,
+        "pick_rate": 0,
+        "style": null
+      }
+    },
+    {
+      "apiName": "TFT16_Vanquisher",
+      "name": "Vanquisher",
+      "name_es": "Conquistador",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-vanquisher.webp",
+      "stats": {
+        "nb_games": 136414,
+        "nb_boards": 173823,
+        "avg_placement": 3.997635648212067,
+        "top_4_percent": 0.5962653596576004,
+        "top_1_percent": 0.15953909521837176,
+        "pick_rate": 0.08899783166889814,
+        "style": "1"
+      }
+    },
+    {
+      "apiName": "TFT16_Void",
+      "name": "Void",
+      "name_es": "Vacío",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-void.webp",
+      "stats": {
+        "nb_games": 53456,
+        "nb_boards": 57364,
+        "avg_placement": 4.503146298523593,
+        "top_4_percent": 0.47828966863637157,
+        "top_1_percent": 0.15269570674057417,
+        "pick_rate": 0.02937051837705409,
+        "style": "5"
+      }
+    },
+    {
+      "apiName": "TFT16_Warden",
+      "name": "Warden",
+      "name_es": "Guardián",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-warden.webp",
+      "stats": {
+        "nb_games": 74086,
+        "nb_boards": 80228,
+        "avg_placement": 3.7679383794697943,
+        "top_4_percent": 0.6468784664664166,
+        "top_1_percent": 0.16369822890830457,
+        "pick_rate": 0.04107694631396513,
+        "style": "5"
+      }
+    },
+    {
+      "apiName": "TFT16_AatroxUnique",
+      "name": "World Ender",
+      "name_es": "Aniquilador de mundos",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-aatroxunique.webp",
+      "stats": {
+        "nb_games": 77081,
+        "nb_boards": 87070,
+        "avg_placement": 3.9858511151434413,
+        "top_4_percent": 0.6073569607460321,
+        "top_1_percent": 0.1293727174587133,
+        "pick_rate": 0.04458006824994944,
+        "style": "4"
+      }
+    },
+    {
+      "apiName": "TFT16_Yordle",
+      "name": "Yordle",
+      "name_es": "Yordle",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-yordle.webp",
+      "stats": {
+        "nb_games": 120555,
+        "nb_boards": 155617,
+        "avg_placement": 4.188428520022619,
+        "top_4_percent": 0.5634606487431244,
+        "top_1_percent": 0.15574718552408368,
+        "pick_rate": 0.07967631194271714,
+        "style": "1"
+      }
+    },
+    {
+      "apiName": "TFT16_Zaun",
+      "name": "Zaun",
+      "name_es": "Zaun",
+      "iconUrl": "https://blitz-cdn.blitz.gg/blitz/tft/traits/dark/trait-zaun.webp",
+      "stats": {
+        "nb_games": 84618,
+        "nb_boards": 94795,
+        "avg_placement": 4.272602609677113,
+        "top_4_percent": 0.5545089186822924,
+        "top_1_percent": 0.11833208510458751,
+        "pick_rate": 0.04853528850067712,
+        "style": "1"
+      }
+    }
+  ]
+}
