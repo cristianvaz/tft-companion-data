@@ -1,0 +1,694 @@
+{
+  "source": "Mobalytics (Selenium)",
+  "patch": "16.8",
+  "scraped_at": "2026-04-24T16:15:19.223295+00:00",
+  "augments": [
+    {
+      "name": "Band of Thieves",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Panda de ladrones"
+    },
+    {
+      "name": "Best Friends I",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Mejores amiguis I"
+    },
+    {
+      "name": "Expedition",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Expedición"
+    },
+    {
+      "name": "Group Hug I",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Abrazo grupal"
+    },
+    {
+      "name": "Patience is a Virtue",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "La paciencia es una virtud"
+    },
+    {
+      "name": "Restart Mission",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Reinicio de misión"
+    },
+    {
+      "name": "Rolling For Days I",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Tiro porque me toca I"
+    },
+    {
+      "name": "Slice of Life",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Cotidiano"
+    },
+    {
+      "name": "Small Grab Bag",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Bolsa sorpresa pequeña"
+    },
+    {
+      "name": "The Tower",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "La torre"
+    },
+    {
+      "name": "Twin Guardians",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Guardianes gemelos"
+    },
+    {
+      "name": "A Magic Roll",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Pergamino mágico"
+    },
+    {
+      "name": "Apotheotic Forge",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Forja apoteósica"
+    },
+    {
+      "name": "Bandle Bounty I",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Botín de Bandle I"
+    },
+    {
+      "name": "Bandle Bounty II",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Botín de Bandle II"
+    },
+    {
+      "name": "Cosmic Restart",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Reinicio cósmico"
+    },
+    {
+      "name": "Exclusive Customization",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Hecho a medida"
+    },
+    {
+      "name": "Exiles II",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Exiliados II"
+    },
+    {
+      "name": "Feed the Flames",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Alimentad las llamas"
+    },
+    {
+      "name": "Heart of Steel",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Corazón de acero"
+    },
+    {
+      "name": "Heroic Grab Bag",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Bolsa sorpresa heroica"
+    },
+    {
+      "name": "Heroic Grab Bag+",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Bolsa sorpresa heroica+"
+    },
+    {
+      "name": "Invader Zed",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Invasión de Zed"
+    },
+    {
+      "name": "Legion of Threes",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Legión del tres"
+    },
+    {
+      "name": "Patient Study",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Estudio y paciencia"
+    },
+    {
+      "name": "Replication",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Réplica"
+    },
+    {
+      "name": "Seraphim's Staff",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Bastón del serafín"
+    },
+    {
+      "name": "Slammin'",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Golpetazos"
+    },
+    {
+      "name": "Slammin'+",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Golpetazos+"
+    },
+    {
+      "name": "Solo Plate",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Protección en solitario"
+    },
+    {
+      "name": "Stars Are Born",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Lluvia de estrellas"
+    },
+    {
+      "name": "Sunfire Board",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Tablero de fuego solar"
+    },
+    {
+      "name": "Two Trick",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Dos de dos"
+    },
+    {
+      "name": "Baron's Lair",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Guarida del Barón"
+    },
+    {
+      "name": "Build a Bud",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Amigos a medida"
+    },
+    {
+      "name": "Commerce Core",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Núcleo comercial"
+    },
+    {
+      "name": "Coronation",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Coronación"
+    },
+    {
+      "name": "Exclusive Customization II",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Hecho a medida II"
+    },
+    {
+      "name": "Expected Unexpectedness",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Espera lo inesperado"
+    },
+    {
+      "name": "Golden Gamble",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Apuesta dorada"
+    },
+    {
+      "name": "Golden Gamble+",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Apuesta dorada+"
+    },
+    {
+      "name": "Golden Gamble++",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Apuesta dorada++"
+    },
+    {
+      "name": "New Recruit",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Nuevo recluta"
+    },
+    {
+      "name": "Radiant Rascal",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Pillín radiante"
+    },
+    {
+      "name": "Radiant Relics",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Reliquias radiantes"
+    },
+    {
+      "name": "Shimmerscale Essence",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Esencia de brilloescama"
+    },
+    {
+      "name": "Subscription Service",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Servicio de suscripción"
+    },
+    {
+      "name": "Upward Mobility",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Ascenso social"
+    },
+    {
+      "name": "Urf's Grab Bag",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Bolsa sorpresa de Urf"
+    },
+    {
+      "name": "Wise Spending",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Gasto con cabeza"
+    },
+    {
+      "name": "Branching Out",
+      "tier": "S",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Ramificación"
+    },
+    {
+      "name": "Branching Out+",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Ramificación+"
+    },
+    {
+      "name": "Cognitive Tax",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Impuesto cognitivo"
+    },
+    {
+      "name": "Cognitive Tax+",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Impuesto cognitivo+"
+    },
+    {
+      "name": "Continuous Conjuration",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Conjuración continua"
+    },
+    {
+      "name": "Corrosion",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Corrosión"
+    },
+    {
+      "name": "Electrocharge I",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Electrocarga I"
+    },
+    {
+      "name": "Extra Buckles",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Cinturones adicionales"
+    },
+    {
+      "name": "Feeling Lucky",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "La fortuna te sonríe"
+    },
+    {
+      "name": "Find Your Center",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "El centro de todo"
+    },
+    {
+      "name": "Forge a Friend",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Forja de amigos"
+    },
+    {
+      "name": "Good For Something I",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Porque yo lo valgo"
+    },
+    {
+      "name": "Item Grab Bag",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Bolsa sorpresa de objetos"
+    },
+    {
+      "name": "Kick Start",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Comienzo aventajado"
+    },
+    {
+      "name": "Late Game Specialist",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Especialista en final de partida"
+    },
+    {
+      "name": "Latent Forge",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Forja latente"
+    },
+    {
+      "name": "Makeshift Armor I",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Armadura improvisada I"
+    },
+    {
+      "name": "Missed Connections",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Conexión perdida"
+    },
+    {
+      "name": "On a Roll",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "En racha"
+    },
+    {
+      "name": "Slightly Magic Roll",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Pergamino ligeramente mágico"
+    },
+    {
+      "name": "Stellar Combo",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Combo estelar"
+    },
+    {
+      "name": "Team Building",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Coleguis del curro"
+    },
+    {
+      "name": "Termeepnal Velocity",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Velocidad temperameeptal"
+    },
+    {
+      "name": "Arcane Viktor-y",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Viktor-ia de Arcane"
+    },
+    {
+      "name": "Backline Blueprint",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Plano de retaguardia"
+    },
+    {
+      "name": "Best Friends II",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Mejores amiguis II"
+    },
+    {
+      "name": "Big Grab Bag",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Bolsa sorpresa grande"
+    },
+    {
+      "name": "Birthday Reunion",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Reunión cumpleañera"
+    },
+    {
+      "name": "Booster Pack++",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Paquete de mejora++"
+    },
+    {
+      "name": "Bronze For Life I",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Bronce de por vida I"
+    },
+    {
+      "name": "Care Package",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Provisiones"
+    },
+    {
+      "name": "Cluttered Mind",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Mente saturada"
+    },
+    {
+      "name": "Crash Test Dummies",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "A prueba de choques"
+    },
+    {
+      "name": "Crown's Will",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Voluntad de la corona"
+    },
+    {
+      "name": "Cry Me A River",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Una lágrima en la arena"
+    },
+    {
+      "name": "Cybernetic Implants",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Implantes cibernéticos"
+    },
+    {
+      "name": "Duo Queue",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Cola dúo"
+    },
+    {
+      "name": "Electrocharge II",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Electrocarga II"
+    },
+    {
+      "name": "Epic Rolldown",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Cambiazo épico"
+    },
+    {
+      "name": "Gilded Steel",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Acero dorado"
+    },
+    {
+      "name": "Glass Cannon II",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Fuerte pero frágil II"
+    },
+    {
+      "name": "Healing Orbs II",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Orbes curativos II"
+    },
+    {
+      "name": "Heat Death",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Muerte acalorada"
+    },
+    {
+      "name": "Hefty Rolls",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Cambios importantes"
+    },
+    {
+      "name": "Heroic Grab Bag++",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Bolsa sorpresa heroica++"
+    },
+    {
+      "name": "Jeweled Lotus I",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Loto enjoyado I"
+    },
+    {
+      "name": "Know Your Enemy",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "Conoce a tus enemigos"
+    },
+    {
+      "name": "Last Second Save",
+      "tier": "A",
+      "notes": "",
+      "synergies": [],
+      "name_es": "En el último segundo"
+    }
+  ],
+  "set": 17
+}
