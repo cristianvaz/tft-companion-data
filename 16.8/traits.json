@@ -1,0 +1,271 @@
+{
+  "source": "CDragon (latest)",
+  "patch": "latest",
+  "scraped_at": "2026-04-25T13:38:33.792543+00:00",
+  "traits": [
+    {
+      "apiName": "TFT17_AnimaSquad",
+      "name": "Anima",
+      "name_es": "Ánima",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_animatech.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_ADMIN",
+      "name": "Arbiter",
+      "name_es": "Sentenciador",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_arbiter.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_ResistTank",
+      "name": "Bastion",
+      "name_es": "Bastión",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_9_bastion.png"
+    },
+    {
+      "apiName": "TFT17_HPTank",
+      "name": "Brawler",
+      "name_es": "Luchador",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_brawler.png"
+    },
+    {
+      "apiName": "TFT17_ShenUniqueTrait",
+      "name": "Bulwark",
+      "name_es": "Baluarte",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_bulwark.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_ASTrait",
+      "name": "Challenger",
+      "name_es": "Contendiente",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_challenger.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_MissFortuneUndeterminedTrait",
+      "name": "Choose Trait",
+      "name_es": "Atributo elegido",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_missfortuneundetermindedtrait.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_SonaUniqueTrait",
+      "name": "Commander",
+      "name_es": "Comandante",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_commander.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_ManaTrait",
+      "name": "Conduit",
+      "name_es": "Conducto",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_channeler.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_MorganaUniqueTrait",
+      "name": "Dark Lady",
+      "name_es": "Dama oscura",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_darklady.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_DarkStar",
+      "name": "Dark Star",
+      "name_es": "Estrella oscura",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_darkstar.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_FioraUniqueTrait",
+      "name": "Divine Duelist",
+      "name_es": "Duelista divino",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_divineduelist.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_VexUniqueTrait",
+      "name": "Doomer",
+      "name_es": "Fatalista",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_doomer.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_JhinUniqueTrait",
+      "name": "Eradicator",
+      "name_es": "Extirpador",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_singularity.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_GravesTrait",
+      "name": "Factory New",
+      "name_es": "Nuevecito",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_factorynew.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Fateweaver",
+      "name": "Fateweaver",
+      "name_es": "Tejedestinos",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_fateweaver.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_ZedUniqueTrait",
+      "name": "Galaxy Hunter",
+      "name_es": "Cazador galáctico",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_galaxyhunter.tft_set17.png"
+    },
+    {
+      "apiName": "Set17_CarouselMarket_EmpoweredHexTrait",
+      "name": "God-Blessed",
+      "name_es": "Bendito por los dioses",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_godblessed.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_MissFortuneUniqueTrait",
+      "name": "Gun Goddess",
+      "name_es": "Diosa de las pistolas",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_gungoddess.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_MeleeTrait",
+      "name": "Marauder",
+      "name_es": "Yelmo sombrío",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_16_slayer.png"
+    },
+    {
+      "apiName": "TFT17_Mecha",
+      "name": "Mecha",
+      "name_es": "Mecha",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_mecha.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Astronaut",
+      "name": "Meeple",
+      "name_es": "Meeple",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_astronaut.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_DRX",
+      "name": "N.O.V.A.",
+      "name_es": "N.O.V.A.",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_nova.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_TahmKenchUniqueTrait",
+      "name": "Oracle",
+      "name_es": "Oráculo",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_12_arcana.tft_set12.png"
+    },
+    {
+      "apiName": "TFT17_BlitzcrankUniqueTrait",
+      "name": "Party Animal",
+      "name_es": "Bestia fiestera",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_partyanimal.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Primordian",
+      "name": "Primordian",
+      "name_es": "Primordiano",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_primordian.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_PsyOps",
+      "name": "Psionic",
+      "name_es": "Psiónico",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_psyops.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_RhaastUniqueTrait",
+      "name": "Redeemer",
+      "name_es": "Redentor",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_redeemer.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_APTrait",
+      "name": "Replicator",
+      "name_es": "Replicador",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_replicator.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_AssassinTrait",
+      "name": "Rogue",
+      "name_es": "Pícaro",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_rogue.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_SummonTrait",
+      "name": "Shepherd",
+      "name_es": "Pastor",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_shepherd.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_RangedTrait",
+      "name": "Sniper",
+      "name_es": "Francotirador",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_6_sniper.png"
+    },
+    {
+      "apiName": "TFT17_SpaceGroove",
+      "name": "Space Groove",
+      "name_es": "Onda espacial",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_spacegroove.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Stargazer_Wolf",
+      "name": "Stargazer",
+      "name_es": "Astral",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_stargazer.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Stargazer_Medallion",
+      "name": "Stargazer",
+      "name_es": "Astral",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_stargazer.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Stargazer_Huntress",
+      "name": "Stargazer",
+      "name_es": "Astral",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_stargazer.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Stargazer_Serpent",
+      "name": "Stargazer",
+      "name_es": "Astral",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_stargazer.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Stargazer_Shield",
+      "name": "Stargazer",
+      "name_es": "Astral",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_stargazer.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Stargazer_Fountain",
+      "name": "Stargazer",
+      "name_es": "Astral",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_stargazer.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Stargazer_Mountain",
+      "name": "Stargazer",
+      "name_es": "Astral",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_stargazer.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Stargazer",
+      "name": "Stargazer",
+      "name_es": "Astral",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_stargazer.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Timebreaker",
+      "name": "Timebreaker",
+      "name_es": "Disruptor temporal",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_timebreaker.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_ShieldTank",
+      "name": "Vanguard",
+      "name_es": "Vanguardia",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_12_vanguard.tft_set12.png"
+    },
+    {
+      "apiName": "TFT17_FlexTrait",
+      "name": "Voyager",
+      "name_es": "Viajante",
+      "iconUrl": "https://raw.communitydragon.org/latest/game/ux/traiticons/trait_icon_17_voyager.tft_set17.png"
+    }
+  ]
+}

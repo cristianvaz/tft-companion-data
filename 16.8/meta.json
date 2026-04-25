@@ -1,3756 +1,3564 @@
 {
-  "source": "Mobalytics (Selenium)",
+  "source": "Blitz (patch 16.8)",
   "patch": "16.8",
-  "scraped_at": "2026-04-24T16:14:57.300813+00:00",
+  "scraped_at": "2026-04-25T13:38:33.860686+00:00",
   "comps": [
     {
-      "name": "Turbo Doomer",
+      "name": "Stargazer_Wolf Xayah",
       "tier": "S",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.24199679174222347,
+        "avg_placement": 4.1678795302255205,
+        "top_4_percent": 0.5478060378989841,
+        "top_1_percent": 0.21233518265004683
+      },
       "champions": [
         {
-          "name": "Bard",
+          "apiName": "TFT17_Jhin",
+          "name": "Jhin",
+          "name_es": "Jhin",
+          "cost": 5,
           "items": [
-            "Spear Of Shojin",
-            "Morellonomicon",
-            "Voidstaff"
-          ],
-          "items_es": [
-            "Lanza de Shojin",
-            "Morellonomicón",
-            "Bastón del Vacío"
-          ],
-          "apiName": "TFT17_Bard"
+            "TFT_Item_Deathblade",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_MadredsBloodrazor"
+          ]
         },
         {
-          "name": "Blitzcrank",
+          "apiName": "TFT17_Nunu",
+          "name": "Nunu & Willump",
+          "name_es": "Nunu y Willump",
+          "cost": 4,
           "items": [
-            "Rabadons Deathcap",
-            "Hand Of Justice",
-            "Jeweled Gauntlet"
-          ],
-          "items_es": [
-            "Sombrero mortal de Rabadon",
-            "Mano de la justicia",
-            "Guantelete enjoyado"
-          ],
-          "apiName": "TFT17_Blitzcrank"
+            "TFT_Item_NightHarvester",
+            "TFT_Item_Redemption",
+            "TFT_Item_SpectralGauntlet"
+          ]
         },
         {
-          "name": "Vex",
+          "apiName": "TFT17_Xayah",
+          "name": "Xayah",
+          "name_es": "Xayah",
+          "cost": 4,
           "items": [
-            "Hextech Gunblade",
-            "Giant Slayer",
-            "Guinsoos Rageblade"
-          ],
-          "items_es": [
-            "Sable-pistola hextech",
-            "Verdugo de gigantes",
-            "Hoja de furia de Guinsoo"
-          ],
-          "apiName": "TFT17_Vex"
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_RapidFireCannon",
+            "TFT_Item_RunaansHurricane"
+          ]
         },
         {
+          "apiName": "TFT17_Gnar",
+          "name": "Gnar",
+          "name_es": "Gnar",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Jax",
+          "name": "Jax",
+          "name_es": "Jax",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Mordekaiser",
+          "name": "Mordekaiser",
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Rammus",
           "name": "Rammus",
+          "name_es": "Rammus",
+          "cost": 4,
           "items": [
-            "Crownguard",
-            "Fimbulwinter",
-            "Warmogs Armor"
-          ],
-          "items_es": [
-            "Regiaguardia",
-            "Fimbulwinter",
-            "Armadura de Warmog"
-          ],
-          "apiName": "TFT17_Rammus"
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_Redemption",
+            "TFT_Item_WarmogsArmor"
+          ]
         },
         {
-          "name": "Shen",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Shen"
+          "apiName": "TFT17_Bard",
+          "name": "Bard",
+          "name_es": "Bardo",
+          "cost": 5,
+          "items": []
         },
         {
-          "name": "Karma",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Karma"
-        },
-        {
+          "apiName": "TFT17_Rhaast",
           "name": "Rhaast",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Rhaast"
-        },
-        {
-          "name": "Meepsie",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_IvernMinion"
-        },
-        {
-          "name": "Mordekaiser",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Mordekaiser"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Meeple",
-          "count": 3
-        },
-        {
-          "name": "Conduit",
-          "count": 2
-        },
-        {
-          "name": "Vanguard",
-          "count": 2
-        },
-        {
-          "name": "Bastion",
-          "count": 2
-        },
-        {
-          "name": "Dark Star",
-          "count": 2
-        },
-        {
-          "name": "Voyager",
-          "count": 2
-        },
-        {
-          "name": "Party Animal",
-          "count": 1
-        },
-        {
-          "name": "Space Groove",
-          "count": 1
-        },
-        {
-          "name": "Doomer",
-          "count": 1
-        },
-        {
-          "name": "Bulwark",
-          "count": 1
-        },
-        {
-          "name": "Redeemer",
-          "count": 1
-        },
-        {
-          "name": "Shepherd",
-          "count": 1
+          "name_es": "Rhaast",
+          "cost": 3,
+          "items": []
         }
       ]
     },
     {
-      "name": "Stay Groovy",
+      "name": "ShieldTank Vex",
       "tier": "S",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.11408494908634398,
+        "avg_placement": 3.7414030261348006,
+        "top_4_percent": 0.6318202659330582,
+        "top_1_percent": 0.22619593458658108
+      },
       "champions": [
         {
+          "apiName": "TFT17_Blitzcrank",
           "name": "Blitzcrank",
+          "name_es": "Blitzcrank",
+          "cost": 5,
           "items": [
-            "Bloodthirster",
-            "Ionic Spark",
-            "Morellonomicon"
-          ],
-          "items_es": [
-            "Sanguinaria",
-            "Chispa iónica",
-            "Morellonomicón"
-          ],
-          "apiName": "TFT17_Blitzcrank"
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_RabadonsDeathcap",
+            "TFT_Item_UnstableConcoction"
+          ]
         },
         {
-          "name": "Nami",
+          "apiName": "TFT17_Nunu",
+          "name": "Nunu & Willump",
+          "name_es": "Nunu y Willump",
+          "cost": 4,
           "items": [
-            "Guardbreaker",
-            "Jeweled Gauntlet",
-            "Nashor'S Tooth"
-          ],
-          "items_es": [
-            "Guardbreaker",
-            "Guantelete enjoyado",
-            "Diente de Nashor"
-          ],
-          "apiName": "TFT17_Nami"
+            "TFT_Item_FrozenHeart",
+            "TFT_Item_NightHarvester",
+            "TFT_Item_RedBuff"
+          ]
         },
         {
-          "name": "Nunu",
+          "apiName": "TFT17_Vex",
+          "name": "Vex",
+          "name_es": "Vex",
+          "cost": 5,
           "items": [
-            "Warmogs Armor",
-            "Fimbulwinter",
-            "Crownguard"
-          ],
-          "items_es": [
-            "Armadura de Warmog",
-            "Fimbulwinter",
-            "Regiaguardia"
-          ],
-          "apiName": "TFT17_Nunu"
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_RabadonsDeathcap"
+          ]
         },
         {
-          "name": "Riven",
-          "items": [
-            "Space Groove Emblem",
-            "Bloodthirster",
-            "Edge Of Night"
-          ],
-          "items_es": [
-            "Emblema de onda espacial",
-            "Sanguinaria",
-            "Filo de la noche"
-          ],
-          "apiName": "TFT17_Riven"
-        },
-        {
-          "name": "Shen",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Shen"
-        },
-        {
-          "name": "Tahm Kench",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_TahmKench"
-        },
-        {
-          "name": "Ornn",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Ornn"
-        },
-        {
-          "name": "Gwen",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Gwen"
-        },
-        {
-          "name": "Pantheon",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Pantheon"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Space Groove",
-          "count": 4
-        },
-        {
-          "name": "Vanguard",
-          "count": 2
-        },
-        {
-          "name": "Replicator",
-          "count": 2
-        },
-        {
-          "name": "Timebreaker",
-          "count": 2
-        },
-        {
-          "name": "Rogue",
-          "count": 2
-        },
-        {
-          "name": "Bastion",
-          "count": 2
-        },
-        {
-          "name": "Brawler",
-          "count": 2
-        },
-        {
-          "name": "Party Animal",
-          "count": 1
-        },
-        {
-          "name": "Stargazer",
-          "count": 1
-        },
-        {
-          "name": "Bulwark",
-          "count": 1
-        },
-        {
-          "name": "Oracle",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Slap & Zap",
-      "tier": "S",
-      "champions": [
-        {
-          "name": "Nami",
-          "items": [
-            "Voidstaff",
-            "Spear Of Shojin",
-            "Morellonomicon"
-          ],
-          "items_es": [
-            "Bastón del Vacío",
-            "Lanza de Shojin",
-            "Morellonomicón"
-          ],
-          "apiName": "TFT17_Nami"
-        },
-        {
+          "apiName": "TFT17_Illaoi",
           "name": "Illaoi",
-          "items": [
-            "Crownguard",
-            "Warmogs Armor",
-            "Fimbulwinter"
-          ],
-          "items_es": [
-            "Regiaguardia",
-            "Armadura de Warmog",
-            "Fimbulwinter"
-          ],
-          "apiName": "TFT17_Illaoi"
+          "name_es": "Illaoi",
+          "cost": 3,
+          "items": []
         },
         {
-          "name": "Viktor",
-          "items": [
-            "Jeweled Gauntlet",
-            "Archangels Staff",
-            "Drone Uplink"
-          ],
-          "items_es": [
-            "Guantelete enjoyado",
-            "Bastón del arcángel",
-            "Conexión de dron"
-          ],
-          "apiName": "TFT17_Viktor"
-        },
-        {
-          "name": "Rhaast",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Rhaast"
-        },
-        {
-          "name": "Meepsie",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_IvernMinion"
-        },
-        {
+          "apiName": "TFT17_Mordekaiser",
           "name": "Mordekaiser",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Mordekaiser"
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
         },
         {
-          "name": "Pyke",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Pyke"
+          "apiName": "TFT17_Sona",
+          "name": "Sona",
+          "name_es": "Sona",
+          "cost": 5,
+          "items": []
         },
         {
-          "name": "Lissandra",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Lissandra"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Shepherd",
-          "count": 3
+          "apiName": "TFT17_Bard",
+          "name": "Bard",
+          "name_es": "Bardo",
+          "cost": 5,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
         },
         {
-          "name": "Replicator",
-          "count": 2
-        },
-        {
-          "name": "Vanguard",
-          "count": 2
-        },
-        {
-          "name": "Psionic",
-          "count": 2
-        },
-        {
-          "name": "Conduit",
-          "count": 2
-        },
-        {
-          "name": "Voyager",
-          "count": 2
-        },
-        {
-          "name": "Dark Star",
-          "count": 2
-        },
-        {
-          "name": "Space Groove",
-          "count": 1
-        },
-        {
-          "name": "Anima",
-          "count": 1
-        },
-        {
-          "name": "Redeemer",
-          "count": 1
-        },
-        {
-          "name": "Meeple",
-          "count": 1
+          "apiName": "TFT17_Karma",
+          "name": "Karma",
+          "name_es": "Karma",
+          "cost": 4,
+          "items": []
         }
       ]
     },
     {
-      "name": "Swarm-Storm",
+      "name": "SummonTrait Viktor Reroll",
       "tier": "S",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.2647858836657832,
+        "avg_placement": 3.874292111155011,
+        "top_4_percent": 0.6260371394705649,
+        "top_1_percent": 0.14072171737126302
+      },
       "champions": [
         {
-          "name": "Bel'Veth",
+          "apiName": "TFT17_Illaoi",
+          "name": "Illaoi",
+          "name_es": "Illaoi",
+          "cost": 3,
           "items": [
-            "Quicksilver",
-            "Krakensfury",
-            "Giant Slayer"
-          ],
-          "items_es": [
-            "Fajín de mercurio",
-            "Furia del kraken",
-            "Verdugo de gigantes"
-          ],
-          "apiName": "TFT17_Belveth"
+            "TFT_Item_BrambleVest",
+            "TFT_Item_DragonsClaw",
+            "TFT_Item_RedBuff"
+          ]
         },
         {
+          "apiName": "TFT17_Viktor",
+          "name": "Viktor",
+          "name_es": "Viktor",
+          "cost": 3,
+          "items": [
+            "TFT17_Item_PsyOps_DroneMod",
+            "TFT_Item_ArchangelsStaff",
+            "TFT_Item_JeweledGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT17_Nami",
+          "name": "Nami",
+          "name_es": "Nami",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Lissandra",
+          "name": "Lissandra",
+          "name_es": "Lissandra",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Mordekaiser",
+          "name": "Mordekaiser",
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Pyke",
+          "name": "Pyke",
+          "name_es": "Pyke",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Rhaast",
+          "name": "Rhaast",
+          "name_es": "Rhaast",
+          "cost": 3,
+          "items": [
+            "TFT_Item_IonicSpark",
+            "TFT_Item_RedBuff",
+            "TFT_Item_WarmogsArmor"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mecha The Mighty Mech",
+      "tier": "S",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.12072813502580555,
+        "avg_placement": 3.8281340265742347,
+        "top_4_percent": 0.6175621028307337,
+        "top_1_percent": 0.262420566146736
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_AurelionSol",
+          "name": "Aurelion Sol",
+          "name_es": "Aurelion Sol",
+          "cost": 4,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_RabadonsDeathcap",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Fiora",
+          "name": "Fiora",
+          "name_es": "Fiora",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT17_Galio",
+          "name": "The Mighty Mech",
+          "name_es": "Megamecha",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT17_Karma",
+          "name": "Karma",
+          "name_es": "Karma",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_TahmKench",
+          "name": "Tahm Kench",
+          "name_es": "Tahm Kench",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Urgot",
+          "name": "Urgot",
+          "name_es": "Urgot",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Bard",
+          "name": "Bard",
+          "name_es": "Bardo",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fateweaver Twisted Fate Reroll",
+      "tier": "S",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.15075324313014368,
+        "avg_placement": 3.6894517696044415,
+        "top_4_percent": 0.6701364792967847,
+        "top_1_percent": 0.1411057136247976
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Caitlyn",
           "name": "Caitlyn",
+          "name_es": "Caitlyn",
+          "cost": 1,
           "items": [
-            "Guinsoos Rageblade",
-            "Krakensfury",
-            "Giant Slayer"
-          ],
-          "items_es": [
-            "Hoja de furia de Guinsoo",
-            "Furia del kraken",
-            "Verdugo de gigantes"
-          ],
-          "apiName": "TFT17_Caitlyn"
+            "TFT_Item_Deathblade",
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_MadredsBloodrazor"
+          ]
         },
         {
+          "apiName": "TFT17_Jax",
+          "name": "Jax",
+          "name_es": "Jax",
+          "cost": 2,
+          "items": [
+            "TFT_Item_Crownguard",
+            "TFT_Item_FrozenHeart",
+            "TFT_Item_GargoyleStoneplate"
+          ]
+        },
+        {
+          "apiName": "TFT17_TwistedFate",
+          "name": "Twisted Fate",
+          "name_es": "Twisted Fate",
+          "cost": 1,
+          "items": [
+            "TFT_Item_Leviathan",
+            "TFT_Item_Leviathan",
+            "TFT_Item_RabadonsDeathcap"
+          ]
+        },
+        {
+          "apiName": "TFT17_Aatrox",
+          "name": "Aatrox",
+          "name_es": "Aatrox",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Milio",
+          "name": "Milio",
+          "name_es": "Milio",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Talon",
+          "name": "Talon",
+          "name_es": "Talon",
+          "cost": 1,
+          "items": [
+            "TFT_Item_GuardianAngel",
+            "TFT_Item_HextechGunblade",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT17_Corki",
+          "name": "Corki",
+          "name_es": "Corki",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Riven",
+          "name": "Riven",
+          "name_es": "Riven",
+          "cost": 4,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "DRX Vex",
+      "tier": "S",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.09555028595341052,
+        "avg_placement": 3.7164233576642336,
+        "top_4_percent": 0.6271897810218978,
+        "top_1_percent": 0.24817518248175183
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Graves",
+          "name": "Graves",
+          "name_es": "Graves",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Quicksilver",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Nunu",
+          "name": "Nunu & Willump",
+          "name_es": "Nunu y Willump",
+          "cost": 4,
+          "items": [
+            "TFT_Item_FrozenHeart",
+            "TFT_Item_RedBuff",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Vex",
+          "name": "Vex",
+          "name_es": "Vex",
+          "cost": 5,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_HextechGunblade",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Aatrox",
+          "name": "Aatrox",
+          "name_es": "Aatrox",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Akali",
+          "name": "Akali",
+          "name_es": "Akali",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Blitzcrank",
+          "name": "Blitzcrank",
+          "name_es": "Blitzcrank",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Fiora",
+          "name": "Fiora",
+          "name_es": "Fiora",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT17_Morgana",
+          "name": "Morgana",
+          "name_es": "Morgana",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Shen",
+          "name": "Shen",
+          "name_es": "Shen",
+          "cost": 5,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "ShieldTank Teemo Reroll",
+      "tier": "S",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.12295996652252755,
+        "avg_placement": 4.153431650595576,
+        "top_4_percent": 0.5768576290414067,
+        "top_1_percent": 0.10011344299489507
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Leona",
+          "name": "Leona",
+          "name_es": "Leona",
+          "cost": 1,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Lissandra",
+          "name": "Lissandra",
+          "name_es": "Lissandra",
+          "cost": 1,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Teemo",
+          "name": "Teemo",
+          "name_es": "Teemo",
+          "cost": 1,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_RabadonsDeathcap"
+          ]
+        },
+        {
+          "apiName": "TFT17_Illaoi",
+          "name": "Illaoi",
+          "name_es": "Illaoi",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Mordekaiser",
+          "name": "Mordekaiser",
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Nasus",
+          "name": "Nasus",
+          "name_es": "Nasus",
+          "cost": 1,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT17_Zoe",
+          "name": "Zoe",
+          "name_es": "Zoe",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Nami",
+          "name": "Nami",
+          "name_es": "Nami",
+          "cost": 4,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "DRX Bel'Veth Reroll",
+      "tier": "S",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.1518342865113684,
+        "avg_placement": 4.049954065227377,
+        "top_4_percent": 0.602204869085898,
+        "top_1_percent": 0.10587965089572807
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Belveth",
+          "name": "Bel'Veth",
+          "name_es": "Bel'Veth",
+          "cost": 2,
+          "items": [
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_Quicksilver",
+            "TFT_Item_RunaansHurricane"
+          ]
+        },
+        {
+          "apiName": "TFT17_RekSai",
           "name": "Rek'Sai",
+          "name_es": "Rek'Sai",
+          "cost": 1,
           "items": [
-            "Sunfire Cape",
-            "Spiritvisage",
-            "Bramble Vest"
-          ],
-          "items_es": [
-            "Capa de fuego solar",
-            "Rostro espiritual",
-            "Chaleco de zarzas"
-          ],
-          "apiName": "TFT17_RekSai"
+            "TFT_Item_FrozenHeart",
+            "TFT_Item_RedBuff",
+            "TFT_Item_Redemption"
+          ]
         },
         {
+          "apiName": "TFT17_Kindred",
+          "name": "Kindred",
+          "name_es": "Kindred",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_RunaansHurricane"
+          ]
+        },
+        {
+          "apiName": "TFT17_Aatrox",
+          "name": "Aatrox",
+          "name_es": "Aatrox",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Akali",
+          "name": "Akali",
+          "name_es": "Akali",
+          "cost": 2,
+          "items": [
+            "TFT_Item_GuardianAngel",
+            "TFT_Item_PowerGauntlet",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Briar",
           "name": "Briar",
-          "items": [
-            "Thiefs Gloves"
-          ],
-          "items_es": [
-            "Guantes de ladrón"
-          ],
-          "apiName": "TFT17_Briar"
+          "name_es": "Briar",
+          "cost": 1,
+          "items": []
         },
         {
-          "name": "Kindred",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Kindred"
-        },
-        {
+          "apiName": "TFT17_Maokai",
           "name": "Maokai",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Maokai"
+          "name_es": "Maokai",
+          "cost": 3,
+          "items": []
         },
         {
-          "name": "Akali",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Akali"
-        },
-        {
-          "name": "Aatrox",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Aatrox"
-        }
-      ],
-      "traits": [
-        {
-          "name": "N.O.V.A.",
-          "count": 5
-        },
-        {
-          "name": "Primordian",
-          "count": 3
-        },
-        {
-          "name": "Challenger",
-          "count": 2
-        },
-        {
-          "name": "Marauder",
-          "count": 2
-        },
-        {
-          "name": "Brawler",
-          "count": 2
-        },
-        {
-          "name": "Fateweaver",
-          "count": 1
-        },
-        {
-          "name": "Anima",
-          "count": 1
-        },
-        {
-          "name": "Rogue",
-          "count": 1
-        },
-        {
-          "name": "Bastion",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Snipin & Vibin",
-      "tier": "S",
-      "champions": [
-        {
-          "name": "Jhin",
-          "items": [
-            "Deathblade",
-            "Infinity Edge",
-            "Giant Slayer"
-          ],
-          "items_es": [
-            "Filo mortal",
-            "Filo infinito",
-            "Verdugo de gigantes"
-          ],
-          "apiName": "TFT17_Jhin"
-        },
-        {
-          "name": "Nunu",
-          "items": [
-            "Evenshroud",
-            "Spiritvisage",
-            "Fimbulwinter"
-          ],
-          "items_es": [
-            "Mortaja de la quietud",
-            "Rostro espiritual",
-            "Fimbulwinter"
-          ],
-          "apiName": "TFT17_Nunu"
-        },
-        {
-          "name": "Xayah",
-          "items": [
-            "Redbuff",
-            "Krakensfury",
-            "Guinsoos Rageblade"
-          ],
-          "items_es": [
-            "Mejora roja",
-            "Furia del kraken",
-            "Hoja de furia de Guinsoo"
-          ],
-          "apiName": "TFT17_Xayah"
-        },
-        {
-          "name": "Bard",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Bard"
-        },
-        {
-          "name": "Rammus",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Rammus"
-        },
-        {
-          "name": "Rhaast",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Rhaast"
-        },
-        {
-          "name": "Gnar",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Gnar"
-        },
-        {
-          "name": "Jax",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Jax"
-        },
-        {
-          "name": "Mordekaiser",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Mordekaiser"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Sniper",
-          "count": 3
-        },
-        {
-          "name": "Stargazer",
-          "count": 3
-        },
-        {
-          "name": "Meeple",
-          "count": 3
-        },
-        {
-          "name": "Dark Star",
-          "count": 2
-        },
-        {
-          "name": "Vanguard",
-          "count": 2
-        },
-        {
-          "name": "Conduit",
-          "count": 2
-        },
-        {
-          "name": "Bastion",
-          "count": 2
-        },
-        {
-          "name": "Eradicator",
-          "count": 1
-        },
-        {
-          "name": "Redeemer",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Two Tanky Takeover",
-      "tier": "S",
-      "champions": [
-        {
-          "name": "Ornn",
-          "items": [
-            "Spiritvisage",
-            "Steadfast Hammer",
-            "Sunfire Cape"
-          ],
-          "items_es": [
-            "Rostro espiritual",
-            "Steadfast Hammer",
-            "Capa de fuego solar"
-          ],
-          "apiName": "TFT17_Ornn"
-        },
-        {
-          "name": "Samira",
-          "items": [
-            "Deathblade",
-            "Spear Of Shojin",
-            "Infinity Edge"
-          ],
-          "items_es": [
-            "Filo mortal",
-            "Lanza de Shojin",
-            "Filo infinito"
-          ],
-          "apiName": "TFT17_Samira"
-        },
-        {
-          "name": "Blitzcrank",
-          "items": [
-            "Thiefs Gloves"
-          ],
-          "items_es": [
-            "Guantes de ladrón"
-          ],
-          "apiName": "TFT17_Blitzcrank"
-        },
-        {
-          "name": "Nunu",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Nunu"
-        },
-        {
-          "name": "Xayah",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Xayah"
-        },
-        {
-          "name": "Jax",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Jax"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Space Groove",
-          "count": 3
-        },
-        {
-          "name": "Stargazer",
-          "count": 3
-        },
-        {
-          "name": "Bastion",
-          "count": 2
-        },
-        {
-          "name": "Sniper",
-          "count": 2
-        },
-        {
-          "name": "Vanguard",
-          "count": 2
-        },
-        {
-          "name": "Party Animal",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Cards & Cartridges",
-      "tier": "S",
-      "champions": [
-        {
-          "name": "Jax",
-          "items": [
-            "Gargoyle Stoneplate",
-            "Crownguard",
-            "Fimbulwinter"
-          ],
-          "items_es": [
-            "Protector pétreo de gárgola",
-            "Regiaguardia",
-            "Fimbulwinter"
-          ],
-          "apiName": "TFT17_Jax"
-        },
-        {
+          "apiName": "TFT17_Caitlyn",
           "name": "Caitlyn",
-          "items": [
-            "Deathblade",
-            "Guinsoos Rageblade",
-            "Giant Slayer"
-          ],
-          "items_es": [
-            "Filo mortal",
-            "Hoja de furia de Guinsoo",
-            "Verdugo de gigantes"
-          ],
-          "apiName": "TFT17_Caitlyn"
-        },
-        {
-          "name": "Talon",
-          "items": [
-            "Spear Of Shojin",
-            "Hextech Gunblade",
-            "Edge Of Night"
-          ],
-          "items_es": [
-            "Lanza de Shojin",
-            "Sable-pistola hextech",
-            "Filo de la noche"
-          ],
-          "apiName": "TFT17_Talon"
-        },
-        {
-          "name": "Twisted Fate",
-          "items": [
-            "Rabadons Deathcap",
-            "Nashor'S Tooth"
-          ],
-          "items_es": [
-            "Sombrero mortal de Rabadon",
-            "Diente de Nashor"
-          ],
-          "apiName": "TFT17_TwistedFate"
-        },
-        {
-          "name": "Morgana",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Morgana"
-        },
-        {
-          "name": "Corki",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Corki"
-        },
-        {
-          "name": "Riven",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Riven"
-        },
-        {
-          "name": "Milio",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Milio"
-        },
-        {
-          "name": "Aatrox",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Aatrox"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Fateweaver",
-          "count": 4
-        },
-        {
-          "name": "Stargazer",
-          "count": 3
-        },
-        {
-          "name": "Bastion",
-          "count": 2
-        },
-        {
-          "name": "N.O.V.A.",
-          "count": 2
-        },
-        {
-          "name": "Rogue",
-          "count": 2
-        },
-        {
-          "name": "Timebreaker",
-          "count": 2
-        },
-        {
-          "name": "Dark Lady",
-          "count": 1
-        },
-        {
-          "name": "Meeple",
-          "count": 1
+          "name_es": "Caitlyn",
+          "cost": 1,
+          "items": []
         }
       ]
     },
     {
-      "name": "Astral Meep",
+      "name": "Mecha Urgot Reroll",
       "tier": "S",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.1706479285813921,
+        "avg_placement": 4.2889547358741185,
+        "top_4_percent": 0.5434760396444263,
+        "top_1_percent": 0.13364667415959947
+      },
       "champions": [
         {
-          "name": "Bard",
-          "items": [
-            "Morellonomicon",
-            "Voidstaff",
-            "Spear Of Shojin"
-          ],
-          "items_es": [
-            "Morellonomicón",
-            "Bastón del Vacío",
-            "Lanza de Shojin"
-          ],
-          "apiName": "TFT17_Bard"
-        },
-        {
-          "name": "Corki",
-          "items": [
-            "Guardbreaker",
-            "Last Whisper",
-            "Deathblade"
-          ],
-          "items_es": [
-            "Guardbreaker",
-            "Últimas palabras",
-            "Filo mortal"
-          ],
-          "apiName": "TFT17_Corki"
-        },
-        {
-          "name": "Rammus",
-          "items": [
-            "Bramble Vest",
-            "Fimbulwinter",
-            "Steadfast Hammer"
-          ],
-          "items_es": [
-            "Chaleco de zarzas",
-            "Fimbulwinter",
-            "Steadfast Hammer"
-          ],
-          "apiName": "TFT17_Rammus"
-        },
-        {
-          "name": "Riven",
-          "items": [
-            "Bloodthirster",
-            "Quicksilver",
-            "Sterak'S Gage"
-          ],
-          "items_es": [
-            "Sanguinaria",
-            "Fajín de mercurio",
-            "Calibrador de Sterak"
-          ],
-          "apiName": "TFT17_Riven"
-        },
-        {
-          "name": "Fizz",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Fizz"
-        },
-        {
-          "name": "Gnar",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Gnar"
-        },
-        {
-          "name": "Meepsie",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_IvernMinion"
-        },
-        {
-          "name": "Milio",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Milio"
-        },
-        {
-          "name": "Poppy",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Poppy"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Meeple",
-          "count": 7
-        },
-        {
-          "name": "Fateweaver",
-          "count": 2
-        },
-        {
-          "name": "Bastion",
-          "count": 2
-        },
-        {
-          "name": "Timebreaker",
-          "count": 2
-        },
-        {
-          "name": "Rogue",
-          "count": 2
-        },
-        {
-          "name": "Conduit",
-          "count": 1
-        },
-        {
-          "name": "Sniper",
-          "count": 1
-        },
-        {
-          "name": "Shepherd",
-          "count": 1
-        },
-        {
-          "name": "Voyager",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Rogue Diff",
-      "tier": "S",
-      "champions": [
-        {
-          "name": "Fizz",
-          "items": [
-            "Hand Of Justice",
-            "Jeweled Gauntlet",
-            "Nashor'S Tooth"
-          ],
-          "items_es": [
-            "Mano de la justicia",
-            "Guantelete enjoyado",
-            "Diente de Nashor"
-          ],
-          "apiName": "TFT17_Fizz"
-        },
-        {
-          "name": "Kai'Sa",
-          "items": [
-            "Blue Buff",
-            "Infinity Edge",
-            "Guardbreaker"
-          ],
-          "items_es": [
-            "Mejora azul",
-            "Filo infinito",
-            "Guardbreaker"
-          ],
-          "apiName": "TFT17_Kaisa"
-        },
-        {
-          "name": "Ornn",
-          "items": [
-            "Spiritvisage",
-            "Evenshroud",
-            "Sunfire Cape"
-          ],
-          "items_es": [
-            "Rostro espiritual",
-            "Mortaja de la quietud",
-            "Capa de fuego solar"
-          ],
-          "apiName": "TFT17_Ornn"
-        },
-        {
-          "name": "Rhaast",
-          "items": [
-            "Thiefs Gloves"
-          ],
-          "items_es": [
-            "Guantes de ladrón"
-          ],
-          "apiName": "TFT17_Rhaast"
-        },
-        {
-          "name": "Karma",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Karma"
-        },
-        {
-          "name": "Rammus",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Rammus"
-        },
-        {
-          "name": "Gwen",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Gwen"
-        },
-        {
-          "name": "Meepsie",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_IvernMinion"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Meeple",
-          "count": 3
-        },
-        {
-          "name": "Rogue",
-          "count": 3
-        },
-        {
-          "name": "Dark Star",
-          "count": 2
-        },
-        {
-          "name": "Space Groove",
-          "count": 2
-        },
-        {
-          "name": "Bastion",
-          "count": 2
-        },
-        {
-          "name": "Voyager",
-          "count": 2
-        },
-        {
-          "name": "Redeemer",
-          "count": 1
-        },
-        {
-          "name": "Shepherd",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Void Arcane",
-      "tier": "A",
-      "champions": [
-        {
-          "name": "Cho'Gath",
-          "items": [
-            "Sunfire Cape",
-            "Evenshroud",
-            "Fimbulwinter"
-          ],
-          "items_es": [
-            "Capa de fuego solar",
-            "Mortaja de la quietud",
-            "Fimbulwinter"
-          ],
-          "apiName": "TFT17_Chogath"
-        },
-        {
-          "name": "Ezreal",
-          "items": [
-            "Deathblade",
-            "Spear Of Shojin",
-            "Infinity Edge"
-          ],
-          "items_es": [
-            "Filo mortal",
-            "Lanza de Shojin",
-            "Filo infinito"
-          ],
-          "apiName": "TFT17_Ezreal"
-        },
-        {
-          "name": "Lissandra",
-          "items": [
-            "Nashor'S Tooth",
-            "Jeweled Gauntlet",
-            "Guardbreaker"
-          ],
-          "items_es": [
-            "Diente de Nashor",
-            "Guantelete enjoyado",
-            "Guardbreaker"
-          ],
-          "apiName": "TFT17_Lissandra"
-        },
-        {
-          "name": "Tahm Kench",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_TahmKench"
-        },
-        {
-          "name": "Xayah",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Xayah"
-        },
-        {
+          "apiName": "TFT17_Maokai",
           "name": "Maokai",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Maokai"
-        },
-        {
-          "name": "Milio",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Milio"
-        },
-        {
-          "name": "Pantheon",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Pantheon"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Brawler",
-          "count": 4
-        },
-        {
-          "name": "Timebreaker",
-          "count": 3
-        },
-        {
-          "name": "Dark Star",
-          "count": 2
-        },
-        {
-          "name": "Sniper",
-          "count": 2
-        },
-        {
-          "name": "Replicator",
-          "count": 2
-        },
-        {
-          "name": "Shepherd",
-          "count": 1
-        },
-        {
-          "name": "Oracle",
-          "count": 1
-        },
-        {
-          "name": "Stargazer",
-          "count": 1
-        },
-        {
-          "name": "N.O.V.A.",
-          "count": 1
-        },
-        {
-          "name": "Fateweaver",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Bonk!",
-      "tier": "A",
-      "champions": [
-        {
-          "name": "Leona",
+          "name_es": "Maokai",
+          "cost": 3,
           "items": [
-            "Sunfire Cape",
-            "Bramble Vest",
-            "Steadfast Hammer"
-          ],
-          "items_es": [
-            "Capa de fuego solar",
-            "Chaleco de zarzas",
-            "Steadfast Hammer"
-          ],
-          "apiName": "TFT17_Leona"
+            "TFT_Item_RedBuff",
+            "TFT_Item_SpectralGauntlet",
+            "TFT_Item_WarmogsArmor"
+          ]
         },
         {
-          "name": "Nasus",
-          "items": [
-            "Guinsoos Rageblade",
-            "Titans Resolve",
-            "Bloodthirster"
-          ],
-          "items_es": [
-            "Hoja de furia de Guinsoo",
-            "Resolución titánica",
-            "Sanguinaria"
-          ],
-          "apiName": "TFT17_Nasus"
-        },
-        {
-          "name": "Teemo",
-          "items": [
-            "Guinsoos Rageblade",
-            "Hextech Gunblade",
-            "Voidstaff"
-          ],
-          "items_es": [
-            "Hoja de furia de Guinsoo",
-            "Sable-pistola hextech",
-            "Bastón del Vacío"
-          ],
-          "apiName": "TFT17_Teemo"
-        },
-        {
-          "name": "Blitzcrank",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Blitzcrank"
-        },
-        {
-          "name": "Leblanc",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Leblanc"
-        },
-        {
-          "name": "Nunu",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Nunu"
-        },
-        {
-          "name": "Illaoi",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Illaoi"
-        },
-        {
-          "name": "Mordekaiser",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Mordekaiser"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Vanguard",
-          "count": 6
-        },
-        {
-          "name": "Space Groove",
-          "count": 3
-        },
-        {
-          "name": "Shepherd",
-          "count": 3
-        },
-        {
-          "name": "Arbiter",
-          "count": 2
-        },
-        {
-          "name": "Party Animal",
-          "count": 1
-        },
-        {
-          "name": "Stargazer",
-          "count": 1
-        },
-        {
-          "name": "Anima",
-          "count": 1
-        },
-        {
-          "name": "Dark Star",
-          "count": 1
-        },
-        {
-          "name": "Conduit",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Crab Wave",
-      "tier": "A",
-      "champions": [
-        {
-          "name": "Aurora",
-          "items": [
-            "Rabadons Deathcap",
-            "Voidstaff",
-            "Spear Of Shojin"
-          ],
-          "items_es": [
-            "Sombrero mortal de Rabadon",
-            "Bastón del Vacío",
-            "Lanza de Shojin"
-          ],
-          "apiName": "TFT17_Aurora"
-        },
-        {
-          "name": "Maokai",
-          "items": [
-            "Fimbulwinter",
-            "Spiritvisage",
-            "Warmogs Armor"
-          ],
-          "items_es": [
-            "Fimbulwinter",
-            "Rostro espiritual",
-            "Armadura de Warmog"
-          ],
-          "apiName": "TFT17_Maokai"
-        },
-        {
+          "apiName": "TFT17_Urgot",
           "name": "Urgot",
+          "name_es": "Urgot",
+          "cost": 3,
           "items": [
-            "Quicksilver",
-            "Infinity Edge",
-            "Giant Slayer"
-          ],
-          "items_es": [
-            "Fajín de mercurio",
-            "Filo infinito",
-            "Verdugo de gigantes"
-          ],
-          "apiName": "TFT17_Urgot"
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_Quicksilver"
+          ]
         },
         {
-          "name": "Rhaast",
+          "apiName": "TFT17_Aurora",
+          "name": "Aurora",
+          "name_es": "Aurora",
+          "cost": 3,
           "items": [
-            "Evenshroud",
-            "Sunfire Cape"
-          ],
-          "items_es": [
-            "Mortaja de la quietud",
-            "Capa de fuego solar"
-          ],
-          "apiName": "TFT17_Rhaast"
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_SpearOfShojin"
+          ]
         },
         {
-          "name": "Aurelion Sol",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_AurelionSol"
-        },
-        {
+          "apiName": "TFT17_Akali",
           "name": "Akali",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Akali"
-        }
-      ],
-      "traits": [
-        {
-          "name": "N.O.V.A.",
-          "count": 2
+          "name_es": "Akali",
+          "cost": 2,
+          "items": []
         },
         {
-          "name": "Brawler",
-          "count": 2
+          "apiName": "TFT17_Galio",
+          "name": "The Mighty Mech",
+          "name_es": "Megamecha",
+          "cost": 4,
+          "items": [
+            "TFT_Item_FrozenHeart",
+            "TFT_Item_RedBuff",
+            "TFT_Item_SpectralGauntlet"
+          ]
         },
         {
-          "name": "Mecha",
-          "count": 2
-        },
-        {
-          "name": "Marauder",
-          "count": 2
-        },
-        {
-          "name": "Anima",
-          "count": 1
-        },
-        {
-          "name": "Voyager",
-          "count": 1
-        },
-        {
-          "name": "Redeemer",
-          "count": 1
-        },
-        {
-          "name": "Conduit",
-          "count": 1
+          "apiName": "TFT17_Rhaast",
+          "name": "Rhaast",
+          "name_es": "Rhaast",
+          "cost": 3,
+          "items": []
         }
       ]
     },
     {
-      "name": "Meepteors",
+      "name": "Astronaut Veigar Reroll",
       "tier": "A",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.052221369786581116,
+        "avg_placement": 4.101502504173623,
+        "top_4_percent": 0.5792988313856428,
+        "top_1_percent": 0.14290484140233722
+      },
       "champions": [
         {
+          "apiName": "TFT17_Lissandra",
           "name": "Lissandra",
+          "name_es": "Lissandra",
+          "cost": 1,
           "items": [
-            "Spear Of Shojin",
-            "Voidstaff",
-            "Rabadons Deathcap"
-          ],
-          "items_es": [
-            "Lanza de Shojin",
-            "Bastón del Vacío",
-            "Sombrero mortal de Rabadon"
-          ],
-          "apiName": "TFT17_Lissandra"
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
         },
         {
+          "apiName": "TFT17_Poppy",
           "name": "Poppy",
+          "name_es": "Poppy",
+          "cost": 1,
           "items": [
-            "Sunfire Cape",
-            "Crownguard",
-            "Fimbulwinter"
-          ],
-          "items_es": [
-            "Capa de fuego solar",
-            "Regiaguardia",
-            "Fimbulwinter"
-          ],
-          "apiName": "TFT17_Poppy"
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_RedBuff",
+            "TFT_Item_Redemption"
+          ]
         },
         {
+          "apiName": "TFT17_Veigar",
           "name": "Veigar",
+          "name_es": "Veigar",
+          "cost": 1,
           "items": [
-            "Nashor'S Tooth",
-            "Jeweled Gauntlet"
-          ],
-          "items_es": [
-            "Diente de Nashor",
-            "Guantelete enjoyado"
-          ],
-          "apiName": "TFT17_Veigar"
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan",
+            "TFT_Item_Leviathan"
+          ]
         },
         {
-          "name": "Bard",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Bard"
+          "apiName": "TFT17_Illaoi",
+          "name": "Illaoi",
+          "name_es": "Illaoi",
+          "cost": 3,
+          "items": []
         },
         {
+          "apiName": "TFT17_Mordekaiser",
+          "name": "Mordekaiser",
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Rammus",
           "name": "Rammus",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Rammus"
+          "name_es": "Rammus",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_Redemption",
+            "TFT_Item_WarmogsArmor"
+          ]
         },
         {
-          "name": "Illaoi",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Illaoi"
-        },
-        {
-          "name": "Meepsie",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_IvernMinion"
-        },
-        {
-          "name": "Mordekaiser",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Mordekaiser"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Meeple",
-          "count": 5
-        },
-        {
-          "name": "Shepherd",
-          "count": 3
-        },
-        {
-          "name": "Dark Star",
-          "count": 2
-        },
-        {
-          "name": "Replicator",
-          "count": 2
-        },
-        {
-          "name": "Bastion",
-          "count": 2
-        },
-        {
-          "name": "Conduit",
-          "count": 2
-        },
-        {
-          "name": "Vanguard",
-          "count": 2
-        },
-        {
-          "name": "Anima",
-          "count": 1
-        },
-        {
-          "name": "Voyager",
-          "count": 1
+          "apiName": "TFT17_Corki",
+          "name": "Corki",
+          "name_es": "Corki",
+          "cost": 4,
+          "items": []
         }
       ]
     },
     {
-      "name": "NOVA YI",
+      "name": "Stargazer_Shield Samira",
       "tier": "A",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.06798367973218022,
+        "avg_placement": 4.18491921005386,
+        "top_4_percent": 0.5501410618107206,
+        "top_1_percent": 0.17799435752757117
+      },
       "champions": [
         {
-          "name": "Fiora",
-          "items": [
-            "Edge Of Night",
-            "Sterak'S Gage",
-            "Hand Of Justice"
-          ],
-          "items_es": [
-            "Filo de la noche",
-            "Calibrador de Sterak",
-            "Mano de la justicia"
-          ],
-          "apiName": "TFT17_Fiora"
-        },
-        {
-          "name": "Kindred",
-          "items": [
-            "Krakensfury",
-            "Giant Slayer",
-            "Guinsoos Rageblade"
-          ],
-          "items_es": [
-            "Furia del kraken",
-            "Verdugo de gigantes",
-            "Hoja de furia de Guinsoo"
-          ],
-          "apiName": "TFT17_Kindred"
-        },
-        {
-          "name": "Master Yi",
-          "items": [
-            "Edge Of Night",
-            "Giant Slayer"
-          ],
-          "items_es": [
-            "Filo de la noche",
-            "Verdugo de gigantes"
-          ],
-          "apiName": "TFT17_MasterYi"
-        },
-        {
-          "name": "Tahm Kench",
-          "items": [
-            "Steadfast Hammer",
-            "Spiritvisage",
-            "Sunfire Cape"
-          ],
-          "items_es": [
-            "Steadfast Hammer",
-            "Rostro espiritual",
-            "Capa de fuego solar"
-          ],
-          "apiName": "TFT17_TahmKench"
-        },
-        {
-          "name": "Shen",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Shen"
-        },
-        {
-          "name": "Maokai",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Maokai"
-        },
-        {
-          "name": "Akali",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Akali"
-        },
-        {
-          "name": "Bel'Veth",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Belveth"
-        },
-        {
-          "name": "Aatrox",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Aatrox"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Marauder",
-          "count": 4
-        },
-        {
-          "name": "N.O.V.A.",
-          "count": 4
-        },
-        {
-          "name": "Challenger",
-          "count": 2
-        },
-        {
-          "name": "Brawler",
-          "count": 2
-        },
-        {
-          "name": "Bastion",
-          "count": 2
-        },
-        {
-          "name": "Divine Duelist",
-          "count": 1
-        },
-        {
-          "name": "Anima",
-          "count": 1
-        },
-        {
-          "name": "Psionic",
-          "count": 1
-        },
-        {
-          "name": "Oracle",
-          "count": 1
-        },
-        {
-          "name": "Bulwark",
-          "count": 1
-        },
-        {
-          "name": "Primordian",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Protect Teemo",
-      "tier": "A",
-      "champions": [
-        {
-          "name": "Leona",
-          "items": [
-            "Gargoyle Stoneplate",
-            "Warmogs Armor"
-          ],
-          "items_es": [
-            "Protector pétreo de gárgola",
-            "Armadura de Warmog"
-          ],
-          "apiName": "TFT17_Leona"
-        },
-        {
-          "name": "Teemo",
-          "items": [
-            "Archangels Staff",
-            "Guinsoos Rageblade",
-            "Giant Slayer"
-          ],
-          "items_es": [
-            "Bastón del arcángel",
-            "Hoja de furia de Guinsoo",
-            "Verdugo de gigantes"
-          ],
-          "apiName": "TFT17_Teemo"
-        },
-        {
-          "name": "Leblanc",
-          "items": [
-            "Morellonomicon",
-            "Voidstaff"
-          ],
-          "items_es": [
-            "Morellonomicón",
-            "Bastón del Vacío"
-          ],
-          "apiName": "TFT17_Leblanc"
-        },
-        {
-          "name": "Nasus",
-          "items": [
-            "Thiefs Gloves"
-          ],
-          "items_es": [
-            "Guantes de ladrón"
-          ],
-          "apiName": "TFT17_Nasus"
-        },
-        {
-          "name": "Blitzcrank",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Blitzcrank"
-        },
-        {
-          "name": "Nunu",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Nunu"
-        },
-        {
-          "name": "Illaoi",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Illaoi"
-        },
-        {
-          "name": "Mordekaiser",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Mordekaiser"
-        },
-        {
-          "name": "Zoe",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Zoe"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Vanguard",
-          "count": 6
-        },
-        {
-          "name": "Arbiter",
-          "count": 3
-        },
-        {
-          "name": "Space Groove",
-          "count": 3
-        },
-        {
-          "name": "Shepherd",
-          "count": 3
-        },
-        {
-          "name": "Conduit",
-          "count": 2
-        },
-        {
-          "name": "Party Animal",
-          "count": 1
-        },
-        {
-          "name": "Stargazer",
-          "count": 1
-        },
-        {
-          "name": "Anima",
-          "count": 1
-        },
-        {
-          "name": "Dark Star",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "The Big Bang",
-      "tier": "A",
-      "champions": [
-        {
-          "name": "Karma",
-          "items": [
-            "Jeweled Gauntlet",
-            "Nashor'S Tooth",
-            "Voidstaff"
-          ],
-          "items_es": [
-            "Guantelete enjoyado",
-            "Diente de Nashor",
-            "Bastón del Vacío"
-          ],
-          "apiName": "TFT17_Karma"
-        },
-        {
-          "name": "Rammus",
-          "items": [
-            "Spiritvisage",
-            "Sunfire Cape",
-            "Steadfast Hammer"
-          ],
-          "items_es": [
-            "Rostro espiritual",
-            "Capa de fuego solar",
-            "Steadfast Hammer"
-          ],
-          "apiName": "TFT17_Rammus"
-        },
-        {
-          "name": "Meepsie",
-          "items": [
-            "Hand Of Justice",
-            "Edge Of Night",
-            "Jeweled Gauntlet"
-          ],
-          "items_es": [
-            "Mano de la justicia",
-            "Filo de la noche",
-            "Guantelete enjoyado"
-          ],
-          "apiName": "TFT17_IvernMinion"
-        },
-        {
-          "name": "Pyke",
-          "items": [
-            "Thiefs Gloves"
-          ],
-          "items_es": [
-            "Guantes de ladrón"
-          ],
-          "apiName": "TFT17_Pyke"
-        },
-        {
-          "name": "Sona",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Sona"
-        },
-        {
-          "name": "Lissandra",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Lissandra"
-        },
-        {
-          "name": "Poppy",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Poppy"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Voyager",
-          "count": 3
-        },
-        {
-          "name": "Meeple",
-          "count": 3
-        },
-        {
-          "name": "Shepherd",
-          "count": 3
-        },
-        {
-          "name": "Dark Star",
-          "count": 2
-        },
-        {
-          "name": "Bastion",
-          "count": 2
-        },
-        {
-          "name": "Psionic",
-          "count": 2
-        },
-        {
-          "name": "Commander",
-          "count": 1
-        },
-        {
-          "name": "Replicator",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Mirror Mayhem",
-      "tier": "A",
-      "champions": [
-        {
-          "name": "Karma",
-          "items": [
-            "Spear Of Shojin",
-            "Voidstaff",
-            "Morellonomicon"
-          ],
-          "items_es": [
-            "Lanza de Shojin",
-            "Bastón del Vacío",
-            "Morellonomicón"
-          ],
-          "apiName": "TFT17_Karma"
-        },
-        {
-          "name": "Leblanc",
-          "items": [
-            "Guinsoos Rageblade",
-            "Giant Slayer",
-            "Hextech Gunblade"
-          ],
-          "items_es": [
-            "Hoja de furia de Guinsoo",
-            "Verdugo de gigantes",
-            "Sable-pistola hextech"
-          ],
-          "apiName": "TFT17_Leblanc"
-        },
-        {
-          "name": "Nunu",
-          "items": [
-            "Crownguard",
-            "Fimbulwinter",
-            "Warmogs Armor"
-          ],
-          "items_es": [
-            "Regiaguardia",
-            "Fimbulwinter",
-            "Armadura de Warmog"
-          ],
-          "apiName": "TFT17_Nunu"
-        },
-        {
-          "name": "Illaoi",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Illaoi"
-        },
-        {
-          "name": "Meepsie",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_IvernMinion"
-        },
-        {
-          "name": "Mordekaiser",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Mordekaiser"
-        },
-        {
-          "name": "Zoe",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Zoe"
-        },
-        {
-          "name": "Leona",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Leona"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Vanguard",
-          "count": 4
-        },
-        {
-          "name": "Arbiter",
-          "count": 3
-        },
-        {
-          "name": "Shepherd",
-          "count": 3
-        },
-        {
-          "name": "Dark Star",
-          "count": 2
-        },
-        {
-          "name": "Voyager",
-          "count": 2
-        },
-        {
-          "name": "Conduit",
-          "count": 2
-        },
-        {
-          "name": "Stargazer",
-          "count": 1
-        },
-        {
-          "name": "Anima",
-          "count": 1
-        },
-        {
-          "name": "Meeple",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Stellar Combo",
-      "tier": "A",
-      "champions": [
-        {
-          "name": "Jax",
-          "items": [
-            "Sunfire Cape",
-            "Fimbulwinter",
-            "Bramble Vest"
-          ],
-          "items_es": [
-            "Capa de fuego solar",
-            "Fimbulwinter",
-            "Chaleco de zarzas"
-          ],
-          "apiName": "TFT17_Jax"
-        },
-        {
-          "name": "Aatrox",
-          "items": [
-            "Bloodthirster",
-            "Titans Resolve",
-            "Sterak'S Gage"
-          ],
-          "items_es": [
-            "Sanguinaria",
-            "Resolución titánica",
-            "Calibrador de Sterak"
-          ],
-          "apiName": "TFT17_Aatrox"
-        },
-        {
-          "name": "Caitlyn",
-          "items": [
-            "Guinsoos Rageblade",
-            "Krakensfury",
-            "Giant Slayer"
-          ],
-          "items_es": [
-            "Hoja de furia de Guinsoo",
-            "Furia del kraken",
-            "Verdugo de gigantes"
-          ],
-          "apiName": "TFT17_Caitlyn"
-        },
-        {
-          "name": "Twisted Fate",
-          "items": [
-            "Rabadons Deathcap",
-            "Nashor'S Tooth"
-          ],
-          "items_es": [
-            "Sombrero mortal de Rabadon",
-            "Diente de Nashor"
-          ],
-          "apiName": "TFT17_TwistedFate"
-        },
-        {
-          "name": "Kindred",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Kindred"
-        },
-        {
-          "name": "Maokai",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Maokai"
-        },
-        {
-          "name": "Akali",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Akali"
-        },
-        {
-          "name": "Bel'Veth",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Belveth"
-        },
-        {
-          "name": "Talon",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Talon"
-        }
-      ],
-      "traits": [
-        {
-          "name": "N.O.V.A.",
-          "count": 5
-        },
-        {
-          "name": "Stargazer",
-          "count": 3
-        },
-        {
-          "name": "Bastion",
-          "count": 2
-        },
-        {
-          "name": "Fateweaver",
-          "count": 2
-        },
-        {
-          "name": "Challenger",
-          "count": 2
-        },
-        {
-          "name": "Marauder",
-          "count": 2
-        },
-        {
-          "name": "Brawler",
-          "count": 1
-        },
-        {
-          "name": "Primordian",
-          "count": 1
-        },
-        {
-          "name": "Rogue",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Mountain Stargazer",
-      "tier": "A",
-      "champions": [
-        {
-          "name": "Jhin",
-          "items": [
-            "Last Whisper",
-            "Stargazer Emblem",
-            "Redbuff"
-          ],
-          "items_es": [
-            "Últimas palabras",
-            "Emblema de astral",
-            "Mejora roja"
-          ],
-          "apiName": "TFT17_Jhin"
-        },
-        {
-          "name": "Nunu",
-          "items": [
-            "Crownguard",
-            "Warmogs Armor",
-            "Fimbulwinter"
-          ],
-          "items_es": [
-            "Regiaguardia",
-            "Armadura de Warmog",
-            "Fimbulwinter"
-          ],
-          "apiName": "TFT17_Nunu"
-        },
-        {
-          "name": "Riven",
-          "items": [
-            "Sterak'S Gage",
-            "Stargazer Emblem",
-            "Bloodthirster"
-          ],
-          "items_es": [
-            "Calibrador de Sterak",
-            "Emblema de astral",
-            "Sanguinaria"
-          ],
-          "apiName": "TFT17_Riven"
-        },
-        {
-          "name": "Xayah",
-          "items": [
-            "Giant Slayer",
-            "Krakensfury",
-            "Guinsoos Rageblade"
-          ],
-          "items_es": [
-            "Verdugo de gigantes",
-            "Furia del kraken",
-            "Hoja de furia de Guinsoo"
-          ],
-          "apiName": "TFT17_Xayah"
-        },
-        {
-          "name": "Shen",
-          "items": [
-            "Stargazer Emblem"
-          ],
-          "items_es": [
-            "Emblema de astral"
-          ],
-          "apiName": "TFT17_Shen"
-        },
-        {
-          "name": "Lulu",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Lulu"
-        },
-        {
-          "name": "Jax",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Jax"
-        },
-        {
-          "name": "Mordekaiser",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Mordekaiser"
-        },
-        {
-          "name": "Talon",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Talon"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Stargazer",
-          "count": 5
-        },
-        {
-          "name": "Dark Star",
-          "count": 2
-        },
-        {
-          "name": "Sniper",
-          "count": 2
-        },
-        {
-          "name": "Vanguard",
-          "count": 2
-        },
-        {
-          "name": "Rogue",
-          "count": 2
-        },
-        {
-          "name": "Bastion",
-          "count": 2
-        },
-        {
-          "name": "Eradicator",
-          "count": 1
-        },
-        {
-          "name": "Timebreaker",
-          "count": 1
-        },
-        {
-          "name": "Bulwark",
-          "count": 1
-        },
-        {
-          "name": "Replicator",
-          "count": 1
-        },
-        {
-          "name": "Conduit",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Capped & Loaded",
-      "tier": "A",
-      "champions": [
-        {
-          "name": "Fiora",
-          "items": [
-            "Quicksilver",
-            "Hand Of Justice",
-            "Edge Of Night"
-          ],
-          "items_es": [
-            "Fajín de mercurio",
-            "Mano de la justicia",
-            "Filo de la noche"
-          ],
-          "apiName": "TFT17_Fiora"
-        },
-        {
-          "name": "Graves",
-          "items": [
-            "Guardbreaker",
-            "Quicksilver",
-            "Giant Slayer"
-          ],
-          "items_es": [
-            "Guardbreaker",
-            "Fajín de mercurio",
-            "Verdugo de gigantes"
-          ],
-          "apiName": "TFT17_Graves"
-        },
-        {
-          "name": "Vex",
-          "items": [
-            "Voidstaff",
-            "Guinsoos Rageblade",
-            "Giant Slayer"
-          ],
-          "items_es": [
-            "Bastón del Vacío",
-            "Hoja de furia de Guinsoo",
-            "Verdugo de gigantes"
-          ],
-          "apiName": "TFT17_Vex"
-        },
-        {
-          "name": "Nunu",
-          "items": [
-            "Sunfire Cape",
-            "Fimbulwinter",
-            "Warmogs Armor"
-          ],
-          "items_es": [
-            "Capa de fuego solar",
-            "Fimbulwinter",
-            "Armadura de Warmog"
-          ],
-          "apiName": "TFT17_Nunu"
-        },
-        {
-          "name": "Blitzcrank",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Blitzcrank"
-        },
-        {
-          "name": "Morgana",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Morgana"
-        },
-        {
-          "name": "Shen",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Shen"
-        },
-        {
-          "name": "Akali",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Akali"
-        },
-        {
-          "name": "Aatrox",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Aatrox"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Marauder",
-          "count": 2
-        },
-        {
-          "name": "Vanguard",
-          "count": 2
-        },
-        {
-          "name": "Bastion",
-          "count": 2
-        },
-        {
-          "name": "N.O.V.A.",
-          "count": 2
-        },
-        {
-          "name": "Divine Duelist",
-          "count": 1
-        },
-        {
-          "name": "Anima",
-          "count": 1
-        },
-        {
-          "name": "Factory New",
-          "count": 1
-        },
-        {
-          "name": "Doomer",
-          "count": 1
-        },
-        {
-          "name": "Stargazer",
-          "count": 1
-        },
-        {
-          "name": "Party Animal",
-          "count": 1
-        },
-        {
-          "name": "Space Groove",
-          "count": 1
-        },
-        {
-          "name": "Dark Lady",
-          "count": 1
-        },
-        {
-          "name": "Bulwark",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Conduit Reroll",
-      "tier": "A",
-      "champions": [
-        {
-          "name": "Miss Fortune",
-          "items": [
-            "Infinity Edge",
-            "Blue Buff",
-            "Guardbreaker"
-          ],
-          "items_es": [
-            "Filo infinito",
-            "Mejora azul",
-            "Guardbreaker"
-          ],
-          "apiName": "TFT17_MissFortune"
-        },
-        {
+          "apiName": "TFT17_Ornn",
           "name": "Ornn",
+          "name_es": "Ornn",
+          "cost": 3,
           "items": [
-            "Sunfire Cape",
-            "Warmogs Armor",
-            "Spiritvisage"
-          ],
-          "items_es": [
-            "Capa de fuego solar",
-            "Armadura de Warmog",
-            "Rostro espiritual"
-          ],
-          "apiName": "TFT17_Ornn"
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_Redemption",
+            "TFT_Item_WarmogsArmor"
+          ]
         },
         {
-          "name": "Viktor",
+          "apiName": "TFT17_Ornn",
+          "name": "Ornn",
+          "name_es": "Ornn",
+          "cost": 3,
           "items": [
-            "Jeweled Gauntlet",
-            "Drone Uplink",
-            "Archangels Staff"
-          ],
-          "items_es": [
-            "Guantelete enjoyado",
-            "Conexión de dron",
-            "Bastón del arcángel"
-          ],
-          "apiName": "TFT17_Viktor"
+            "TFT_Item_BrambleVest",
+            "TFT_Item_NightHarvester",
+            "TFT_Item_Redemption"
+          ]
         },
         {
-          "name": "Rhaast",
+          "apiName": "TFT17_Samira",
+          "name": "Samira",
+          "name_es": "Samira",
+          "cost": 3,
           "items": [
-            "Thiefs Gloves"
-          ],
-          "items_es": [
-            "Guantes de ladrón"
-          ],
-          "apiName": "TFT17_Rhaast"
+            "TFT_Item_LastWhisper",
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_SpearOfShojin"
+          ]
         },
         {
-          "name": "Bard",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Bard"
-        },
-        {
-          "name": "Maokai",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Maokai"
-        },
-        {
-          "name": "Gragas",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Gragas"
-        },
-        {
-          "name": "Zoe",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Zoe"
-        },
-        {
-          "name": "Aatrox",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Aatrox"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Conduit",
-          "count": 3
-        },
-        {
-          "name": "Bastion",
-          "count": 2
-        },
-        {
-          "name": "Psionic",
-          "count": 2
-        },
-        {
-          "name": "N.O.V.A.",
-          "count": 2
-        },
-        {
-          "name": "Brawler",
-          "count": 2
-        },
-        {
-          "name": "Gun Goddess",
-          "count": 1
-        },
-        {
-          "name": "Choose Trait",
-          "count": 1
-        },
-        {
-          "name": "Space Groove",
-          "count": 1
-        },
-        {
-          "name": "Redeemer",
-          "count": 1
-        },
-        {
-          "name": "Meeple",
-          "count": 1
-        },
-        {
-          "name": "Arbiter",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "N.O.V.A.",
-      "tier": "A",
-      "champions": [
-        {
-          "name": "Graves",
+          "apiName": "TFT17_Samira",
+          "name": "Samira",
+          "name_es": "Samira",
+          "cost": 3,
           "items": [
-            "Quicksilver",
-            "Hand Of Justice",
-            "Sterak'S Gage"
-          ],
-          "items_es": [
-            "Fajín de mercurio",
-            "Mano de la justicia",
-            "Calibrador de Sterak"
-          ],
-          "apiName": "TFT17_Graves"
+            "TFT_Item_Deathblade",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_SpearOfShojin"
+          ]
         },
         {
-          "name": "Kindred",
-          "items": [
-            "Guinsoos Rageblade",
-            "Giant Slayer",
-            "Krakensfury"
-          ],
-          "items_es": [
-            "Hoja de furia de Guinsoo",
-            "Verdugo de gigantes",
-            "Furia del kraken"
-          ],
-          "apiName": "TFT17_Kindred"
-        },
-        {
-          "name": "Tahm Kench",
-          "items": [
-            "Spiritvisage",
-            "Sunfire Cape",
-            "Steadfast Hammer"
-          ],
-          "items_es": [
-            "Rostro espiritual",
-            "Capa de fuego solar",
-            "Steadfast Hammer"
-          ],
-          "apiName": "TFT17_TahmKench"
-        },
-        {
-          "name": "Shen",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Shen"
-        },
-        {
-          "name": "Maokai",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Maokai"
-        },
-        {
-          "name": "Akali",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Akali"
-        },
-        {
-          "name": "Bel'Veth",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Belveth"
-        },
-        {
-          "name": "Aatrox",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Aatrox"
-        },
-        {
-          "name": "Caitlyn",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Caitlyn"
-        }
-      ],
-      "traits": [
-        {
-          "name": "N.O.V.A.",
-          "count": 5
-        },
-        {
-          "name": "Challenger",
-          "count": 2
-        },
-        {
-          "name": "Brawler",
-          "count": 2
-        },
-        {
-          "name": "Bastion",
-          "count": 2
-        },
-        {
-          "name": "Marauder",
-          "count": 2
-        },
-        {
-          "name": "Factory New",
-          "count": 1
-        },
-        {
-          "name": "Oracle",
-          "count": 1
-        },
-        {
-          "name": "Bulwark",
-          "count": 1
-        },
-        {
-          "name": "Primordian",
-          "count": 1
-        },
-        {
-          "name": "Fateweaver",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Contract Killer",
-      "tier": "A",
-      "champions": [
-        {
-          "name": "Sona",
-          "items": [
-            "Voidstaff",
-            "Morellonomicon",
-            "Archangels Staff"
-          ],
-          "items_es": [
-            "Bastón del Vacío",
-            "Morellonomicón",
-            "Bastón del arcángel"
-          ],
-          "apiName": "TFT17_Sona"
-        },
-        {
-          "name": "Gragas",
-          "items": [
-            "Spiritvisage",
-            "Steadfast Hammer",
-            "Evenshroud"
-          ],
-          "items_es": [
-            "Rostro espiritual",
-            "Steadfast Hammer",
-            "Mortaja de la quietud"
-          ],
-          "apiName": "TFT17_Gragas"
-        },
-        {
-          "name": "Pyke",
-          "items": [
-            "Hand Of Justice",
-            "Target Lock Optics",
-            "Infinity Edge"
-          ],
-          "items_es": [
-            "Mano de la justicia",
-            "<TFTRadiantItemBonus>Óptica de fijado de objetivos</TFTRadiantItemBonus>",
-            "Filo infinito"
-          ],
-          "apiName": "TFT17_Pyke"
-        },
-        {
-          "name": "Meepsie",
-          "items": [
-            "Thiefs Gloves"
-          ],
-          "items_es": [
-            "Guantes de ladrón"
-          ],
-          "apiName": "TFT17_IvernMinion"
-        },
-        {
-          "name": "Karma",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Karma"
-        },
-        {
-          "name": "Master Yi",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_MasterYi"
-        },
-        {
-          "name": "Tahm Kench",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_TahmKench"
-        },
-        {
-          "name": "Lissandra",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Lissandra"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Psionic",
-          "count": 4
-        },
-        {
-          "name": "Shepherd",
-          "count": 3
-        },
-        {
-          "name": "Voyager",
-          "count": 3
-        },
-        {
-          "name": "Brawler",
-          "count": 2
-        },
-        {
-          "name": "Dark Star",
-          "count": 2
-        },
-        {
-          "name": "Commander",
-          "count": 1
-        },
-        {
-          "name": "Meeple",
-          "count": 1
-        },
-        {
-          "name": "Marauder",
-          "count": 1
-        },
-        {
-          "name": "Oracle",
-          "count": 1
-        },
-        {
-          "name": "Replicator",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Invader Zed",
-      "tier": "A",
-      "champions": [
-        {
-          "name": "Vex",
-          "items": [
-            "Hextech Gunblade",
-            "Voidstaff",
-            "Guinsoos Rageblade"
-          ],
-          "items_es": [
-            "Sable-pistola hextech",
-            "Bastón del Vacío",
-            "Hoja de furia de Guinsoo"
-          ],
-          "apiName": "TFT17_Vex"
-        },
-        {
-          "name": "Zed",
-          "items": [
-            "Edge Of Night",
-            "Spear Of Shojin"
-          ],
-          "items_es": [
-            "Filo de la noche",
-            "Lanza de Shojin"
-          ],
-          "apiName": "TFT17_Zed"
-        },
-        {
-          "name": "Rammus",
-          "items": [
-            "Sunfire Cape",
-            "Fimbulwinter",
-            "Evenshroud"
-          ],
-          "items_es": [
-            "Capa de fuego solar",
-            "Fimbulwinter",
-            "Mortaja de la quietud"
-          ],
-          "apiName": "TFT17_Rammus"
-        },
-        {
-          "name": "Blitzcrank",
-          "items": [
-            "Thiefs Gloves"
-          ],
-          "items_es": [
-            "Guantes de ladrón"
-          ],
-          "apiName": "TFT17_Blitzcrank"
-        },
-        {
-          "name": "Bard",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Bard"
-        },
-        {
-          "name": "Shen",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Shen"
-        },
-        {
-          "name": "Karma",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Karma"
-        },
-        {
-          "name": "Meepsie",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_IvernMinion"
-        },
-        {
-          "name": "Mordekaiser",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Mordekaiser"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Meeple",
-          "count": 3
-        },
-        {
-          "name": "Bastion",
-          "count": 2
-        },
-        {
-          "name": "Vanguard",
-          "count": 2
-        },
-        {
-          "name": "Conduit",
-          "count": 2
-        },
-        {
-          "name": "Dark Star",
-          "count": 2
-        },
-        {
-          "name": "Voyager",
-          "count": 2
-        },
-        {
-          "name": "Doomer",
-          "count": 1
-        },
-        {
-          "name": "Galaxy Hunter",
-          "count": 1
-        },
-        {
-          "name": "Party Animal",
-          "count": 1
-        },
-        {
-          "name": "Space Groove",
-          "count": 1
-        },
-        {
-          "name": "Bulwark",
-          "count": 1
-        },
-        {
-          "name": "Shepherd",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Anima Cashout",
-      "tier": "A",
-      "champions": [
-        {
-          "name": "Aurora",
-          "items": [
-            "Nashor'S Tooth",
-            "Jeweled Gauntlet",
-            "Guardbreaker"
-          ],
-          "items_es": [
-            "Diente de Nashor",
-            "Guantelete enjoyado",
-            "Guardbreaker"
-          ],
-          "apiName": "TFT17_Aurora"
-        },
-        {
-          "name": "Diana",
-          "items": [
-            "Bloodthirster",
-            "Titans Resolve",
-            "Guinsoos Rageblade"
-          ],
-          "items_es": [
-            "Sanguinaria",
-            "Resolución titánica",
-            "Hoja de furia de Guinsoo"
-          ],
-          "apiName": "TFT17_Diana"
-        },
-        {
-          "name": "Illaoi",
-          "items": [
-            "Spiritvisage",
-            "Sunfire Cape",
-            "Ionic Spark"
-          ],
-          "items_es": [
-            "Rostro espiritual",
-            "Capa de fuego solar",
-            "Chispa iónica"
-          ],
-          "apiName": "TFT17_Illaoi"
-        },
-        {
-          "name": "Morgana",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Morgana"
-        },
-        {
-          "name": "Leblanc",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Leblanc"
-        },
-        {
-          "name": "Jinx",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Jinx"
-        },
-        {
-          "name": "Meepsie",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_IvernMinion"
-        },
-        {
-          "name": "Leona",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Leona"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Anima",
-          "count": 3
-        },
-        {
-          "name": "Arbiter",
-          "count": 3
-        },
-        {
-          "name": "Shepherd",
-          "count": 3
-        },
-        {
-          "name": "Voyager",
-          "count": 2
-        },
-        {
-          "name": "Challenger",
-          "count": 2
-        },
-        {
-          "name": "Vanguard",
-          "count": 2
-        },
-        {
-          "name": "Dark Lady",
-          "count": 1
-        },
-        {
-          "name": "Meeple",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Twin Blades",
-      "tier": "A",
-      "champions": [
-        {
-          "name": "Fiora",
-          "items": [
-            "Edge Of Night",
-            "Bloodthirster",
-            "Titans Resolve"
-          ],
-          "items_es": [
-            "Filo de la noche",
-            "Sanguinaria",
-            "Resolución titánica"
-          ],
-          "apiName": "TFT17_Fiora"
-        },
-        {
-          "name": "Sona",
-          "items": [
-            "Archangels Staff",
-            "Jeweled Gauntlet",
-            "Spear Of Shojin"
-          ],
-          "items_es": [
-            "Bastón del arcángel",
-            "Guantelete enjoyado",
-            "Lanza de Shojin"
-          ],
-          "apiName": "TFT17_Sona"
-        },
-        {
-          "name": "Master Yi",
-          "items": [
-            "Target Lock Optics",
-            "Giant Slayer",
-            "Edge Of Night"
-          ],
-          "items_es": [
-            "<TFTRadiantItemBonus>Óptica de fijado de objetivos</TFTRadiantItemBonus>",
-            "Verdugo de gigantes",
-            "Filo de la noche"
-          ],
-          "apiName": "TFT17_MasterYi"
-        },
-        {
-          "name": "Rammus",
-          "items": [
-            "Sunfire Cape",
-            "Evenshroud",
-            "Spiritvisage"
-          ],
-          "items_es": [
-            "Capa de fuego solar",
-            "Mortaja de la quietud",
-            "Rostro espiritual"
-          ],
-          "apiName": "TFT17_Rammus"
-        },
-        {
-          "name": "Blitzcrank",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Blitzcrank"
-        },
-        {
-          "name": "Morgana",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Morgana"
-        },
-        {
-          "name": "Shen",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Shen"
-        },
-        {
-          "name": "Vex",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Vex"
-        },
-        {
-          "name": "Nunu",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Nunu"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Marauder",
-          "count": 2
-        },
-        {
-          "name": "Psionic",
-          "count": 2
-        },
-        {
-          "name": "Bastion",
-          "count": 2
-        },
-        {
-          "name": "Vanguard",
-          "count": 2
-        },
-        {
-          "name": "Divine Duelist",
-          "count": 1
-        },
-        {
-          "name": "Anima",
-          "count": 1
-        },
-        {
-          "name": "Commander",
-          "count": 1
-        },
-        {
-          "name": "Shepherd",
-          "count": 1
-        },
-        {
-          "name": "Meeple",
-          "count": 1
-        },
-        {
-          "name": "Party Animal",
-          "count": 1
-        },
-        {
-          "name": "Space Groove",
-          "count": 1
-        },
-        {
-          "name": "Dark Lady",
-          "count": 1
-        },
-        {
-          "name": "Bulwark",
-          "count": 1
-        },
-        {
-          "name": "Doomer",
-          "count": 1
-        },
-        {
-          "name": "Stargazer",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Hooked & Cooked",
-      "tier": "B",
-      "champions": [
-        {
-          "name": "Gwen",
-          "items": [
-            "Jeweled Gauntlet",
-            "Nashor'S Tooth",
-            "Hextech Gunblade"
-          ],
-          "items_es": [
-            "Guantelete enjoyado",
-            "Diente de Nashor",
-            "Sable-pistola hextech"
-          ],
-          "apiName": "TFT17_Gwen"
-        },
-        {
-          "name": "Milio",
-          "items": [
-            "Jeweled Gauntlet",
-            "Voidstaff",
-            "Archangels Staff"
-          ],
-          "items_es": [
-            "Guantelete enjoyado",
-            "Bastón del Vacío",
-            "Bastón del arcángel"
-          ],
-          "apiName": "TFT17_Milio"
-        },
-        {
-          "name": "Pantheon",
-          "items": [
-            "Evenshroud",
-            "Sunfire Cape",
-            "Fimbulwinter"
-          ],
-          "items_es": [
-            "Mortaja de la quietud",
-            "Capa de fuego solar",
-            "Fimbulwinter"
-          ],
-          "apiName": "TFT17_Pantheon"
-        },
-        {
-          "name": "Pyke",
-          "items": [
-            "Target Lock Optics",
-            "Hand Of Justice",
-            "Infinity Edge"
-          ],
-          "items_es": [
-            "<TFTRadiantItemBonus>Óptica de fijado de objetivos</TFTRadiantItemBonus>",
-            "Mano de la justicia",
-            "Filo infinito"
-          ],
-          "apiName": "TFT17_Pyke"
-        },
-        {
-          "name": "Riven",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Riven"
-        },
-        {
-          "name": "Rhaast",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Rhaast"
-        },
-        {
-          "name": "Gragas",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Gragas"
-        },
-        {
-          "name": "Meepsie",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_IvernMinion"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Timebreaker",
-          "count": 3
-        },
-        {
-          "name": "Rogue",
-          "count": 2
-        },
-        {
-          "name": "Brawler",
-          "count": 2
-        },
-        {
-          "name": "Psionic",
-          "count": 2
-        },
-        {
-          "name": "Voyager",
-          "count": 2
-        },
-        {
-          "name": "Space Groove",
-          "count": 1
-        },
-        {
-          "name": "Fateweaver",
-          "count": 1
-        },
-        {
-          "name": "Replicator",
-          "count": 1
-        },
-        {
-          "name": "Redeemer",
-          "count": 1
-        },
-        {
-          "name": "Meeple",
-          "count": 1
-        },
-        {
-          "name": "Shepherd",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Transformers",
-      "tier": "B",
-      "champions": [
-        {
-          "name": "Aurelion Sol",
-          "items": [
-            "Guardbreaker",
-            "Rabadons Deathcap",
-            "Jeweled Gauntlet"
-          ],
-          "items_es": [
-            "Guardbreaker",
-            "Sombrero mortal de Rabadon",
-            "Guantelete enjoyado"
-          ],
-          "apiName": "TFT17_AurelionSol"
-        },
-        {
-          "name": "Urgot",
-          "items": [
-            "Hand Of Justice",
-            "Last Whisper",
-            "Infinity Edge"
-          ],
-          "items_es": [
-            "Mano de la justicia",
-            "Últimas palabras",
-            "Filo infinito"
-          ],
-          "apiName": "TFT17_Urgot"
-        },
-        {
-          "name": "Karma",
-          "items": [
-            "Morellonomicon",
-            "Voidstaff"
-          ],
-          "items_es": [
-            "Morellonomicón",
-            "Bastón del Vacío"
-          ],
-          "apiName": "TFT17_Karma"
-        },
-        {
-          "name": "Fiora",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Fiora"
-        },
-        {
-          "name": "Tahm Kench",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_TahmKench"
-        },
-        {
-          "name": "Mordekaiser",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Mordekaiser"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Mecha",
-          "count": 2
-        },
-        {
-          "name": "Conduit",
-          "count": 2
-        },
-        {
-          "name": "Brawler",
-          "count": 2
-        },
-        {
-          "name": "Marauder",
-          "count": 2
-        },
-        {
-          "name": "Dark Star",
-          "count": 2
-        },
-        {
-          "name": "Voyager",
-          "count": 1
-        },
-        {
-          "name": "Divine Duelist",
-          "count": 1
-        },
-        {
-          "name": "Anima",
-          "count": 1
-        },
-        {
-          "name": "Oracle",
-          "count": 1
-        },
-        {
-          "name": "Vanguard",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Feed the Stars",
-      "tier": "B",
-      "champions": [
-        {
-          "name": "Jhin",
-          "items": [
-            "Infinity Edge",
-            "Giant Slayer",
-            "Guardbreaker"
-          ],
-          "items_es": [
-            "Filo infinito",
-            "Verdugo de gigantes",
-            "Guardbreaker"
-          ],
-          "apiName": "TFT17_Jhin"
-        },
-        {
-          "name": "Karma",
-          "items": [
-            "Voidstaff",
-            "Morellonomicon",
-            "Blue Buff"
-          ],
-          "items_es": [
-            "Bastón del Vacío",
-            "Morellonomicón",
-            "Mejora azul"
-          ],
-          "apiName": "TFT17_Karma"
-        },
-        {
-          "name": "Tahm Kench",
-          "items": [
-            "Warmogs Armor",
-            "Gargoyle Stoneplate",
-            "Evenshroud"
-          ],
-          "items_es": [
-            "Armadura de Warmog",
-            "Protector pétreo de gárgola",
-            "Mortaja de la quietud"
-          ],
-          "apiName": "TFT17_TahmKench"
-        },
-        {
-          "name": "Blitzcrank",
-          "items": [
-            "Thiefs Gloves"
-          ],
-          "items_es": [
-            "Guantes de ladrón"
-          ],
-          "apiName": "TFT17_Blitzcrank"
-        },
-        {
-          "name": "Kai'Sa",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Kaisa"
-        },
-        {
-          "name": "Mordekaiser",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Mordekaiser"
-        },
-        {
-          "name": "Cho'Gath",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Chogath"
-        },
-        {
-          "name": "Lissandra",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Lissandra"
-        }
-      ],
-      "traits": [
-        {
-          "name": "Dark Star",
-          "count": 6
-        },
-        {
-          "name": "Brawler",
-          "count": 2
-        },
-        {
-          "name": "Vanguard",
-          "count": 2
-        },
-        {
-          "name": "Eradicator",
-          "count": 1
-        },
-        {
-          "name": "Sniper",
-          "count": 1
-        },
-        {
-          "name": "Voyager",
-          "count": 1
-        },
-        {
-          "name": "Oracle",
-          "count": 1
-        },
-        {
-          "name": "Party Animal",
-          "count": 1
-        },
-        {
-          "name": "Space Groove",
-          "count": 1
-        },
-        {
-          "name": "Rogue",
-          "count": 1
-        },
-        {
-          "name": "Conduit",
-          "count": 1
-        },
-        {
-          "name": "Shepherd",
-          "count": 1
-        },
-        {
-          "name": "Replicator",
-          "count": 1
-        }
-      ]
-    },
-    {
-      "name": "Space Opera",
-      "tier": "B",
-      "champions": [
-        {
-          "name": "Jhin",
-          "items": [
-            "Deathblade",
-            "Guardbreaker",
-            "Infinity Edge"
-          ],
-          "items_es": [
-            "Filo mortal",
-            "Guardbreaker",
-            "Filo infinito"
-          ],
-          "apiName": "TFT17_Jhin"
-        },
-        {
-          "name": "Karma",
-          "items": [
-            "Spear Of Shojin",
-            "Jeweled Gauntlet",
-            "Morellonomicon"
-          ],
-          "items_es": [
-            "Lanza de Shojin",
-            "Guantelete enjoyado",
-            "Morellonomicón"
-          ],
-          "apiName": "TFT17_Karma"
-        },
-        {
-          "name": "Nunu",
-          "items": [
-            "Crownguard",
-            "Evenshroud",
-            "Warmogs Armor"
-          ],
-          "items_es": [
-            "Regiaguardia",
-            "Mortaja de la quietud",
-            "Armadura de Warmog"
-          ],
-          "apiName": "TFT17_Nunu"
-        },
-        {
-          "name": "Morgana",
-          "items": [
-            "Thiefs Gloves"
-          ],
-          "items_es": [
-            "Guantes de ladrón"
-          ],
-          "apiName": "TFT17_Morgana"
-        },
-        {
-          "name": "Blitzcrank",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Blitzcrank"
-        },
-        {
-          "name": "Shen",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Shen"
-        },
-        {
-          "name": "Xayah",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Xayah"
-        },
-        {
+          "apiName": "TFT17_Jax",
           "name": "Jax",
-          "items": [],
-          "items_es": [],
-          "apiName": "TFT17_Jax"
+          "name_es": "Jax",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Nunu",
+          "name": "Nunu & Willump",
+          "name_es": "Nunu y Willump",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Xayah",
+          "name": "Xayah",
+          "name_es": "Xayah",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Blitzcrank",
+          "name": "Blitzcrank",
+          "name_es": "Blitzcrank",
+          "cost": 5,
+          "items": []
         }
-      ],
-      "traits": [
+      ]
+    },
+    {
+      "name": "SpaceGroove Nami",
+      "tier": "A",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.18777026084530618,
+        "avg_placement": 4.3048565326399855,
+        "top_4_percent": 0.5331042808060172,
+        "top_1_percent": 0.15665335685764695
+      },
+      "champions": [
         {
-          "name": "Stargazer",
-          "count": 3
+          "apiName": "TFT17_Nami",
+          "name": "Nami",
+          "name_es": "Nami",
+          "cost": 4,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan",
+            "TFT_Item_PowerGauntlet"
+          ]
         },
         {
-          "name": "Dark Star",
-          "count": 2
+          "apiName": "TFT17_Riven",
+          "name": "Riven",
+          "name_es": "Riven",
+          "cost": 4,
+          "items": [
+            "TFT17_Item_SpaceGrooveEmblemItem",
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_TitansResolve"
+          ]
         },
         {
-          "name": "Sniper",
-          "count": 2
+          "apiName": "TFT17_TahmKench",
+          "name": "Tahm Kench",
+          "name_es": "Tahm Kench",
+          "cost": 4,
+          "items": []
         },
         {
-          "name": "Vanguard",
-          "count": 2
+          "apiName": "TFT17_Blitzcrank",
+          "name": "Blitzcrank",
+          "name_es": "Blitzcrank",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_IonicSpark",
+            "TFT_Item_Morellonomicon"
+          ]
         },
         {
-          "name": "Bastion",
-          "count": 2
+          "apiName": "TFT17_Gwen",
+          "name": "Gwen",
+          "name_es": "Gwen",
+          "cost": 2,
+          "items": []
         },
         {
-          "name": "Eradicator",
-          "count": 1
+          "apiName": "TFT17_Ornn",
+          "name": "Ornn",
+          "name_es": "Ornn",
+          "cost": 3,
+          "items": []
         },
         {
-          "name": "Voyager",
-          "count": 1
+          "apiName": "TFT17_Pantheon",
+          "name": "Pantheon",
+          "name_es": "Pantheon",
+          "cost": 2,
+          "items": []
         },
         {
-          "name": "Dark Lady",
-          "count": 1
+          "apiName": "TFT17_Nunu",
+          "name": "Nunu & Willump",
+          "name_es": "Nunu y Willump",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Crownguard",
+            "TFT_Item_FrozenHeart",
+            "TFT_Item_WarmogsArmor"
+          ]
         },
         {
-          "name": "Party Animal",
-          "count": 1
+          "apiName": "TFT17_Shen",
+          "name": "Shen",
+          "name_es": "Shen",
+          "cost": 5,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Astronaut Corki",
+      "tier": "A",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.04531664109359743,
+        "avg_placement": 4.396306271642939,
+        "top_4_percent": 0.5017314351673721,
+        "top_1_percent": 0.1581377452866487
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Corki",
+          "name": "Corki",
+          "name_es": "Corki",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Deathblade",
+            "TFT_Item_LastWhisper",
+            "TFT_Item_PowerGauntlet"
+          ]
         },
         {
-          "name": "Space Groove",
-          "count": 1
+          "apiName": "TFT17_Rammus",
+          "name": "Rammus",
+          "name_es": "Rammus",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Crownguard",
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_RedBuff"
+          ]
         },
         {
-          "name": "Bulwark",
-          "count": 1
+          "apiName": "TFT17_Riven",
+          "name": "Riven",
+          "name_es": "Riven",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT17_Fizz",
+          "name": "Fizz",
+          "name_es": "Fizz",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Milio",
+          "name": "Milio",
+          "name_es": "Milio",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Bard",
+          "name": "Bard",
+          "name_es": "Bardo",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Gnar",
+          "name": "Gnar",
+          "name_es": "Gnar",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Poppy",
+          "name": "Poppy",
+          "name_es": "Poppy",
+          "cost": 1,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "DarkStar Jhin",
+      "tier": "A",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.03858627423629516,
+        "avg_placement": 4.388612742882964,
+        "top_4_percent": 0.5128784455490285,
+        "top_1_percent": 0.14324446452779033
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Jhin",
+          "name": "Jhin",
+          "name_es": "Jhin",
+          "cost": 5,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Karma",
+          "name": "Karma",
+          "name_es": "Karma",
+          "cost": 4,
+          "items": [
+            "TFT_Item_BlueBuff",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_RabadonsDeathcap"
+          ]
+        },
+        {
+          "apiName": "TFT17_Nunu",
+          "name": "Nunu & Willump",
+          "name_es": "Nunu y Willump",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_RedBuff",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Chogath",
+          "name": "Cho'Gath",
+          "name_es": "Cho'Gath",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Kaisa",
+          "name": "Kai'Sa",
+          "name_es": "Kai'Sa",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Mordekaiser",
+          "name": "Mordekaiser",
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Lissandra",
+          "name": "Lissandra",
+          "name_es": "Lissandra",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_TahmKench",
+          "name": "Tahm Kench",
+          "name_es": "Tahm Kench",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_RedBuff",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Xayah",
+          "name": "Xayah",
+          "name_es": "Xayah",
+          "cost": 4,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "ShieldTank Leona Reroll",
+      "tier": "A",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.036703166410935975,
+        "avg_placement": 4.11353919239905,
+        "top_4_percent": 0.5838479809976247,
+        "top_1_percent": 0.11401425178147269
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Leblanc",
+          "name": "LeBlanc",
+          "name_es": "LeBlanc",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Leona",
+          "name": "Leona",
+          "name_es": "Leona",
+          "cost": 1,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Teemo",
+          "name": "Teemo",
+          "name_es": "Teemo",
+          "cost": 1,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_HextechGunblade",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Illaoi",
+          "name": "Illaoi",
+          "name_es": "Illaoi",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Mordekaiser",
+          "name": "Mordekaiser",
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Nasus",
+          "name": "Nasus",
+          "name_es": "Nasus",
+          "cost": 1,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT17_Blitzcrank",
+          "name": "Blitzcrank",
+          "name_es": "Blitzcrank",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Nunu",
+          "name": "Nunu & Willump",
+          "name_es": "Nunu y Willump",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Zoe",
+          "name": "Zoe",
+          "name_es": "Zoe",
+          "cost": 2,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Astronaut Vex",
+      "tier": "A",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.04706025945041149,
+        "avg_placement": 4.013708781030011,
+        "top_4_percent": 0.580585402000741,
+        "top_1_percent": 0.1971100407558355
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Blitzcrank",
+          "name": "Blitzcrank",
+          "name_es": "Blitzcrank",
+          "cost": 5,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_RabadonsDeathcap",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Rammus",
+          "name": "Rammus",
+          "name_es": "Rammus",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Crownguard",
+            "TFT_Item_FrozenHeart",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Vex",
+          "name": "Vex",
+          "name_es": "Vex",
+          "cost": 5,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Bard",
+          "name": "Bard",
+          "name_es": "Bardo",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Karma",
+          "name": "Karma",
+          "name_es": "Karma",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Mordekaiser",
+          "name": "Mordekaiser",
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Shen",
+          "name": "Shen",
+          "name_es": "Shen",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Rhaast",
+          "name": "Rhaast",
+          "name_es": "Rhaast",
+          "cost": 3,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "FlexTrait Rammus",
+      "tier": "A",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.010217603570930395,
+        "avg_placement": 3.887372013651877,
+        "top_4_percent": 0.6416382252559727,
+        "top_1_percent": 0.12286689419795221
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Karma",
+          "name": "Karma",
+          "name_es": "Karma",
+          "cost": 4,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Pyke",
+          "name": "Pyke",
+          "name_es": "Pyke",
+          "cost": 2,
+          "items": [
+            "TFT_Item_GuardianAngel",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Rammus",
+          "name": "Rammus",
+          "name_es": "Rammus",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Crownguard",
+            "TFT_Item_IonicSpark",
+            "TFT_Item_RedBuff"
+          ]
+        },
+        {
+          "apiName": "TFT17_Galio",
+          "name": "The Mighty Mech",
+          "name_es": "Megamecha",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Poppy",
+          "name": "Poppy",
+          "name_es": "Poppy",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Aurora",
+          "name": "Aurora",
+          "name_es": "Aurora",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Lissandra",
+          "name": "Lissandra",
+          "name_es": "Lissandra",
+          "cost": 1,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "DRX Vex",
+      "tier": "A",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.020592132793974056,
+        "avg_placement": 3.767146486028789,
+        "top_4_percent": 0.6215071972904318,
+        "top_1_percent": 0.25656223539373413
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_TahmKench",
+          "name": "Tahm Kench",
+          "name_es": "Tahm Kench",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_RedBuff",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT17_Vex",
+          "name": "Vex",
+          "name_es": "Vex",
+          "cost": 5,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_HextechGunblade",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Graves",
+          "name": "Graves",
+          "name_es": "Graves",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Deathblade",
+            "TFT_Item_PowerGauntlet",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT17_Aatrox",
+          "name": "Aatrox",
+          "name_es": "Aatrox",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Akali",
+          "name": "Akali",
+          "name_es": "Akali",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Fiora",
+          "name": "Fiora",
+          "name_es": "Fiora",
+          "cost": 5,
+          "items": [
+            "TFT_Item_GuardianAngel",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Maokai",
+          "name": "Maokai",
+          "name_es": "Maokai",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Shen",
+          "name": "Shen",
+          "name_es": "Shen",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Morgana",
+          "name": "Morgana",
+          "name_es": "Morgana",
+          "cost": 5,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Primordian Bel'Veth Reroll",
+      "tier": "A",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.04113195703724369,
+        "avg_placement": 3.701568461212378,
+        "top_4_percent": 0.6617210682492581,
+        "top_1_percent": 0.15006358626536667
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Belveth",
+          "name": "Bel'Veth",
+          "name_es": "Bel'Veth",
+          "cost": 2,
+          "items": [
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_Quicksilver",
+            "TFT_Item_RunaansHurricane"
+          ]
+        },
+        {
+          "apiName": "TFT17_Briar",
+          "name": "Briar",
+          "name_es": "Briar",
+          "cost": 1,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT17_RekSai",
+          "name": "Rek'Sai",
+          "name_es": "Rek'Sai",
+          "cost": 1,
+          "items": [
+            "TFT_Item_FrozenHeart",
+            "TFT_Item_RedBuff",
+            "TFT_Item_SpectralGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT17_Akali",
+          "name": "Akali",
+          "name_es": "Akali",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Kaisa",
+          "name": "Kai'Sa",
+          "name_es": "Kai'Sa",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Kindred",
+          "name": "Kindred",
+          "name_es": "Kindred",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Jhin",
+          "name": "Jhin",
+          "name_es": "Jhin",
+          "cost": 5,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Rhaast",
+          "name": "Rhaast",
+          "name_es": "Rhaast",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_TahmKench",
+          "name": "Tahm Kench",
+          "name_es": "Tahm Kench",
+          "cost": 4,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "DRX Kindred",
+      "tier": "A",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.05980610963872228,
+        "avg_placement": 4.2673469387755105,
+        "top_4_percent": 0.5381924198250729,
+        "top_1_percent": 0.1358600583090379
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Kindred",
+          "name": "Kindred",
+          "name_es": "Kindred",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_PowerGauntlet",
+            "TFT_Item_RunaansHurricane"
+          ]
+        },
+        {
+          "apiName": "TFT17_MasterYi",
+          "name": "Master Yi",
+          "name_es": "Maestro Yi",
+          "cost": 4,
+          "items": [
+            "TFT17_Item_DRXEmblemItem",
+            "TFT_Item_GuardianAngel",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT17_TahmKench",
+          "name": "Tahm Kench",
+          "name_es": "Tahm Kench",
+          "cost": 4,
+          "items": [
+            "TFT_Item_NightHarvester",
+            "TFT_Item_RedBuff",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT17_Aatrox",
+          "name": "Aatrox",
+          "name_es": "Aatrox",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Akali",
+          "name": "Akali",
+          "name_es": "Akali",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Belveth",
+          "name": "Bel'Veth",
+          "name_es": "Bel'Veth",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Fiora",
+          "name": "Fiora",
+          "name_es": "Fiora",
+          "cost": 5,
+          "items": [
+            "TFT_Item_GuardianAngel",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Maokai",
+          "name": "Maokai",
+          "name_es": "Maokai",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Shen",
+          "name": "Shen",
+          "name_es": "Shen",
+          "cost": 5,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Timebreaker Pyke Reroll",
+      "tier": "B",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.02080136699679174,
+        "avg_placement": 4.414082145850796,
+        "top_4_percent": 0.5356244761106455,
+        "top_1_percent": 0.0586756077116513
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Gwen",
+          "name": "Gwen",
+          "name_es": "Gwen",
+          "cost": 2,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Pantheon",
+          "name": "Pantheon",
+          "name_es": "Pantheon",
+          "cost": 2,
+          "items": [
+            "TFT_Item_DragonsClaw",
+            "TFT_Item_NightHarvester",
+            "TFT_Item_RedBuff"
+          ]
+        },
+        {
+          "apiName": "TFT17_Pyke",
+          "name": "Pyke",
+          "name_es": "Pyke",
+          "cost": 2,
+          "items": [
+            "TFT_Item_GuardianAngel",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Gragas",
+          "name": "Gragas",
+          "name_es": "Gragas",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Milio",
+          "name": "Milio",
+          "name_es": "Milio",
+          "cost": 2,
+          "items": [
+            "TFT_Item_RabadonsDeathcap",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Corki",
+          "name": "Corki",
+          "name_es": "Corki",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Riven",
+          "name": "Riven",
+          "name_es": "Riven",
+          "cost": 4,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Astronaut Rammus",
+      "tier": "B",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.015448458641372577,
+        "avg_placement": 4.374717832957111,
+        "top_4_percent": 0.4966139954853273,
+        "top_1_percent": 0.17607223476297967
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Corki",
+          "name": "Corki",
+          "name_es": "Corki",
+          "cost": 4,
+          "items": [
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT17_Rammus",
+          "name": "Rammus",
+          "name_es": "Rammus",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_RedBuff",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Veigar",
+          "name": "Veigar",
+          "name_es": "Veigar",
+          "cost": 1,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan",
+            "TFT_Item_Leviathan"
+          ]
+        },
+        {
+          "apiName": "TFT17_Bard",
+          "name": "Bard",
+          "name_es": "Bardo",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Fizz",
+          "name": "Fizz",
+          "name_es": "Fizz",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Poppy",
+          "name": "Poppy",
+          "name_es": "Poppy",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Nami",
+          "name": "Nami",
+          "name_es": "Nami",
+          "cost": 4,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "SpaceGroove Ornn",
+      "tier": "B",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.01210071139628958,
+        "avg_placement": 4.083573487031701,
+        "top_4_percent": 0.5706051873198847,
+        "top_1_percent": 0.1628242074927954
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Nami",
+          "name": "Nami",
+          "name_es": "Nami",
+          "cost": 4,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT17_Ornn",
+          "name": "Ornn",
+          "name_es": "Ornn",
+          "cost": 3,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_Redemption",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Samira",
+          "name": "Samira",
+          "name_es": "Samira",
+          "cost": 3,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT17_Blitzcrank",
+          "name": "Blitzcrank",
+          "name_es": "Blitzcrank",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Gwen",
+          "name": "Gwen",
+          "name_es": "Gwen",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Nasus",
+          "name": "Nasus",
+          "name_es": "Nasus",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Teemo",
+          "name": "Teemo",
+          "name_es": "Teemo",
+          "cost": 1,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "ShieldTank Nunu & Willump",
+      "tier": "B",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.011420700237132096,
+        "avg_placement": 4.021374045801527,
+        "top_4_percent": 0.5526717557251909,
+        "top_1_percent": 0.26564885496183205
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Jhin",
+          "name": "Jhin",
+          "name_es": "Jhin",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Deathblade",
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_InfinityEdge"
+          ]
+        },
+        {
+          "apiName": "TFT17_Nunu",
+          "name": "Nunu & Willump",
+          "name_es": "Nunu y Willump",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_RedBuff",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT17_Xayah",
+          "name": "Xayah",
+          "name_es": "Xayah",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_RunaansHurricane"
+          ]
+        },
+        {
+          "apiName": "TFT17_Jax",
+          "name": "Jax",
+          "name_es": "Jax",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Mordekaiser",
+          "name": "Mordekaiser",
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Blitzcrank",
+          "name": "Blitzcrank",
+          "name_es": "Blitzcrank",
+          "cost": 5,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Nasus",
+          "name": "Nasus",
+          "name_es": "Nasus",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Samira",
+          "name": "Samira",
+          "name_es": "Samira",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Shen",
+          "name": "Shen",
+          "name_es": "Shen",
+          "cost": 5,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "DarkStar Karma",
+      "tier": "B",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.01640744873762031,
+        "avg_placement": 4.4867162592986185,
+        "top_4_percent": 0.4824654622741764,
+        "top_1_percent": 0.12114771519659936
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Jhin",
+          "name": "Jhin",
+          "name_es": "Jhin",
+          "cost": 5,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Kaisa",
+          "name": "Kai'Sa",
+          "name_es": "Kai'Sa",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Karma",
+          "name": "Karma",
+          "name_es": "Karma",
+          "cost": 4,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Chogath",
+          "name": "Cho'Gath",
+          "name_es": "Cho'Gath",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Lissandra",
+          "name": "Lissandra",
+          "name_es": "Lissandra",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Mordekaiser",
+          "name": "Mordekaiser",
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Blitzcrank",
+          "name": "Blitzcrank",
+          "name_es": "Blitzcrank",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Galio",
+          "name": "The Mighty Mech",
+          "name_es": "Megamecha",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_RedBuff",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_TahmKench",
+          "name": "Tahm Kench",
+          "name_es": "Tahm Kench",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_RedBuff",
+            "TFT_Item_WarmogsArmor"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SummonTrait LeBlanc",
+      "tier": "B",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.014472032361556702,
+        "avg_placement": 4.0927710843373495,
+        "top_4_percent": 0.5831325301204819,
+        "top_1_percent": 0.1180722891566265
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Illaoi",
+          "name": "Illaoi",
+          "name_es": "Illaoi",
+          "cost": 3,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_Redemption",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Leblanc",
+          "name": "LeBlanc",
+          "name_es": "LeBlanc",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Karma",
+          "name": "Karma",
+          "name_es": "Karma",
+          "cost": 4,
+          "items": [
+            "TFT17_Item_SummonTraitEmblemItem",
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Leona",
+          "name": "Leona",
+          "name_es": "Leona",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Lissandra",
+          "name": "Lissandra",
+          "name_es": "Lissandra",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Sona",
+          "name": "Sona",
+          "name_es": "Sona",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Galio",
+          "name": "The Mighty Mech",
+          "name_es": "Megamecha",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_NightHarvester",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT17_Morgana",
+          "name": "Morgana",
+          "name_es": "Morgana",
+          "cost": 5,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "SummonTrait LeBlanc",
+      "tier": "B",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.016215650718370764,
+        "avg_placement": 4.360215053763441,
+        "top_4_percent": 0.5290322580645161,
+        "top_1_percent": 0.1086021505376344
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Illaoi",
+          "name": "Illaoi",
+          "name_es": "Illaoi",
+          "cost": 3,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_Redemption",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Leblanc",
+          "name": "LeBlanc",
+          "name_es": "LeBlanc",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Nunu",
+          "name": "Nunu & Willump",
+          "name_es": "Nunu y Willump",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_Redemption",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Leona",
+          "name": "Leona",
+          "name_es": "Leona",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Lissandra",
+          "name": "Lissandra",
+          "name_es": "Lissandra",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Mordekaiser",
+          "name": "Mordekaiser",
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Sona",
+          "name": "Sona",
+          "name_es": "Sona",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Zoe",
+          "name": "Zoe",
+          "name_es": "Zoe",
+          "cost": 2,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "ShieldTank Xayah",
+      "tier": "B",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.01841260984795648,
+        "avg_placement": 4.393939393939394,
+        "top_4_percent": 0.521780303030303,
+        "top_1_percent": 0.14678030303030304
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Nunu",
+          "name": "Nunu & Willump",
+          "name_es": "Nunu y Willump",
+          "cost": 4,
+          "items": [
+            "TFT_Item_BrambleVest",
+            "TFT_Item_RedBuff",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT17_Riven",
+          "name": "Riven",
+          "name_es": "Riven",
+          "cost": 4,
+          "items": [
+            "TFT17_Item_StargazerEmblemItem",
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_SteraksGage"
+          ]
+        },
+        {
+          "apiName": "TFT17_Xayah",
+          "name": "Xayah",
+          "name_es": "Xayah",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_LastWhisper",
+            "TFT_Item_RunaansHurricane"
+          ]
+        },
+        {
+          "apiName": "TFT17_Jax",
+          "name": "Jax",
+          "name_es": "Jax",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Jhin",
+          "name": "Jhin",
+          "name_es": "Jhin",
+          "cost": 5,
+          "items": [
+            "TFT17_Item_StargazerEmblemItem",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_PowerGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT17_Mordekaiser",
+          "name": "Mordekaiser",
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Talon",
+          "name": "Talon",
+          "name_es": "Talon",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Lulu",
+          "name": "Lulu",
+          "name_es": "Lulu",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Shen",
+          "name": "Shen",
+          "name_es": "Shen",
+          "cost": 5,
+          "items": [
+            "TFT17_Item_StargazerEmblemItem"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AssassinTrait Kai'Sa Reroll",
+      "tier": "B",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.1043032501046171,
+        "avg_placement": 4.500835840855901,
+        "top_4_percent": 0.49632230023403545,
+        "top_1_percent": 0.09896355733868271
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Fizz",
+          "name": "Fizz",
+          "name_es": "Fizz",
+          "cost": 3,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Kaisa",
+          "name": "Kai'Sa",
+          "name_es": "Kai'Sa",
+          "cost": 3,
+          "items": [
+            "TFT_Item_BlueBuff",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_PowerGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT17_Ornn",
+          "name": "Ornn",
+          "name_es": "Ornn",
+          "cost": 3,
+          "items": [
+            "TFT_Item_RedBuff",
+            "TFT_Item_Redemption",
+            "TFT_Item_SpectralGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT17_Rammus",
+          "name": "Rammus",
+          "name_es": "Rammus",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Rhaast",
+          "name": "Rhaast",
+          "name_es": "Rhaast",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Karma",
+          "name": "Karma",
+          "name_es": "Karma",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Riven",
+          "name": "Riven",
+          "name_es": "Riven",
+          "cost": 4,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Astronaut Rammus",
+      "tier": "B",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.010444273957316223,
+        "avg_placement": 4.367278797996661,
+        "top_4_percent": 0.5175292153589316,
+        "top_1_percent": 0.17696160267111852
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Bard",
+          "name": "Bard",
+          "name_es": "Bardo",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Corki",
+          "name": "Corki",
+          "name_es": "Corki",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Deathblade",
+            "TFT_Item_LastWhisper",
+            "TFT_Item_PowerGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT17_Rammus",
+          "name": "Rammus",
+          "name_es": "Rammus",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_Redemption",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Fizz",
+          "name": "Fizz",
+          "name_es": "Fizz",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Gnar",
+          "name": "Gnar",
+          "name_es": "Gnar",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Poppy",
+          "name": "Poppy",
+          "name_es": "Poppy",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Riven",
+          "name": "Riven",
+          "name_es": "Riven",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_TitansResolve"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "SummonTrait Nami",
+      "tier": "C",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.016791044776119403,
+        "avg_placement": 4.674974039460021,
+        "top_4_percent": 0.4797507788161994,
+        "top_1_percent": 0.060228452751817235
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Karma",
+          "name": "Karma",
+          "name_es": "Karma",
+          "cost": 4,
+          "items": [
+            "TFT_Item_RabadonsDeathcap",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Nami",
+          "name": "Nami",
+          "name_es": "Nami",
+          "cost": 4,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan",
+            "TFT_Item_Leviathan"
+          ]
+        },
+        {
+          "apiName": "TFT17_Nunu",
+          "name": "Nunu & Willump",
+          "name_es": "Nunu y Willump",
+          "cost": 4,
+          "items": [
+            "TFT_Item_BrambleVest",
+            "TFT_Item_DragonsClaw",
+            "TFT_Item_RedBuff"
+          ]
+        },
+        {
+          "apiName": "TFT17_Illaoi",
+          "name": "Illaoi",
+          "name_es": "Illaoi",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Lissandra",
+          "name": "Lissandra",
+          "name_es": "Lissandra",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Galio",
+          "name": "The Mighty Mech",
+          "name_es": "Megamecha",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_RedBuff",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Rhaast",
+          "name": "Rhaast",
+          "name_es": "Rhaast",
+          "cost": 3,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Stargazer Lulu Reroll",
+      "tier": "C",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.015326405356395591,
+        "avg_placement": 4.890784982935154,
+        "top_4_percent": 0.4323094425483504,
+        "top_1_percent": 0.09442548350398179
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Lulu",
+          "name": "Lulu",
+          "name_es": "Lulu",
+          "cost": 3,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan",
+            "TFT_Item_Leviathan"
+          ]
+        },
+        {
+          "apiName": "TFT17_Maokai",
+          "name": "Maokai",
+          "name_es": "Maokai",
+          "cost": 3,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_RedBuff",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT17_Milio",
+          "name": "Milio",
+          "name_es": "Milio",
+          "cost": 2,
+          "items": [
+            "TFT_Item_ArchangelsStaff",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT17_Aatrox",
+          "name": "Aatrox",
+          "name_es": "Aatrox",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Jax",
+          "name": "Jax",
+          "name_es": "Jax",
+          "cost": 2,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT17_Pantheon",
+          "name": "Pantheon",
+          "name_es": "Pantheon",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_TwistedFate",
+          "name": "Twisted Fate",
+          "name_es": "Twisted Fate",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Rhaast",
+          "name": "Rhaast",
+          "name_es": "Rhaast",
+          "cost": 3,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "ShieldTank LeBlanc",
+      "tier": "C",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.09296973078532571,
+        "avg_placement": 4.622843210802701,
+        "top_4_percent": 0.4686796699174794,
+        "top_1_percent": 0.08814703675918979
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Karma",
+          "name": "Karma",
+          "name_es": "Karma",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Leblanc",
+          "name": "LeBlanc",
+          "name_es": "LeBlanc",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Nunu",
+          "name": "Nunu & Willump",
+          "name_es": "Nunu y Willump",
+          "cost": 4,
+          "items": [
+            "TFT_Item_IonicSpark",
+            "TFT_Item_RedBuff",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT17_Illaoi",
+          "name": "Illaoi",
+          "name_es": "Illaoi",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Leona",
+          "name": "Leona",
+          "name_es": "Leona",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Mordekaiser",
+          "name": "Mordekaiser",
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Zoe",
+          "name": "Zoe",
+          "name_es": "Zoe",
+          "cost": 2,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "FlexTrait Illaoi Reroll",
+      "tier": "C",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.010618635792997629,
+        "avg_placement": 4.448275862068965,
+        "top_4_percent": 0.5057471264367817,
+        "top_1_percent": 0.13136288998357964
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Aurora",
+          "name": "Aurora",
+          "name_es": "Aurora",
+          "cost": 3,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan",
+            "TFT_Item_Leviathan"
+          ]
+        },
+        {
+          "apiName": "TFT17_Illaoi",
+          "name": "Illaoi",
+          "name_es": "Illaoi",
+          "cost": 3,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_RedBuff",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT17_Viktor",
+          "name": "Viktor",
+          "name_es": "Viktor",
+          "cost": 3,
+          "items": [
+            "TFT17_Item_PsyOps_DroneMod",
+            "TFT_Item_ArchangelsStaff",
+            "TFT_Item_JeweledGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT17_Karma",
+          "name": "Karma",
+          "name_es": "Karma",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Mordekaiser",
+          "name": "Mordekaiser",
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Pyke",
+          "name": "Pyke",
+          "name_es": "Pyke",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Rhaast",
+          "name": "Rhaast",
+          "name_es": "Rhaast",
+          "cost": 3,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_RedBuff",
+            "TFT_Item_WarmogsArmor"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Mecha Aurelion Sol",
+      "tier": "C",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.018307992746547635,
+        "avg_placement": 4.886666666666667,
+        "top_4_percent": 0.4038095238095238,
+        "top_1_percent": 0.13714285714285715
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_AurelionSol",
+          "name": "Aurelion Sol",
+          "name_es": "Aurelion Sol",
+          "cost": 4,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_RabadonsDeathcap",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Galio",
+          "name": "The Mighty Mech",
+          "name_es": "Megamecha",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT17_MasterYi",
+          "name": "Master Yi",
+          "name_es": "Maestro Yi",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT17_Urgot",
+          "name": "Urgot",
+          "name_es": "Urgot",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Viktor",
+          "name": "Viktor",
+          "name_es": "Viktor",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_TahmKench",
+          "name": "Tahm Kench",
+          "name_es": "Tahm Kench",
+          "cost": 4,
+          "items": [
+            "TFT_Item_ThiefsGloves"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "AssassinTrait Kai'Sa Reroll",
+      "tier": "C",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.013983819221648765,
+        "avg_placement": 4.507481296758105,
+        "top_4_percent": 0.5037406483790524,
+        "top_1_percent": 0.07855361596009976
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Fizz",
+          "name": "Fizz",
+          "name_es": "Fizz",
+          "cost": 3,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Kaisa",
+          "name": "Kai'Sa",
+          "name_es": "Kai'Sa",
+          "cost": 3,
+          "items": [
+            "TFT_Item_Deathblade",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_PowerGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT17_Ornn",
+          "name": "Ornn",
+          "name_es": "Ornn",
+          "cost": 3,
+          "items": [
+            "TFT_Item_DragonsClaw",
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Aatrox",
+          "name": "Aatrox",
+          "name_es": "Aatrox",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Chogath",
+          "name": "Cho'Gath",
+          "name_es": "Cho'Gath",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Maokai",
+          "name": "Maokai",
+          "name_es": "Maokai",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Rhaast",
+          "name": "Rhaast",
+          "name_es": "Rhaast",
+          "cost": 3,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Mecha Aurelion Sol",
+      "tier": "C",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.04223043660203655,
+        "avg_placement": 5.687448389760529,
+        "top_4_percent": 0.2782824112303881,
+        "top_1_percent": 0.09207266721717589
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_AurelionSol",
+          "name": "Aurelion Sol",
+          "name_es": "Aurelion Sol",
+          "cost": 4,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_RabadonsDeathcap",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Galio",
+          "name": "The Mighty Mech",
+          "name_es": "Megamecha",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT17_Urgot",
+          "name": "Urgot",
+          "name_es": "Urgot",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Karma",
+          "name": "Karma",
+          "name_es": "Karma",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Mordekaiser",
+          "name": "Mordekaiser",
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_TahmKench",
+          "name": "Tahm Kench",
+          "name_es": "Tahm Kench",
+          "cost": 4,
+          "items": [
+            "TFT_Item_ThiefsGloves"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "HPTank Ezreal Reroll",
+      "tier": "C",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.034907239503417495,
+        "avg_placement": 4.642357642357642,
+        "top_4_percent": 0.4565434565434565,
+        "top_1_percent": 0.14335664335664336
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Chogath",
+          "name": "Cho'Gath",
+          "name_es": "Cho'Gath",
+          "cost": 1,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_Redemption",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Ezreal",
+          "name": "Ezreal",
+          "name_es": "Ezreal",
+          "cost": 1,
+          "items": [
+            "TFT_Item_Deathblade",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT17_Riven",
+          "name": "Riven",
+          "name_es": "Riven",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Maokai",
+          "name": "Maokai",
+          "name_es": "Maokai",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Milio",
+          "name": "Milio",
+          "name_es": "Milio",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Pantheon",
+          "name": "Pantheon",
+          "name_es": "Pantheon",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_TahmKench",
+          "name": "Tahm Kench",
+          "name_es": "Tahm Kench",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_Redemption",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Jhin",
+          "name": "Jhin",
+          "name_es": "Jhin",
+          "cost": 5,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Xayah",
+          "name": "Xayah",
+          "name_es": "Xayah",
+          "cost": 4,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "AnimaSquad Illaoi Reroll",
+      "tier": "C",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.013774585018831078,
+        "avg_placement": 4.878481012658228,
+        "top_4_percent": 0.4253164556962025,
+        "top_1_percent": 0.13544303797468354
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Aurora",
+          "name": "Aurora",
+          "name_es": "Aurora",
+          "cost": 3,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan",
+            "TFT_Item_PowerGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT17_Diana",
+          "name": "Diana",
+          "name_es": "Diana",
+          "cost": 3,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT17_Illaoi",
+          "name": "Illaoi",
+          "name_es": "Illaoi",
+          "cost": 3,
+          "items": [
+            "TFT_Item_IonicSpark",
+            "TFT_Item_RedBuff",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT17_Jinx",
+          "name": "Jinx",
+          "name_es": "Jinx",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Leblanc",
+          "name": "LeBlanc",
+          "name_es": "LeBlanc",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Leona",
+          "name": "Leona",
+          "name_es": "Leona",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Galio",
+          "name": "The Mighty Mech",
+          "name_es": "Megamecha",
+          "cost": 4,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Primordian Bel'Veth Reroll",
+      "tier": "C",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.024027060956897755,
+        "avg_placement": 4.603047895500726,
+        "top_4_percent": 0.49056603773584906,
+        "top_1_percent": 0.08055152394775036
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Akali",
+          "name": "Akali",
+          "name_es": "Akali",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Belveth",
+          "name": "Bel'Veth",
+          "name_es": "Bel'Veth",
+          "cost": 2,
+          "items": [
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_Quicksilver",
+            "TFT_Item_RunaansHurricane"
+          ]
+        },
+        {
+          "apiName": "TFT17_Maokai",
+          "name": "Maokai",
+          "name_es": "Maokai",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Briar",
+          "name": "Briar",
+          "name_es": "Briar",
+          "cost": 1,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT17_Kindred",
+          "name": "Kindred",
+          "name_es": "Kindred",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_RekSai",
+          "name": "Rek'Sai",
+          "name_es": "Rek'Sai",
+          "cost": 1,
+          "items": [
+            "TFT_Item_FrozenHeart",
+            "TFT_Item_RedBuff",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT17_Gwen",
+          "name": "Gwen",
+          "name_es": "Gwen",
+          "cost": 2,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_RabadonsDeathcap",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Rhaast",
+          "name": "Rhaast",
+          "name_es": "Rhaast",
+          "cost": 3,
+          "items": []
+        }
+      ]
+    },
+    {
+      "name": "Astronaut Corki",
+      "tier": "C",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.021237271585995258,
+        "avg_placement": 4.626436781609195,
+        "top_4_percent": 0.4376026272577997,
+        "top_1_percent": 0.19458128078817735
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Corki",
+          "name": "Corki",
+          "name_es": "Corki",
+          "cost": 4,
+          "items": [
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT17_Rammus",
+          "name": "Rammus",
+          "name_es": "Rammus",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_Redemption",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Veigar",
+          "name": "Veigar",
+          "name_es": "Veigar",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Fizz",
+          "name": "Fizz",
+          "name_es": "Fizz",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Gnar",
+          "name": "Gnar",
+          "name_es": "Gnar",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Poppy",
+          "name": "Poppy",
+          "name_es": "Poppy",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Bard",
+          "name": "Bard",
+          "name_es": "Bardo",
+          "cost": 5,
+          "items": [
+            "TFT_Item_BlueBuff",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_RabadonsDeathcap"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Stargazer Jax Reroll",
+      "tier": "C",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.05424396708048542,
+        "avg_placement": 5.126968820315011,
+        "top_4_percent": 0.3751205400192864,
+        "top_1_percent": 0.06525233044037287
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Caitlyn",
+          "name": "Caitlyn",
+          "name_es": "Caitlyn",
+          "cost": 1,
+          "items": [
+            "TFT_Item_Deathblade",
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Jax",
+          "name": "Jax",
+          "name_es": "Jax",
+          "cost": 2,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT17_TwistedFate",
+          "name": "Twisted Fate",
+          "name_es": "Twisted Fate",
+          "cost": 1,
+          "items": [
+            "TFT_Item_Leviathan",
+            "TFT_Item_Leviathan",
+            "TFT_Item_RabadonsDeathcap"
+          ]
+        },
+        {
+          "apiName": "TFT17_Aatrox",
+          "name": "Aatrox",
+          "name_es": "Aatrox",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Gwen",
+          "name": "Gwen",
+          "name_es": "Gwen",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Rhaast",
+          "name": "Rhaast",
+          "name_es": "Rhaast",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Talon",
+          "name": "Talon",
+          "name_es": "Talon",
+          "cost": 1,
+          "items": [
+            "TFT_Item_GuardianAngel",
+            "TFT_Item_HextechGunblade",
+            "TFT_Item_SpearOfShojin"
+          ]
         }
       ]
     }
-  ],
-  "set": 17
+  ]
 }
