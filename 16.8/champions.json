@@ -2,7 +2,7 @@
   "source": "CDragon (latest) + Blitz",
   "patch": "latest",
   "set": "17",
-  "scraped_at": "2026-04-25T13:38:33.773512+00:00",
+  "scraped_at": "2026-04-25T13:46:53.720421+00:00",
   "champions": [
     {
       "apiName": "TFT17_Aatrox",
@@ -27,7 +27,7 @@
         "TFT_Item_Redemption",
         "TFT_Item_WarmogsArmor"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_aatrox/hud/tft17_aatrox_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_aatrox/hud/tft17_aatrox_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Briar",
@@ -53,7 +53,7 @@
         "TFT_Item_UnstableConcoction",
         "TFT_Item_GuardianAngel"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_briar/hud/tft17_briar_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_briar/hud/tft17_briar_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Caitlyn",
@@ -78,7 +78,7 @@
         "TFT_Item_RunaansHurricane",
         "TFT_Item_InfinityEdge"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_caitlyn/hud/tft17_caitlyn_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_caitlyn/hud/tft17_caitlyn_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Chogath",
@@ -103,7 +103,7 @@
         "TFT_Item_DragonsClaw",
         "TFT_Item_RedBuff"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_chogath/hud/tft17_chogath_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_chogath/hud/tft17_chogath_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Ezreal",
@@ -128,7 +128,7 @@
         "TFT_Item_MadredsBloodrazor",
         "TFT_Item_PowerGauntlet"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_ezreal/hud/tft17_ezreal_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_ezreal/hud/tft17_ezreal_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Leona",
@@ -153,7 +153,7 @@
         "TFT_Item_RedBuff",
         "TFT_Item_DragonsClaw"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_leona/hud/tft17_leona_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_leona/hud/tft17_leona_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Lissandra",
@@ -179,7 +179,7 @@
         "TFT_Item_Morellonomicon",
         "TFT_Item_MadredsBloodrazor"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_lissandra/hud/tft17_lissandra_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_lissandra/hud/tft17_lissandra_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Nasus",
@@ -204,7 +204,7 @@
         "TFT_Item_Redemption",
         "TFT_Item_GargoyleStoneplate"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_nasus/hud/tft17_nasus_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_nasus/hud/tft17_nasus_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Poppy",
@@ -229,7 +229,7 @@
         "TFT_Item_Redemption",
         "TFT_Item_FrozenHeart"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_poppy/hud/tft17_poppy_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_poppy/hud/tft17_poppy_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_RekSai",
@@ -254,7 +254,7 @@
         "TFT_Item_WarmogsArmor",
         "TFT_Item_SpectralGauntlet"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_reksai/hud/tft17_reksai_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_reksai/hud/tft17_reksai_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Talon",
@@ -279,7 +279,7 @@
         "TFT_Item_UnstableConcoction",
         "TFT_Item_InfinityEdge"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_talon/hud/tft17_talon_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_talon/hud/tft17_talon_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Teemo",
@@ -304,7 +304,7 @@
         "TFT_Item_RabadonsDeathcap",
         "TFT_Item_JeweledGauntlet"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_teemo/hud/tft17_teemo_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_teemo/hud/tft17_teemo_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_TwistedFate",
@@ -329,7 +329,7 @@
         "TFT_Item_SpearOfShojin",
         "TFT_Item_ArchangelsStaff"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_twistedfate/hud/tft17_twistedfate_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_twistedfate/hud/tft17_twistedfate_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Veigar",
@@ -354,7 +354,7 @@
         "TFT_Item_RabadonsDeathcap",
         "TFT_Item_StatikkShiv"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_veigar/hud/tft17_veigar_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_veigar/hud/tft17_veigar_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Akali",
@@ -379,7 +379,7 @@
         "TFT_Item_Bloodthirster",
         "TFT_Item_MadredsBloodrazor"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_akali/hud/tft17_akali_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_akali/hud/tft17_akali_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Belveth",
@@ -405,7 +405,7 @@
         "TFT_Item_GuinsoosRageblade",
         "TFT17_Item_Artifact_EvelynnArtifact"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_belveth/hud/tft17_belveth_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_belveth/hud/tft17_belveth_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Gnar",
@@ -430,7 +430,7 @@
         "TFT_Item_LastWhisper",
         "TFT_Item_Deathblade"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_gnar/hud/tft17_gnar_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_gnar/hud/tft17_gnar_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Gragas",
@@ -455,7 +455,7 @@
         "TFT_Item_SpectralGauntlet",
         "TFT_Item_Redemption"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_gragas/hud/tft17_gragas_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_gragas/hud/tft17_gragas_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Gwen",
@@ -480,7 +480,7 @@
         "TFT_Item_StatikkShiv",
         "TFT_Item_RabadonsDeathcap"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_gwen/hud/tft17_gwen_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_gwen/hud/tft17_gwen_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Jax",
@@ -505,7 +505,7 @@
         "TFT_Item_Redemption",
         "TFT_Item_WarmogsArmor"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_jax/hud/tft17_jax_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_jax/hud/tft17_jax_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Jinx",
@@ -530,7 +530,7 @@
         "TFT_Item_RunaansHurricane",
         "TFT_Item_MadredsBloodrazor"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_jinx/hud/tft17_jinx_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_jinx/hud/tft17_jinx_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_IvernMinion",
@@ -545,7 +545,7 @@
       "tier": "",
       "stats": {},
       "top_items": [],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_ivernminion/hud/tft17_ivernminion_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_ivernminion/hud/tft17_ivernminion_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Milio",
@@ -570,7 +570,7 @@
         "TFT_Item_JeweledGauntlet",
         "TFT_Item_Leviathan"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_milio/hud/tft17_milio_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_milio/hud/tft17_milio_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Mordekaiser",
@@ -596,7 +596,7 @@
         "TFT_Item_Redemption",
         "TFT_Item_DragonsClaw"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_mordekaiser/hud/tft17_mordekaiser_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_mordekaiser/hud/tft17_mordekaiser_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Pantheon",
@@ -622,7 +622,7 @@
         "TFT_Item_SpectralGauntlet",
         "TFT_Item_Redemption"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_pantheon/hud/tft17_pantheon_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_pantheon/hud/tft17_pantheon_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Pyke",
@@ -647,7 +647,7 @@
         "TFT17_Item_PsyOps_TargetlockMod",
         "TFT17_Item_PsyOps_ChemicalCapacitorMod"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_pyke/hud/tft17_pyke_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_pyke/hud/tft17_pyke_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Zoe",
@@ -672,7 +672,7 @@
         "TFT_Item_SpearOfShojin",
         "TFT_Item_ArchangelsStaff"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_zoe/hud/tft17_zoe_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_zoe/hud/tft17_zoe_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Aurora",
@@ -697,7 +697,7 @@
         "TFT_Item_Leviathan",
         "TFT_Item_StatikkShiv"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_aurora/hud/tft17_aurora_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_aurora/hud/tft17_aurora_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Diana",
@@ -722,7 +722,7 @@
         "TFT_Item_UnstableConcoction",
         "TFT_Item_GuardianAngel"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_diana/hud/tft17_diana_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_diana/hud/tft17_diana_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Fizz",
@@ -747,7 +747,7 @@
         "TFT_Item_RabadonsDeathcap",
         "TFT_Item_Bloodthirster"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_fizz/hud/tft17_fizz_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_fizz/hud/tft17_fizz_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Illaoi",
@@ -773,7 +773,7 @@
         "TFT_Item_Redemption",
         "TFT_Item_DragonsClaw"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_illaoi/hud/tft17_illaoi_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_illaoi/hud/tft17_illaoi_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Kaisa",
@@ -798,7 +798,7 @@
         "TFT_Item_MadredsBloodrazor",
         "TFT_Item_Deathblade"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_kaisa/hud/tft17_kaisa_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_kaisa/hud/tft17_kaisa_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Lulu",
@@ -823,7 +823,7 @@
         "TFT_Item_ArchangelsStaff",
         "TFT_Item_StatikkShiv"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_lulu/hud/tft17_lulu_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_lulu/hud/tft17_lulu_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Maokai",
@@ -848,7 +848,7 @@
         "TFT_Item_GargoyleStoneplate",
         "TFT_Item_FrozenHeart"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_maokai/hud/tft17_maokai_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_maokai/hud/tft17_maokai_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_MissFortune",
@@ -873,7 +873,7 @@
         "TFT_Item_GuinsoosRageblade",
         "TFT_Item_PowerGauntlet"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_missfortune/hud/tft17_missfortune_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_missfortune/hud/tft17_missfortune_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Ornn",
@@ -898,7 +898,7 @@
         "TFT_Item_WarmogsArmor",
         "TFT_Item_SpectralGauntlet"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_ornn/hud/tft17_ornn_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_ornn/hud/tft17_ornn_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Rhaast",
@@ -922,7 +922,7 @@
         "TFT_Item_FrozenHeart",
         "TFT_Item_Redemption"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_kayn/hud/tft17_kayn_slay_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_rhaast/hud/tft17_kayn_slay_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Samira",
@@ -947,7 +947,7 @@
         "TFT_Item_LastWhisper",
         "TFT_Item_MadredsBloodrazor"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_samira/hud/tft17_samira_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_samira/hud/tft17_samira_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Urgot",
@@ -973,7 +973,7 @@
         "TFT_Item_Deathblade",
         "TFT_Item_UnstableConcoction"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_urgot/hud/tft17_urgot_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_urgot/hud/tft17_urgot_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Viktor",
@@ -998,7 +998,7 @@
         "TFT_Item_RabadonsDeathcap",
         "TFT_Item_MadredsBloodrazor"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_viktor/hud/tft17_viktor_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_viktor/hud/tft17_viktor_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_AurelionSol",
@@ -1023,7 +1023,7 @@
         "TFT_Item_ArchangelsStaff",
         "TFT_Item_PowerGauntlet"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_aurelionsol/hud/tft17_aurelionsol_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_aurelionsol/hud/tft17_aurelionsol_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Corki",
@@ -1048,7 +1048,7 @@
         "TFT_Item_SpearOfShojin",
         "TFT_Item_MadredsBloodrazor"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_corki/hud/tft17_corki_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_corki/hud/tft17_corki_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Karma",
@@ -1073,7 +1073,7 @@
         "TFT_Item_Morellonomicon",
         "TFT_Item_Leviathan"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_karma/hud/tft17_karma_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_karma/hud/tft17_karma_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Kindred",
@@ -1098,7 +1098,7 @@
         "TFT_Item_PowerGauntlet",
         "TFT_Item_Deathblade"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_kindred/hud/tft17_kindred_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_kindred/hud/tft17_kindred_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Leblanc",
@@ -1123,7 +1123,7 @@
         "TFT_Item_HextechGunblade",
         "TFT_Item_StatikkShiv"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_leblanc/hud/tft17_leblanc_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_leblanc/hud/tft17_leblanc_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_MasterYi",
@@ -1148,7 +1148,7 @@
         "TFT_Item_Quicksilver",
         "TFT_Item_UnstableConcoction"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_masteryi/hud/tft17_masteryi_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_masteryi/hud/tft17_masteryi_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Nami",
@@ -1173,7 +1173,7 @@
         "TFT_Item_SpearOfShojin",
         "TFT_Item_MadredsBloodrazor"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_nami/hud/tft17_nami_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_nami/hud/tft17_nami_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Nunu",
@@ -1198,7 +1198,7 @@
         "TFT_Item_GargoyleStoneplate",
         "TFT_Item_WarmogsArmor"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_nunu/hud/tft17_nunu_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_nunu/hud/tft17_nunu_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Rammus",
@@ -1223,7 +1223,7 @@
         "TFT_Item_WarmogsArmor",
         "TFT_Item_DragonsClaw"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_rammus/hud/tft17_rammus_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_rammus/hud/tft17_rammus_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Riven",
@@ -1248,7 +1248,7 @@
         "TFT_Item_GuardianAngel",
         "TFT_Item_SteraksGage"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_riven/hud/tft17_riven_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_riven/hud/tft17_riven_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_TahmKench",
@@ -1273,7 +1273,7 @@
         "TFT_Item_GargoyleStoneplate",
         "TFT_Item_FrozenHeart"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_tahmkench/hud/tft17_tahmkench_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_tahmkench/hud/tft17_tahmkench_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Galio",
@@ -1298,7 +1298,7 @@
         "TFT_Item_WarmogsArmor",
         "TFT_Item_RedBuff"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_galio/hud/tft17_galio_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_galio/hud/tft17_galio_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Xayah",
@@ -1323,7 +1323,7 @@
         "TFT_Item_MadredsBloodrazor",
         "TFT_Item_RapidFireCannon"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_xayah/hud/tft17_xayah_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_xayah/hud/tft17_xayah_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Bard",
@@ -1348,7 +1348,7 @@
         "TFT_Item_Morellonomicon",
         "TFT_Item_AdaptiveHelm"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_bard/hud/tft17_bard_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_bard/hud/tft17_bard_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Blitzcrank",
@@ -1374,7 +1374,7 @@
         "TFT_Item_Crownguard",
         "TFT_Item_IonicSpark"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_blitzcrank/hud/tft17_blitzcrank_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_blitzcrank/hud/tft17_blitzcrank_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Fiora",
@@ -1400,7 +1400,7 @@
         "TFT_Item_UnstableConcoction",
         "TFT_Item_Quicksilver"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_fiora/hud/tft17_fiora_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_fiora/hud/tft17_fiora_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Graves",
@@ -1424,7 +1424,7 @@
         "TFT_Item_SteraksGage",
         "TFT_Item_GuinsoosRageblade"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_graves/hud/tft17_graves_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_graves/hud/tft17_graves_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Jhin",
@@ -1450,7 +1450,7 @@
         "TFT_Item_LastWhisper",
         "TFT_Item_PowerGauntlet"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_jhin/hud/tft17_jhin_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_jhin/hud/tft17_jhin_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Morgana",
@@ -1474,7 +1474,7 @@
         "TFT_Item_StatikkShiv",
         "TFT_Item_RabadonsDeathcap"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_morgana/hud/tft17_morgana_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_morgana/hud/tft17_morgana_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Shen",
@@ -1499,7 +1499,7 @@
         "TFT_Item_WarmogsArmor",
         "TFT_Item_FrozenHeart"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_shen/hud/tft17_shen_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_shen/hud/tft17_shen_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Sona",
@@ -1525,7 +1525,7 @@
         "TFT_Item_BlueBuff",
         "TFT_Item_Morellonomicon"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_sona/hud/tft17_sona_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_sona/hud/tft17_sona_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Vex",
@@ -1549,7 +1549,7 @@
         "TFT_Item_HextechGunblade",
         "TFT_Item_StatikkShiv"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_vex/hud/tft17_vex_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_vex/hud/tft17_vex_square.tft_set17.png"
     },
     {
       "apiName": "TFT17_Zed",
@@ -1573,7 +1573,7 @@
         "TFT_Item_Bloodthirster",
         "TFT_Item_UnstableConcoction"
       ],
-      "iconUrl": "https://raw.communitydragon.org/latest/game/characters/tft17_zed/hud/tft17_zed_square.tft_set17.png"
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_zed/hud/tft17_zed_square.tft_set17.png"
     }
   ]
 }
