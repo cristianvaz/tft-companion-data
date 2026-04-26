@@ -1,955 +1,19 @@
 {
   "source": "Blitz (patch 16.8)",
   "patch": "16.8",
-  "scraped_at": "2026-04-25T13:46:53.807960+00:00",
+  "scraped_at": "2026-04-26T19:01:01.294491+00:00",
   "comps": [
     {
-      "name": "Stargazer_Wolf Xayah",
-      "tier": "S",
-      "playstyle": "",
-      "difficulty": "",
-      "patch": "16.8",
-      "stats": {
-        "pick_rate": 0.24199679174222347,
-        "avg_placement": 4.1678795302255205,
-        "top_4_percent": 0.5478060378989841,
-        "top_1_percent": 0.21233518265004683
-      },
-      "champions": [
-        {
-          "apiName": "TFT17_Jhin",
-          "name": "Jhin",
-          "name_es": "Jhin",
-          "cost": 5,
-          "items": [
-            "TFT_Item_Deathblade",
-            "TFT_Item_InfinityEdge",
-            "TFT_Item_MadredsBloodrazor"
-          ]
-        },
-        {
-          "apiName": "TFT17_Nunu",
-          "name": "Nunu & Willump",
-          "name_es": "Nunu y Willump",
-          "cost": 4,
-          "items": [
-            "TFT_Item_NightHarvester",
-            "TFT_Item_Redemption",
-            "TFT_Item_SpectralGauntlet"
-          ]
-        },
-        {
-          "apiName": "TFT17_Xayah",
-          "name": "Xayah",
-          "name_es": "Xayah",
-          "cost": 4,
-          "items": [
-            "TFT_Item_GuinsoosRageblade",
-            "TFT_Item_RapidFireCannon",
-            "TFT_Item_RunaansHurricane"
-          ]
-        },
-        {
-          "apiName": "TFT17_Gnar",
-          "name": "Gnar",
-          "name_es": "Gnar",
-          "cost": 2,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Jax",
-          "name": "Jax",
-          "name_es": "Jax",
-          "cost": 2,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Mordekaiser",
-          "name": "Mordekaiser",
-          "name_es": "Mordekaiser",
-          "cost": 2,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Rammus",
-          "name": "Rammus",
-          "name_es": "Rammus",
-          "cost": 4,
-          "items": [
-            "TFT_Item_GargoyleStoneplate",
-            "TFT_Item_Redemption",
-            "TFT_Item_WarmogsArmor"
-          ]
-        },
-        {
-          "apiName": "TFT17_Bard",
-          "name": "Bard",
-          "name_es": "Bardo",
-          "cost": 5,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Rhaast",
-          "name": "Rhaast",
-          "name_es": "Rhaast",
-          "cost": 3,
-          "items": []
-        }
-      ]
-    },
-    {
-      "name": "ShieldTank Vex",
-      "tier": "S",
-      "playstyle": "",
-      "difficulty": "",
-      "patch": "16.8",
-      "stats": {
-        "pick_rate": 0.11408494908634398,
-        "avg_placement": 3.7414030261348006,
-        "top_4_percent": 0.6318202659330582,
-        "top_1_percent": 0.22619593458658108
-      },
-      "champions": [
-        {
-          "apiName": "TFT17_Blitzcrank",
-          "name": "Blitzcrank",
-          "name_es": "Blitzcrank",
-          "cost": 5,
-          "items": [
-            "TFT_Item_JeweledGauntlet",
-            "TFT_Item_RabadonsDeathcap",
-            "TFT_Item_UnstableConcoction"
-          ]
-        },
-        {
-          "apiName": "TFT17_Nunu",
-          "name": "Nunu & Willump",
-          "name_es": "Nunu y Willump",
-          "cost": 4,
-          "items": [
-            "TFT_Item_FrozenHeart",
-            "TFT_Item_NightHarvester",
-            "TFT_Item_RedBuff"
-          ]
-        },
-        {
-          "apiName": "TFT17_Vex",
-          "name": "Vex",
-          "name_es": "Vex",
-          "cost": 5,
-          "items": [
-            "TFT_Item_GuinsoosRageblade",
-            "TFT_Item_MadredsBloodrazor",
-            "TFT_Item_RabadonsDeathcap"
-          ]
-        },
-        {
-          "apiName": "TFT17_Illaoi",
-          "name": "Illaoi",
-          "name_es": "Illaoi",
-          "cost": 3,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Mordekaiser",
-          "name": "Mordekaiser",
-          "name_es": "Mordekaiser",
-          "cost": 2,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Sona",
-          "name": "Sona",
-          "name_es": "Sona",
-          "cost": 5,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Bard",
-          "name": "Bard",
-          "name_es": "Bardo",
-          "cost": 5,
-          "items": [
-            "TFT_Item_JeweledGauntlet",
-            "TFT_Item_SpearOfShojin",
-            "TFT_Item_StatikkShiv"
-          ]
-        },
-        {
-          "apiName": "TFT17_Karma",
-          "name": "Karma",
-          "name_es": "Karma",
-          "cost": 4,
-          "items": []
-        }
-      ]
-    },
-    {
-      "name": "SummonTrait Viktor Reroll",
-      "tier": "S",
-      "playstyle": "",
-      "difficulty": "",
-      "patch": "16.8",
-      "stats": {
-        "pick_rate": 0.2647858836657832,
-        "avg_placement": 3.874292111155011,
-        "top_4_percent": 0.6260371394705649,
-        "top_1_percent": 0.14072171737126302
-      },
-      "champions": [
-        {
-          "apiName": "TFT17_Illaoi",
-          "name": "Illaoi",
-          "name_es": "Illaoi",
-          "cost": 3,
-          "items": [
-            "TFT_Item_BrambleVest",
-            "TFT_Item_DragonsClaw",
-            "TFT_Item_RedBuff"
-          ]
-        },
-        {
-          "apiName": "TFT17_Viktor",
-          "name": "Viktor",
-          "name_es": "Viktor",
-          "cost": 3,
-          "items": [
-            "TFT17_Item_PsyOps_DroneMod",
-            "TFT_Item_ArchangelsStaff",
-            "TFT_Item_JeweledGauntlet"
-          ]
-        },
-        {
-          "apiName": "TFT17_Nami",
-          "name": "Nami",
-          "name_es": "Nami",
-          "cost": 4,
-          "items": [
-            "TFT_Item_Morellonomicon",
-            "TFT_Item_SpearOfShojin",
-            "TFT_Item_StatikkShiv"
-          ]
-        },
-        {
-          "apiName": "TFT17_Lissandra",
-          "name": "Lissandra",
-          "name_es": "Lissandra",
-          "cost": 1,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Mordekaiser",
-          "name": "Mordekaiser",
-          "name_es": "Mordekaiser",
-          "cost": 2,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Pyke",
-          "name": "Pyke",
-          "name_es": "Pyke",
-          "cost": 2,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Rhaast",
-          "name": "Rhaast",
-          "name_es": "Rhaast",
-          "cost": 3,
-          "items": [
-            "TFT_Item_IonicSpark",
-            "TFT_Item_RedBuff",
-            "TFT_Item_WarmogsArmor"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Mecha The Mighty Mech",
-      "tier": "S",
-      "playstyle": "",
-      "difficulty": "",
-      "patch": "16.8",
-      "stats": {
-        "pick_rate": 0.12072813502580555,
-        "avg_placement": 3.8281340265742347,
-        "top_4_percent": 0.6175621028307337,
-        "top_1_percent": 0.262420566146736
-      },
-      "champions": [
-        {
-          "apiName": "TFT17_AurelionSol",
-          "name": "Aurelion Sol",
-          "name_es": "Aurelion Sol",
-          "cost": 4,
-          "items": [
-            "TFT_Item_JeweledGauntlet",
-            "TFT_Item_RabadonsDeathcap",
-            "TFT_Item_StatikkShiv"
-          ]
-        },
-        {
-          "apiName": "TFT17_Fiora",
-          "name": "Fiora",
-          "name_es": "Fiora",
-          "cost": 5,
-          "items": [
-            "TFT_Item_Bloodthirster",
-            "TFT_Item_SteraksGage",
-            "TFT_Item_TitansResolve"
-          ]
-        },
-        {
-          "apiName": "TFT17_Galio",
-          "name": "The Mighty Mech",
-          "name_es": "Megamecha",
-          "cost": 4,
-          "items": [
-            "TFT_Item_GargoyleStoneplate",
-            "TFT_Item_SteraksGage",
-            "TFT_Item_TitansResolve"
-          ]
-        },
-        {
-          "apiName": "TFT17_Karma",
-          "name": "Karma",
-          "name_es": "Karma",
-          "cost": 4,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_TahmKench",
-          "name": "Tahm Kench",
-          "name_es": "Tahm Kench",
-          "cost": 4,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Urgot",
-          "name": "Urgot",
-          "name_es": "Urgot",
-          "cost": 3,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Bard",
-          "name": "Bard",
-          "name_es": "Bardo",
-          "cost": 5,
-          "items": [
-            "TFT_Item_Morellonomicon",
-            "TFT_Item_SpearOfShojin",
-            "TFT_Item_StatikkShiv"
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Fateweaver Twisted Fate Reroll",
-      "tier": "S",
-      "playstyle": "",
-      "difficulty": "",
-      "patch": "16.8",
-      "stats": {
-        "pick_rate": 0.15075324313014368,
-        "avg_placement": 3.6894517696044415,
-        "top_4_percent": 0.6701364792967847,
-        "top_1_percent": 0.1411057136247976
-      },
-      "champions": [
-        {
-          "apiName": "TFT17_Caitlyn",
-          "name": "Caitlyn",
-          "name_es": "Caitlyn",
-          "cost": 1,
-          "items": [
-            "TFT_Item_Deathblade",
-            "TFT_Item_GuinsoosRageblade",
-            "TFT_Item_MadredsBloodrazor"
-          ]
-        },
-        {
-          "apiName": "TFT17_Jax",
-          "name": "Jax",
-          "name_es": "Jax",
-          "cost": 2,
-          "items": [
-            "TFT_Item_Crownguard",
-            "TFT_Item_FrozenHeart",
-            "TFT_Item_GargoyleStoneplate"
-          ]
-        },
-        {
-          "apiName": "TFT17_TwistedFate",
-          "name": "Twisted Fate",
-          "name_es": "Twisted Fate",
-          "cost": 1,
-          "items": [
-            "TFT_Item_Leviathan",
-            "TFT_Item_Leviathan",
-            "TFT_Item_RabadonsDeathcap"
-          ]
-        },
-        {
-          "apiName": "TFT17_Aatrox",
-          "name": "Aatrox",
-          "name_es": "Aatrox",
-          "cost": 1,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Milio",
-          "name": "Milio",
-          "name_es": "Milio",
-          "cost": 2,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Talon",
-          "name": "Talon",
-          "name_es": "Talon",
-          "cost": 1,
-          "items": [
-            "TFT_Item_GuardianAngel",
-            "TFT_Item_HextechGunblade",
-            "TFT_Item_SpearOfShojin"
-          ]
-        },
-        {
-          "apiName": "TFT17_Corki",
-          "name": "Corki",
-          "name_es": "Corki",
-          "cost": 4,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Riven",
-          "name": "Riven",
-          "name_es": "Riven",
-          "cost": 4,
-          "items": []
-        }
-      ]
-    },
-    {
-      "name": "DRX Vex",
-      "tier": "S",
-      "playstyle": "",
-      "difficulty": "",
-      "patch": "16.8",
-      "stats": {
-        "pick_rate": 0.09555028595341052,
-        "avg_placement": 3.7164233576642336,
-        "top_4_percent": 0.6271897810218978,
-        "top_1_percent": 0.24817518248175183
-      },
-      "champions": [
-        {
-          "apiName": "TFT17_Graves",
-          "name": "Graves",
-          "name_es": "Graves",
-          "cost": 5,
-          "items": [
-            "TFT_Item_Quicksilver",
-            "TFT_Item_SteraksGage",
-            "TFT_Item_UnstableConcoction"
-          ]
-        },
-        {
-          "apiName": "TFT17_Nunu",
-          "name": "Nunu & Willump",
-          "name_es": "Nunu y Willump",
-          "cost": 4,
-          "items": [
-            "TFT_Item_FrozenHeart",
-            "TFT_Item_RedBuff",
-            "TFT_Item_WarmogsArmor"
-          ]
-        },
-        {
-          "apiName": "TFT17_Vex",
-          "name": "Vex",
-          "name_es": "Vex",
-          "cost": 5,
-          "items": [
-            "TFT_Item_GuinsoosRageblade",
-            "TFT_Item_HextechGunblade",
-            "TFT_Item_MadredsBloodrazor"
-          ]
-        },
-        {
-          "apiName": "TFT17_Aatrox",
-          "name": "Aatrox",
-          "name_es": "Aatrox",
-          "cost": 1,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Akali",
-          "name": "Akali",
-          "name_es": "Akali",
-          "cost": 2,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Blitzcrank",
-          "name": "Blitzcrank",
-          "name_es": "Blitzcrank",
-          "cost": 5,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Fiora",
-          "name": "Fiora",
-          "name_es": "Fiora",
-          "cost": 5,
-          "items": [
-            "TFT_Item_Bloodthirster",
-            "TFT_Item_SteraksGage",
-            "TFT_Item_TitansResolve"
-          ]
-        },
-        {
-          "apiName": "TFT17_Morgana",
-          "name": "Morgana",
-          "name_es": "Morgana",
-          "cost": 5,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Shen",
-          "name": "Shen",
-          "name_es": "Shen",
-          "cost": 5,
-          "items": []
-        }
-      ]
-    },
-    {
-      "name": "ShieldTank Teemo Reroll",
-      "tier": "S",
-      "playstyle": "",
-      "difficulty": "",
-      "patch": "16.8",
-      "stats": {
-        "pick_rate": 0.12295996652252755,
-        "avg_placement": 4.153431650595576,
-        "top_4_percent": 0.5768576290414067,
-        "top_1_percent": 0.10011344299489507
-      },
-      "champions": [
-        {
-          "apiName": "TFT17_Leona",
-          "name": "Leona",
-          "name_es": "Leona",
-          "cost": 1,
-          "items": [
-            "TFT_Item_GargoyleStoneplate",
-            "TFT_Item_GargoyleStoneplate",
-            "TFT_Item_WarmogsArmor"
-          ]
-        },
-        {
-          "apiName": "TFT17_Lissandra",
-          "name": "Lissandra",
-          "name_es": "Lissandra",
-          "cost": 1,
-          "items": [
-            "TFT_Item_Morellonomicon",
-            "TFT_Item_SpearOfShojin",
-            "TFT_Item_StatikkShiv"
-          ]
-        },
-        {
-          "apiName": "TFT17_Teemo",
-          "name": "Teemo",
-          "name_es": "Teemo",
-          "cost": 1,
-          "items": [
-            "TFT_Item_GuinsoosRageblade",
-            "TFT_Item_MadredsBloodrazor",
-            "TFT_Item_RabadonsDeathcap"
-          ]
-        },
-        {
-          "apiName": "TFT17_Illaoi",
-          "name": "Illaoi",
-          "name_es": "Illaoi",
-          "cost": 3,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Mordekaiser",
-          "name": "Mordekaiser",
-          "name_es": "Mordekaiser",
-          "cost": 2,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Nasus",
-          "name": "Nasus",
-          "name_es": "Nasus",
-          "cost": 1,
-          "items": [
-            "TFT_Item_Bloodthirster",
-            "TFT_Item_GuinsoosRageblade",
-            "TFT_Item_TitansResolve"
-          ]
-        },
-        {
-          "apiName": "TFT17_Zoe",
-          "name": "Zoe",
-          "name_es": "Zoe",
-          "cost": 2,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Nami",
-          "name": "Nami",
-          "name_es": "Nami",
-          "cost": 4,
-          "items": []
-        }
-      ]
-    },
-    {
-      "name": "DRX Bel'Veth Reroll",
-      "tier": "S",
-      "playstyle": "",
-      "difficulty": "",
-      "patch": "16.8",
-      "stats": {
-        "pick_rate": 0.1518342865113684,
-        "avg_placement": 4.049954065227377,
-        "top_4_percent": 0.602204869085898,
-        "top_1_percent": 0.10587965089572807
-      },
-      "champions": [
-        {
-          "apiName": "TFT17_Belveth",
-          "name": "Bel'Veth",
-          "name_es": "Bel'Veth",
-          "cost": 2,
-          "items": [
-            "TFT_Item_MadredsBloodrazor",
-            "TFT_Item_Quicksilver",
-            "TFT_Item_RunaansHurricane"
-          ]
-        },
-        {
-          "apiName": "TFT17_RekSai",
-          "name": "Rek'Sai",
-          "name_es": "Rek'Sai",
-          "cost": 1,
-          "items": [
-            "TFT_Item_FrozenHeart",
-            "TFT_Item_RedBuff",
-            "TFT_Item_Redemption"
-          ]
-        },
-        {
-          "apiName": "TFT17_Kindred",
-          "name": "Kindred",
-          "name_es": "Kindred",
-          "cost": 4,
-          "items": [
-            "TFT_Item_GuinsoosRageblade",
-            "TFT_Item_MadredsBloodrazor",
-            "TFT_Item_RunaansHurricane"
-          ]
-        },
-        {
-          "apiName": "TFT17_Aatrox",
-          "name": "Aatrox",
-          "name_es": "Aatrox",
-          "cost": 1,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Akali",
-          "name": "Akali",
-          "name_es": "Akali",
-          "cost": 2,
-          "items": [
-            "TFT_Item_GuardianAngel",
-            "TFT_Item_PowerGauntlet",
-            "TFT_Item_UnstableConcoction"
-          ]
-        },
-        {
-          "apiName": "TFT17_Briar",
-          "name": "Briar",
-          "name_es": "Briar",
-          "cost": 1,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Maokai",
-          "name": "Maokai",
-          "name_es": "Maokai",
-          "cost": 3,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Caitlyn",
-          "name": "Caitlyn",
-          "name_es": "Caitlyn",
-          "cost": 1,
-          "items": []
-        }
-      ]
-    },
-    {
-      "name": "Mecha Urgot Reroll",
-      "tier": "S",
-      "playstyle": "",
-      "difficulty": "",
-      "patch": "16.8",
-      "stats": {
-        "pick_rate": 0.1706479285813921,
-        "avg_placement": 4.2889547358741185,
-        "top_4_percent": 0.5434760396444263,
-        "top_1_percent": 0.13364667415959947
-      },
-      "champions": [
-        {
-          "apiName": "TFT17_Maokai",
-          "name": "Maokai",
-          "name_es": "Maokai",
-          "cost": 3,
-          "items": [
-            "TFT_Item_RedBuff",
-            "TFT_Item_SpectralGauntlet",
-            "TFT_Item_WarmogsArmor"
-          ]
-        },
-        {
-          "apiName": "TFT17_Urgot",
-          "name": "Urgot",
-          "name_es": "Urgot",
-          "cost": 3,
-          "items": [
-            "TFT_Item_InfinityEdge",
-            "TFT_Item_MadredsBloodrazor",
-            "TFT_Item_Quicksilver"
-          ]
-        },
-        {
-          "apiName": "TFT17_Aurora",
-          "name": "Aurora",
-          "name_es": "Aurora",
-          "cost": 3,
-          "items": [
-            "TFT_Item_JeweledGauntlet",
-            "TFT_Item_MadredsBloodrazor",
-            "TFT_Item_SpearOfShojin"
-          ]
-        },
-        {
-          "apiName": "TFT17_Akali",
-          "name": "Akali",
-          "name_es": "Akali",
-          "cost": 2,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Galio",
-          "name": "The Mighty Mech",
-          "name_es": "Megamecha",
-          "cost": 4,
-          "items": [
-            "TFT_Item_FrozenHeart",
-            "TFT_Item_RedBuff",
-            "TFT_Item_SpectralGauntlet"
-          ]
-        },
-        {
-          "apiName": "TFT17_Rhaast",
-          "name": "Rhaast",
-          "name_es": "Rhaast",
-          "cost": 3,
-          "items": []
-        }
-      ]
-    },
-    {
-      "name": "Astronaut Veigar Reroll",
-      "tier": "A",
-      "playstyle": "",
-      "difficulty": "",
-      "patch": "16.8",
-      "stats": {
-        "pick_rate": 0.052221369786581116,
-        "avg_placement": 4.101502504173623,
-        "top_4_percent": 0.5792988313856428,
-        "top_1_percent": 0.14290484140233722
-      },
-      "champions": [
-        {
-          "apiName": "TFT17_Lissandra",
-          "name": "Lissandra",
-          "name_es": "Lissandra",
-          "cost": 1,
-          "items": [
-            "TFT_Item_JeweledGauntlet",
-            "TFT_Item_SpearOfShojin",
-            "TFT_Item_StatikkShiv"
-          ]
-        },
-        {
-          "apiName": "TFT17_Poppy",
-          "name": "Poppy",
-          "name_es": "Poppy",
-          "cost": 1,
-          "items": [
-            "TFT_Item_GargoyleStoneplate",
-            "TFT_Item_RedBuff",
-            "TFT_Item_Redemption"
-          ]
-        },
-        {
-          "apiName": "TFT17_Veigar",
-          "name": "Veigar",
-          "name_es": "Veigar",
-          "cost": 1,
-          "items": [
-            "TFT_Item_JeweledGauntlet",
-            "TFT_Item_Leviathan",
-            "TFT_Item_Leviathan"
-          ]
-        },
-        {
-          "apiName": "TFT17_Illaoi",
-          "name": "Illaoi",
-          "name_es": "Illaoi",
-          "cost": 3,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Mordekaiser",
-          "name": "Mordekaiser",
-          "name_es": "Mordekaiser",
-          "cost": 2,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Rammus",
-          "name": "Rammus",
-          "name_es": "Rammus",
-          "cost": 4,
-          "items": [
-            "TFT_Item_GargoyleStoneplate",
-            "TFT_Item_Redemption",
-            "TFT_Item_WarmogsArmor"
-          ]
-        },
-        {
-          "apiName": "TFT17_Corki",
-          "name": "Corki",
-          "name_es": "Corki",
-          "cost": 4,
-          "items": []
-        }
-      ]
-    },
-    {
-      "name": "Stargazer_Shield Samira",
-      "tier": "A",
-      "playstyle": "",
-      "difficulty": "",
-      "patch": "16.8",
-      "stats": {
-        "pick_rate": 0.06798367973218022,
-        "avg_placement": 4.18491921005386,
-        "top_4_percent": 0.5501410618107206,
-        "top_1_percent": 0.17799435752757117
-      },
-      "champions": [
-        {
-          "apiName": "TFT17_Ornn",
-          "name": "Ornn",
-          "name_es": "Ornn",
-          "cost": 3,
-          "items": [
-            "TFT_Item_GargoyleStoneplate",
-            "TFT_Item_Redemption",
-            "TFT_Item_WarmogsArmor"
-          ]
-        },
-        {
-          "apiName": "TFT17_Ornn",
-          "name": "Ornn",
-          "name_es": "Ornn",
-          "cost": 3,
-          "items": [
-            "TFT_Item_BrambleVest",
-            "TFT_Item_NightHarvester",
-            "TFT_Item_Redemption"
-          ]
-        },
-        {
-          "apiName": "TFT17_Samira",
-          "name": "Samira",
-          "name_es": "Samira",
-          "cost": 3,
-          "items": [
-            "TFT_Item_LastWhisper",
-            "TFT_Item_MadredsBloodrazor",
-            "TFT_Item_SpearOfShojin"
-          ]
-        },
-        {
-          "apiName": "TFT17_Samira",
-          "name": "Samira",
-          "name_es": "Samira",
-          "cost": 3,
-          "items": [
-            "TFT_Item_Deathblade",
-            "TFT_Item_InfinityEdge",
-            "TFT_Item_SpearOfShojin"
-          ]
-        },
-        {
-          "apiName": "TFT17_Jax",
-          "name": "Jax",
-          "name_es": "Jax",
-          "cost": 2,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Nunu",
-          "name": "Nunu & Willump",
-          "name_es": "Nunu y Willump",
-          "cost": 4,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Xayah",
-          "name": "Xayah",
-          "name_es": "Xayah",
-          "cost": 4,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Blitzcrank",
-          "name": "Blitzcrank",
-          "name_es": "Blitzcrank",
-          "cost": 5,
-          "items": []
-        }
-      ]
-    },
-    {
       "name": "SpaceGroove Nami",
-      "tier": "A",
+      "tier": "S",
       "playstyle": "",
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.18777026084530618,
-        "avg_placement": 4.3048565326399855,
-        "top_4_percent": 0.5331042808060172,
-        "top_1_percent": 0.15665335685764695
+        "pick_rate": 0.17743187784227457,
+        "avg_placement": 4.289122733902897,
+        "top_4_percent": 0.53240258387164,
+        "top_1_percent": 0.16409668680975203
       },
       "champions": [
         {
@@ -1031,31 +95,180 @@
           "cost": 5,
           "items": []
         }
-      ]
+      ],
+      "strategy": {
+        "type": "standard",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.5",
+          "8": "4.2"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 5,
+          "3.3": 5,
+          "3.5": 8,
+          "3.6": 6,
+          "3.7": 5,
+          "4.1": 9,
+          "4.2": 11,
+          "4.3": 5,
+          "4.5": 6,
+          "4.6": 4,
+          "5.1": 7,
+          "5.2": 4,
+          "5.3": 4,
+          "5.5": 3,
+          "5.6": 3,
+          "5.7": 1,
+          "6.1": 4,
+          "6.2": 1,
+          "6.3": 0,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "1.2": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 0,
+          "3.3": 0,
+          "3.5": 0,
+          "3.6": 1,
+          "3.7": 0,
+          "4.1": 1,
+          "4.2": 3,
+          "4.3": 2,
+          "4.5": 2,
+          "4.6": 2,
+          "5.1": 4,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 1,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "1.2": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "level_rolling_gold": {
+          "5": 2,
+          "3": 0,
+          "2": 0,
+          "8": 15,
+          "4": 0,
+          "6": 4,
+          "9": 10,
+          "10": 2,
+          "7": 7,
+          "1": 0
+        }
+      }
     },
     {
-      "name": "Astronaut Corki",
-      "tier": "A",
+      "name": "Stargazer_Wolf Xayah",
+      "tier": "S",
       "playstyle": "",
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.04531664109359743,
-        "avg_placement": 4.396306271642939,
-        "top_4_percent": 0.5017314351673721,
-        "top_1_percent": 0.1581377452866487
+        "pick_rate": 0.2463489481273339,
+        "avg_placement": 4.122017109410176,
+        "top_4_percent": 0.5532042623442893,
+        "top_1_percent": 0.22219720846465557
       },
       "champions": [
         {
-          "apiName": "TFT17_Corki",
-          "name": "Corki",
-          "name_es": "Corki",
-          "cost": 4,
+          "apiName": "TFT17_Jhin",
+          "name": "Jhin",
+          "name_es": "Jhin",
+          "cost": 5,
           "items": [
             "TFT_Item_Deathblade",
-            "TFT_Item_LastWhisper",
-            "TFT_Item_PowerGauntlet"
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_MadredsBloodrazor"
           ]
+        },
+        {
+          "apiName": "TFT17_Nunu",
+          "name": "Nunu & Willump",
+          "name_es": "Nunu y Willump",
+          "cost": 4,
+          "items": [
+            "TFT_Item_NightHarvester",
+            "TFT_Item_Redemption",
+            "TFT_Item_SpectralGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT17_Xayah",
+          "name": "Xayah",
+          "name_es": "Xayah",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_RapidFireCannon",
+            "TFT_Item_RunaansHurricane"
+          ]
+        },
+        {
+          "apiName": "TFT17_Gnar",
+          "name": "Gnar",
+          "name_es": "Gnar",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Jax",
+          "name": "Jax",
+          "name_es": "Jax",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Mordekaiser",
+          "name": "Mordekaiser",
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
         },
         {
           "apiName": "TFT17_Rammus",
@@ -1063,16 +276,548 @@
           "name_es": "Rammus",
           "cost": 4,
           "items": [
-            "TFT_Item_Crownguard",
             "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_Redemption",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Bard",
+          "name": "Bard",
+          "name_es": "Bardo",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Rhaast",
+          "name": "Rhaast",
+          "name_es": "Rhaast",
+          "cost": 3,
+          "items": []
+        }
+      ],
+      "strategy": {
+        "type": "fast_9",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.6",
+          "8": "4.2"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 6,
+          "3.3": 5,
+          "3.5": 8,
+          "3.6": 7,
+          "3.7": 5,
+          "4.1": 10,
+          "4.2": 11,
+          "4.3": 5,
+          "4.5": 6,
+          "4.6": 4,
+          "5.1": 7,
+          "5.2": 4,
+          "5.3": 4,
+          "5.5": 3,
+          "5.6": 2,
+          "5.7": 1,
+          "6.1": 4,
+          "6.2": 1,
+          "6.3": 0,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "1.2": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 0,
+          "3.3": 0,
+          "3.5": 0,
+          "3.6": 1,
+          "3.7": 0,
+          "4.1": 1,
+          "4.2": 3,
+          "4.3": 2,
+          "4.5": 2,
+          "4.6": 2,
+          "5.1": 4,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "1.2": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "level_rolling_gold": {
+          "4": 0,
+          "2": 0,
+          "3": 0,
+          "6": 3,
+          "8": 16,
+          "5": 2,
+          "10": 2,
+          "7": 6,
+          "9": 12,
+          "1": 0
+        }
+      }
+    },
+    {
+      "name": "ShieldTank Vex",
+      "tier": "S",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.12506008060043627,
+        "avg_placement": 3.7957132298595715,
+        "top_4_percent": 0.6177383592017739,
+        "top_1_percent": 0.22453806356245382
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Blitzcrank",
+          "name": "Blitzcrank",
+          "name_es": "Blitzcrank",
+          "cost": 5,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_RabadonsDeathcap",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Nunu",
+          "name": "Nunu & Willump",
+          "name_es": "Nunu y Willump",
+          "cost": 4,
+          "items": [
+            "TFT_Item_FrozenHeart",
+            "TFT_Item_NightHarvester",
             "TFT_Item_RedBuff"
           ]
         },
         {
-          "apiName": "TFT17_Riven",
-          "name": "Riven",
-          "name_es": "Riven",
+          "apiName": "TFT17_Vex",
+          "name": "Vex",
+          "name_es": "Vex",
+          "cost": 5,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_RabadonsDeathcap"
+          ]
+        },
+        {
+          "apiName": "TFT17_Illaoi",
+          "name": "Illaoi",
+          "name_es": "Illaoi",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Karma",
+          "name": "Karma",
+          "name_es": "Karma",
           "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Mordekaiser",
+          "name": "Mordekaiser",
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Sona",
+          "name": "Sona",
+          "name_es": "Sona",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Bard",
+          "name": "Bard",
+          "name_es": "Bardo",
+          "cost": 5,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
+        }
+      ],
+      "strategy": {
+        "type": "fast_9",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.5",
+          "8": "4.2",
+          "9": "5.1"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 3,
+          "3.2": 6,
+          "3.3": 5,
+          "3.5": 9,
+          "3.6": 7,
+          "3.7": 5,
+          "4.1": 11,
+          "4.2": 13,
+          "4.3": 6,
+          "4.5": 8,
+          "4.6": 6,
+          "5.1": 11,
+          "5.2": 5,
+          "5.3": 4,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 1,
+          "6.3": 0,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "1.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 0,
+          "3.3": 0,
+          "3.5": 0,
+          "3.6": 0,
+          "3.7": 0,
+          "4.1": 1,
+          "4.2": 2,
+          "4.3": 2,
+          "4.5": 2,
+          "4.6": 2,
+          "5.1": 5,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "1.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0
+        },
+        "level_rolling_gold": {
+          "2": 0,
+          "8": 11,
+          "4": 0,
+          "5": 1,
+          "6": 3,
+          "3": 0,
+          "7": 5,
+          "9": 16,
+          "10": 3,
+          "1": 0
+        }
+      }
+    },
+    {
+      "name": "SummonTrait Viktor Reroll",
+      "tier": "S",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.26416977853366364,
+        "avg_placement": 3.841707487753674,
+        "top_4_percent": 0.6326102169349195,
+        "top_1_percent": 0.14289713086074177
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Illaoi",
+          "name": "Illaoi",
+          "name_es": "Illaoi",
+          "cost": 3,
+          "items": [
+            "TFT_Item_BrambleVest",
+            "TFT_Item_DragonsClaw",
+            "TFT_Item_RedBuff"
+          ]
+        },
+        {
+          "apiName": "TFT17_Viktor",
+          "name": "Viktor",
+          "name_es": "Viktor",
+          "cost": 3,
+          "items": [
+            "TFT17_Item_PsyOps_DroneMod",
+            "TFT_Item_ArchangelsStaff",
+            "TFT_Item_JeweledGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT17_Nami",
+          "name": "Nami",
+          "name_es": "Nami",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Lissandra",
+          "name": "Lissandra",
+          "name_es": "Lissandra",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Mordekaiser",
+          "name": "Mordekaiser",
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Pyke",
+          "name": "Pyke",
+          "name_es": "Pyke",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Rhaast",
+          "name": "Rhaast",
+          "name_es": "Rhaast",
+          "cost": 3,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_RedBuff",
+            "TFT_Item_WarmogsArmor"
+          ]
+        }
+      ],
+      "strategy": {
+        "type": "roll_7",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.6"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 5,
+          "3.3": 4,
+          "3.5": 7,
+          "3.6": 5,
+          "3.7": 3,
+          "4.1": 5,
+          "4.2": 5,
+          "4.3": 2,
+          "4.5": 4,
+          "4.6": 3,
+          "5.1": 5,
+          "5.2": 3,
+          "5.3": 3,
+          "5.5": 3,
+          "5.6": 2,
+          "5.7": 1,
+          "6.1": 4,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "1.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 1,
+          "3.3": 1,
+          "3.5": 1,
+          "3.6": 1,
+          "3.7": 1,
+          "4.1": 3,
+          "4.2": 4,
+          "4.3": 4,
+          "4.5": 4,
+          "4.6": 4,
+          "5.1": 6,
+          "5.2": 3,
+          "5.3": 3,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "1.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "level_rolling_gold": {
+          "8": 15,
+          "5": 3,
+          "3": 0,
+          "4": 0,
+          "2": 0,
+          "6": 6,
+          "9": 4,
+          "7": 29,
+          "10": 0,
+          "1": 0
+        }
+      }
+    },
+    {
+      "name": "Mecha The Mighty Mech",
+      "tier": "S",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.12531888934077717,
+        "avg_placement": 3.8735801740669715,
+        "top_4_percent": 0.6045139401091606,
+        "top_1_percent": 0.25431479569258003
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_AurelionSol",
+          "name": "Aurelion Sol",
+          "name_es": "Aurelion Sol",
+          "cost": 4,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_RabadonsDeathcap",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Galio",
+          "name": "The Mighty Mech",
+          "name_es": "Megamecha",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT17_Fiora",
+          "name": "Fiora",
+          "name_es": "Fiora",
+          "cost": 5,
           "items": [
             "TFT_Item_Bloodthirster",
             "TFT_Item_SteraksGage",
@@ -1080,17 +825,24 @@
           ]
         },
         {
-          "apiName": "TFT17_Fizz",
-          "name": "Fizz",
-          "name_es": "Fizz",
-          "cost": 3,
+          "apiName": "TFT17_Karma",
+          "name": "Karma",
+          "name_es": "Karma",
+          "cost": 4,
           "items": []
         },
         {
-          "apiName": "TFT17_Milio",
-          "name": "Milio",
-          "name_es": "Milio",
-          "cost": 2,
+          "apiName": "TFT17_TahmKench",
+          "name": "Tahm Kench",
+          "name_es": "Tahm Kench",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Urgot",
+          "name": "Urgot",
+          "name_es": "Urgot",
+          "cost": 3,
           "items": []
         },
         {
@@ -1103,22 +855,1430 @@
             "TFT_Item_SpearOfShojin",
             "TFT_Item_StatikkShiv"
           ]
+        }
+      ],
+      "strategy": {
+        "type": "fast_9",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.3",
+          "5": "2.7",
+          "6": "3.2",
+          "7": "3.5",
+          "8": "4.1"
+        },
+        "round_leveling_gold": {
+          "3.2": 6,
+          "3.3": 5,
+          "3.5": 8,
+          "3.6": 7,
+          "3.7": 6,
+          "4.1": 10,
+          "4.2": 11,
+          "4.3": 4,
+          "4.5": 5,
+          "4.6": 4,
+          "5.1": 7,
+          "5.2": 3,
+          "5.3": 4,
+          "5.5": 3,
+          "5.6": 2,
+          "5.7": 1,
+          "6.1": 4,
+          "6.2": 1,
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 3,
+          "6.3": 0,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0,
+          "7.6": 0,
+          "7.7": null,
+          "8.1": null
+        },
+        "round_rolling_gold": {
+          "3.2": 0,
+          "3.3": 0,
+          "3.5": 0,
+          "3.6": 1,
+          "3.7": 0,
+          "4.1": 1,
+          "4.2": 3,
+          "4.3": 2,
+          "4.5": 2,
+          "4.6": 2,
+          "5.1": 4,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 2,
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "6.3": 2,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "level_rolling_gold": {
+          "7": 6,
+          "4": 0,
+          "10": 2,
+          "2": 0,
+          "5": 2,
+          "3": 0,
+          "8": 17,
+          "6": 3,
+          "9": 13
+        }
+      }
+    },
+    {
+      "name": "Fateweaver Twisted Fate Reroll",
+      "tier": "S",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.17170111287758347,
+        "avg_placement": 3.672695951765719,
+        "top_4_percent": 0.672588285960379,
+        "top_1_percent": 0.14481050818260122
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Caitlyn",
+          "name": "Caitlyn",
+          "name_es": "Caitlyn",
+          "cost": 1,
+          "items": [
+            "TFT_Item_Deathblade",
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_MadredsBloodrazor"
+          ]
         },
         {
-          "apiName": "TFT17_Gnar",
-          "name": "Gnar",
-          "name_es": "Gnar",
+          "apiName": "TFT17_Jax",
+          "name": "Jax",
+          "name_es": "Jax",
+          "cost": 2,
+          "items": [
+            "TFT_Item_Crownguard",
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_GargoyleStoneplate"
+          ]
+        },
+        {
+          "apiName": "TFT17_TwistedFate",
+          "name": "Twisted Fate",
+          "name_es": "Twisted Fate",
+          "cost": 1,
+          "items": [
+            "TFT_Item_Leviathan",
+            "TFT_Item_Leviathan",
+            "TFT_Item_RabadonsDeathcap"
+          ]
+        },
+        {
+          "apiName": "TFT17_Aatrox",
+          "name": "Aatrox",
+          "name_es": "Aatrox",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Milio",
+          "name": "Milio",
+          "name_es": "Milio",
           "cost": 2,
           "items": []
+        },
+        {
+          "apiName": "TFT17_Talon",
+          "name": "Talon",
+          "name_es": "Talon",
+          "cost": 1,
+          "items": [
+            "TFT_Item_GuardianAngel",
+            "TFT_Item_HextechGunblade",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT17_Corki",
+          "name": "Corki",
+          "name_es": "Corki",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Riven",
+          "name": "Riven",
+          "name_es": "Riven",
+          "cost": 4,
+          "items": []
+        }
+      ],
+      "strategy": {
+        "type": "roll_5",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.3",
+          "5": "3.2",
+          "6": "4.2",
+          "7": "5.1"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 1,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 1,
+          "3.2": 2,
+          "3.3": 1,
+          "3.5": 3,
+          "3.6": 2,
+          "3.7": 1,
+          "4.1": 3,
+          "4.2": 5,
+          "4.3": 3,
+          "4.5": 5,
+          "4.6": 4,
+          "5.1": 7,
+          "5.2": 5,
+          "5.3": 5,
+          "5.5": 5,
+          "5.6": 4,
+          "5.7": 2,
+          "6.1": 6,
+          "6.2": 3,
+          "6.3": 2,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 3,
+          "3.3": 3,
+          "3.5": 3,
+          "3.6": 4,
+          "3.7": 2,
+          "4.1": 4,
+          "4.2": 5,
+          "4.3": 4,
+          "4.5": 3,
+          "4.6": 3,
+          "5.1": 5,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 1,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "level_rolling_gold": {
+          "4": 2,
+          "7": 13,
+          "2": 0,
+          "5": 19,
+          "9": 3,
+          "8": 13,
+          "3": 0,
+          "6": 16,
+          "10": 0,
+          "1": 0
+        }
+      }
+    },
+    {
+      "name": "DRX Vex",
+      "tier": "S",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.08934447443339372,
+        "avg_placement": 3.7523277467411544,
+        "top_4_percent": 0.6269397889509621,
+        "top_1_percent": 0.23918890957997102
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Graves",
+          "name": "Graves",
+          "name_es": "Graves",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Quicksilver",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Nunu",
+          "name": "Nunu & Willump",
+          "name_es": "Nunu y Willump",
+          "cost": 4,
+          "items": [
+            "TFT_Item_FrozenHeart",
+            "TFT_Item_RedBuff",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Vex",
+          "name": "Vex",
+          "name_es": "Vex",
+          "cost": 5,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_HextechGunblade",
+            "TFT_Item_MadredsBloodrazor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Aatrox",
+          "name": "Aatrox",
+          "name_es": "Aatrox",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Akali",
+          "name": "Akali",
+          "name_es": "Akali",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Blitzcrank",
+          "name": "Blitzcrank",
+          "name_es": "Blitzcrank",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Fiora",
+          "name": "Fiora",
+          "name_es": "Fiora",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT17_Morgana",
+          "name": "Morgana",
+          "name_es": "Morgana",
+          "cost": 5,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Shen",
+          "name": "Shen",
+          "name_es": "Shen",
+          "cost": 5,
+          "items": []
+        }
+      ],
+      "strategy": {
+        "type": "fast_10",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.5",
+          "8": "4.2",
+          "9": "5.1"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 3,
+          "3.2": 6,
+          "3.3": 5,
+          "3.5": 9,
+          "3.6": 7,
+          "3.7": 6,
+          "4.1": 11,
+          "4.2": 13,
+          "4.3": 8,
+          "4.5": 10,
+          "4.6": 7,
+          "5.1": 10,
+          "5.2": 3,
+          "5.3": 2,
+          "5.5": 1,
+          "5.6": 1,
+          "5.7": 0,
+          "6.1": 1,
+          "6.2": 0,
+          "6.3": 0,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "1.2": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 0,
+          "3.3": 0,
+          "3.5": 0,
+          "3.6": 0,
+          "3.7": 0,
+          "4.1": 0,
+          "4.2": 1,
+          "4.3": 1,
+          "4.5": 1,
+          "4.6": 2,
+          "5.1": 4,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 1,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "1.2": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "level_rolling_gold": {
+          "8": 7,
+          "2": 0,
+          "4": 0,
+          "6": 2,
+          "7": 3,
+          "3": 0,
+          "10": 3,
+          "5": 1,
+          "9": 18,
+          "1": 0
+        }
+      }
+    },
+    {
+      "name": "ShieldTank Teemo Reroll",
+      "tier": "S",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.1411431951787629,
+        "avg_placement": 4.118533071381794,
+        "top_4_percent": 0.5893909626719057,
+        "top_1_percent": 0.09967256057629338
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Leona",
+          "name": "Leona",
+          "name_es": "Leona",
+          "cost": 1,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Lissandra",
+          "name": "Lissandra",
+          "name_es": "Lissandra",
+          "cost": 1,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Teemo",
+          "name": "Teemo",
+          "name_es": "Teemo",
+          "cost": 1,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_RabadonsDeathcap"
+          ]
+        },
+        {
+          "apiName": "TFT17_Illaoi",
+          "name": "Illaoi",
+          "name_es": "Illaoi",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Mordekaiser",
+          "name": "Mordekaiser",
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Nasus",
+          "name": "Nasus",
+          "name_es": "Nasus",
+          "cost": 1,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT17_Zoe",
+          "name": "Zoe",
+          "name_es": "Zoe",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Nami",
+          "name": "Nami",
+          "name_es": "Nami",
+          "cost": 4,
+          "items": []
+        }
+      ],
+      "strategy": {
+        "type": "roll_5",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.3",
+          "5": "3.2",
+          "6": "4.2",
+          "7": "5.1"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 1,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 1,
+          "3.2": 2,
+          "3.3": 1,
+          "3.5": 3,
+          "3.6": 2,
+          "3.7": 1,
+          "4.1": 4,
+          "4.2": 6,
+          "4.3": 4,
+          "4.5": 6,
+          "4.6": 5,
+          "5.1": 8,
+          "5.2": 5,
+          "5.3": 5,
+          "5.5": 4,
+          "5.6": 4,
+          "5.7": 1,
+          "6.1": 6,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0,
+          "7.6": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 2,
+          "3.3": 2,
+          "3.5": 3,
+          "3.6": 3,
+          "3.7": 2,
+          "4.1": 4,
+          "4.2": 5,
+          "4.3": 3,
+          "4.5": 3,
+          "4.6": 2,
+          "5.1": 4,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 1,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0,
+          "7.6": 0
+        },
+        "level_rolling_gold": {
+          "8": 11,
+          "3": 0,
+          "9": 4,
+          "6": 12,
+          "4": 2,
+          "5": 18,
+          "7": 10,
+          "2": 0,
+          "10": 0,
+          "1": 0
+        }
+      }
+    },
+    {
+      "name": "DRX Bel'Veth Reroll",
+      "tier": "S",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.1381668946648427,
+        "avg_placement": 4.022076531977522,
+        "top_4_percent": 0.6039603960396039,
+        "top_1_percent": 0.10248862724110248
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Belveth",
+          "name": "Bel'Veth",
+          "name_es": "Bel'Veth",
+          "cost": 2,
+          "items": [
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_Quicksilver",
+            "TFT_Item_RunaansHurricane"
+          ]
+        },
+        {
+          "apiName": "TFT17_RekSai",
+          "name": "Rek'Sai",
+          "name_es": "Rek'Sai",
+          "cost": 1,
+          "items": [
+            "TFT_Item_FrozenHeart",
+            "TFT_Item_RedBuff",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT17_Kindred",
+          "name": "Kindred",
+          "name_es": "Kindred",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_RunaansHurricane"
+          ]
+        },
+        {
+          "apiName": "TFT17_Aatrox",
+          "name": "Aatrox",
+          "name_es": "Aatrox",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Akali",
+          "name": "Akali",
+          "name_es": "Akali",
+          "cost": 2,
+          "items": [
+            "TFT_Item_GuardianAngel",
+            "TFT_Item_PowerGauntlet",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Briar",
+          "name": "Briar",
+          "name_es": "Briar",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Maokai",
+          "name": "Maokai",
+          "name_es": "Maokai",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Caitlyn",
+          "name": "Caitlyn",
+          "name_es": "Caitlyn",
+          "cost": 1,
+          "items": []
+        }
+      ],
+      "strategy": {
+        "type": "roll_6",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.3",
+          "5": "3.2",
+          "6": "4.2",
+          "7": "5.1"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 1,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 3,
+          "3.3": 3,
+          "3.5": 4,
+          "3.6": 3,
+          "3.7": 2,
+          "4.1": 4,
+          "4.2": 6,
+          "4.3": 4,
+          "4.5": 6,
+          "4.6": 5,
+          "5.1": 8,
+          "5.2": 5,
+          "5.3": 5,
+          "5.5": 4,
+          "5.6": 4,
+          "5.7": 1,
+          "6.1": 6,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "1.2": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 1,
+          "3.2": 2,
+          "3.3": 2,
+          "3.5": 3,
+          "3.6": 3,
+          "3.7": 2,
+          "4.1": 4,
+          "4.2": 5,
+          "4.3": 4,
+          "4.5": 3,
+          "4.6": 3,
+          "5.1": 5,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "1.2": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "level_rolling_gold": {
+          "6": 20,
+          "3": 0,
+          "4": 1,
+          "5": 8,
+          "7": 13,
+          "8": 16,
+          "2": 0,
+          "9": 5,
+          "10": 0,
+          "1": 0
+        }
+      }
+    },
+    {
+      "name": "Mecha Urgot Reroll",
+      "tier": "S",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.20035493770103893,
+        "avg_placement": 4.284000738143569,
+        "top_4_percent": 0.5425355231592545,
+        "top_1_percent": 0.1412622255028603
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Maokai",
+          "name": "Maokai",
+          "name_es": "Maokai",
+          "cost": 3,
+          "items": [
+            "TFT_Item_FrozenHeart",
+            "TFT_Item_RedBuff",
+            "TFT_Item_SpectralGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT17_Urgot",
+          "name": "Urgot",
+          "name_es": "Urgot",
+          "cost": 3,
+          "items": [
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_Quicksilver"
+          ]
+        },
+        {
+          "apiName": "TFT17_Aurora",
+          "name": "Aurora",
+          "name_es": "Aurora",
+          "cost": 3,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT17_Akali",
+          "name": "Akali",
+          "name_es": "Akali",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Galio",
+          "name": "The Mighty Mech",
+          "name_es": "Megamecha",
+          "cost": 4,
+          "items": [
+            "TFT_Item_FrozenHeart",
+            "TFT_Item_RedBuff",
+            "TFT_Item_SpectralGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT17_Rhaast",
+          "name": "Rhaast",
+          "name_es": "Rhaast",
+          "cost": 3,
+          "items": []
+        }
+      ],
+      "strategy": {
+        "type": "roll_7",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.3",
+          "5": "2.7",
+          "6": "3.2",
+          "7": "3.5"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 1,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 6,
+          "3.3": 5,
+          "3.5": 8,
+          "3.6": 5,
+          "3.7": 3,
+          "4.1": 3,
+          "4.2": 3,
+          "4.3": 2,
+          "4.5": 2,
+          "4.6": 2,
+          "5.1": 3,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 1,
+          "6.1": 4,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "1.2": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 0,
+          "3.3": 0,
+          "3.5": 1,
+          "3.6": 1,
+          "3.7": 1,
+          "4.1": 3,
+          "4.2": 4,
+          "4.3": 4,
+          "4.5": 3,
+          "4.6": 3,
+          "5.1": 5,
+          "5.2": 3,
+          "5.3": 2,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "1.2": 0
+        },
+        "level_rolling_gold": {
+          "6": 3,
+          "4": 0,
+          "7": 30,
+          "2": 0,
+          "8": 11,
+          "9": 3,
+          "3": 0,
+          "5": 2,
+          "10": 0,
+          "1": 0
+        }
+      }
+    },
+    {
+      "name": "Astronaut Veigar Reroll",
+      "tier": "A",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.04719562243502052,
+        "avg_placement": 4.196631414022718,
+        "top_4_percent": 0.5530748139443792,
+        "top_1_percent": 0.13591852722287504
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Lissandra",
+          "name": "Lissandra",
+          "name_es": "Lissandra",
+          "cost": 1,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
         },
         {
           "apiName": "TFT17_Poppy",
           "name": "Poppy",
           "name_es": "Poppy",
           "cost": 1,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_RedBuff",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT17_Veigar",
+          "name": "Veigar",
+          "name_es": "Veigar",
+          "cost": 1,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan",
+            "TFT_Item_Leviathan"
+          ]
+        },
+        {
+          "apiName": "TFT17_Illaoi",
+          "name": "Illaoi",
+          "name_es": "Illaoi",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Mordekaiser",
+          "name": "Mordekaiser",
+          "name_es": "Mordekaiser",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Rammus",
+          "name": "Rammus",
+          "name_es": "Rammus",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_Redemption",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Corki",
+          "name": "Corki",
+          "name_es": "Corki",
+          "cost": 4,
           "items": []
         }
-      ]
+      ],
+      "strategy": {
+        "type": "roll_5",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.3",
+          "5": "3.2",
+          "6": "4.2",
+          "7": "4.5"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 1,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 1,
+          "3.2": 2,
+          "3.3": 2,
+          "3.5": 3,
+          "3.6": 3,
+          "3.7": 2,
+          "4.1": 5,
+          "4.2": 6,
+          "4.3": 4,
+          "4.5": 7,
+          "4.6": 5,
+          "5.1": 9,
+          "5.2": 5,
+          "5.3": 5,
+          "5.5": 4,
+          "5.6": 3,
+          "5.7": 1,
+          "6.1": 5,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "1.2": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": null,
+          "8.1": null
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 3,
+          "3.3": 3,
+          "3.5": 3,
+          "3.6": 3,
+          "3.7": 2,
+          "4.1": 3,
+          "4.2": 4,
+          "4.3": 3,
+          "4.5": 2,
+          "4.6": 2,
+          "5.1": 4,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 1,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "1.2": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "level_rolling_gold": {
+          "8": 13,
+          "5": 17,
+          "4": 2,
+          "7": 10,
+          "2": 0,
+          "3": 0,
+          "6": 11,
+          "9": 5,
+          "10": 0,
+          "1": 0
+        }
+      }
+    },
+    {
+      "name": "Stargazer_Shield Samira",
+      "tier": "A",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.06562650201501091,
+        "avg_placement": 4.145915492957746,
+        "top_4_percent": 0.5523943661971831,
+        "top_1_percent": 0.18535211267605634
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Ornn",
+          "name": "Ornn",
+          "name_es": "Ornn",
+          "cost": 3,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_Redemption",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Ornn",
+          "name": "Ornn",
+          "name_es": "Ornn",
+          "cost": 3,
+          "items": [
+            "TFT_Item_BrambleVest",
+            "TFT_Item_NightHarvester",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT17_Samira",
+          "name": "Samira",
+          "name_es": "Samira",
+          "cost": 3,
+          "items": [
+            "TFT_Item_LastWhisper",
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT17_Samira",
+          "name": "Samira",
+          "name_es": "Samira",
+          "cost": 3,
+          "items": [
+            "TFT_Item_Deathblade",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT17_Jax",
+          "name": "Jax",
+          "name_es": "Jax",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Nunu",
+          "name": "Nunu & Willump",
+          "name_es": "Nunu y Willump",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Xayah",
+          "name": "Xayah",
+          "name_es": "Xayah",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Blitzcrank",
+          "name": "Blitzcrank",
+          "name_es": "Blitzcrank",
+          "cost": 5,
+          "items": []
+        }
+      ],
+      "strategy": {
+        "type": "roll_7",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.3",
+          "5": "3.1",
+          "6": "3.2",
+          "7": "3.5"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 1,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 6,
+          "3.3": 5,
+          "3.5": 8,
+          "3.6": 6,
+          "3.7": 3,
+          "4.1": 4,
+          "4.2": 4,
+          "4.3": 2,
+          "4.5": 3,
+          "4.6": 2,
+          "5.1": 4,
+          "5.2": 3,
+          "5.3": 3,
+          "5.5": 3,
+          "5.6": 3,
+          "5.7": 1,
+          "6.1": 5,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 0,
+          "3.3": 0,
+          "3.5": 1,
+          "3.6": 2,
+          "3.7": 1,
+          "4.1": 4,
+          "4.2": 5,
+          "4.3": 4,
+          "4.5": 4,
+          "4.6": 3,
+          "5.1": 5,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 1,
+          "5.6": 1,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0
+        },
+        "level_rolling_gold": {
+          "5": 3,
+          "4": 0,
+          "3": 0,
+          "6": 4,
+          "9": 4,
+          "8": 11,
+          "7": 28,
+          "10": 0,
+          "2": 0
+        }
+      }
     },
     {
       "name": "DarkStar Jhin",
@@ -1127,10 +2287,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.03858627423629516,
-        "avg_placement": 4.388612742882964,
-        "top_4_percent": 0.5128784455490285,
-        "top_1_percent": 0.14324446452779033
+        "pick_rate": 0.04643768255259363,
+        "avg_placement": 4.420382165605096,
+        "top_4_percent": 0.5127388535031847,
+        "top_1_percent": 0.1373407643312102
       },
       "champions": [
         {
@@ -1212,7 +2372,109 @@
           "cost": 4,
           "items": []
         }
-      ]
+      ],
+      "strategy": {
+        "type": "standard",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.5",
+          "8": "4.2"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 5,
+          "3.3": 4,
+          "3.5": 7,
+          "3.6": 6,
+          "3.7": 4,
+          "4.1": 9,
+          "4.2": 10,
+          "4.3": 5,
+          "4.5": 7,
+          "4.6": 5,
+          "5.1": 7,
+          "5.2": 4,
+          "5.3": 4,
+          "5.5": 3,
+          "5.6": 2,
+          "5.7": 1,
+          "6.1": 3,
+          "6.2": 1,
+          "6.3": 0,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "1.2": 0,
+          "7.5": 0,
+          "7.6": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 1,
+          "3.3": 1,
+          "3.5": 1,
+          "3.6": 1,
+          "3.7": 0,
+          "4.1": 1,
+          "4.2": 3,
+          "4.3": 2,
+          "4.5": 2,
+          "4.6": 2,
+          "5.1": 4,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "1.2": 0,
+          "7.5": 0,
+          "7.6": 0
+        },
+        "level_rolling_gold": {
+          "9": 10,
+          "5": 3,
+          "2": 0,
+          "6": 5,
+          "4": 0,
+          "3": 0,
+          "8": 16,
+          "7": 8,
+          "10": 2,
+          "1": 0
+        }
+      }
     },
     {
       "name": "ShieldTank Leona Reroll",
@@ -1221,10 +2483,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.036703166410935975,
-        "avg_placement": 4.11353919239905,
-        "top_4_percent": 0.5838479809976247,
-        "top_1_percent": 0.11401425178147269
+        "pick_rate": 0.039301955854623434,
+        "avg_placement": 4.0884289746001885,
+        "top_4_percent": 0.5733772342427094,
+        "top_1_percent": 0.11994355597365945
       },
       "champions": [
         {
@@ -1255,8 +2517,8 @@
           "name_es": "Teemo",
           "cost": 1,
           "items": [
+            "TFT_Item_ArchangelsStaff",
             "TFT_Item_GuinsoosRageblade",
-            "TFT_Item_HextechGunblade",
             "TFT_Item_MadredsBloodrazor"
           ]
         },
@@ -1280,9 +2542,7 @@
           "name_es": "Nasus",
           "cost": 1,
           "items": [
-            "TFT_Item_Bloodthirster",
-            "TFT_Item_GuinsoosRageblade",
-            "TFT_Item_TitansResolve"
+            "TFT_Item_ThiefsGloves"
           ]
         },
         {
@@ -1306,7 +2566,297 @@
           "cost": 2,
           "items": []
         }
-      ]
+      ],
+      "strategy": {
+        "type": "roll_5",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.3",
+          "5": "3.2",
+          "6": "4.2",
+          "7": "4.5"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 1,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 1,
+          "3.2": 2,
+          "3.3": 2,
+          "3.5": 3,
+          "3.6": 3,
+          "3.7": 2,
+          "4.1": 5,
+          "4.2": 7,
+          "4.3": 5,
+          "4.5": 8,
+          "4.6": 6,
+          "5.1": 9,
+          "5.2": 5,
+          "5.3": 5,
+          "5.5": 5,
+          "5.6": 4,
+          "5.7": 1,
+          "6.1": 6,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0,
+          "1.2": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 3,
+          "3.3": 3,
+          "3.5": 3,
+          "3.6": 3,
+          "3.7": 2,
+          "4.1": 3,
+          "4.2": 4,
+          "4.3": 3,
+          "4.5": 2,
+          "4.6": 2,
+          "5.1": 4,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 1,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0,
+          "1.2": 0
+        },
+        "level_rolling_gold": {
+          "7": 9,
+          "5": 17,
+          "2": 0,
+          "8": 12,
+          "3": 0,
+          "9": 6,
+          "6": 9,
+          "4": 2,
+          "10": 0,
+          "1": 0
+        }
+      }
+    },
+    {
+      "name": "SpaceGroove Ornn",
+      "tier": "A",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.012237956150404851,
+        "avg_placement": 3.915407854984894,
+        "top_4_percent": 0.5936555891238671,
+        "top_1_percent": 0.2084592145015106
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Nami",
+          "name": "Nami",
+          "name_es": "Nami",
+          "cost": 4,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT17_Ornn",
+          "name": "Ornn",
+          "name_es": "Ornn",
+          "cost": 3,
+          "items": [
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_Redemption",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Samira",
+          "name": "Samira",
+          "name_es": "Samira",
+          "cost": 3,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_SpearOfShojin"
+          ]
+        },
+        {
+          "apiName": "TFT17_Blitzcrank",
+          "name": "Blitzcrank",
+          "name_es": "Blitzcrank",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Gwen",
+          "name": "Gwen",
+          "name_es": "Gwen",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Nasus",
+          "name": "Nasus",
+          "name_es": "Nasus",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Teemo",
+          "name": "Teemo",
+          "name_es": "Teemo",
+          "cost": 1,
+          "items": []
+        }
+      ],
+      "strategy": {
+        "type": "standard",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "4.2"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 4,
+          "3.3": 3,
+          "3.5": 6,
+          "3.6": 5,
+          "3.7": 3,
+          "4.1": 7,
+          "4.2": 8,
+          "4.3": 5,
+          "4.5": 6,
+          "4.6": 5,
+          "5.1": 7,
+          "5.2": 4,
+          "5.3": 4,
+          "5.5": 3,
+          "5.6": 3,
+          "5.7": 1,
+          "6.1": 4,
+          "6.2": 1,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "1.2": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 1,
+          "3.2": 1,
+          "3.3": 1,
+          "3.5": 1,
+          "3.6": 2,
+          "3.7": 1,
+          "4.1": 2,
+          "4.2": 3,
+          "4.3": 3,
+          "4.5": 3,
+          "4.6": 3,
+          "5.1": 5,
+          "5.2": 3,
+          "5.3": 3,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "1.2": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "level_rolling_gold": {
+          "4": 1,
+          "7": 17,
+          "2": 0,
+          "5": 5,
+          "6": 9,
+          "9": 7,
+          "8": 16,
+          "3": 0,
+          "10": 1,
+          "1": 0
+        }
+      }
     },
     {
       "name": "Astronaut Vex",
@@ -1315,21 +2865,21 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.04706025945041149,
-        "avg_placement": 4.013708781030011,
-        "top_4_percent": 0.580585402000741,
-        "top_1_percent": 0.1971100407558355
+        "pick_rate": 0.04274041483343809,
+        "avg_placement": 4.0592560553633215,
+        "top_4_percent": 0.5778546712802768,
+        "top_1_percent": 0.19463667820069205
       },
       "champions": [
         {
-          "apiName": "TFT17_Blitzcrank",
-          "name": "Blitzcrank",
-          "name_es": "Blitzcrank",
+          "apiName": "TFT17_Bard",
+          "name": "Bard",
+          "name_es": "Bardo",
           "cost": 5,
           "items": [
-            "TFT_Item_JeweledGauntlet",
-            "TFT_Item_RabadonsDeathcap",
-            "TFT_Item_UnstableConcoction"
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
           ]
         },
         {
@@ -1350,19 +2900,19 @@
           "cost": 5,
           "items": [
             "TFT_Item_GuinsoosRageblade",
-            "TFT_Item_MadredsBloodrazor",
-            "TFT_Item_StatikkShiv"
+            "TFT_Item_HextechGunblade",
+            "TFT_Item_MadredsBloodrazor"
           ]
         },
         {
-          "apiName": "TFT17_Bard",
-          "name": "Bard",
-          "name_es": "Bardo",
+          "apiName": "TFT17_Blitzcrank",
+          "name": "Blitzcrank",
+          "name_es": "Blitzcrank",
           "cost": 5,
           "items": [
-            "TFT_Item_Morellonomicon",
-            "TFT_Item_SpearOfShojin",
-            "TFT_Item_StatikkShiv"
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_RabadonsDeathcap",
+            "TFT_Item_UnstableConcoction"
           ]
         },
         {
@@ -1393,83 +2943,114 @@
           "cost": 3,
           "items": []
         }
-      ]
-    },
-    {
-      "name": "FlexTrait Rammus",
-      "tier": "A",
-      "playstyle": "",
-      "difficulty": "",
-      "patch": "16.8",
-      "stats": {
-        "pick_rate": 0.010217603570930395,
-        "avg_placement": 3.887372013651877,
-        "top_4_percent": 0.6416382252559727,
-        "top_1_percent": 0.12286689419795221
-      },
-      "champions": [
-        {
-          "apiName": "TFT17_Karma",
-          "name": "Karma",
-          "name_es": "Karma",
-          "cost": 4,
-          "items": [
-            "TFT_Item_JeweledGauntlet",
-            "TFT_Item_Leviathan",
-            "TFT_Item_StatikkShiv"
-          ]
+      ],
+      "strategy": {
+        "type": "fast_10",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.5",
+          "8": "4.2",
+          "9": "5.1"
         },
-        {
-          "apiName": "TFT17_Pyke",
-          "name": "Pyke",
-          "name_es": "Pyke",
-          "cost": 2,
-          "items": [
-            "TFT_Item_GuardianAngel",
-            "TFT_Item_InfinityEdge",
-            "TFT_Item_UnstableConcoction"
-          ]
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 3,
+          "3.2": 6,
+          "3.3": 5,
+          "3.5": 9,
+          "3.6": 7,
+          "3.7": 5,
+          "4.1": 11,
+          "4.2": 13,
+          "4.3": 7,
+          "4.5": 9,
+          "4.6": 6,
+          "5.1": 10,
+          "5.2": 4,
+          "5.3": 3,
+          "5.5": 2,
+          "5.6": 1,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 0,
+          "6.3": 0,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "1.2": 0,
+          "7.7": null,
+          "8.1": null
         },
-        {
-          "apiName": "TFT17_Rammus",
-          "name": "Rammus",
-          "name_es": "Rammus",
-          "cost": 4,
-          "items": [
-            "TFT_Item_Crownguard",
-            "TFT_Item_IonicSpark",
-            "TFT_Item_RedBuff"
-          ]
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 0,
+          "3.3": 0,
+          "3.5": 0,
+          "3.6": 0,
+          "3.7": 0,
+          "4.1": 1,
+          "4.2": 2,
+          "4.3": 2,
+          "4.5": 2,
+          "4.6": 2,
+          "5.1": 4,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "1.2": 0,
+          "7.7": 0,
+          "8.1": 0
         },
-        {
-          "apiName": "TFT17_Galio",
-          "name": "The Mighty Mech",
-          "name_es": "Megamecha",
-          "cost": 4,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Poppy",
-          "name": "Poppy",
-          "name_es": "Poppy",
-          "cost": 1,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Aurora",
-          "name": "Aurora",
-          "name_es": "Aurora",
-          "cost": 3,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Lissandra",
-          "name": "Lissandra",
-          "name_es": "Lissandra",
-          "cost": 1,
-          "items": []
+        "level_rolling_gold": {
+          "3": 0,
+          "4": 0,
+          "8": 9,
+          "10": 3,
+          "7": 5,
+          "6": 2,
+          "2": 0,
+          "9": 17,
+          "5": 1,
+          "1": 0
         }
-      ]
+      }
     },
     {
       "name": "DRX Vex",
@@ -1478,10 +3059,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.020592132793974056,
-        "avg_placement": 3.767146486028789,
-        "top_4_percent": 0.6215071972904318,
-        "top_1_percent": 0.25656223539373413
+        "pick_rate": 0.016914999815136614,
+        "avg_placement": 3.8109289617486337,
+        "top_4_percent": 0.6196721311475409,
+        "top_1_percent": 0.24918032786885247
       },
       "champions": [
         {
@@ -1563,7 +3144,114 @@
           "cost": 5,
           "items": []
         }
-      ]
+      ],
+      "strategy": {
+        "type": "fast_9",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.5",
+          "8": "4.2",
+          "9": "5.1"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 3,
+          "3.2": 6,
+          "3.3": 5,
+          "3.5": 9,
+          "3.6": 7,
+          "3.7": 6,
+          "4.1": 11,
+          "4.2": 13,
+          "4.3": 7,
+          "4.5": 9,
+          "4.6": 6,
+          "5.1": 9,
+          "5.2": 3,
+          "5.3": 3,
+          "5.5": 2,
+          "5.6": 1,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 0,
+          "6.3": 0,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": null,
+          "1.2": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 0,
+          "3.3": 0,
+          "3.5": 0,
+          "3.6": 0,
+          "3.7": 0,
+          "4.1": 1,
+          "4.2": 2,
+          "4.3": 2,
+          "4.5": 2,
+          "4.6": 2,
+          "5.1": 5,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 1,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0,
+          "1.2": 0
+        },
+        "level_rolling_gold": {
+          "4": 0,
+          "9": 16,
+          "6": 2,
+          "10": 2,
+          "8": 10,
+          "5": 1,
+          "3": 0,
+          "7": 4,
+          "2": 0,
+          "1": 0
+        }
+      }
     },
     {
       "name": "Primordian Bel'Veth Reroll",
@@ -1572,10 +3260,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.04113195703724369,
-        "avg_placement": 3.701568461212378,
-        "top_4_percent": 0.6617210682492581,
-        "top_1_percent": 0.15006358626536667
+        "pick_rate": 0.056568196103079824,
+        "avg_placement": 3.7330065359477125,
+        "top_4_percent": 0.6535947712418301,
+        "top_1_percent": 0.14738562091503268
       },
       "champions": [
         {
@@ -1619,17 +3307,17 @@
           "items": []
         },
         {
-          "apiName": "TFT17_Kaisa",
-          "name": "Kai'Sa",
-          "name_es": "Kai'Sa",
-          "cost": 3,
-          "items": []
-        },
-        {
           "apiName": "TFT17_Kindred",
           "name": "Kindred",
           "name_es": "Kindred",
           "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Rhaast",
+          "name": "Rhaast",
+          "name_es": "Rhaast",
+          "cost": 3,
           "items": []
         },
         {
@@ -1638,15 +3326,15 @@
           "name_es": "Jhin",
           "cost": 5,
           "items": [
-            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_Deathblade",
             "TFT_Item_InfinityEdge",
             "TFT_Item_MadredsBloodrazor"
           ]
         },
         {
-          "apiName": "TFT17_Rhaast",
-          "name": "Rhaast",
-          "name_es": "Rhaast",
+          "apiName": "TFT17_Kaisa",
+          "name": "Kai'Sa",
+          "name_es": "Kai'Sa",
           "cost": 3,
           "items": []
         },
@@ -1657,7 +3345,292 @@
           "cost": 4,
           "items": []
         }
-      ]
+      ],
+      "strategy": {
+        "type": "roll_5",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.3",
+          "5": "3.2",
+          "6": "4.2",
+          "7": "4.6"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 1,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 3,
+          "3.3": 2,
+          "3.5": 3,
+          "3.6": 3,
+          "3.7": 2,
+          "4.1": 5,
+          "4.2": 7,
+          "4.3": 5,
+          "4.5": 8,
+          "4.6": 6,
+          "5.1": 9,
+          "5.2": 6,
+          "5.3": 7,
+          "5.5": 6,
+          "5.6": 6,
+          "5.7": 2,
+          "6.1": 8,
+          "6.2": 3,
+          "6.3": 2,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 1,
+          "3.2": 2,
+          "3.3": 2,
+          "3.5": 3,
+          "3.6": 3,
+          "3.7": 2,
+          "4.1": 3,
+          "4.2": 4,
+          "4.3": 3,
+          "4.5": 2,
+          "4.6": 2,
+          "5.1": 4,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 2,
+          "6.3": 2,
+          "6.5": 1,
+          "6.6": 1,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "level_rolling_gold": {
+          "3": 0,
+          "7": 9,
+          "6": 13,
+          "2": 0,
+          "4": 1,
+          "9": 9,
+          "5": 12,
+          "8": 11,
+          "10": 1
+        }
+      }
+    },
+    {
+      "name": "AssassinTrait Kai'Sa Reroll",
+      "tier": "A",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.10058416829962658,
+        "avg_placement": 4.479691233229186,
+        "top_4_percent": 0.5030325307847822,
+        "top_1_percent": 0.10788458004043375
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Fizz",
+          "name": "Fizz",
+          "name_es": "Fizz",
+          "cost": 3,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Kaisa",
+          "name": "Kai'Sa",
+          "name_es": "Kai'Sa",
+          "cost": 3,
+          "items": [
+            "TFT_Item_BlueBuff",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_PowerGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT17_Ornn",
+          "name": "Ornn",
+          "name_es": "Ornn",
+          "cost": 3,
+          "items": [
+            "TFT_Item_RedBuff",
+            "TFT_Item_Redemption",
+            "TFT_Item_SpectralGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT17_Rammus",
+          "name": "Rammus",
+          "name_es": "Rammus",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Rhaast",
+          "name": "Rhaast",
+          "name_es": "Rhaast",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Karma",
+          "name": "Karma",
+          "name_es": "Karma",
+          "cost": 4,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Riven",
+          "name": "Riven",
+          "name_es": "Riven",
+          "cost": 4,
+          "items": []
+        }
+      ],
+      "strategy": {
+        "type": "roll_7",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.5"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 5,
+          "3.3": 5,
+          "3.5": 8,
+          "3.6": 5,
+          "3.7": 3,
+          "4.1": 4,
+          "4.2": 4,
+          "4.3": 2,
+          "4.5": 3,
+          "4.6": 2,
+          "5.1": 4,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 4,
+          "6.2": 1,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0,
+          "1.2": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 1,
+          "3.3": 1,
+          "3.5": 1,
+          "3.6": 1,
+          "3.7": 1,
+          "4.1": 2,
+          "4.2": 4,
+          "4.3": 3,
+          "4.5": 3,
+          "4.6": 3,
+          "5.1": 5,
+          "5.2": 3,
+          "5.3": 2,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0,
+          "1.2": 0
+        },
+        "level_rolling_gold": {
+          "7": 28,
+          "4": 0,
+          "9": 3,
+          "3": 0,
+          "8": 11,
+          "2": 0,
+          "6": 5,
+          "5": 3,
+          "10": 0,
+          "1": 0
+        }
+      }
     },
     {
       "name": "DRX Kindred",
@@ -1666,10 +3639,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.05980610963872228,
-        "avg_placement": 4.2673469387755105,
-        "top_4_percent": 0.5381924198250729,
-        "top_1_percent": 0.1358600583090379
+        "pick_rate": 0.05187266609975228,
+        "avg_placement": 4.284746970776907,
+        "top_4_percent": 0.5416963649322879,
+        "top_1_percent": 0.1307911617961511
       },
       "champions": [
         {
@@ -1751,7 +3724,113 @@
           "cost": 5,
           "items": []
         }
-      ]
+      ],
+      "strategy": {
+        "type": "fast_9",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.5",
+          "8": "4.2"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 5,
+          "3.3": 5,
+          "3.5": 8,
+          "3.6": 7,
+          "3.7": 5,
+          "4.1": 10,
+          "4.2": 12,
+          "4.3": 6,
+          "4.5": 6,
+          "4.6": 4,
+          "5.1": 8,
+          "5.2": 4,
+          "5.3": 4,
+          "5.5": 4,
+          "5.6": 3,
+          "5.7": 1,
+          "6.1": 4,
+          "6.2": 1,
+          "6.3": 0,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0,
+          "1.2": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 0,
+          "3.3": 0,
+          "3.5": 1,
+          "3.6": 1,
+          "3.7": 0,
+          "4.1": 1,
+          "4.2": 3,
+          "4.3": 2,
+          "4.5": 2,
+          "4.6": 3,
+          "5.1": 4,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 2,
+          "6.3": 2,
+          "6.5": 1,
+          "6.6": 1,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0,
+          "1.2": 0
+        },
+        "level_rolling_gold": {
+          "4": 0,
+          "2": 0,
+          "8": 17,
+          "5": 2,
+          "7": 8,
+          "3": 0,
+          "9": 12,
+          "6": 4,
+          "10": 2,
+          "1": 0
+        }
+      }
     },
     {
       "name": "Timebreaker Pyke Reroll",
@@ -1760,10 +3839,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.02080136699679174,
-        "avg_placement": 4.414082145850796,
-        "top_4_percent": 0.5356244761106455,
-        "top_1_percent": 0.0586756077116513
+        "pick_rate": 0.020871076274633048,
+        "avg_placement": 4.299379982285208,
+        "top_4_percent": 0.5580159433126661,
+        "top_1_percent": 0.06997342781222321
       },
       "champions": [
         {
@@ -1783,9 +3862,9 @@
           "name_es": "Pantheon",
           "cost": 2,
           "items": [
-            "TFT_Item_DragonsClaw",
-            "TFT_Item_NightHarvester",
-            "TFT_Item_RedBuff"
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_RedBuff",
+            "TFT_Item_WarmogsArmor"
           ]
         },
         {
@@ -1831,7 +3910,296 @@
           "cost": 4,
           "items": []
         }
-      ]
+      ],
+      "strategy": {
+        "type": "roll_6",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "5.1"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 1,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 5,
+          "3.3": 3,
+          "3.5": 3,
+          "3.6": 2,
+          "3.7": 1,
+          "4.1": 3,
+          "4.2": 4,
+          "4.3": 2,
+          "4.5": 3,
+          "4.6": 3,
+          "5.1": 4,
+          "5.2": 3,
+          "5.3": 3,
+          "5.5": 3,
+          "5.6": 3,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 1,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": null,
+          "1.2": 0,
+          "7.6": null
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 1,
+          "3.3": 1,
+          "3.5": 1,
+          "3.6": 2,
+          "3.7": 1,
+          "4.1": 3,
+          "4.2": 4,
+          "4.3": 3,
+          "4.5": 3,
+          "4.6": 3,
+          "5.1": 4,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 1,
+          "5.6": 1,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0,
+          "7.6": 0
+        },
+        "level_rolling_gold": {
+          "5": 3,
+          "8": 9,
+          "2": 0,
+          "3": 0,
+          "6": 20,
+          "7": 10,
+          "9": 4,
+          "4": 0,
+          "10": 0
+        }
+      }
+    },
+    {
+      "name": "Astronaut Corki",
+      "tier": "B",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.04359078640884386,
+        "avg_placement": 4.511026293469041,
+        "top_4_percent": 0.4770992366412214,
+        "top_1_percent": 0.13782866836301952
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Corki",
+          "name": "Corki",
+          "name_es": "Corki",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Deathblade",
+            "TFT_Item_LastWhisper",
+            "TFT_Item_PowerGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT17_Rammus",
+          "name": "Rammus",
+          "name_es": "Rammus",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Crownguard",
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_RedBuff"
+          ]
+        },
+        {
+          "apiName": "TFT17_Riven",
+          "name": "Riven",
+          "name_es": "Riven",
+          "cost": 4,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT17_Fizz",
+          "name": "Fizz",
+          "name_es": "Fizz",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Milio",
+          "name": "Milio",
+          "name_es": "Milio",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Bard",
+          "name": "Bard",
+          "name_es": "Bardo",
+          "cost": 5,
+          "items": [
+            "TFT_Item_Morellonomicon",
+            "TFT_Item_SpearOfShojin",
+            "TFT_Item_StatikkShiv"
+          ]
+        },
+        {
+          "apiName": "TFT17_Gnar",
+          "name": "Gnar",
+          "name_es": "Gnar",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Poppy",
+          "name": "Poppy",
+          "name_es": "Poppy",
+          "cost": 1,
+          "items": []
+        }
+      ],
+      "strategy": {
+        "type": "fast_9",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.5",
+          "8": "4.2"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 5,
+          "3.3": 4,
+          "3.5": 8,
+          "3.6": 6,
+          "3.7": 5,
+          "4.1": 10,
+          "4.2": 11,
+          "4.3": 5,
+          "4.5": 6,
+          "4.6": 4,
+          "5.1": 8,
+          "5.2": 5,
+          "5.3": 4,
+          "5.5": 4,
+          "5.6": 3,
+          "5.7": 1,
+          "6.1": 4,
+          "6.2": 1,
+          "6.3": 0,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0,
+          "7.6": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 0,
+          "3.3": 0,
+          "3.5": 1,
+          "3.6": 1,
+          "3.7": 0,
+          "4.1": 1,
+          "4.2": 3,
+          "4.3": 2,
+          "4.5": 2,
+          "4.6": 2,
+          "5.1": 4,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 2,
+          "6.3": 2,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0,
+          "7.6": 0
+        },
+        "level_rolling_gold": {
+          "3": 0,
+          "5": 2,
+          "2": 0,
+          "8": 15,
+          "7": 6,
+          "4": 0,
+          "9": 12,
+          "10": 2,
+          "6": 4,
+          "1": 0
+        }
+      }
     },
     {
       "name": "Astronaut Rammus",
@@ -1840,10 +4208,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.015448458641372577,
-        "avg_placement": 4.374717832957111,
-        "top_4_percent": 0.4966139954853273,
-        "top_1_percent": 0.17607223476297967
+        "pick_rate": 0.016341923318667503,
+        "avg_placement": 4.567873303167421,
+        "top_4_percent": 0.4649321266968326,
+        "top_1_percent": 0.13687782805429866
       },
       "champions": [
         {
@@ -1884,7 +4252,11 @@
           "name": "Bard",
           "name_es": "Bardo",
           "cost": 5,
-          "items": []
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan",
+            "TFT_Item_SpearOfShojin"
+          ]
         },
         {
           "apiName": "TFT17_Fizz",
@@ -1901,93 +4273,120 @@
           "items": []
         },
         {
+          "apiName": "TFT17_Galio",
+          "name": "The Mighty Mech",
+          "name_es": "Megamecha",
+          "cost": 4,
+          "items": []
+        },
+        {
           "apiName": "TFT17_Nami",
           "name": "Nami",
           "name_es": "Nami",
           "cost": 4,
           "items": []
         }
-      ]
-    },
-    {
-      "name": "SpaceGroove Ornn",
-      "tier": "B",
-      "playstyle": "",
-      "difficulty": "",
-      "patch": "16.8",
-      "stats": {
-        "pick_rate": 0.01210071139628958,
-        "avg_placement": 4.083573487031701,
-        "top_4_percent": 0.5706051873198847,
-        "top_1_percent": 0.1628242074927954
-      },
-      "champions": [
-        {
-          "apiName": "TFT17_Nami",
-          "name": "Nami",
-          "name_es": "Nami",
-          "cost": 4,
-          "items": [
-            "TFT_Item_JeweledGauntlet",
-            "TFT_Item_Leviathan",
-            "TFT_Item_SpearOfShojin"
-          ]
+      ],
+      "strategy": {
+        "type": "standard",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.5",
+          "8": "4.2"
         },
-        {
-          "apiName": "TFT17_Ornn",
-          "name": "Ornn",
-          "name_es": "Ornn",
-          "cost": 3,
-          "items": [
-            "TFT_Item_GargoyleStoneplate",
-            "TFT_Item_Redemption",
-            "TFT_Item_WarmogsArmor"
-          ]
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 1,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 4,
+          "3.3": 4,
+          "3.5": 7,
+          "3.6": 6,
+          "3.7": 4,
+          "4.1": 9,
+          "4.2": 11,
+          "4.3": 6,
+          "4.5": 7,
+          "4.6": 5,
+          "5.1": 8,
+          "5.2": 4,
+          "5.3": 5,
+          "5.5": 4,
+          "5.6": 4,
+          "5.7": 1,
+          "6.1": 4,
+          "6.2": 1,
+          "6.3": 0,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0
         },
-        {
-          "apiName": "TFT17_Samira",
-          "name": "Samira",
-          "name_es": "Samira",
-          "cost": 3,
-          "items": [
-            "TFT_Item_GuinsoosRageblade",
-            "TFT_Item_InfinityEdge",
-            "TFT_Item_SpearOfShojin"
-          ]
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 1,
+          "3.3": 1,
+          "3.5": 1,
+          "3.6": 1,
+          "3.7": 1,
+          "4.1": 2,
+          "4.2": 3,
+          "4.3": 2,
+          "4.5": 2,
+          "4.6": 3,
+          "5.1": 5,
+          "5.2": 2,
+          "5.3": 3,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 1,
+          "6.1": 3,
+          "6.2": 3,
+          "6.3": 2,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0
         },
-        {
-          "apiName": "TFT17_Blitzcrank",
-          "name": "Blitzcrank",
-          "name_es": "Blitzcrank",
-          "cost": 5,
-          "items": [
-            "TFT_Item_Bloodthirster",
-            "TFT_Item_JeweledGauntlet",
-            "TFT_Item_UnstableConcoction"
-          ]
-        },
-        {
-          "apiName": "TFT17_Gwen",
-          "name": "Gwen",
-          "name_es": "Gwen",
-          "cost": 2,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Nasus",
-          "name": "Nasus",
-          "name_es": "Nasus",
-          "cost": 1,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Teemo",
-          "name": "Teemo",
-          "name_es": "Teemo",
-          "cost": 1,
-          "items": []
+        "level_rolling_gold": {
+          "6": 6,
+          "7": 9,
+          "9": 11,
+          "2": 0,
+          "5": 4,
+          "4": 0,
+          "8": 19,
+          "3": 0,
+          "10": 1,
+          "1": 0
         }
-      ]
+      }
     },
     {
       "name": "ShieldTank Nunu & Willump",
@@ -1996,10 +4395,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.011420700237132096,
-        "avg_placement": 4.021374045801527,
-        "top_4_percent": 0.5526717557251909,
-        "top_1_percent": 0.26564885496183205
+        "pick_rate": 0.012053092764447073,
+        "avg_placement": 4.325153374233129,
+        "top_4_percent": 0.5153374233128835,
+        "top_1_percent": 0.2147239263803681
       },
       "champions": [
         {
@@ -2050,37 +4449,133 @@
           "items": []
         },
         {
-          "apiName": "TFT17_Blitzcrank",
-          "name": "Blitzcrank",
-          "name_es": "Blitzcrank",
-          "cost": 5,
-          "items": [
-            "TFT_Item_JeweledGauntlet",
-            "TFT_Item_UnstableConcoction"
-          ]
-        },
-        {
-          "apiName": "TFT17_Nasus",
-          "name": "Nasus",
-          "name_es": "Nasus",
-          "cost": 1,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Samira",
-          "name": "Samira",
-          "name_es": "Samira",
-          "cost": 3,
-          "items": []
-        },
-        {
           "apiName": "TFT17_Shen",
           "name": "Shen",
           "name_es": "Shen",
           "cost": 5,
           "items": []
+        },
+        {
+          "apiName": "TFT17_Blitzcrank",
+          "name": "Blitzcrank",
+          "name_es": "Blitzcrank",
+          "cost": 5,
+          "items": [
+            "TFT17_Item_StargazerEmblemItem",
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Illaoi",
+          "name": "Illaoi",
+          "name_es": "Illaoi",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Morgana",
+          "name": "Morgana",
+          "name_es": "Morgana",
+          "cost": 5,
+          "items": []
         }
-      ]
+      ],
+      "strategy": {
+        "type": "fast_9",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.6",
+          "8": "4.2"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 3,
+          "3.2": 5,
+          "3.3": 5,
+          "3.5": 8,
+          "3.6": 7,
+          "3.7": 6,
+          "4.1": 11,
+          "4.2": 12,
+          "4.3": 5,
+          "4.5": 6,
+          "4.6": 4,
+          "5.1": 6,
+          "5.2": 4,
+          "5.3": 3,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 1,
+          "6.3": 0,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 0,
+          "3.3": 0,
+          "3.5": 0,
+          "3.6": 1,
+          "3.7": 0,
+          "4.1": 1,
+          "4.2": 3,
+          "4.3": 3,
+          "4.5": 2,
+          "4.6": 3,
+          "5.1": 5,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 1,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 1,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0
+        },
+        "level_rolling_gold": {
+          "9": 10,
+          "3": 0,
+          "6": 3,
+          "8": 17,
+          "5": 2,
+          "7": 5,
+          "2": 0,
+          "4": 0,
+          "10": 1
+        }
+      }
     },
     {
       "name": "DarkStar Karma",
@@ -2089,10 +4584,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.01640744873762031,
-        "avg_placement": 4.4867162592986185,
-        "top_4_percent": 0.4824654622741764,
-        "top_1_percent": 0.12114771519659936
+        "pick_rate": 0.02061226753429216,
+        "avg_placement": 4.420627802690583,
+        "top_4_percent": 0.5031390134529148,
+        "top_1_percent": 0.12376681614349776
       },
       "champions": [
         {
@@ -2174,7 +4669,113 @@
             "TFT_Item_WarmogsArmor"
           ]
         }
-      ]
+      ],
+      "strategy": {
+        "type": "standard",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.6",
+          "8": "4.2"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 4,
+          "3.3": 4,
+          "3.5": 6,
+          "3.6": 5,
+          "3.7": 4,
+          "4.1": 8,
+          "4.2": 10,
+          "4.3": 5,
+          "4.5": 7,
+          "4.6": 5,
+          "5.1": 8,
+          "5.2": 4,
+          "5.3": 4,
+          "5.5": 3,
+          "5.6": 2,
+          "5.7": 1,
+          "6.1": 3,
+          "6.2": 1,
+          "6.3": 0,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 1,
+          "3.3": 1,
+          "3.5": 1,
+          "3.6": 2,
+          "3.7": 1,
+          "4.1": 2,
+          "4.2": 3,
+          "4.3": 3,
+          "4.5": 3,
+          "4.6": 3,
+          "5.1": 5,
+          "5.2": 3,
+          "5.3": 3,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 2,
+          "6.3": 2,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "level_rolling_gold": {
+          "8": 17,
+          "2": 0,
+          "3": 0,
+          "6": 8,
+          "7": 12,
+          "5": 4,
+          "4": 1,
+          "10": 1,
+          "9": 9,
+          "1": 0
+        }
+      }
     },
     {
       "name": "SummonTrait LeBlanc",
@@ -2183,10 +4784,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.014472032361556702,
-        "avg_placement": 4.0927710843373495,
-        "top_4_percent": 0.5831325301204819,
-        "top_1_percent": 0.1180722891566265
+        "pick_rate": 0.014308426073131956,
+        "avg_placement": 4.198966408268734,
+        "top_4_percent": 0.5658914728682171,
+        "top_1_percent": 0.10077519379844961
       },
       "champions": [
         {
@@ -2223,24 +4824,10 @@
           ]
         },
         {
-          "apiName": "TFT17_Leona",
-          "name": "Leona",
-          "name_es": "Leona",
-          "cost": 1,
-          "items": []
-        },
-        {
           "apiName": "TFT17_Lissandra",
           "name": "Lissandra",
           "name_es": "Lissandra",
           "cost": 1,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Sona",
-          "name": "Sona",
-          "name_es": "Sona",
-          "cost": 5,
           "items": []
         },
         {
@@ -2255,13 +4842,127 @@
           ]
         },
         {
+          "apiName": "TFT17_Leona",
+          "name": "Leona",
+          "name_es": "Leona",
+          "cost": 1,
+          "items": []
+        },
+        {
           "apiName": "TFT17_Morgana",
           "name": "Morgana",
           "name_es": "Morgana",
           "cost": 5,
           "items": []
+        },
+        {
+          "apiName": "TFT17_Sona",
+          "name": "Sona",
+          "name_es": "Sona",
+          "cost": 5,
+          "items": []
         }
-      ]
+      ],
+      "strategy": {
+        "type": "standard",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.5",
+          "8": "4.2"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 1,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 5,
+          "3.3": 4,
+          "3.5": 7,
+          "3.6": 6,
+          "3.7": 5,
+          "4.1": 9,
+          "4.2": 10,
+          "4.3": 5,
+          "4.5": 6,
+          "4.6": 4,
+          "5.1": 8,
+          "5.2": 4,
+          "5.3": 4,
+          "5.5": 4,
+          "5.6": 3,
+          "5.7": 1,
+          "6.1": 4,
+          "6.2": 1,
+          "6.3": 0,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": null,
+          "1.2": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 1,
+          "3.3": 1,
+          "3.5": 1,
+          "3.6": 1,
+          "3.7": 1,
+          "4.1": 1,
+          "4.2": 3,
+          "4.3": 3,
+          "4.5": 2,
+          "4.6": 3,
+          "5.1": 5,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0
+        },
+        "level_rolling_gold": {
+          "2": 0,
+          "4": 0,
+          "6": 6,
+          "3": 0,
+          "7": 9,
+          "8": 15,
+          "9": 10,
+          "5": 4,
+          "10": 1,
+          "1": 0
+        }
+      }
     },
     {
       "name": "SummonTrait LeBlanc",
@@ -2270,10 +4971,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.016215650718370764,
-        "avg_placement": 4.360215053763441,
-        "top_4_percent": 0.5290322580645161,
-        "top_1_percent": 0.1086021505376344
+        "pick_rate": 0.014715125522239065,
+        "avg_placement": 4.300251256281407,
+        "top_4_percent": 0.5452261306532663,
+        "top_1_percent": 0.11934673366834171
       },
       "champions": [
         {
@@ -2348,7 +5049,472 @@
           "cost": 2,
           "items": []
         }
-      ]
+      ],
+      "strategy": {
+        "type": "standard",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.5",
+          "8": "4.2"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 1,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 4,
+          "3.3": 4,
+          "3.5": 6,
+          "3.6": 5,
+          "3.7": 4,
+          "4.1": 9,
+          "4.2": 9,
+          "4.3": 6,
+          "4.5": 7,
+          "4.6": 5,
+          "5.1": 7,
+          "5.2": 4,
+          "5.3": 4,
+          "5.5": 4,
+          "5.6": 3,
+          "5.7": 1,
+          "6.1": 5,
+          "6.2": 1,
+          "6.3": 0,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "1.2": 0,
+          "7.3": 0,
+          "7.5": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 1,
+          "3.3": 1,
+          "3.5": 1,
+          "3.6": 2,
+          "3.7": 1,
+          "4.1": 2,
+          "4.2": 3,
+          "4.3": 3,
+          "4.5": 3,
+          "4.6": 3,
+          "5.1": 5,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 1,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "1.2": 0,
+          "7.3": 0,
+          "7.5": 0
+        },
+        "level_rolling_gold": {
+          "2": 0,
+          "4": 1,
+          "6": 8,
+          "3": 0,
+          "9": 8,
+          "8": 15,
+          "5": 5,
+          "7": 10,
+          "10": 1,
+          "1": 0
+        }
+      }
+    },
+    {
+      "name": "AssassinTrait Kai'Sa Reroll",
+      "tier": "B",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.012921950678448627,
+        "avg_placement": 4.513590844062947,
+        "top_4_percent": 0.5050071530758226,
+        "top_1_percent": 0.09728183118741059
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Fizz",
+          "name": "Fizz",
+          "name_es": "Fizz",
+          "cost": 3,
+          "items": [
+            "TFT_Item_JeweledGauntlet",
+            "TFT_Item_Leviathan",
+            "TFT_Item_UnstableConcoction"
+          ]
+        },
+        {
+          "apiName": "TFT17_Kaisa",
+          "name": "Kai'Sa",
+          "name_es": "Kai'Sa",
+          "cost": 3,
+          "items": [
+            "TFT_Item_Deathblade",
+            "TFT_Item_InfinityEdge",
+            "TFT_Item_PowerGauntlet"
+          ]
+        },
+        {
+          "apiName": "TFT17_Ornn",
+          "name": "Ornn",
+          "name_es": "Ornn",
+          "cost": 3,
+          "items": [
+            "TFT_Item_DragonsClaw",
+            "TFT_Item_GargoyleStoneplate",
+            "TFT_Item_WarmogsArmor"
+          ]
+        },
+        {
+          "apiName": "TFT17_Aatrox",
+          "name": "Aatrox",
+          "name_es": "Aatrox",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Chogath",
+          "name": "Cho'Gath",
+          "name_es": "Cho'Gath",
+          "cost": 1,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Maokai",
+          "name": "Maokai",
+          "name_es": "Maokai",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Rhaast",
+          "name": "Rhaast",
+          "name_es": "Rhaast",
+          "cost": 3,
+          "items": []
+        }
+      ],
+      "strategy": {
+        "type": "roll_7",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.3",
+          "5": "3.1",
+          "6": "3.2",
+          "7": "3.5"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 1,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 3,
+          "3.2": 5,
+          "3.3": 5,
+          "3.5": 7,
+          "3.6": 5,
+          "3.7": 3,
+          "4.1": 4,
+          "4.2": 4,
+          "4.3": 2,
+          "4.5": 2,
+          "4.6": 1,
+          "5.1": 3,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 4,
+          "6.2": 1,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 1,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0,
+          "7.6": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 0,
+          "3.3": 0,
+          "3.5": 1,
+          "3.6": 1,
+          "3.7": 1,
+          "4.1": 2,
+          "4.2": 4,
+          "4.3": 3,
+          "4.5": 3,
+          "4.6": 3,
+          "5.1": 5,
+          "5.2": 3,
+          "5.3": 3,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0,
+          "7.6": 0
+        },
+        "level_rolling_gold": {
+          "5": 3,
+          "2": 0,
+          "6": 5,
+          "8": 8,
+          "3": 0,
+          "4": 0,
+          "7": 30,
+          "9": 2,
+          "10": 0
+        }
+      }
+    },
+    {
+      "name": "Primordian Bel'Veth Reroll",
+      "tier": "B",
+      "playstyle": "",
+      "difficulty": "",
+      "patch": "16.8",
+      "stats": {
+        "pick_rate": 0.03236957888120679,
+        "avg_placement": 4.514563106796117,
+        "top_4_percent": 0.5094231867504283,
+        "top_1_percent": 0.09594517418617933
+      },
+      "champions": [
+        {
+          "apiName": "TFT17_Akali",
+          "name": "Akali",
+          "name_es": "Akali",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Belveth",
+          "name": "Bel'Veth",
+          "name_es": "Bel'Veth",
+          "cost": 2,
+          "items": [
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_Quicksilver",
+            "TFT_Item_RunaansHurricane"
+          ]
+        },
+        {
+          "apiName": "TFT17_RekSai",
+          "name": "Rek'Sai",
+          "name_es": "Rek'Sai",
+          "cost": 1,
+          "items": [
+            "TFT_Item_FrozenHeart",
+            "TFT_Item_RedBuff",
+            "TFT_Item_Redemption"
+          ]
+        },
+        {
+          "apiName": "TFT17_Briar",
+          "name": "Briar",
+          "name_es": "Briar",
+          "cost": 1,
+          "items": [
+            "TFT_Item_Bloodthirster",
+            "TFT_Item_SteraksGage",
+            "TFT_Item_TitansResolve"
+          ]
+        },
+        {
+          "apiName": "TFT17_Kindred",
+          "name": "Kindred",
+          "name_es": "Kindred",
+          "cost": 4,
+          "items": [
+            "TFT_Item_GuinsoosRageblade",
+            "TFT_Item_MadredsBloodrazor",
+            "TFT_Item_RunaansHurricane"
+          ]
+        },
+        {
+          "apiName": "TFT17_Maokai",
+          "name": "Maokai",
+          "name_es": "Maokai",
+          "cost": 3,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Gwen",
+          "name": "Gwen",
+          "name_es": "Gwen",
+          "cost": 2,
+          "items": []
+        },
+        {
+          "apiName": "TFT17_Rhaast",
+          "name": "Rhaast",
+          "name_es": "Rhaast",
+          "cost": 3,
+          "items": []
+        }
+      ],
+      "strategy": {
+        "type": "roll_6",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "5.1"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 1,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 1,
+          "3.2": 3,
+          "3.3": 2,
+          "3.5": 3,
+          "3.6": 2,
+          "3.7": 1,
+          "4.1": 3,
+          "4.2": 4,
+          "4.3": 3,
+          "4.5": 4,
+          "4.6": 3,
+          "5.1": 6,
+          "5.2": 4,
+          "5.3": 4,
+          "5.5": 3,
+          "5.6": 2,
+          "5.7": 1,
+          "6.1": 4,
+          "6.2": 1,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 1,
+          "3.2": 2,
+          "3.3": 2,
+          "3.5": 3,
+          "3.6": 4,
+          "3.7": 2,
+          "4.1": 4,
+          "4.2": 6,
+          "4.3": 5,
+          "4.5": 4,
+          "4.6": 4,
+          "5.1": 5,
+          "5.2": 2,
+          "5.3": 1,
+          "5.5": 1,
+          "5.6": 1,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 1,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "level_rolling_gold": {
+          "4": 1,
+          "3": 0,
+          "8": 8,
+          "2": 0,
+          "5": 11,
+          "7": 8,
+          "6": 28,
+          "9": 3,
+          "10": 0
+        }
+      }
     },
     {
       "name": "ShieldTank Xayah",
@@ -2357,10 +5523,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.01841260984795648,
-        "avg_placement": 4.393939393939394,
-        "top_4_percent": 0.521780303030303,
-        "top_1_percent": 0.14678030303030304
+        "pick_rate": 0.018782120013310165,
+        "avg_placement": 4.3297244094488185,
+        "top_4_percent": 0.5275590551181102,
+        "top_1_percent": 0.15059055118110237
       },
       "champions": [
         {
@@ -2369,7 +5535,7 @@
           "name_es": "Nunu y Willump",
           "cost": 4,
           "items": [
-            "TFT_Item_BrambleVest",
+            "TFT_Item_FrozenHeart",
             "TFT_Item_RedBuff",
             "TFT_Item_Redemption"
           ]
@@ -2444,83 +5610,108 @@
             "TFT17_Item_StargazerEmblemItem"
           ]
         }
-      ]
-    },
-    {
-      "name": "AssassinTrait Kai'Sa Reroll",
-      "tier": "B",
-      "playstyle": "",
-      "difficulty": "",
-      "patch": "16.8",
-      "stats": {
-        "pick_rate": 0.1043032501046171,
-        "avg_placement": 4.500835840855901,
-        "top_4_percent": 0.49632230023403545,
-        "top_1_percent": 0.09896355733868271
-      },
-      "champions": [
-        {
-          "apiName": "TFT17_Fizz",
-          "name": "Fizz",
-          "name_es": "Fizz",
-          "cost": 3,
-          "items": [
-            "TFT_Item_JeweledGauntlet",
-            "TFT_Item_Leviathan",
-            "TFT_Item_UnstableConcoction"
-          ]
+      ],
+      "strategy": {
+        "type": "standard",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.5",
+          "8": "4.2"
         },
-        {
-          "apiName": "TFT17_Kaisa",
-          "name": "Kai'Sa",
-          "name_es": "Kai'Sa",
-          "cost": 3,
-          "items": [
-            "TFT_Item_BlueBuff",
-            "TFT_Item_InfinityEdge",
-            "TFT_Item_PowerGauntlet"
-          ]
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 6,
+          "3.3": 5,
+          "3.5": 8,
+          "3.6": 7,
+          "3.7": 5,
+          "4.1": 10,
+          "4.2": 11,
+          "4.3": 6,
+          "4.5": 6,
+          "4.6": 4,
+          "5.1": 7,
+          "5.2": 4,
+          "5.3": 3,
+          "5.5": 3,
+          "5.6": 2,
+          "5.7": 1,
+          "6.1": 4,
+          "6.2": 1,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "1.2": 0,
+          "7.5": 0,
+          "7.6": 0
         },
-        {
-          "apiName": "TFT17_Ornn",
-          "name": "Ornn",
-          "name_es": "Ornn",
-          "cost": 3,
-          "items": [
-            "TFT_Item_RedBuff",
-            "TFT_Item_Redemption",
-            "TFT_Item_SpectralGauntlet"
-          ]
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 0,
+          "3.3": 0,
+          "3.5": 1,
+          "3.6": 1,
+          "3.7": 0,
+          "4.1": 1,
+          "4.2": 3,
+          "4.3": 3,
+          "4.5": 2,
+          "4.6": 3,
+          "5.1": 4,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 1,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "1.2": 0,
+          "7.5": 0,
+          "7.6": 0
         },
-        {
-          "apiName": "TFT17_Rammus",
-          "name": "Rammus",
-          "name_es": "Rammus",
-          "cost": 4,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Rhaast",
-          "name": "Rhaast",
-          "name_es": "Rhaast",
-          "cost": 3,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Karma",
-          "name": "Karma",
-          "name_es": "Karma",
-          "cost": 4,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Riven",
-          "name": "Riven",
-          "name_es": "Riven",
-          "cost": 4,
-          "items": []
+        "level_rolling_gold": {
+          "5": 2,
+          "8": 18,
+          "2": 0,
+          "7": 7,
+          "4": 0,
+          "3": 0,
+          "9": 10,
+          "6": 4,
+          "10": 1
         }
-      ]
+      }
     },
     {
       "name": "Astronaut Rammus",
@@ -2529,10 +5720,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.010444273957316223,
-        "avg_placement": 4.367278797996661,
-        "top_4_percent": 0.5175292153589316,
-        "top_1_percent": 0.17696160267111852
+        "pick_rate": 0.010611158353976411,
+        "avg_placement": 4.2073170731707314,
+        "top_4_percent": 0.5226480836236934,
+        "top_1_percent": 0.20905923344947736
       },
       "champions": [
         {
@@ -2600,7 +5791,109 @@
             "TFT_Item_TitansResolve"
           ]
         }
-      ]
+      ],
+      "strategy": {
+        "type": "standard",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.5",
+          "8": "4.2"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 5,
+          "3.3": 4,
+          "3.5": 7,
+          "3.6": 6,
+          "3.7": 4,
+          "4.1": 9,
+          "4.2": 10,
+          "4.3": 6,
+          "4.5": 7,
+          "5.1": 8,
+          "5.2": 4,
+          "5.3": 4,
+          "4.6": 5,
+          "5.5": 3,
+          "5.6": 3,
+          "5.7": 1,
+          "6.1": 3,
+          "6.2": 1,
+          "6.3": 0,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "1.2": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 1,
+          "3.3": 1,
+          "3.5": 1,
+          "3.6": 1,
+          "3.7": 0,
+          "4.1": 1,
+          "4.2": 3,
+          "4.3": 2,
+          "4.5": 2,
+          "5.1": 5,
+          "5.2": 3,
+          "5.3": 3,
+          "4.6": 3,
+          "5.5": 2,
+          "5.6": 3,
+          "5.7": 1,
+          "6.1": 3,
+          "6.2": 2,
+          "6.3": 2,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "1.2": 0
+        },
+        "level_rolling_gold": {
+          "6": 5,
+          "4": 0,
+          "8": 20,
+          "3": 0,
+          "2": 0,
+          "7": 9,
+          "9": 10,
+          "5": 2,
+          "10": 1,
+          "1": 0
+        }
+      }
     },
     {
       "name": "SummonTrait Nami",
@@ -2609,10 +5902,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.016791044776119403,
-        "avg_placement": 4.674974039460021,
-        "top_4_percent": 0.4797507788161994,
-        "top_1_percent": 0.060228452751817235
+        "pick_rate": 0.01532517469589973,
+        "avg_placement": 4.606755126658625,
+        "top_4_percent": 0.49939686369119424,
+        "top_1_percent": 0.05910735826296743
       },
       "champions": [
         {
@@ -2680,7 +5973,102 @@
           "cost": 3,
           "items": []
         }
-      ]
+      ],
+      "strategy": {
+        "type": "fast_9",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.6",
+          "8": "4.2"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 5,
+          "3.3": 5,
+          "3.5": 8,
+          "3.6": 6,
+          "3.7": 5,
+          "4.1": 10,
+          "4.2": 12,
+          "4.3": 3,
+          "4.5": 4,
+          "4.6": 2,
+          "5.1": 5,
+          "5.2": 4,
+          "5.3": 4,
+          "5.5": 3,
+          "5.6": 1,
+          "5.7": 1,
+          "6.1": 4,
+          "6.2": 2,
+          "6.3": 0,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 0,
+          "3.3": 0,
+          "3.5": 0,
+          "3.6": 0,
+          "3.7": 0,
+          "4.1": 1,
+          "4.2": 3,
+          "4.3": 3,
+          "4.5": 3,
+          "4.6": 3,
+          "5.1": 4,
+          "5.2": 1,
+          "5.3": 2,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0
+        },
+        "level_rolling_gold": {
+          "5": 2,
+          "7": 7,
+          "3": 0,
+          "2": 0,
+          "6": 2,
+          "4": 0,
+          "8": 18,
+          "9": 9,
+          "10": 0
+        }
+      }
     },
     {
       "name": "Stargazer Lulu Reroll",
@@ -2689,10 +6077,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.015326405356395591,
-        "avg_placement": 4.890784982935154,
-        "top_4_percent": 0.4323094425483504,
-        "top_1_percent": 0.09442548350398179
+        "pick_rate": 0.013920212962620623,
+        "avg_placement": 4.933598937583001,
+        "top_4_percent": 0.41434262948207173,
+        "top_1_percent": 0.10225763612217796
       },
       "champions": [
         {
@@ -2767,7 +6155,109 @@
           "cost": 3,
           "items": []
         }
-      ]
+      ],
+      "strategy": {
+        "type": "roll_7",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.5"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 1,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 5,
+          "3.3": 4,
+          "3.5": 6,
+          "3.6": 4,
+          "3.7": 3,
+          "4.1": 4,
+          "4.2": 4,
+          "4.3": 2,
+          "4.5": 4,
+          "4.6": 2,
+          "5.1": 4,
+          "5.2": 3,
+          "5.3": 3,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 1,
+          "6.1": 4,
+          "6.2": 1,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": null,
+          "7.6": null,
+          "7.7": null,
+          "8.1": null
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 0,
+          "3.3": 1,
+          "3.5": 1,
+          "3.6": 1,
+          "3.7": 1,
+          "4.1": 3,
+          "4.2": 4,
+          "4.3": 3,
+          "4.5": 3,
+          "4.6": 3,
+          "5.1": 5,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 1,
+          "5.6": 1,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 1,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "level_rolling_gold": {
+          "9": 4,
+          "5": 3,
+          "2": 0,
+          "7": 23,
+          "6": 7,
+          "3": 0,
+          "4": 0,
+          "8": 12,
+          "10": 0
+        }
+      }
     },
     {
       "name": "ShieldTank LeBlanc",
@@ -2776,10 +6266,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.09296973078532571,
-        "avg_placement": 4.622843210802701,
-        "top_4_percent": 0.4686796699174794,
-        "top_1_percent": 0.08814703675918979
+        "pick_rate": 0.08102562206529375,
+        "avg_placement": 4.612137805156285,
+        "top_4_percent": 0.46954140999315536,
+        "top_1_percent": 0.09491216062057951
       },
       "champions": [
         {
@@ -2843,87 +6333,113 @@
           "cost": 2,
           "items": []
         }
-      ]
-    },
-    {
-      "name": "FlexTrait Illaoi Reroll",
-      "tier": "C",
-      "playstyle": "",
-      "difficulty": "",
-      "patch": "16.8",
-      "stats": {
-        "pick_rate": 0.010618635792997629,
-        "avg_placement": 4.448275862068965,
-        "top_4_percent": 0.5057471264367817,
-        "top_1_percent": 0.13136288998357964
-      },
-      "champions": [
-        {
-          "apiName": "TFT17_Aurora",
-          "name": "Aurora",
-          "name_es": "Aurora",
-          "cost": 3,
-          "items": [
-            "TFT_Item_JeweledGauntlet",
-            "TFT_Item_Leviathan",
-            "TFT_Item_Leviathan"
-          ]
+      ],
+      "strategy": {
+        "type": "standard",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.5",
+          "8": "4.2"
         },
-        {
-          "apiName": "TFT17_Illaoi",
-          "name": "Illaoi",
-          "name_es": "Illaoi",
-          "cost": 3,
-          "items": [
-            "TFT_Item_GargoyleStoneplate",
-            "TFT_Item_RedBuff",
-            "TFT_Item_Redemption"
-          ]
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 5,
+          "3.3": 4,
+          "3.5": 7,
+          "3.6": 6,
+          "3.7": 5,
+          "4.1": 9,
+          "4.2": 11,
+          "4.3": 5,
+          "4.5": 5,
+          "4.6": 3,
+          "5.1": 6,
+          "5.2": 3,
+          "5.3": 3,
+          "5.5": 3,
+          "5.6": 3,
+          "5.7": 1,
+          "6.1": 4,
+          "6.2": 1,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "1.2": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": null,
+          "8.1": null
         },
-        {
-          "apiName": "TFT17_Viktor",
-          "name": "Viktor",
-          "name_es": "Viktor",
-          "cost": 3,
-          "items": [
-            "TFT17_Item_PsyOps_DroneMod",
-            "TFT_Item_ArchangelsStaff",
-            "TFT_Item_JeweledGauntlet"
-          ]
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 1,
+          "3.3": 1,
+          "3.5": 1,
+          "3.6": 1,
+          "3.7": 0,
+          "4.1": 2,
+          "4.2": 3,
+          "4.3": 3,
+          "4.5": 3,
+          "4.6": 3,
+          "5.1": 5,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "1.2": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
         },
-        {
-          "apiName": "TFT17_Karma",
-          "name": "Karma",
-          "name_es": "Karma",
-          "cost": 4,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Mordekaiser",
-          "name": "Mordekaiser",
-          "name_es": "Mordekaiser",
-          "cost": 2,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Pyke",
-          "name": "Pyke",
-          "name_es": "Pyke",
-          "cost": 2,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Rhaast",
-          "name": "Rhaast",
-          "name_es": "Rhaast",
-          "cost": 3,
-          "items": [
-            "TFT_Item_GargoyleStoneplate",
-            "TFT_Item_RedBuff",
-            "TFT_Item_WarmogsArmor"
-          ]
+        "level_rolling_gold": {
+          "2": 0,
+          "7": 9,
+          "8": 20,
+          "9": 8,
+          "10": 1,
+          "5": 2,
+          "4": 0,
+          "6": 5,
+          "3": 0,
+          "1": 0
         }
-      ]
+      }
     },
     {
       "name": "Mecha Aurelion Sol",
@@ -2932,10 +6448,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.018307992746547635,
-        "avg_placement": 4.886666666666667,
-        "top_4_percent": 0.4038095238095238,
-        "top_1_percent": 0.13714285714285715
+        "pick_rate": 0.013273191111768404,
+        "avg_placement": 4.8774373259052926,
+        "top_4_percent": 0.415041782729805,
+        "top_1_percent": 0.14206128133704735
       },
       "champions": [
         {
@@ -2994,83 +6510,107 @@
             "TFT_Item_ThiefsGloves"
           ]
         }
-      ]
-    },
-    {
-      "name": "AssassinTrait Kai'Sa Reroll",
-      "tier": "C",
-      "playstyle": "",
-      "difficulty": "",
-      "patch": "16.8",
-      "stats": {
-        "pick_rate": 0.013983819221648765,
-        "avg_placement": 4.507481296758105,
-        "top_4_percent": 0.5037406483790524,
-        "top_1_percent": 0.07855361596009976
-      },
-      "champions": [
-        {
-          "apiName": "TFT17_Fizz",
-          "name": "Fizz",
-          "name_es": "Fizz",
-          "cost": 3,
-          "items": [
-            "TFT_Item_JeweledGauntlet",
-            "TFT_Item_Leviathan",
-            "TFT_Item_UnstableConcoction"
-          ]
+      ],
+      "strategy": {
+        "type": "standard",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "3.5",
+          "8": "4.2"
         },
-        {
-          "apiName": "TFT17_Kaisa",
-          "name": "Kai'Sa",
-          "name_es": "Kai'Sa",
-          "cost": 3,
-          "items": [
-            "TFT_Item_Deathblade",
-            "TFT_Item_InfinityEdge",
-            "TFT_Item_PowerGauntlet"
-          ]
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 3,
+          "3.2": 5,
+          "3.3": 5,
+          "3.5": 8,
+          "3.6": 7,
+          "3.7": 5,
+          "4.1": 10,
+          "4.2": 9,
+          "4.3": 5,
+          "4.5": 5,
+          "4.6": 3,
+          "5.1": 6,
+          "5.2": 3,
+          "5.3": 3,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 1,
+          "6.3": 0,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "1.2": 0,
+          "7.3": 0,
+          "7.5": null
         },
-        {
-          "apiName": "TFT17_Ornn",
-          "name": "Ornn",
-          "name_es": "Ornn",
-          "cost": 3,
-          "items": [
-            "TFT_Item_DragonsClaw",
-            "TFT_Item_GargoyleStoneplate",
-            "TFT_Item_WarmogsArmor"
-          ]
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 0,
+          "3.3": 0,
+          "3.5": 0,
+          "3.6": 1,
+          "3.7": 0,
+          "4.1": 1,
+          "4.2": 3,
+          "4.3": 2,
+          "4.5": 2,
+          "4.6": 3,
+          "5.1": 4,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "1.2": 0,
+          "7.3": 0,
+          "7.5": 0
         },
-        {
-          "apiName": "TFT17_Aatrox",
-          "name": "Aatrox",
-          "name_es": "Aatrox",
-          "cost": 1,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Chogath",
-          "name": "Cho'Gath",
-          "name_es": "Cho'Gath",
-          "cost": 1,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Maokai",
-          "name": "Maokai",
-          "name_es": "Maokai",
-          "cost": 3,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_Rhaast",
-          "name": "Rhaast",
-          "name_es": "Rhaast",
-          "cost": 3,
-          "items": []
+        "level_rolling_gold": {
+          "3": 0,
+          "5": 2,
+          "4": 0,
+          "8": 20,
+          "7": 7,
+          "6": 4,
+          "2": 0,
+          "9": 7,
+          "10": 1,
+          "1": 0
         }
-      ]
+      }
     },
     {
       "name": "Mecha Aurelion Sol",
@@ -3079,10 +6619,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.04223043660203655,
-        "avg_placement": 5.687448389760529,
-        "top_4_percent": 0.2782824112303881,
-        "top_1_percent": 0.09207266721717589
+        "pick_rate": 0.036529005065256775,
+        "avg_placement": 5.686234817813765,
+        "top_4_percent": 0.28846153846153844,
+        "top_1_percent": 0.08906882591093117
       },
       "champions": [
         {
@@ -3141,7 +6681,109 @@
             "TFT_Item_ThiefsGloves"
           ]
         }
-      ]
+      ],
+      "strategy": {
+        "type": "standard",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.3",
+          "5": "2.7",
+          "6": "3.2",
+          "7": "3.5",
+          "8": "4.1"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 1,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 5,
+          "3.3": 5,
+          "3.5": 7,
+          "3.6": 6,
+          "3.7": 5,
+          "4.1": 9,
+          "4.2": 10,
+          "4.3": 4,
+          "4.5": 4,
+          "4.6": 3,
+          "5.1": 4,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 2,
+          "5.6": 1,
+          "5.7": 0,
+          "6.1": 3,
+          "6.2": 1,
+          "6.3": 0,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "1.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 0,
+          "3.3": 0,
+          "3.5": 1,
+          "3.6": 1,
+          "3.7": 0,
+          "4.1": 2,
+          "4.2": 3,
+          "4.3": 3,
+          "4.5": 3,
+          "4.6": 3,
+          "5.1": 4,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 1,
+          "5.6": 1,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "1.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0
+        },
+        "level_rolling_gold": {
+          "5": 2,
+          "9": 5,
+          "8": 21,
+          "7": 9,
+          "2": 0,
+          "4": 0,
+          "6": 4,
+          "3": 0,
+          "10": 0,
+          "1": 0
+        }
+      }
     },
     {
       "name": "HPTank Ezreal Reroll",
@@ -3150,10 +6792,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.034907239503417495,
-        "avg_placement": 4.642357642357642,
-        "top_4_percent": 0.4565434565434565,
-        "top_1_percent": 0.14335664335664336
+        "pick_rate": 0.035401338410914335,
+        "avg_placement": 4.729503916449086,
+        "top_4_percent": 0.43968668407310707,
+        "top_1_percent": 0.13838120104438642
       },
       "champions": [
         {
@@ -3235,7 +6877,113 @@
           "cost": 4,
           "items": []
         }
-      ]
+      ],
+      "strategy": {
+        "type": "roll_5",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.3",
+          "5": "3.2",
+          "6": "4.2",
+          "7": "4.5",
+          "8": "5.1"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 1,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 1,
+          "3.2": 2,
+          "3.3": 1,
+          "3.5": 3,
+          "3.6": 2,
+          "3.7": 2,
+          "4.1": 4,
+          "4.2": 6,
+          "4.3": 4,
+          "4.5": 6,
+          "4.6": 4,
+          "5.1": 7,
+          "5.2": 4,
+          "5.3": 3,
+          "5.5": 3,
+          "5.6": 2,
+          "5.7": 1,
+          "6.1": 4,
+          "6.2": 1,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 2,
+          "3.3": 2,
+          "3.5": 3,
+          "3.6": 3,
+          "3.7": 2,
+          "4.1": 3,
+          "4.2": 3,
+          "4.3": 2,
+          "4.5": 2,
+          "4.6": 2,
+          "5.1": 3,
+          "5.2": 1,
+          "5.3": 1,
+          "5.5": 1,
+          "5.6": 1,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "level_rolling_gold": {
+          "9": 6,
+          "5": 15,
+          "8": 10,
+          "3": 0,
+          "2": 0,
+          "7": 8,
+          "4": 2,
+          "6": 9,
+          "10": 1,
+          "1": 0
+        }
+      }
     },
     {
       "name": "AnimaSquad Illaoi Reroll",
@@ -3244,10 +6992,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.013774585018831078,
-        "avg_placement": 4.878481012658228,
-        "top_4_percent": 0.4253164556962025,
-        "top_1_percent": 0.13544303797468354
+        "pick_rate": 0.012071579103042851,
+        "avg_placement": 4.934150076569678,
+        "top_4_percent": 0.4211332312404288,
+        "top_1_percent": 0.14088820826952528
       },
       "champions": [
         {
@@ -3315,94 +7063,106 @@
           "cost": 4,
           "items": []
         }
-      ]
-    },
-    {
-      "name": "Primordian Bel'Veth Reroll",
-      "tier": "C",
-      "playstyle": "",
-      "difficulty": "",
-      "patch": "16.8",
-      "stats": {
-        "pick_rate": 0.024027060956897755,
-        "avg_placement": 4.603047895500726,
-        "top_4_percent": 0.49056603773584906,
-        "top_1_percent": 0.08055152394775036
-      },
-      "champions": [
-        {
-          "apiName": "TFT17_Akali",
-          "name": "Akali",
-          "name_es": "Akali",
-          "cost": 2,
-          "items": []
+      ],
+      "strategy": {
+        "type": "roll_7",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.3",
+          "5": "2.7",
+          "6": "3.2",
+          "7": "3.5"
         },
-        {
-          "apiName": "TFT17_Belveth",
-          "name": "Bel'Veth",
-          "name_es": "Bel'Veth",
-          "cost": 2,
-          "items": [
-            "TFT_Item_MadredsBloodrazor",
-            "TFT_Item_Quicksilver",
-            "TFT_Item_RunaansHurricane"
-          ]
+        "round_leveling_gold": {
+          "1.2": 0,
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 1,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 5,
+          "3.3": 5,
+          "3.5": 7,
+          "3.6": 6,
+          "3.7": 3,
+          "4.1": 5,
+          "4.2": 5,
+          "4.3": 3,
+          "4.5": 4,
+          "4.6": 3,
+          "5.1": 4,
+          "5.2": 3,
+          "5.3": 3,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 1,
+          "6.1": 4,
+          "6.2": 1,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0
         },
-        {
-          "apiName": "TFT17_Maokai",
-          "name": "Maokai",
-          "name_es": "Maokai",
-          "cost": 3,
-          "items": []
+        "round_rolling_gold": {
+          "1.2": 0,
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 0,
+          "3.2": 1,
+          "3.3": 1,
+          "3.5": 1,
+          "3.6": 1,
+          "3.7": 1,
+          "4.1": 2,
+          "4.2": 4,
+          "4.3": 3,
+          "4.5": 3,
+          "4.6": 4,
+          "5.1": 5,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 1,
+          "5.6": 1,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 1,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0
         },
-        {
-          "apiName": "TFT17_Briar",
-          "name": "Briar",
-          "name_es": "Briar",
-          "cost": 1,
-          "items": [
-            "TFT_Item_Bloodthirster",
-            "TFT_Item_SteraksGage",
-            "TFT_Item_TitansResolve"
-          ]
-        },
-        {
-          "apiName": "TFT17_Kindred",
-          "name": "Kindred",
-          "name_es": "Kindred",
-          "cost": 4,
-          "items": []
-        },
-        {
-          "apiName": "TFT17_RekSai",
-          "name": "Rek'Sai",
-          "name_es": "Rek'Sai",
-          "cost": 1,
-          "items": [
-            "TFT_Item_FrozenHeart",
-            "TFT_Item_RedBuff",
-            "TFT_Item_Redemption"
-          ]
-        },
-        {
-          "apiName": "TFT17_Gwen",
-          "name": "Gwen",
-          "name_es": "Gwen",
-          "cost": 2,
-          "items": [
-            "TFT_Item_JeweledGauntlet",
-            "TFT_Item_RabadonsDeathcap",
-            "TFT_Item_UnstableConcoction"
-          ]
-        },
-        {
-          "apiName": "TFT17_Rhaast",
-          "name": "Rhaast",
-          "name_es": "Rhaast",
-          "cost": 3,
-          "items": []
+        "level_rolling_gold": {
+          "7": 24,
+          "5": 3,
+          "2": 0,
+          "4": 1,
+          "3": 0,
+          "6": 6,
+          "8": 11,
+          "9": 4,
+          "10": 0,
+          "1": 0
         }
-      ]
+      }
     },
     {
       "name": "Astronaut Corki",
@@ -3411,10 +7171,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.021237271585995258,
-        "avg_placement": 4.626436781609195,
-        "top_4_percent": 0.4376026272577997,
-        "top_1_percent": 0.19458128078817735
+        "pick_rate": 0.020575294857100603,
+        "avg_placement": 4.744833782569632,
+        "top_4_percent": 0.4276729559748428,
+        "top_1_percent": 0.16711590296495957
       },
       "champions": [
         {
@@ -3478,7 +7238,112 @@
             "TFT_Item_RabadonsDeathcap"
           ]
         }
-      ]
+      ],
+      "strategy": {
+        "type": "standard",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.1",
+          "5": "2.5",
+          "6": "3.2",
+          "7": "4.2"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 2,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 1,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 4,
+          "3.3": 3,
+          "3.5": 5,
+          "3.6": 5,
+          "3.7": 3,
+          "4.1": 7,
+          "4.2": 8,
+          "4.3": 5,
+          "4.5": 6,
+          "4.6": 5,
+          "5.1": 7,
+          "5.2": 4,
+          "5.3": 4,
+          "5.5": 3,
+          "5.6": 3,
+          "5.7": 1,
+          "6.1": 3,
+          "6.2": 1,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "1.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 1,
+          "3.2": 1,
+          "3.3": 1,
+          "3.5": 1,
+          "3.6": 2,
+          "3.7": 1,
+          "4.1": 2,
+          "4.2": 3,
+          "4.3": 3,
+          "4.5": 3,
+          "4.6": 3,
+          "5.1": 5,
+          "5.2": 3,
+          "5.3": 3,
+          "5.5": 2,
+          "5.6": 2,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 1,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "1.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "7.6": 0,
+          "7.7": 0,
+          "8.1": 0
+        },
+        "level_rolling_gold": {
+          "7": 16,
+          "4": 1,
+          "6": 10,
+          "8": 17,
+          "5": 5,
+          "2": 0,
+          "9": 5,
+          "3": 0,
+          "10": 1,
+          "1": 0
+        }
+      }
     },
     {
       "name": "Stargazer Jax Reroll",
@@ -3487,10 +7352,10 @@
       "difficulty": "",
       "patch": "16.8",
       "stats": {
-        "pick_rate": 0.05424396708048542,
-        "avg_placement": 5.126968820315011,
-        "top_4_percent": 0.3751205400192864,
-        "top_1_percent": 0.06525233044037287
+        "pick_rate": 0.05895293378193515,
+        "avg_placement": 5.226716839134525,
+        "top_4_percent": 0.3596738789589213,
+        "top_1_percent": 0.05456255879586077
       },
       "champions": [
         {
@@ -3558,7 +7423,108 @@
             "TFT_Item_SpearOfShojin"
           ]
         }
-      ]
+      ],
+      "strategy": {
+        "type": "roll_5",
+        "level_stage": {
+          "2": "1.3",
+          "3": "1.4",
+          "4": "2.3",
+          "5": "3.2",
+          "6": "4.2",
+          "7": "5.1"
+        },
+        "round_leveling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 1,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 1,
+          "3.2": 2,
+          "3.3": 1,
+          "3.5": 3,
+          "3.6": 2,
+          "3.7": 1,
+          "4.1": 3,
+          "4.2": 3,
+          "4.3": 2,
+          "4.5": 3,
+          "4.6": 2,
+          "5.1": 4,
+          "5.2": 3,
+          "5.3": 3,
+          "5.5": 3,
+          "5.6": 3,
+          "5.7": 1,
+          "6.1": 4,
+          "6.2": 2,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0,
+          "7.6": 0
+        },
+        "round_rolling_gold": {
+          "1.3": 0,
+          "1.4": 0,
+          "2.1": 0,
+          "2.2": 0,
+          "2.3": 0,
+          "2.5": 0,
+          "2.6": 0,
+          "2.7": 0,
+          "3.1": 2,
+          "3.2": 3,
+          "3.3": 3,
+          "3.5": 3,
+          "3.6": 4,
+          "3.7": 2,
+          "4.1": 4,
+          "4.2": 6,
+          "4.3": 5,
+          "4.5": 4,
+          "4.6": 4,
+          "5.1": 5,
+          "5.2": 2,
+          "5.3": 2,
+          "5.5": 1,
+          "5.6": 1,
+          "5.7": 0,
+          "6.1": 2,
+          "6.2": 1,
+          "6.3": 1,
+          "6.5": 0,
+          "6.6": 0,
+          "6.7": 0,
+          "7.1": 0,
+          "7.2": 0,
+          "7.3": 0,
+          "7.5": 0,
+          "1.2": 0,
+          "7.6": 0
+        },
+        "level_rolling_gold": {
+          "8": 6,
+          "2": 0,
+          "3": 0,
+          "4": 3,
+          "7": 9,
+          "5": 23,
+          "6": 22,
+          "9": 3,
+          "10": 0,
+          "1": 0
+        }
+      }
     }
   ]
 }
