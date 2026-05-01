@@ -1,0 +1,3140 @@
+{
+  "source": "CDragon (latest)",
+  "patch": "16.9",
+  "scraped_at": "2026-05-01T00:13:16.784731+00:00",
+  "items": [
+    {
+      "apiName": "TFT_Item_AdaptiveHelm",
+      "name": "Adaptive Helm",
+      "name_es": "Yelmo adaptable",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_NegatronCloak",
+        "TFT_Item_TearOfTheGoddess"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_adaptivehelm.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_ArchangelsStaff",
+      "name": "Archangel's Staff",
+      "name_es": "Bastón del arcángel",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_NeedlesslyLargeRod",
+        "TFT_Item_TearOfTheGoddess"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_archangelsstaff.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_LudensEchoShadow",
+      "name": "Archdemon's Staff Of Immortality",
+      "name_es": "Bastón del archidemonio de la inmortalidad",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_NeedlesslyLargeRodShadow",
+        "TFT5_Item_TearOfTheGoddessShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_archangel_staff.png"
+    },
+    {
+      "apiName": "TFT5_Item_TrapClawShadow",
+      "name": "Banshee's Claw",
+      "name_es": "Garra del hada de la muerte",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_GiantsBeltShadow",
+        "TFT5_Item_SparringGlovesShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_trap_claw.png"
+    },
+    {
+      "apiName": "TFT_Item_Bloodthirster",
+      "name": "Bloodthirster",
+      "name_es": "Sanguinaria",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_BFSword",
+        "TFT_Item_NegatronCloak"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_bloodthirster.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_BlueBuff",
+      "name": "Blue Buff",
+      "name_es": "Mejora azul",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_TearOfTheGoddess",
+        "TFT_Item_TearOfTheGoddess"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_bluebuff.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_BrambleVest",
+      "name": "Bramble Vest",
+      "name_es": "Chaleco de zarzas",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_ChainVest",
+        "TFT_Item_ChainVest"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_bramblevest.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_DeathbladeShadow",
+      "name": "Caustic Deathblade",
+      "name_es": "Filo mortal cáustico",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_BFSwordShadow",
+        "TFT5_Item_BFSwordShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_death_blade.png"
+    },
+    {
+      "apiName": "TFT5_Item_QuicksilverShadow",
+      "name": "Caustic Quicksilver",
+      "name_es": "Fajín cáustico",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_SparringGlovesShadow",
+        "TFT5_Item_NegatronCloakShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_quicksilver.png"
+    },
+    {
+      "apiName": "TFT_Item_Crownguard",
+      "name": "Crownguard",
+      "name_es": "Regiaguardia",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_NeedlesslyLargeRod",
+        "TFT_Item_ChainVest"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_crownguard.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_Deathblade",
+      "name": "Deathblade",
+      "name_es": "Filo mortal",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_BFSword",
+        "TFT_Item_BFSword"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_deathblade.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_DragonsClaw",
+      "name": "Dragon's Claw",
+      "name_es": "Garra de dragón",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_NegatronCloak",
+        "TFT_Item_NegatronCloak"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_dragonsclaw.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_SunfireCapeShadow",
+      "name": "Eclipse Cape",
+      "name_es": "Capa de eclipse",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_ChainVestShadow",
+        "TFT5_Item_GiantsBeltShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_sunfire_cape.png"
+    },
+    {
+      "apiName": "TFT_Item_GuardianAngel",
+      "name": "Edge of Night",
+      "name_es": "Filo de la noche",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_BFSword",
+        "TFT_Item_ChainVest"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_guardianangel.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_SpectralGauntlet",
+      "name": "Evenshroud",
+      "name_es": "Mortaja de la quietud",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_NegatronCloak",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_spectralgauntlet.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_GuardianAngelShadow",
+      "name": "Fallen Guardian Angel",
+      "name_es": "Ángel de la guarda caído",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_BFSwordShadow",
+        "TFT5_Item_ChainVestShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_guardian_angel.png"
+    },
+    {
+      "apiName": "TFT5_Item_LastWhisperShadow",
+      "name": "Final Whisper",
+      "name_es": "Último susurro",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_RecurveBowShadow",
+        "TFT5_Item_SparringGlovesShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_last_whisper.png"
+    },
+    {
+      "apiName": "TFT5_Item_ForceOfNatureShadow",
+      "name": "Force of Darkness",
+      "name_es": "Fuerza de la oscuridad",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_SpatulaShadow",
+        "TFT5_Item_SpatulaShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_force_of_nature.png"
+    },
+    {
+      "apiName": "TFT5_Item_FrozenHeartShadow",
+      "name": "Frozen Dark Heart",
+      "name_es": "Corazón oscuro de hielo",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_TearOfTheGoddessShadow",
+        "TFT5_Item_ChainVestShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_frozen_heart.png"
+    },
+    {
+      "apiName": "TFT_Item_GargoyleStoneplate",
+      "name": "Gargoyle Stoneplate",
+      "name_es": "Protector pétreo de gárgola",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_ChainVest",
+        "TFT_Item_NegatronCloak"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_gargoylestoneplate.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_GargoyleStoneplateShadow",
+      "name": "Gargoyle Stoneplate Of Immortality",
+      "name_es": "Protector pétreo de gárgola de la inmortalidad",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_ChainVestShadow",
+        "TFT5_Item_NegatronCloakShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_gargoyle_stoneplate.png"
+    },
+    {
+      "apiName": "TFT_Item_MadredsBloodrazor",
+      "name": "Giant Slayer",
+      "name_es": "Verdugo de gigantes",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_BFSword",
+        "TFT_Item_RecurveBow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_madredsbloodrazor.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_GuinsoosRageblade",
+      "name": "Guinsoo's Rageblade",
+      "name_es": "Hoja de furia de Guinsoo",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_RecurveBow",
+        "TFT_Item_NeedlesslyLargeRod"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_guinsoosrageblade.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_GuinsoosRagebladeShadow",
+      "name": "Guinsoo's Sacrificial Rageblade",
+      "name_es": "Hoja de furia de Guinsoo de los sacrificios",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_RecurveBowShadow",
+        "TFT5_Item_NeedlesslyLargeRodShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_guinsoos_rageblade.png"
+    },
+    {
+      "apiName": "TFT_Item_UnstableConcoction",
+      "name": "Hand Of Justice",
+      "name_es": "Mano de la justicia",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_TearOfTheGoddess",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_unstableconcoction.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_HandOfJusticeShadow",
+      "name": "Hand of Vengeance",
+      "name_es": "Mano de la venganza",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_TearOfTheGoddessShadow",
+        "TFT5_Item_SparringGlovesShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_hand_of_justice.png"
+    },
+    {
+      "apiName": "TFT_Item_HextechGunblade",
+      "name": "Hextech Gunblade",
+      "name_es": "Sable-pistola hextech",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_BFSword",
+        "TFT_Item_NeedlesslyLargeRod"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_hextechgunblade.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_HextechGunbladeShadow",
+      "name": "Hextech Gunblade Of Immortality",
+      "name_es": "Sable-pistola hextech de la inmortalidad",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_BFSwordShadow",
+        "TFT5_Item_NeedlesslyLargeRodShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_hextech_gunblade.png"
+    },
+    {
+      "apiName": "TFT_Item_InfinityEdge",
+      "name": "Infinity Edge",
+      "name_es": "Filo infinito",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_BFSword",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_infinityedge.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_IonicSparkShadow",
+      "name": "Ionic Dark-Spark",
+      "name_es": "Chispa oscura iónica",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_NeedlesslyLargeRodShadow",
+        "TFT5_Item_NegatronCloakShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_ionic_spark.png"
+    },
+    {
+      "apiName": "TFT_Item_IonicSpark",
+      "name": "Ionic Spark",
+      "name_es": "Chispa iónica",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_NeedlesslyLargeRod",
+        "TFT_Item_NegatronCloak"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_ionicspark.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_JeweledGauntlet",
+      "name": "Jeweled Gauntlet",
+      "name_es": "Guantelete enjoyado",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_NeedlesslyLargeRod",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_jeweledgauntlet.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_RunaansHurricane",
+      "name": "Kraken's Fury",
+      "name_es": "Furia del kraken",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_NegatronCloak",
+        "TFT_Item_RecurveBow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_krakenslayer.png"
+    },
+    {
+      "apiName": "TFT_Item_LastWhisper",
+      "name": "Last Whisper",
+      "name_es": "Últimas palabras",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_RecurveBow",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_lastwhisper.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_MorellonomiconShadow",
+      "name": "Mor-evil-lonomicon",
+      "name_es": "Malvadonomicón",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_NeedlesslyLargeRodShadow",
+        "TFT5_Item_GiantsBeltShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_morellonomicon.png"
+    },
+    {
+      "apiName": "TFT_Item_Morellonomicon",
+      "name": "Morellonomicon",
+      "name_es": "Morellonomicón",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_NeedlesslyLargeRod",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_morellonomicon.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_Leviathan",
+      "name": "Nashor's Tooth",
+      "name_es": "Diente de Nashor",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_RecurveBow",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_leviathan.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_FrozenHeart",
+      "name": "Protector's Vow",
+      "name_es": "Promesa del protector",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_TearOfTheGoddess",
+        "TFT_Item_ChainVest"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_frozenheart.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_Quicksilver",
+      "name": "Quicksilver",
+      "name_es": "Fajín de mercurio",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_SparringGloves",
+        "TFT_Item_NegatronCloak"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_quicksilver.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_RabadonsDeathcapShadow",
+      "name": "Rabadon's Caustic Deathcap",
+      "name_es": "Sombrero mortal cáustico de Rabadon",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_NeedlesslyLargeRodShadow",
+        "TFT5_Item_NeedlesslyLargeRodShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_rabadons_deathcap.png"
+    },
+    {
+      "apiName": "TFT_Item_RabadonsDeathcap",
+      "name": "Rabadon's Deathcap",
+      "name_es": "Sombrero mortal de Rabadon",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_NeedlesslyLargeRod",
+        "TFT_Item_NeedlesslyLargeRod"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_rabadonsdeathcap.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_RapidFirecannonShadow",
+      "name": "Rapid Deathcannon",
+      "name_es": "Cañón de muerte rápida",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_RecurveBowShadow",
+        "TFT5_Item_RecurveBowShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_rapid_fire_cannon.png"
+    },
+    {
+      "apiName": "TFT_Item_RapidFireCannon",
+      "name": "Red Buff",
+      "name_es": "Mejora roja",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_RecurveBow",
+        "TFT_Item_RecurveBow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_rapidfirecannon.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_BrambleVestShadow",
+      "name": "Refracted Bramble Vest",
+      "name_es": "Chaleco de zarzas refractado",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_ChainVestShadow",
+        "TFT5_Item_ChainVestShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_bramble_vest.png"
+    },
+    {
+      "apiName": "TFT5_Item_DragonsClawShadow",
+      "name": "Refracted Dragon's Claw",
+      "name_es": "Garra de dragón refractada",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_NegatronCloakShadow",
+        "TFT5_Item_NegatronCloakShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_dragons_claw.png"
+    },
+    {
+      "apiName": "TFT5_Item_BloodthirsterShadow",
+      "name": "Riskthirster",
+      "name_es": "Buscaemociones",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_BFSwordShadow",
+        "TFT5_Item_NegatronCloakShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_bloodthirster.png"
+    },
+    {
+      "apiName": "TFT5_Item_RunaansHurricaneShadow",
+      "name": "Runaan's Untamed Hurricane",
+      "name_es": "Huracán indómito de Runaan ",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_NegatronCloakShadow",
+        "TFT5_Item_RecurveBowShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_runaans_hurricane.png"
+    },
+    {
+      "apiName": "TFT5_Item_JeweledGauntletShadow",
+      "name": "Sacrificial Gauntlet",
+      "name_es": "Guantelete de los sacrificios",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_NeedlesslyLargeRodShadow",
+        "TFT5_Item_SparringGlovesShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/tft5_item_jeweled_gauntlet_shadow.png"
+    },
+    {
+      "apiName": "TFT5_Item_InfinityEdgeShadow",
+      "name": "Sacrificial Infinity Edge",
+      "name_es": "Filo infinito de los sacrificios",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_BFSwordShadow",
+        "TFT5_Item_SparringGlovesShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_infinity_edge.png"
+    },
+    {
+      "apiName": "TFT5_Item_RedemptionShadow",
+      "name": "Sacrificial Redemption",
+      "name_es": "Redención de los sacrificios",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_TearOfTheGoddessShadow",
+        "TFT5_Item_GiantsBeltShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_redemption.png"
+    },
+    {
+      "apiName": "TFT_Item_SpearOfShojin",
+      "name": "Spear of Shojin",
+      "name_es": "Lanza de Shojin",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_BFSword",
+        "TFT_Item_TearOfTheGoddess"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_spearofshojin.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_GiantSlayerShadow",
+      "name": "Spectral Giantslayer",
+      "name_es": "Verdugo de gigantes espectral",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_BFSwordShadow",
+        "TFT5_Item_RecurveBowShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_giant_slayer.png"
+    },
+    {
+      "apiName": "TFT5_Item_SpearOfShojinShadow",
+      "name": "Spectral Spear of Shojin",
+      "name_es": "Lanza espectral de Shojin",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_BFSwordShadow",
+        "TFT5_Item_TearOfTheGoddessShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_spear_of_shojin.png"
+    },
+    {
+      "apiName": "TFT_Item_Redemption",
+      "name": "Spirit Visage",
+      "name_es": "Rostro espiritual",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_TearOfTheGoddess",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_spiritvisagerr.png"
+    },
+    {
+      "apiName": "TFT5_Item_StatikkShivShadow",
+      "name": "Statikk Stiletto",
+      "name_es": "Estilete de Statikk",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_RecurveBowShadow",
+        "TFT5_Item_TearOfTheGoddessShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_statikk_shiv.png"
+    },
+    {
+      "apiName": "TFT_Item_NightHarvester",
+      "name": "Steadfast Heart",
+      "name_es": "Corazón resuelto",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_ChainVest",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_nightharvester.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_SteraksGage",
+      "name": "Sterak's Gage",
+      "name_es": "Calibrador de Sterak",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_BFSword",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_steraksgage.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_PowerGauntlet",
+      "name": "Striker's Flail",
+      "name_es": "Mangual del guerrero",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_GiantsBelt",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_powergauntlet.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_RedBuff",
+      "name": "Sunfire Cape",
+      "name_es": "Capa de fuego solar",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_ChainVest",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_redbuff.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_ForceOfNature",
+      "name": "Tactician's Crown",
+      "name_es": "Corona de estratega",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_Spatula"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_forceofnature.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_ThiefsGloves",
+      "name": "Thief's Gloves",
+      "name_es": "Guantes de ladrón",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_SparringGloves",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_thiefsgloves.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_TitansResolve",
+      "name": "Titan's Resolve",
+      "name_es": "Resolución titánica",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_ChainVest",
+        "TFT_Item_RecurveBow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_titansresolve.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_TitansResolveShadow",
+      "name": "Titan's Revenge",
+      "name_es": "Venganza titánica",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_ChainVestShadow",
+        "TFT5_Item_RecurveBowShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_titans_resolve.png"
+    },
+    {
+      "apiName": "TFT5_Item_ThiefsGlovesShadow",
+      "name": "Trickster's Gloves",
+      "name_es": "Guantes del embustero",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_SparringGlovesShadow",
+        "TFT5_Item_SparringGlovesShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_thieves_gloves.png"
+    },
+    {
+      "apiName": "TFT5_Item_ZzRotPortalShadow",
+      "name": "Unstable Zz'Rot Portal",
+      "name_es": "Portal Zz'Rot inestable",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_RecurveBowShadow",
+        "TFT5_Item_GiantsBeltShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_zzrot_portal.png"
+    },
+    {
+      "apiName": "TFT5_Item_BlueBuffShadow",
+      "name": "Very Dark Blue Buff",
+      "name_es": "Mejora azul muy oscura",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_TearOfTheGoddessShadow",
+        "TFT5_Item_TearOfTheGoddessShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_blue_buff.png"
+    },
+    {
+      "apiName": "TFT_Item_StatikkShiv",
+      "name": "Void Staff",
+      "name_es": "Bastón del Vacío",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_RecurveBow",
+        "TFT_Item_TearOfTheGoddess"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_voidstaff.png"
+    },
+    {
+      "apiName": "TFT_Item_WarmogsArmor",
+      "name": "Warmog's Armor",
+      "name_es": "Armadura de Warmog",
+      "type": "normal",
+      "composition": [
+        "TFT_Item_GiantsBelt",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_warmogsarmor.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_WarmogsArmorShadow",
+      "name": "Warmog's Sacrificial Armor",
+      "name_es": "Armadura de los sacrificios de Warmog",
+      "type": "normal",
+      "composition": [
+        "TFT5_Item_GiantsBeltShadow",
+        "TFT5_Item_GiantsBeltShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_warmogs_armor.png"
+    },
+    {
+      "apiName": "TFT5_Item_AbominationEmblemItem",
+      "name": "Abomination Emblem",
+      "name_es": "Emblema de abominación",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_SparringGloves",
+        "TFT_Item_FryingPan"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/aberration.png"
+    },
+    {
+      "apiName": "TFT17_Item_AnimaSquadEmblemItem",
+      "name": "Anima Emblem",
+      "name_es": "Emblema de ánima",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set17/tft17_emblem_animatech.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Item_FavoredEmblemItem",
+      "name": "Arbiter Emblem",
+      "name_es": "Emblema de sentenciador",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_NegatronCloak"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set17/tft17_emblem_arbiter.tft_set17.png"
+    },
+    {
+      "apiName": "TFT16_Item_SorcererEmblemItem",
+      "name": "Arcanist Emblem",
+      "name_es": "Emblema de arcanólogo",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_NeedlesslyLargeRod"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_arcanist.tft_set16.png"
+    },
+    {
+      "apiName": "TFT7_Augment_AssassinEmblem",
+      "name": "Assassin Crest",
+      "name_es": "Blasón de asesino",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/assassinemblem2.png"
+    },
+    {
+      "apiName": "TFT7_Augment_AssassinEmblem2",
+      "name": "Assassin Crown",
+      "name_es": "Corona de asesino",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/assassinsoul3.png"
+    },
+    {
+      "apiName": "TFT5_Item_AssassinEmblemItem",
+      "name": "Assassin Emblem",
+      "name_es": "Emblema de asesino",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_SparringGloves",
+        "TFT_Item_Spatula"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/assassin.png"
+    },
+    {
+      "apiName": "TFT7_Augment_AstralEmblem",
+      "name": "Astral Crest",
+      "name_es": "Blasón de astral",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/astral-crest-i.png"
+    },
+    {
+      "apiName": "TFT7_Item_AstralEmblemItem",
+      "name": "Astral Emblem",
+      "name_es": "Emblema de astral",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/astral.png"
+    },
+    {
+      "apiName": "TFT17_Item_ResistTankEmblemItem",
+      "name": "Bastion Emblem",
+      "name_es": "Emblema de bastión",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_ChainVest"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set17/tft17_emblem_bastion.tft_set17.png"
+    },
+    {
+      "apiName": "TFT16_Item_BilgewaterEmblemItem",
+      "name": "Bilgewater Emblem",
+      "name_es": "Emblema de Aguas Estancadas",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_TearOfTheGoddess"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_bilgewater.tft_set16.png"
+    },
+    {
+      "apiName": "TFT5_Item_BrawlerEmblemItem",
+      "name": "Brawler Emblem",
+      "name_es": "Emblema de luchador",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_GiantsBelt",
+        "TFT_Item_FryingPan"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/brawler.png"
+    },
+    {
+      "apiName": "TFT7_Augment_BruiserEmblem",
+      "name": "Bruiser Crest",
+      "name_es": "Blasón de luchador",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/bruiseremblem2.png"
+    },
+    {
+      "apiName": "TFT7_Augment_BruiserEmblem2",
+      "name": "Bruiser Crown",
+      "name_es": "Corona de luchador",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/bruisersoul3.png"
+    },
+    {
+      "apiName": "TFT7_Item_BruiserEmblemItem",
+      "name": "Bruiser Emblem",
+      "name_es": "Emblema de luchador",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/bruiser_craftable.png"
+    },
+    {
+      "apiName": "TFT7_Augment_CannoneerEmblem",
+      "name": "Cannoneer Crest",
+      "name_es": "Blasón de cañonero",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/canoneer-crest-ii.png"
+    },
+    {
+      "apiName": "TFT7_Augment_CannoneerEmblem2",
+      "name": "Cannoneer Crown",
+      "name_es": "Corona de cañonero",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/canoneer-crown-iii.png"
+    },
+    {
+      "apiName": "TFT5_Item_CannoneerEmblemItem",
+      "name": "Cannoneer Emblem",
+      "name_es": "Emblema de cañonero",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/cannoneer.png"
+    },
+    {
+      "apiName": "TFT7_Augment_CavalierEmblem",
+      "name": "Cavalier Crest",
+      "name_es": "Blasón de jinete",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/cavalier-crest-ii.png"
+    },
+    {
+      "apiName": "TFT7_Augment_CavalierEmblem2",
+      "name": "Cavalier Crown",
+      "name_es": "Corona de jinete",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/cavalier-crown-iii.png"
+    },
+    {
+      "apiName": "TFT5_Item_CavalierEmblemItem",
+      "name": "Cavalier Emblem",
+      "name_es": "Emblema de jinete",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_ChainVest"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/cavalry.png"
+    },
+    {
+      "apiName": "TFT17_Item_ASTraitEmblemItem",
+      "name": "Challenger Emblem",
+      "name_es": "Emblema de contendiente",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_RecurveBow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set17/tft17_emblem_challenger.tft_set17.png"
+    },
+    {
+      "apiName": "TFT5_Item_CovenEmblemItem",
+      "name": "Coven Emblem",
+      "name_es": "Emblema de aquelarre",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/coven.png"
+    },
+    {
+      "apiName": "TFT4_Item_CultistEmblemItem",
+      "name": "Cultist Emblem",
+      "name_es": "Emblema de sectario",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_ChainVest",
+        "TFT_Item_Spatula"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set4/tft_sr4_5_emblem_cultist_128.png"
+    },
+    {
+      "apiName": "TFT17_Item_DarkStarEmblemItem",
+      "name": "Dark Star Emblem",
+      "name_es": "Emblema de estrella oscura",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_BFSword"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set17/tft17_emblem_darkstar.tft_set17.png"
+    },
+    {
+      "apiName": "TFT7_Augment_DarkflightEmblem",
+      "name": "Darkflight Crest",
+      "name_es": "Blasón de vuelo sombrío",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/darkflightcrest-2.png"
+    },
+    {
+      "apiName": "TFT7_Augment_DarkflightEmblem2",
+      "name": "Darkflight Crown",
+      "name_es": "Corona de vuelo sombrío",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/darkflightcrown-3.png"
+    },
+    {
+      "apiName": "TFT7_Item_DarkflightEmblemItem",
+      "name": "Darkflight Emblem",
+      "name_es": "Emblema de vuelo sombrío",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_ChainVest"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/darkflight_craftable.png"
+    },
+    {
+      "apiName": "TFT5_Item_DawnbringerEmblemItem",
+      "name": "Dawnbringer Emblem",
+      "name_es": "Emblema de guerrero del orden",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_GiantsBelt",
+        "TFT_Item_Spatula"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/dawnbringer.png"
+    },
+    {
+      "apiName": "TFT16_Item_DefenderEmblemItem",
+      "name": "Defender Emblem",
+      "name_es": "Emblema de defensor",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_ChainVest"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_defender.tft_set16.png"
+    },
+    {
+      "apiName": "TFT16_Item_DemaciaEmblemItem",
+      "name": "Demacia Emblem",
+      "name_es": "Emblema de Demacia",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_ChainVest"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_demacia.tft_set16.png"
+    },
+    {
+      "apiName": "TFT16_Item_MagusEmblemItem",
+      "name": "Disruptor Emblem",
+      "name_es": "Emblema de disruptor",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_disruptor.tft_set16.png"
+    },
+    {
+      "apiName": "TFT4_Item_DivineEmblemItem",
+      "name": "Divine Emblem",
+      "name_es": "Emblema de divino",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_BFSword"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set4/tft_sr4_5_emblem_divine_128.png"
+    },
+    {
+      "apiName": "TFT5_Item_DraconicEmblemItem",
+      "name": "Draconic Emblem",
+      "name_es": "Emblema de dracónico",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_NeedlesslyLargeRod",
+        "TFT_Item_FryingPan"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/draconic.png"
+    },
+    {
+      "apiName": "TFT7_Augment_DragonmancerEmblem",
+      "name": "Dragonmancer Crest",
+      "name_es": "Blasón de dragomante",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/dragonmancer-crest-ii.png"
+    },
+    {
+      "apiName": "TFT7_Augment_DragonmancerEmblem2",
+      "name": "Dragonmancer Crown",
+      "name_es": "Corona de dragomante",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/dragonmancer-soul-iii.png"
+    },
+    {
+      "apiName": "TFT7_Item_DragonmancerEmblemItem",
+      "name": "Dragonmancer Emblem",
+      "name_es": "Emblema de dragomante",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_NeedlesslyLargeRod"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/dragonmancer.png"
+    },
+    {
+      "apiName": "TFT5_Item_DragonslayerEmblemItem",
+      "name": "Dragonslayer Emblem",
+      "name_es": "Emblema de matadragones",
+      "type": "emblem",
+      "composition": [
+        "TFT5_Item_NeedlesslyLargeRodShadow",
+        "TFT5_Item_SpatulaShadow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/dragonslayer.png"
+    },
+    {
+      "apiName": "TFT4_Item_DragonsoulEmblemItem",
+      "name": "Dragonsoul Emblem",
+      "name_es": "Emblema de alma de dragón",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_NeedlesslyLargeRod",
+        "TFT_Item_Spatula"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set4/tft_sr4_5_emblem_dragonsoul_128.png"
+    },
+    {
+      "apiName": "TFT4_Item_DuelistEmblemItem",
+      "name": "Duelist Emblem",
+      "name_es": "Emblema de duelista",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_RecurveBow",
+        "TFT_Item_FryingPan"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set4/tft_sr4_5_emblem_duelist_128.png"
+    },
+    {
+      "apiName": "TFT4_Item_DuskEmblemItem",
+      "name": "Dusk Emblem",
+      "name_es": "Emblema de anochecer",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/mystic.png"
+    },
+    {
+      "apiName": "TFT4_Item_ElderwoodEmblemItem",
+      "name": "Elderwood Emblem",
+      "name_es": "Emblema de Bosque ancestral",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_NegatronCloak",
+        "TFT_Item_Spatula"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set4/tft_sr4_emblem_elderwood_2026_128.png"
+    },
+    {
+      "apiName": "TFT4_Item_EnlightenedEmblemItem",
+      "name": "Enlightened Emblem",
+      "name_es": "Emblema de iluminado",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_TearOfTheGoddess",
+        "TFT_Item_Spatula"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set4/tft_sr4_5_emblem_enlightened_128.png"
+    },
+    {
+      "apiName": "TFT7_Augment_EvokerEmblem",
+      "name": "Evoker Crest",
+      "name_es": "Blasón de evocador",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/evoker-crest-ii.png"
+    },
+    {
+      "apiName": "TFT7_Augment_EvokerEmblem2",
+      "name": "Evoker Crown",
+      "name_es": "Corona de evocador",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/evoker-crown-iii.png"
+    },
+    {
+      "apiName": "TFT7_Item_EvokerEmblemItem",
+      "name": "Evoker Emblem",
+      "name_es": "Emblema de evocador",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/evoker.png"
+    },
+    {
+      "apiName": "TFT5_Item_ForgottenEmblemItem",
+      "name": "Forgotten Emblem",
+      "name_es": "Emblema de olvidado",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_BFSword",
+        "TFT_Item_FryingPan"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/forgotten.png"
+    },
+    {
+      "apiName": "TFT4_Item_FortuneEmblemItem",
+      "name": "Fortune Emblem",
+      "name_es": "Emblema de fortuna",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_SparringGloves",
+        "TFT_Item_Spatula"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set4/tft_sr4_emblem_fortune_2026_128.png"
+    },
+    {
+      "apiName": "TFT16_Item_FreljordEmblemItem",
+      "name": "Freljord Emblem",
+      "name_es": "Emblema de Freljord",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_freljord.tft_set16.png"
+    },
+    {
+      "apiName": "TFT7_Augment_GuardianEmblem",
+      "name": "Guardian Crest",
+      "name_es": "Blasón de guardián",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/guardian-crest-ii.png"
+    },
+    {
+      "apiName": "TFT7_Augment_GuardianEmblem2",
+      "name": "Guardian Crown",
+      "name_es": "Corona de guardián",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/guardian-crown-iii.png"
+    },
+    {
+      "apiName": "TFT7_Item_GuardianEmblemItem",
+      "name": "Guardian Emblem",
+      "name_es": "Emblema de guardián",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/guardian.png"
+    },
+    {
+      "apiName": "TFT7_Augment_GuildEmblem",
+      "name": "Guild Crest",
+      "name_es": "Blasón del gremio",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/guild-crest-ii.png"
+    },
+    {
+      "apiName": "TFT7_Augment_GuildEmblem2",
+      "name": "Guild Crown",
+      "name_es": "Corona del gremio",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/guild-crown-iii.png"
+    },
+    {
+      "apiName": "TFT7_Item_GuildEmblemItem",
+      "name": "Guild Emblem",
+      "name_es": "Emblema de gremio",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_NeedlesslyLargeRod"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/guild_craftable.png"
+    },
+    {
+      "apiName": "TFT16_Item_GunslingerEmblemItem",
+      "name": "Gunslinger Emblem",
+      "name_es": "Emblema de pistolero",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_gunslinger.tft_set16.png"
+    },
+    {
+      "apiName": "TFT5_Item_HellionEmblemItem",
+      "name": "Hellion Emblem",
+      "name_es": "Emblema de infernal",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_RecurveBow",
+        "TFT_Item_Spatula"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/hellion.png"
+    },
+    {
+      "apiName": "TFT5_Item_InvokerEmblemItem",
+      "name": "Invoker Emblem",
+      "name_es": "Emblema de conjurador",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/invoker.png"
+    },
+    {
+      "apiName": "TFT16_Item_IoniaEmblemItem",
+      "name": "Ionia Emblem",
+      "name_es": "Emblema de Jonia",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_NeedlesslyLargeRod"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_ionia.tft_set16.png"
+    },
+    {
+      "apiName": "TFT5_Item_IroncladEmblemItem",
+      "name": "Ironclad Emblem",
+      "name_es": "Emblema de acorazado",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/ironclad.png"
+    },
+    {
+      "apiName": "TFT16_Item_IxtalEmblemItem",
+      "name": "Ixtal Emblem",
+      "name_es": "Emblema de Ixtal",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_ixtal.tft_set16.png"
+    },
+    {
+      "apiName": "TFT7_Augment_JadeEmblem",
+      "name": "Jade Crest",
+      "name_es": "Blasón de jade",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/jade-crest-i.png"
+    },
+    {
+      "apiName": "TFT7_Item_JadeEmblemItem",
+      "name": "Jade Emblem",
+      "name_es": "Emblema de jade",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_TearOfTheGoddess"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/jade_craftable.png"
+    },
+    {
+      "apiName": "TFT16_Item_JuggernautEmblemItem",
+      "name": "Juggernaut Emblem",
+      "name_es": "Emblema de coloso",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_NegatronCloak"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_juggernaut.tft_set16.png"
+    },
+    {
+      "apiName": "TFT4_Item_KeeperEmblemItem",
+      "name": "Keeper Emblem",
+      "name_es": "Emblema de custodio",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_NegatronCloak",
+        "TFT_Item_FryingPan"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set4/tft_sr4_emblem_keeper_2026_128.png"
+    },
+    {
+      "apiName": "TFT5_Item_KnightEmblemItem",
+      "name": "Knight Emblem",
+      "name_es": "Emblema de caballero",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/knight.png"
+    },
+    {
+      "apiName": "TFT7_Augment_LagoonEmblem",
+      "name": "Lagoon Crest",
+      "name_es": "Blasón de laguna",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/lagooncrest-2.png"
+    },
+    {
+      "apiName": "TFT7_Augment_LagoonEmblem2",
+      "name": "Lagoon Crown",
+      "name_es": "Corona de laguna",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/lagooncrown-3.png"
+    },
+    {
+      "apiName": "TFT7_Item_LagoonEmblemItem",
+      "name": "Lagoon Emblem",
+      "name_es": "Emblema de laguna",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/lagoon.png"
+    },
+    {
+      "apiName": "TFT7_Item_LegendEmblemItem",
+      "name": "Legend Emblem",
+      "name_es": "Emblema de leyenda",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/legend.png"
+    },
+    {
+      "apiName": "TFT5_Item_LegionnaireEmblemItem",
+      "name": "Legionnaire Emblem",
+      "name_es": "Emblema de legionario",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_RecurveBow",
+        "TFT_Item_FryingPan"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/vanquisher.png"
+    },
+    {
+      "apiName": "TFT16_Item_LongshotEmblemItem",
+      "name": "Longshot Emblem",
+      "name_es": "Emblema de tiro largo",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_longshot.tft_set16.png"
+    },
+    {
+      "apiName": "TFT7_Augment_MageEmblem",
+      "name": "Mage Crest",
+      "name_es": "Blasón de mago",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/mage-crest-ii.png"
+    },
+    {
+      "apiName": "TFT7_Augment_MageEmblem2",
+      "name": "Mage Crown",
+      "name_es": "Corona de mago",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/mage-crown-iii.png"
+    },
+    {
+      "apiName": "TFT7_Item_MageEmblemItem",
+      "name": "Mage Emblem",
+      "name_es": "Emblema de mago",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_TearOfTheGoddess"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/mage.png"
+    },
+    {
+      "apiName": "TFT17_Item_MeleeTraitEmblemItem",
+      "name": "Marauder Emblem",
+      "name_es": "Emblema de yelmo sombrío",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_BFSword"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set17/tft17_emblem_marauder.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Item_AstronautEmblemItem",
+      "name": "Meeple Emblem",
+      "name_es": "Emblema de Meeple",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_ChainVest"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set17/tft17_emblem_meeple.tft_set17.png"
+    },
+    {
+      "apiName": "TFT7_Augment_MirageEmblem",
+      "name": "Mirage Crest",
+      "name_es": "Blasón de espejismo",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/mirage-crest-ii.png"
+    },
+    {
+      "apiName": "TFT7_Augment_MirageEmblem2",
+      "name": "Mirage Crown",
+      "name_es": "Corona de espejismo",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/mirage-crown-iii.png"
+    },
+    {
+      "apiName": "TFT7_Item_MirageEmblemItem",
+      "name": "Mirage Emblem",
+      "name_es": "Emblema de espejismo",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_NegatronCloak"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/mirage.png"
+    },
+    {
+      "apiName": "TFT7_Augment_MysticEmblem",
+      "name": "Mystic Crest",
+      "name_es": "Blasón de místico",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/mystic-crest-ii.png"
+    },
+    {
+      "apiName": "TFT5_Item_MysticEmblemItem",
+      "name": "Mystic Emblem",
+      "name_es": "Emblema de místico",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/mystic.png"
+    },
+    {
+      "apiName": "TFT17_Item_DRXEmblemItem",
+      "name": "N.O.V.A. Emblem",
+      "name_es": "Emblema de N.O.V.A.",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set17/tft17_emblem_nova.tft_set17.png"
+    },
+    {
+      "apiName": "TFT5_Item_NightbringerEmblemItem",
+      "name": "Nightbringer Emblem",
+      "name_es": "Emblema de heraldo del caos",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_TearOfTheGoddess",
+        "TFT_Item_FryingPan"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/nightbringer.png"
+    },
+    {
+      "apiName": "TFT16_Item_NoxusEmblemItem",
+      "name": "Noxus Emblem",
+      "name_es": "Emblema de Noxus",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_BFSword"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_noxus.tft_set16.png"
+    },
+    {
+      "apiName": "TFT16_Item_PiltoverEmblemItem",
+      "name": "Piltover Emblem",
+      "name_es": "Emblema de Piltover",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_piltover.tft_set16.png"
+    },
+    {
+      "apiName": "TFT17_Item_PrimordianEmblemItem",
+      "name": "Primordian Emblem",
+      "name_es": "Emblema de primordiano",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set17/tft17_emblem_primordian.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Item_PsyOpsEmblemItem",
+      "name": "Psionic Emblem",
+      "name_es": "Emblema de psiónico",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set17/tft17_emblem_psyops.tft_set17.png"
+    },
+    {
+      "apiName": "TFT16_Item_RapidfireEmblemItem",
+      "name": "Quickstriker Emblem",
+      "name_es": "Emblema de impactoveloz",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_RecurveBow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_quickstriker.tft_set16.png"
+    },
+    {
+      "apiName": "TFT7_Augment_RagewingEmblem",
+      "name": "Ragewing Crest",
+      "name_es": "Blasón de alafuria",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/ragewing-crest-ii.png"
+    },
+    {
+      "apiName": "TFT7_Item_RagewingEmblemItem",
+      "name": "Ragewing Emblem",
+      "name_es": "Emblema de alafuria",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/ragewing.png"
+    },
+    {
+      "apiName": "TFT7_Augment_RagewingEmblem2",
+      "name": "Ragewing Soul",
+      "name_es": "Alma de alafuria",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/ragewing-crown-iii.png"
+    },
+    {
+      "apiName": "TFT17_MarketOffering_RandomEmblem",
+      "name": "Random Emblem",
+      "name_es": "Emblema aleatorio",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft17_carouselmarket_sacrifice.tft_set17.png"
+    },
+    {
+      "apiName": "TFT5_Item_RangerEmblemItem",
+      "name": "Ranger Emblem",
+      "name_es": "Emblema de cazador",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/ranger.png"
+    },
+    {
+      "apiName": "TFT5_Item_RedeemedEmblemItem",
+      "name": "Redeemed Emblem",
+      "name_es": "Emblema de redimido",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_NegatronCloak",
+        "TFT_Item_Spatula"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/redeemed.png"
+    },
+    {
+      "apiName": "TFT5_Item_RenewerEmblemItem",
+      "name": "Renewer Emblem",
+      "name_es": "Emblema de restaurador",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_TearOfTheGoddess",
+        "TFT_Item_Spatula"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/rejuvenator.png"
+    },
+    {
+      "apiName": "TFT7_Augment_RevelEmblem",
+      "name": "Revel Crest",
+      "name_es": "Blasón del deleite",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/revel-crest-ii.png"
+    },
+    {
+      "apiName": "TFT7_Augment_RevelEmblem2",
+      "name": "Revel Crown",
+      "name_es": "Corona del deleite",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/revel-crown-iii.png"
+    },
+    {
+      "apiName": "TFT7_Item_RevelEmblemItem",
+      "name": "Revel Emblem",
+      "name_es": "Emblema del deleite",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/revel.png"
+    },
+    {
+      "apiName": "TFT5_Item_RevenantEmblemItem",
+      "name": "Revenant Emblem",
+      "name_es": "Emblema de renacido",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_NegatronCloak",
+        "TFT_Item_FryingPan"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/revenant.png"
+    },
+    {
+      "apiName": "TFT17_Item_AssassinTraitEmblemItem",
+      "name": "Rogue Emblem",
+      "name_es": "Emblema de pícaro",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set17/tft17_emblem_rogue.tft_set17.png"
+    },
+    {
+      "apiName": "TFT7_Augment_ScalescornEmblem",
+      "name": "Scalescorn Crest",
+      "name_es": "Blasón de destrizaescamas",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/dragonbane-crest-ii.png"
+    },
+    {
+      "apiName": "TFT7_Augment_ScalescornEmblem2",
+      "name": "Scalescorn Crown",
+      "name_es": "Corona de destrizaescamas",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/dragonbane-crown-iii.png"
+    },
+    {
+      "apiName": "TFT7_Item_ScalescornEmblemItem",
+      "name": "Scalescorn Emblem",
+      "name_es": "Emblema de destrizaescamas",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/dragonbane.png"
+    },
+    {
+      "apiName": "TFT5_Item_SentinelEmblemItem",
+      "name": "Sentinel Emblem",
+      "name_es": "Emblema de centinela",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_ChainVest",
+        "TFT_Item_FryingPan"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/sentinel.png"
+    },
+    {
+      "apiName": "TFT17_Item_SummonTraitEmblemItem",
+      "name": "Shepherd Emblem",
+      "name_es": "Emblema de pastor",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_TearOfTheGoddess"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set17/tft17_emblem_sheperd.tft_set17.png"
+    },
+    {
+      "apiName": "TFT7_Augment_ShimmerscaleEmblem",
+      "name": "Shimmerscale Crest",
+      "name_es": "Blasón de brilloescama",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/shimmerscale-crest-i.png"
+    },
+    {
+      "apiName": "TFT7_Item_ShimmerscaleEmblemItem",
+      "name": "Shimmerscale Emblem",
+      "name_es": "Emblema de brilloescama",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_BFSword"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/shimmerscale.png"
+    },
+    {
+      "apiName": "TFT5_Item_SkirmisherEmblemItem",
+      "name": "Skirmisher Emblem",
+      "name_es": "Emblema de escaramuzador",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_BFSword"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/skirmisher.png"
+    },
+    {
+      "apiName": "TFT16_Item_SlayerEmblemItem",
+      "name": "Slayer Emblem",
+      "name_es": "Emblema de verdugo",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_BFSword"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_slayer.tft_set16.png"
+    },
+    {
+      "apiName": "TFT17_Item_RangedTraitEmblemItem",
+      "name": "Sniper Emblem",
+      "name_es": "Emblema de francotirador",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set17/tft17_emblem_sniper.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Item_SpaceGrooveEmblemItem",
+      "name": "Space Groove Emblem",
+      "name_es": "Emblema de onda espacial",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_TearOfTheGoddess"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set17/tft17_emblem_spacegroove.tft_set17.png"
+    },
+    {
+      "apiName": "TFT5_Item_SpellweaverEmblemItem",
+      "name": "Spellweaver Emblem",
+      "name_es": "Emblema de tejehechizos",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_NeedlesslyLargeRod",
+        "TFT_Item_Spatula"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set5/spellweaver.png"
+    },
+    {
+      "apiName": "TFT4_Item_SpiritEmblemItem",
+      "name": "Spirit Emblem",
+      "name_es": "Emblema de espíritu",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_RecurveBow",
+        "TFT_Item_Spatula"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set4/tft_sr4_5_emblem_spirit_128.png"
+    },
+    {
+      "apiName": "TFT17_Item_StargazerEmblemItem",
+      "name": "Stargazer Emblem",
+      "name_es": "Emblema de astral",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_NeedlesslyLargeRod"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set17/tft17_emblem_stargazer.tft_set17.png"
+    },
+    {
+      "apiName": "TFT7_Augment_SwiftshotEmblem",
+      "name": "Swiftshot Crest",
+      "name_es": "Blasón de tiroveloz",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/swiftshot-crest-ii.png"
+    },
+    {
+      "apiName": "TFT7_Augment_SwiftshotEmblem2",
+      "name": "Swiftshot Crown",
+      "name_es": "Corona de tiroveloz",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/swiftshot-crown-iii.png"
+    },
+    {
+      "apiName": "TFT7_Item_SwiftshotEmblemItem",
+      "name": "Swiftshot Emblem",
+      "name_es": "Emblema de tiroveloz",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_RecurveBow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/swiftshot_craftable.png"
+    },
+    {
+      "apiName": "TFT4_Item_SyphonerEmblemItem",
+      "name": "Syphoner Emblem",
+      "name_es": "Emblema de sifonador",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_NeedlesslyLargeRod",
+        "TFT_Item_FryingPan"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set4/tft_sr4_5_emblem_syphoner_128.png"
+    },
+    {
+      "apiName": "TFT7_Augment_TempestEmblem",
+      "name": "Tempest Crest",
+      "name_es": "Blasón de tempestad",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/tempest-crest-ii.png"
+    },
+    {
+      "apiName": "TFT7_Augment_TempestEmblem2",
+      "name": "Tempest Crown",
+      "name_es": "Corona de tempestad",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/tempest-crown-iii.png"
+    },
+    {
+      "apiName": "TFT7_Item_TempestEmblemItem",
+      "name": "Tempest Emblem",
+      "name_es": "Emblema de tempestad",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_RecurveBow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/tempest_craftable.png"
+    },
+    {
+      "apiName": "TFT17_Item_PulsefireEmblemItem",
+      "name": "Timebreaker Emblem",
+      "name_es": "Emblema de disruptor temporal",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_RecurveBow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set17/tft17_emblem_timebreaker.tft_set17.png"
+    },
+    {
+      "apiName": "TFT7_Item_TrainerEmblemItem",
+      "name": "Trainer Emblem",
+      "name_es": "Emblema de domador",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/trainer.png"
+    },
+    {
+      "apiName": "TFT4_Item_VanguardEmblemItem",
+      "name": "Vanguard Emblem",
+      "name_es": "Emblema de vanguardia",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_ChainVest",
+        "TFT_Item_FryingPan"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set4/tft_sr4_5_emblem_vanguard_128.png"
+    },
+    {
+      "apiName": "TFT16_Item_VanquisherEmblemItem",
+      "name": "Vanquisher Emblem",
+      "name_es": "Emblema de conquistador",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_vanquisher.tft_set16.png"
+    },
+    {
+      "apiName": "TFT16_Item_VoidEmblemItem",
+      "name": "Void Emblem",
+      "name_es": "Emblema del Vacío",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_RecurveBow"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_void.tft_set16.png"
+    },
+    {
+      "apiName": "TFT17_Item_FlexTraitEmblemItem",
+      "name": "Voyager Emblem",
+      "name_es": "Emblema de viajante",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_NeedlesslyLargeRod"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set17/tft17_emblem_voyager.tft_set17.png"
+    },
+    {
+      "apiName": "TFT16_Item_WardenEmblemItem",
+      "name": "Warden Emblem",
+      "name_es": "Emblema de guardián",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_warden.tft_set16.png"
+    },
+    {
+      "apiName": "TFT4_Item_WarlordEmblemItem",
+      "name": "Warlord Emblem",
+      "name_es": "Emblema de señor de la guerra",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set4/tft_sr4_5_emblem_warlord_128.png"
+    },
+    {
+      "apiName": "TFT7_Augment_WarriorEmblem",
+      "name": "Warrior Crest",
+      "name_es": "Blasón de guerrero",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/warrior-crest-ii.png"
+    },
+    {
+      "apiName": "TFT7_Augment_WarriorEmblem2",
+      "name": "Warrior Crown",
+      "name_es": "Corona de guerrero",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/warrior-crownl-iii.png"
+    },
+    {
+      "apiName": "TFT7_Item_WarriorEmblemItem",
+      "name": "Warrior Emblem",
+      "name_es": "Emblema de guerrero",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_FryingPan",
+        "TFT_Item_NegatronCloak"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/warrior_craftable.png"
+    },
+    {
+      "apiName": "TFT7_Augment_WhispersEmblem",
+      "name": "Whispers Crest",
+      "name_es": "Blasón de susurrante",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/whispers-crest-ii.png"
+    },
+    {
+      "apiName": "TFT7_Augment_WhispersEmblem2",
+      "name": "Whispers Crown",
+      "name_es": "Corona de susurrante",
+      "type": "emblem",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/whispers-crown-iii.png"
+    },
+    {
+      "apiName": "TFT7_Item_WhispersEmblemItem",
+      "name": "Whispers Emblem",
+      "name_es": "Emblema de susurrante",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_GiantsBelt"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set7/whispers_craftable.png"
+    },
+    {
+      "apiName": "TFT16_Item_YordleEmblemItem",
+      "name": "Yordle Emblem",
+      "name_es": "Emblema de yordle",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_NegatronCloak"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_yordle.tft_set16.png"
+    },
+    {
+      "apiName": "TFT16_Item_ZaunEmblemItem",
+      "name": "Zaun Emblem",
+      "name_es": "Emblema de Zaun",
+      "type": "emblem",
+      "composition": [
+        "TFT_Item_Spatula",
+        "TFT_Item_SparringGloves"
+      ],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/spatula/set16/tft16_emblem_zaun.tft_set16.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_AegisOfDawn",
+      "name": "Aegis of Dawn",
+      "name_es": "Égida del amanecer",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_aegisofdawn.tft_set16.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_AegisOfDusk",
+      "name": "Aegis of Dusk",
+      "name_es": "Égida del anochecer",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_aegisofdusk.tft_set16.png"
+    },
+    {
+      "apiName": "TFT17_Item_Artifact_AhriArtifact",
+      "name": "Ahri's Aura",
+      "name_es": "Aura de Ahri",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft17_item_artifact_ahrirhythm.tft_set17.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_BlightingJewel",
+      "name": "Artifact Expert: Blighting Jewel",
+      "name_es": "Pericia en artefactos: Joya de la plaga",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_Dawncore",
+      "name": "Artifact Expert: Dawncore",
+      "name_es": "Pericia en artefactos: Corazón del alba",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_DeathfireGrasp",
+      "name": "Artifact Expert: Deathfire Grasp",
+      "name_es": "Pericia en artefactos: Tenaza de muerte ígnea",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_Fishbones",
+      "name": "Artifact Expert: Fishbones",
+      "name_es": "Pericia en artefactos: Espinas",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_NavoriFlickerblades",
+      "name": "Artifact Expert: Flickerblade",
+      "name_es": "Pericia en artefactos: Filofugaz",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_HorizonFocus",
+      "name": "Artifact Expert: Horizon Focus",
+      "name_es": "Pericia en artefactos: Precisión infalible",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_Hullbreaker",
+      "name": "Artifact Expert: Hullbreaker",
+      "name_es": "Pericia en artefactos: Rompecascos",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_InnvervatingLocket",
+      "name": "Artifact Expert: Innervating Locket",
+      "name_es": "Pericia en artefactos: Medallón estimulante",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_LichBane",
+      "name": "Artifact Expert: Lich Bane",
+      "name_es": "Pericia en artefactos: Perdición del liche",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_LightshieldCrest",
+      "name": "Artifact Expert: Lightshield Crest",
+      "name_es": "Pericia en artefactos: Blasón de Escudo de luz",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_LudensTempest",
+      "name": "Artifact Expert: Luden's Tempest",
+      "name_es": "Pericia en artefactos: Tempestad de Luden",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_Manazane",
+      "name": "Artifact Expert: Manazane",
+      "name_es": "Pericia en artefactos: Manazane",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_ProwlersClaw",
+      "name": "Artifact Expert: Prowler's Claw",
+      "name_es": "Pericia en artefactos: Garra de merodeador",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_SeekersArmguard",
+      "name": "Artifact Expert: Seeker's Armguard",
+      "name_es": "Pericia en artefactos: Brazalete de la buscadora",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_SnipersFocus",
+      "name": "Artifact Expert: Sniper's Focus",
+      "name_es": "Pericia en artefactos: Concentración de francotirador",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_SpectralCutlass",
+      "name": "Artifact Expert: Spectral Cutlass",
+      "name_es": "Pericia en artefactos: Sable espectral",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_TalismanOfAscension",
+      "name": "Artifact Expert: Talisman Of Ascension",
+      "name_es": "Pericia en artefactos: Emblema de la ascensión",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_IndomitableGauntlet",
+      "name": "Artifact Expert: The Indomitable",
+      "name_es": "Pericia en artefactos: Indomable",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_TitanicHydra",
+      "name": "Artifact Expert: Titanic Hydra",
+      "name_es": "Pericia en artefactos: Hidra titánica",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_UnendingDespair",
+      "name": "Artifact Expert: Unending Despair",
+      "name_es": "Pericia en artefactos: Desesperanza eterna",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_WitsEnd",
+      "name": "Artifact Expert: Wits End",
+      "name_es": "Pericia en artefactos: Final del ingenio",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_ZhonyasParadox",
+      "name": "Artifact Expert: Zhonya's Paradox",
+      "name_es": "Pericia en artefactos: Paradoja de Zhonya",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT17_MarketOffering_DelayedRandomArtifact",
+      "name": "Artifact Item",
+      "name_es": "Objeto (artefacto)",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/pairs/doubleup_assistarmory_randomitem_ornn.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_BlightingJewel",
+      "name": "Blighting Jewel",
+      "name_es": "Joya de la plaga",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_blightingjewel.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_CappaJuice",
+      "name": "Cappa Juice",
+      "name_es": "Zumito de la risa",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft16_artifact_kappajuice.tft_set16.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_CursedVampiricScepter",
+      "name": "Corrupt Vampiric Scepter",
+      "name_es": "Cetro vampírico corrupto",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_cursedvampiricscepter.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_CursedBlade",
+      "name": "Cursed Blade",
+      "name_es": "Hoja maldita",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/ornn_items/tft_item_artifact_cursedblade.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_Dawncore",
+      "name": "Dawncore",
+      "name_es": "Corazón del alba",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_dawncore.tft_set15.png"
+    },
+    {
+      "apiName": "TFT17_Item_Artifact_EkkoArtifact",
+      "name": "Ekko's Patience",
+      "name_es": "Paciencia de Ekko",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft17_item_artifact_ekkopatience.tft_set17.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_EternalPact",
+      "name": "Eternal Pact",
+      "name_es": "Pacto eterno",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft16_artifact_eternalpact.tft_set16.png"
+    },
+    {
+      "apiName": "TFT17_Item_Artifact_EvelynnArtifact",
+      "name": "Evelynn's Instinct",
+      "name_es": "Instinto de Evelynn",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft17_item_artifact_evelynnfang.tft_set17.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_Fishbones",
+      "name": "Fishbones",
+      "name_es": "Espinas",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_fishbones.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_NavoriFlickerblades",
+      "name": "Flickerblades",
+      "name_es": "Filofugaz",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_navoriflickerplade.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_ForbiddenIdol",
+      "name": "Forbidden Idol",
+      "name_es": "Ídolo prohibido",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_forbiddenidol.tft_set13.png"
+    },
+    {
+      "apiName": "TFT17_MarketOffering_ArtifactAnvil",
+      "name": "God Artifact Anvil",
+      "name_es": "Yunque de artefacto divino",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft_armorykeyornn/hud/tft_armorykeyornn_square.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_HellfireHatchet",
+      "name": "Hellfire Hatchet",
+      "name_es": "Hacha infernal",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_hellfirehatchet.tft_set16.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_HorizonFocus",
+      "name": "Horizon Focus",
+      "name_es": "Precisión infalible",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_horizonfocus.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_InnervatingLocket",
+      "name": "Innervating Locket",
+      "name_es": "Medallón estimulante",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_innervatinglocket.tft_set13.png"
+    },
+    {
+      "apiName": "TFT17_Item_Artifact_KayleArtifact",
+      "name": "Kayle's Exaltation",
+      "name_es": "Exaltación de Kayle",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft17_item_artifact_kaylegreatsword.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Item_Artifact_KayleArtifact_Radiant",
+      "name": "Kayle's Radiant Exaltation",
+      "name_es": "Exaltación radiante de Kayle",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft17_item_artifact_kaylegreatsword.tft_set17.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_LesserMirroredPersona",
+      "name": "Lesser Mirrored Persona",
+      "name_es": "Un mismo ser inferior",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft16_artifact_lessermirroredpersona.tft_set16.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_LichBane",
+      "name": "Lich Bane",
+      "name_es": "Perdición del liche",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/ornn_items/tft_item_artifact_lichbane.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_LightshieldCrest",
+      "name": "Lightshield Crest",
+      "name_es": "Blasón de Escudo de luz",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_lightshieldcrest.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_LudensTempest",
+      "name": "Luden's Tempest",
+      "name_es": "Tempestad de Luden",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_ludenstempest.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_MendingEchoes",
+      "name": "Mending Echoes",
+      "name_es": "Ecos curativos",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft16_artifact_mendingechoes.tft_set16.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_MirroredPersona",
+      "name": "Mirrored Persona",
+      "name_es": "Un mismo ser",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft16_artifact_mirroredpersona.tft_set16.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_Mittens",
+      "name": "Mittens",
+      "name_es": "Mitones",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_mittens.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_ProwlersClaw",
+      "name": "Prowler's Claw",
+      "name_es": "Garra de merodeador",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_prowlersclaw.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_RapidFirecannon",
+      "name": "Rapid Firecannon",
+      "name_es": "Cañón de fuego rápido",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_rapidfirecannon.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_SeekersArmguard",
+      "name": "Seeker's Armguard",
+      "name_es": "Brazalete de la buscadora",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_seekersarmguard.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_ShadowPuppet",
+      "name": "Shadow Puppet",
+      "name_es": "Marioneta en las sombras",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft16_artifact_shadowpuppet.tft_set16.png"
+    },
+    {
+      "apiName": "TFT16_Augment_ArtifactExpert_Shiv",
+      "name": "Shiv Expert: Twisted Fate",
+      "name_es": "Pericia en puñales: Twisted Fate",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/missing-t3.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_SilvermereDawn",
+      "name": "Silvermere Dawn",
+      "name_es": "Amanecer de Meraplata",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_silvermeredawn.tft_set13.png"
+    },
+    {
+      "apiName": "TFT17_Item_Artifact_SorakaArtifact",
+      "name": "Soraka's Miracle",
+      "name_es": "Milagro de Soraka",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft17_item_artifact_sorakamiracle.tft_set17.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_SpectralCutlass",
+      "name": "Spectral Cutlass",
+      "name_es": "Sable espectral",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_spectralcutlass.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_StatikkShiv",
+      "name": "Statikk Shiv",
+      "name_es": "Puñal de Statikk",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_stattikshiv.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_SuspiciousTrenchCoat",
+      "name": "Suspicious Trench Coat",
+      "name_es": "Gabardina sospechosa",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_suspicioustrenchcoat.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_TalismanOfAscension",
+      "name": "Talisman Of Ascension",
+      "name_es": "Emblema de la ascensión",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_talismanofascension.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_TheIndomitable",
+      "name": "The Indomitable",
+      "name_es": "Indomable",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_theindomitable.png"
+    },
+    {
+      "apiName": "TFT17_Item_Artifact_ThreshLantern",
+      "name": "Thresh's Lantern",
+      "name_es": "Linterna de Thresh",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft17_item_artifact_threshlantern.tft_set17.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_TitanicHydra",
+      "name": "Titanic Hydra",
+      "name_es": "Hidra titánica",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_titanichydra.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_UnendingDespair",
+      "name": "Unending Despair",
+      "name_es": "Desesperanza eterna",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_unendingdespair.tft_set13.png"
+    },
+    {
+      "apiName": "TFT17_Item_Artifact_VarusArtifact",
+      "name": "Varus's Obsession",
+      "name_es": "Obsesión de Varus",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft17_item_artifact_varusobsession.tft_set17.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_VoidGauntlet",
+      "name": "Void Gauntlet",
+      "name_es": "Guantelete del Vacío",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft16_artifact_voidgauntlet.tft_set16.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_WitsEnd",
+      "name": "Wit's End",
+      "name_es": "Final del ingenio",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_witsend.tft_set13.png"
+    },
+    {
+      "apiName": "TFT_Item_Artifact_WitheringRelic",
+      "name": "Withered Relic",
+      "name_es": "Reliquia marchita",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_artifact_witheringrelic.tft_set16.png"
+    },
+    {
+      "apiName": "TFT17_Item_Artifact_YasuoArtifact",
+      "name": "Yasuo's Bladework",
+      "name_es": "Esgrima de Yasuo",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft17_item_artifact_yasuobladework.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Item_Artifact_ZekesHeraldShadow",
+      "name": "Zeke's Bleak Herald",
+      "name_es": "Heraldo desolador de Zeke",
+      "type": "artifact",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/shadow/s_zekes_herald.png"
+    },
+    {
+      "apiName": "TFT17_Item_PsyOps_GrenadeMod_Radiant",
+      "name": "Biomatter Preserver",
+      "name_es": "Preservador de biomateria",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft17_psyops_mod_grenademod.tft_set17.png"
+    },
+    {
+      "apiName": "TFT5_Item_ChaliceOfPowerRadiant",
+      "name": "Chalice of Charity",
+      "name_es": "Cáliz de caridad",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/radiant/chalice_of_power_radiant.png"
+    },
+    {
+      "apiName": "TFT17_Item_PsyOps_DroneMod_Radiant",
+      "name": "Drone Uplink",
+      "name_es": "Conexión de dron",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft17_psyops_mod_dronemod.tft_set17.png"
+    },
+    {
+      "apiName": "TFT5_Item_LocketOfTheIronSolariRadiant",
+      "name": "Locket of Targon Prime",
+      "name_es": "Medallón de la cumbre de Targon",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/radiant/locket_of_the_iron_solari_radiant.png"
+    },
+    {
+      "apiName": "TFT17_Item_PsyOps_ChemicalCapacitorMod_Radiant",
+      "name": "Malware Matrix",
+      "name_es": "Matriz de malware",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft17_psyops_mod_chemicalcapacitormod.tft_set17.png"
+    },
+    {
+      "apiName": "TFT5_Item_ZephyrRadiant",
+      "name": "Mistral",
+      "name_es": "Mistral",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/radiant/zephyr_radiant.png"
+    },
+    {
+      "apiName": "TFT9_Augment_PandorasRadiantBox",
+      "name": "Pandora's Items III",
+      "name_es": "Objetos de Pandora III",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/augments/hexcore/pandora3.png"
+    },
+    {
+      "apiName": "TFT5_Item_AdaptiveHelmRadiant",
+      "name": "Radiant Adaptive Helm",
+      "name_es": "Yelmo adaptable radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_adaptivehelmradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_ArchangelsStaffRadiant",
+      "name": "Radiant Archangel's Staff",
+      "name_es": "Bastón del arcángel radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_archangelsstaffradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_BloodthirsterRadiant",
+      "name": "Radiant Bloodthirster",
+      "name_es": "Sanguinaria radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_bloodthirsterradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_BlueBuffRadiant",
+      "name": "Radiant Blue Buff",
+      "name_es": "Mejora azul radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_bluebuffradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_BrambleVestRadiant",
+      "name": "Radiant Bramble Vest",
+      "name_es": "Chaleco de zarzas radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_bramblevestradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT7_Item_ShimmerscaleCrownOfChampions_Radiant",
+      "name": "Radiant Crown of Champions",
+      "name_es": "Corona de campeones radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/set7_shimmerscale/shimmerscale_crownofchampions_radiant.png"
+    },
+    {
+      "apiName": "TFT5_Item_CrownguardRadiant",
+      "name": "Radiant Crownguard",
+      "name_es": "Regiaguardia radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_crownguardradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_DeathbladeRadiant",
+      "name": "Radiant Deathblade",
+      "name_es": "Filo mortal radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_deathbladeradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT7_Item_ShimmerscaleDeterminedInvestor_Radiant",
+      "name": "Radiant Determined Investor",
+      "name_es": "Inversor resuelto radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/set7_shimmerscale/shimmerscale_determinedinvestor_radiant.png"
+    },
+    {
+      "apiName": "TFT7_Item_ShimmerscaleDiamondHands_Radiant",
+      "name": "Radiant Diamond Hands",
+      "name_es": "Manos de diamante radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/set7_shimmerscale/shimmerscale_diamondhands_radiant.png"
+    },
+    {
+      "apiName": "TFT5_Item_DragonsClawRadiant",
+      "name": "Radiant Dragon's Claw",
+      "name_es": "Garra de dragón radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_dragonsclawradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT7_Item_ShimmerscaleDravensAxe_Radiant",
+      "name": "Radiant Draven's Axe",
+      "name_es": "Hacha de Draven radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/set7_shimmerscale/shimmerscale_dravensaxe_radiant.png"
+    },
+    {
+      "apiName": "TFT5_Item_GuardianAngelRadiant",
+      "name": "Radiant Edge of Night",
+      "name_es": "Filo de la noche radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_guardianangelradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_SpectralGauntletRadiant",
+      "name": "Radiant Evenshroud",
+      "name_es": "Mortaja de la quietud radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_spectralgauntletradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT17_AnimaSquadItem_Tier2_RadiantField",
+      "name": "Radiant Field",
+      "name_es": "Campo radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft17_animasquaditem_radiantfield_t2.tft_set17.png"
+    },
+    {
+      "apiName": "TFT7_Item_ShimmerscaleGamblersBlade_Radiant",
+      "name": "Radiant Gambler's Blade",
+      "name_es": "Espada del apostador radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/set7_shimmerscale/shimmerscale_goldcollector_radiant.png"
+    },
+    {
+      "apiName": "TFT5_Item_GargoyleStoneplateRadiant",
+      "name": "Radiant Gargoyle Stoneplate",
+      "name_es": "Protector pétreo de gárgola radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_gargoylestoneplateradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_GiantSlayerRadiant",
+      "name": "Radiant Giant Slayer",
+      "name_es": "Verdugo de gigantes radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_giantslayerradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT7_Item_ShimmerscaleGoldmancersStaff_Radiant",
+      "name": "Radiant Goldmancer's Staff",
+      "name_es": "Báculo de aurumante radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/set7_shimmerscale/shimmerscale_goldmancersstaff_radiant.png"
+    },
+    {
+      "apiName": "TFT5_Item_GuinsoosRagebladeRadiant",
+      "name": "Radiant Guinsoo's Rageblade",
+      "name_es": "Hoja de furia de Guinsoo radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_guinsoosragebladeradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_HandOfJusticeRadiant",
+      "name": "Radiant Hand of Justice",
+      "name_es": "Mano de la justicia radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_handofjusticeradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_HextechGunbladeRadiant",
+      "name": "Radiant Hextech Gunblade",
+      "name_es": "Sable-pistola hextech radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_hextechgunbladeradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_InfinityEdgeRadiant",
+      "name": "Radiant Infinity Edge",
+      "name_es": "Filo infinito radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_infinityedgeradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_IonicSparkRadiant",
+      "name": "Radiant Ionic Spark",
+      "name_es": "Chispa iónica radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_ionicsparkradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_JeweledGauntletRadiant",
+      "name": "Radiant Jeweled Gauntlet",
+      "name_es": "Guantelete enjoyado radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_jeweledgauntletradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_RunaansHurricaneRadiant",
+      "name": "Radiant Kraken's Fury",
+      "name_es": "Furia del kraken radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_krakenslayerradiant.png"
+    },
+    {
+      "apiName": "TFT5_Item_LastWhisperRadiant",
+      "name": "Radiant Last Whisper",
+      "name_es": "Últimas palabras radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_lastwhisperradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT7_Item_ShimmerscaleMogulsMail_Radiant",
+      "name": "Radiant Mogul's Mail",
+      "name_es": "Malla de magnate radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/set7_shimmerscale/shimmerscale_mogulsmail_radiant.png"
+    },
+    {
+      "apiName": "TFT5_Item_MorellonomiconRadiant",
+      "name": "Radiant Morellonomicon",
+      "name_es": "Morellonomicón radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_morellonomiconradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_LeviathanRadiant",
+      "name": "Radiant Nashor's Tooth",
+      "name_es": "Diente de Nashor radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_leviathanradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT7_Item_ShimmerscaleHeartOfGold_Radiant",
+      "name": "Radiant Needlessly Big Gem",
+      "name_es": "Gema innecesariamente grande radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/set7_shimmerscale/shimmerscale_heartofgold_radiant.png"
+    },
+    {
+      "apiName": "TFT7_Item_ShimmerscaleHighStakes_Radiant",
+      "name": "Radiant Orb of Greed",
+      "name_es": "Orbe de la avaricia radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/traits/set7_shimmerscale/shimmerscale_amuletofgreed_radiant.png"
+    },
+    {
+      "apiName": "TFT5_Item_FrozenHeartRadiant",
+      "name": "Radiant Protector's Vow",
+      "name_es": "Promesa del protector radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_frozenheartradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_QuicksilverRadiant",
+      "name": "Radiant Quicksilver",
+      "name_es": "Fajín radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_quicksilverradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_RabadonsDeathcapRadiant",
+      "name": "Radiant Rabadon's Deathcap",
+      "name_es": "Sombrero mortal de Rabadon radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_rabadonsdeathcapradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_RapidFirecannonRadiant",
+      "name": "Radiant Red Buff",
+      "name_es": "Mejora roja radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_rapidfirecannonradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_SpearOfShojinRadiant",
+      "name": "Radiant Spear of Shojin",
+      "name_es": "Lanza de Shojin radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_spearofshojinradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_RedemptionRadiant",
+      "name": "Radiant Spirit Visage",
+      "name_es": "Rostro espiritual radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_spiritvisagerr.png"
+    },
+    {
+      "apiName": "TFT5_Item_NightHarvesterRadiant",
+      "name": "Radiant Steadfast Heart",
+      "name_es": "Corazón resuelto radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_nightharvesterradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_SteraksGageRadiant",
+      "name": "Radiant Sterak's Gage",
+      "name_es": "Calibrador de Sterak radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_steraksgageradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_TrapClawRadiant",
+      "name": "Radiant Striker's Flail",
+      "name_es": "Mangual del guerrero radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_trapclawradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_SunfireCapeRadiant",
+      "name": "Radiant Sunfire Cape",
+      "name_es": "Capa de fuego solar radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_sunfirecaperadiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_ThiefsGlovesRadiant",
+      "name": "Radiant Thief's Gloves",
+      "name_es": "Guantes de ladrón radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_thiefsglovesradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_TitansResolveRadiant",
+      "name": "Radiant Titan's Resolve",
+      "name_es": "Resolución titánica radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_titansresolveradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_StatikkShivRadiant",
+      "name": "Radiant Void Staff",
+      "name_es": "Bastón del Vacío radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_voidstaffradiant.tft_set17.png"
+    },
+    {
+      "apiName": "TFT5_Item_WarmogsArmorRadiant",
+      "name": "Radiant Warmog's Armor",
+      "name_es": "Armadura de Warmog radiante",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_warmogsarmorradiant.tft_set13.png"
+    },
+    {
+      "apiName": "TFT17_Item_PsyOps_SemiconductorMod_Radiant",
+      "name": "Semiconductor",
+      "name_es": "Semiconductor",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft17_psyops_mod_semiconductormod.tft_set17.png"
+    },
+    {
+      "apiName": "TFT5_Item_ShroudOfStillnessRadiant",
+      "name": "Shroud of Reverence",
+      "name_es": "Velo de reverencia",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/radiant/shroud_of_stillness_radiant.png"
+    },
+    {
+      "apiName": "TFT17_AnimaSquadItem_Tier3_RadiantField",
+      "name": "Solar Eclipse",
+      "name_es": "Eclipse solar",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft17_animasquaditem_radiantfield_t3.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Item_PsyOps_SympatheticImplantMod_Radiant",
+      "name": "Sympathetic Implant",
+      "name_es": "Implante simpático",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft17_psyops_mod_sympatheticimplantmod.tft_set17.png"
+    },
+    {
+      "apiName": "TFT17_Item_PsyOps_TargetlockMod_Radiant",
+      "name": "Target-Lock Optics",
+      "name_es": "Óptica de fijado de objetivos",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft17_psyops_mod_targetlockmod.tft_set17.png"
+    },
+    {
+      "apiName": "TFT_Item_RadiantVirtue",
+      "name": "Virtue of the Martyr",
+      "name_es": "Virtud del mártir",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft_item_radiantvirtue.tft_set13.png"
+    },
+    {
+      "apiName": "TFT5_Item_ZekesHeraldRadiant",
+      "name": "Zeke's Harmony",
+      "name_es": "Armonía de Zeke",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/particles/tft/item_icons/radiant/zekes_herald_radiant.png"
+    },
+    {
+      "apiName": "TFT5_Item_ZzRotPortalRadiant",
+      "name": "Zz'Rot Portal",
+      "name_es": "Portal Zz'Rot",
+      "type": "radiant",
+      "composition": [],
+      "iconUrl": "https://raw.communitydragon.org/latest/game/assets/maps/tft/icons/items/hexcore/tft5_item_zzrotportalradiant.tft_set13.png"
+    }
+  ],
+  "set": 17
+}
