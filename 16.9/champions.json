@@ -2,7 +2,7 @@
   "source": "CDragon (latest) + Blitz",
   "patch": "16.9",
   "set": 17,
-  "scraped_at": "2026-05-01T00:13:16.774871+00:00",
+  "scraped_at": "2026-05-02T01:39:57.003650+00:00",
   "champions": [
     {
       "apiName": "TFT17_Aatrox",
@@ -15,10 +15,10 @@
       ],
       "tier": "B",
       "stats": {
-        "pick_rate": 0.11065034524639572,
-        "avg_placement": 4.302071448492685,
-        "top_4_percent": 0.5399457417408281,
-        "top_1_percent": 0.13787682868081438
+        "pick_rate": 0.10053271110328432,
+        "avg_placement": 4.2710053742299126,
+        "top_4_percent": 0.5453969502337571,
+        "top_1_percent": 0.14416480971730677
       },
       "top_items": [
         "TFT17_Item_StargazerEmblemItem",
@@ -41,10 +41,10 @@
       ],
       "tier": "B",
       "stats": {
-        "pick_rate": 0.05680821394030724,
-        "avg_placement": 4.489105787242433,
-        "top_4_percent": 0.5213940648723258,
-        "top_1_percent": 0.10978014394163463
+        "pick_rate": 0.05319186404860438,
+        "avg_placement": 4.3815632089090535,
+        "top_4_percent": 0.5388739946380697,
+        "top_1_percent": 0.11458032584037946
       },
       "top_items": [
         "TFT_Item_SteraksGage",
@@ -66,10 +66,10 @@
       ],
       "tier": "B",
       "stats": {
-        "pick_rate": 0.05824767774004183,
-        "avg_placement": 4.1638300949809555,
-        "top_4_percent": 0.5735499734824743,
-        "top_1_percent": 0.12911624318981726
+        "pick_rate": 0.05108303249097473,
+        "avg_placement": 4.146877824159745,
+        "top_4_percent": 0.5752894091319878,
+        "top_1_percent": 0.12996514179971597
       },
       "top_items": [
         "TFT_Item_GuinsoosRageblade",
@@ -91,10 +91,10 @@
       ],
       "tier": "B",
       "stats": {
-        "pick_rate": 0.08605013382515013,
-        "avg_placement": 4.459744315409388,
-        "top_4_percent": 0.5000162649230669,
-        "top_1_percent": 0.15480953775088643
+        "pick_rate": 0.09438011798890553,
+        "avg_placement": 4.49003391720485,
+        "top_4_percent": 0.4966547414393904,
+        "top_1_percent": 0.1429401105793802
       },
       "top_items": [
         "TFT_Item_GargoyleStoneplate",
@@ -114,18 +114,18 @@
         "Timebreaker",
         "Sniper"
       ],
-      "tier": "B",
+      "tier": "C",
       "stats": {
-        "pick_rate": 0.043453813454488205,
-        "avg_placement": 4.4572442723459185,
-        "top_4_percent": 0.49435301710229107,
-        "top_1_percent": 0.18702807357212003
+        "pick_rate": 0.041467817205247864,
+        "avg_placement": 4.723769190047644,
+        "top_4_percent": 0.44785600847009,
+        "top_1_percent": 0.15802011646373743
       },
       "top_items": [
         "TFT_Item_InfinityEdge",
         "TFT_Item_SpearOfShojin",
-        "TFT_Item_MadredsBloodrazor",
         "TFT_Item_Deathblade",
+        "TFT_Item_MadredsBloodrazor",
         "TFT_Item_PowerGauntlet"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_ezreal/hud/tft17_ezreal_square.tft_set17.png"
@@ -141,10 +141,10 @@
       ],
       "tier": "B",
       "stats": {
-        "pick_rate": 0.0774414655540811,
-        "avg_placement": 4.487859517271282,
-        "top_4_percent": 0.5108758491111433,
-        "top_1_percent": 0.09947246711952594
+        "pick_rate": 0.07662895130756361,
+        "avg_placement": 4.475196568977841,
+        "top_4_percent": 0.5131093638313081,
+        "top_1_percent": 0.10004288777698356
       },
       "top_items": [
         "TFT_Item_GargoyleStoneplate",
@@ -167,10 +167,10 @@
       ],
       "tier": "B",
       "stats": {
-        "pick_rate": 0.10610422617574954,
-        "avg_placement": 4.381233456855479,
-        "top_4_percent": 0.5269719428268925,
-        "top_1_percent": 0.11495500264690313
+        "pick_rate": 0.10493968477590913,
+        "avg_placement": 4.369023173951305,
+        "top_4_percent": 0.5297322214306667,
+        "top_1_percent": 0.1144868625068097
       },
       "top_items": [
         "TFT_Item_StatikkShiv",
@@ -192,10 +192,10 @@
       ],
       "tier": "C",
       "stats": {
-        "pick_rate": 0.053004318391399206,
-        "avg_placement": 4.396751494629914,
-        "top_4_percent": 0.5285434633088196,
-        "top_1_percent": 0.10644939421194646
+        "pick_rate": 0.05126133662058642,
+        "avg_placement": 4.424020552344252,
+        "top_4_percent": 0.5233140655105973,
+        "top_1_percent": 0.10139156497538
       },
       "top_items": [
         "TFT_Item_RedBuff",
@@ -217,17 +217,17 @@
       ],
       "tier": "C",
       "stats": {
-        "pick_rate": 0.049498436832279974,
-        "avg_placement": 4.530844615646066,
-        "top_4_percent": 0.48801903359202403,
-        "top_1_percent": 0.12400158613266866
+        "pick_rate": 0.04711411464295148,
+        "avg_placement": 4.540924769273795,
+        "top_4_percent": 0.48713526615083436,
+        "top_1_percent": 0.1237531462664305
       },
       "top_items": [
         "TFT_Item_GargoyleStoneplate",
         "TFT_Item_RedBuff",
         "TFT_Item_WarmogsArmor",
         "TFT_Item_FrozenHeart",
-        "TFT_Item_Redemption"
+        "TFT_Item_InfinityEdge"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_poppy/hud/tft17_poppy_square.tft_set17.png"
     },
@@ -242,15 +242,15 @@
       ],
       "tier": "B",
       "stats": {
-        "pick_rate": 0.058123973819752144,
-        "avg_placement": 4.38999228692634,
-        "top_4_percent": 0.534371384496722,
-        "top_1_percent": 0.11294832240647898
+        "pick_rate": 0.05463590736990402,
+        "avg_placement": 4.2786812833795125,
+        "top_4_percent": 0.5528651166526122,
+        "top_1_percent": 0.1180179094888166
       },
       "top_items": [
         "TFT_Item_RedBuff",
-        "TFT_Item_FrozenHeart",
         "TFT_Item_SpectralGauntlet",
+        "TFT_Item_FrozenHeart",
         "TFT_Item_Redemption",
         "TFT_Item_WarmogsArmor"
       ],
@@ -265,12 +265,12 @@
         "Stargazer",
         "Rogue"
       ],
-      "tier": "C",
+      "tier": "B",
       "stats": {
-        "pick_rate": 0.04829232360945548,
-        "avg_placement": 4.176272368115268,
-        "top_4_percent": 0.5694864048338368,
-        "top_1_percent": 0.13542877062514524
+        "pick_rate": 0.04762041031962666,
+        "avg_placement": 4.162737046094219,
+        "top_4_percent": 0.5710792229963549,
+        "top_1_percent": 0.13496054999307894
       },
       "top_items": [
         "TFT_Item_SpearOfShojin",
@@ -292,10 +292,10 @@
       ],
       "tier": "B",
       "stats": {
-        "pick_rate": 0.04307989024088527,
-        "avg_placement": 4.12509778357236,
-        "top_4_percent": 0.5840286831812256,
-        "top_1_percent": 0.1181877444589309
+        "pick_rate": 0.04487760852337765,
+        "avg_placement": 4.180038181017181,
+        "top_4_percent": 0.5738411082284987,
+        "top_1_percent": 0.11263400068530031
       },
       "top_items": [
         "TFT_Item_GuinsoosRageblade",
@@ -317,10 +317,10 @@
       ],
       "tier": "B",
       "stats": {
-        "pick_rate": 0.048626886484784415,
-        "avg_placement": 4.1858652347133205,
-        "top_4_percent": 0.5674692534210982,
-        "top_1_percent": 0.13257116461689475
+        "pick_rate": 0.05269217222858149,
+        "avg_placement": 4.2157949572827675,
+        "top_4_percent": 0.5589081058553865,
+        "top_1_percent": 0.1317774536361742
       },
       "top_items": [
         "TFT_Item_Leviathan",
@@ -342,17 +342,17 @@
       ],
       "tier": "",
       "stats": {
-        "pick_rate": 0.02098468320550595,
-        "avg_placement": 4.6443168158140775,
-        "top_4_percent": 0.45999732870308535,
-        "top_1_percent": 0.12581808468011219
+        "pick_rate": 0.01782821167561856,
+        "avg_placement": 4.723582236437446,
+        "top_4_percent": 0.44236683478902694,
+        "top_1_percent": 0.12682986837249355
       },
       "top_items": [
         "TFT_Item_JeweledGauntlet",
         "TFT_Item_Leviathan",
         "TFT_Item_SpearOfShojin",
         "TFT_Item_RabadonsDeathcap",
-        "TFT_Item_StatikkShiv"
+        "TFT_Item_BlueBuff"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_veigar/hud/tft17_veigar_square.tft_set17.png"
     },
@@ -367,17 +367,17 @@
       ],
       "tier": "A",
       "stats": {
-        "pick_rate": 0.1507669643057961,
-        "avg_placement": 4.344205193160228,
-        "top_4_percent": 0.531646984316209,
-        "top_1_percent": 0.13120739112617816
+        "pick_rate": 0.13310073082680285,
+        "avg_placement": 4.314701947376245,
+        "top_4_percent": 0.5375683398576219,
+        "top_1_percent": 0.1365640949407859
       },
       "top_items": [
         "TFT_Item_UnstableConcoction",
         "TFT_Item_GuardianAngel",
-        "TFT_Item_PowerGauntlet",
         "TFT_Item_Bloodthirster",
-        "TFT_Item_MadredsBloodrazor"
+        "TFT_Item_MadredsBloodrazor",
+        "TFT_Item_SteraksGage"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_akali/hud/tft17_akali_square.tft_set17.png"
     },
@@ -393,10 +393,10 @@
       ],
       "tier": "A",
       "stats": {
-        "pick_rate": 0.09106295404961652,
-        "avg_placement": 4.281263482280432,
-        "top_4_percent": 0.5520493066255778,
-        "top_1_percent": 0.12197226502311248
+        "pick_rate": 0.10230034340054592,
+        "avg_placement": 4.127885483385634,
+        "top_4_percent": 0.5785797188668701,
+        "top_1_percent": 0.13631087993809912
       },
       "top_items": [
         "TFT_Item_Quicksilver",
@@ -418,16 +418,16 @@
       ],
       "tier": "",
       "stats": {
-        "pick_rate": 0.04130586356582173,
-        "avg_placement": 4.582234606497214,
-        "top_4_percent": 0.4673100448552399,
-        "top_1_percent": 0.15529427755878755
+        "pick_rate": 0.037985383463942944,
+        "avg_placement": 4.621982983156798,
+        "top_4_percent": 0.4642588412340105,
+        "top_1_percent": 0.15604560977021473
       },
       "top_items": [
         "TFT_Item_InfinityEdge",
         "TFT_Item_GuinsoosRageblade",
-        "TFT17_Item_StargazerEmblemItem",
         "TFT_Item_LastWhisper",
+        "TFT17_Item_StargazerEmblemItem",
         "TFT_Item_Deathblade"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_gnar/hud/tft17_gnar_square.tft_set17.png"
@@ -441,19 +441,19 @@
         "Psionic",
         "Brawler"
       ],
-      "tier": "C",
+      "tier": "B",
       "stats": {
-        "pick_rate": 0.055672387035829156,
-        "avg_placement": 4.479463790757446,
-        "top_4_percent": 0.5056695056191101,
-        "top_1_percent": 0.10930806833644106
+        "pick_rate": 0.0653517654310117,
+        "avg_placement": 4.250437180521926,
+        "top_4_percent": 0.5487960721011569,
+        "top_1_percent": 0.13354183481302126
       },
       "top_items": [
         "TFT_Item_JeweledGauntlet",
         "TFT_Item_RedBuff",
         "TFT_Item_SpectralGauntlet",
         "TFT_Item_Redemption",
-        "TFT_Item_GargoyleStoneplate"
+        "TFT_Item_WarmogsArmor"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_gragas/hud/tft17_gragas_square.tft_set17.png"
     },
@@ -466,19 +466,19 @@
         "Space Groove",
         "Rogue"
       ],
-      "tier": "C",
+      "tier": "",
       "stats": {
-        "pick_rate": 0.03823013427498257,
-        "avg_placement": 4.349262277031491,
-        "top_4_percent": 0.5328488585480438,
-        "top_1_percent": 0.1216325332158849
+        "pick_rate": 0.03258342872237387,
+        "avg_placement": 4.358269308532147,
+        "top_4_percent": 0.5322819787033293,
+        "top_1_percent": 0.11551422024531607
       },
       "top_items": [
         "TFT_Item_JeweledGauntlet",
         "TFT_Item_UnstableConcoction",
         "TFT17_Item_StargazerEmblemItem",
         "TFT_Item_RabadonsDeathcap",
-        "TFT_Item_MadredsBloodrazor"
+        "TFT_Item_HextechGunblade"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_gwen/hud/tft17_gwen_square.tft_set17.png"
     },
@@ -493,10 +493,10 @@
       ],
       "tier": "A",
       "stats": {
-        "pick_rate": 0.10700951395605138,
-        "avg_placement": 4.362271148371595,
-        "top_4_percent": 0.5255295254511739,
-        "top_1_percent": 0.1454464728773277
+        "pick_rate": 0.10271418508408911,
+        "avg_placement": 4.3688281799390545,
+        "top_4_percent": 0.523046433822746,
+        "top_1_percent": 0.1443305559699107
       },
       "top_items": [
         "TFT_Item_GargoyleStoneplate",
@@ -518,17 +518,17 @@
       ],
       "tier": "",
       "stats": {
-        "pick_rate": 0.011088369582330582,
-        "avg_placement": 5.40955027791814,
-        "top_4_percent": 0.3489135927235978,
-        "top_1_percent": 0.11950480040424456
+        "pick_rate": 0.010202958527780224,
+        "avg_placement": 5.366609294320138,
+        "top_4_percent": 0.36058519793459554,
+        "top_1_percent": 0.12456970740103271
       },
       "top_items": [
         "TFT_Item_GuinsoosRageblade",
         "TFT_Item_InfinityEdge",
         "TFT17_AnimaSquadItem_Tier2_BattleBunnyCrossbow",
         "TFT17_AnimaSquadItem_Tier1_RocketSwarm",
-        "TFT_Item_MadredsBloodrazor"
+        "TFT_Item_RunaansHurricane"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_jinx/hud/tft17_jinx_square.tft_set17.png"
     },
@@ -544,17 +544,17 @@
       ],
       "tier": "A",
       "stats": {
-        "pick_rate": 0.1469012167967432,
-        "avg_placement": 4.440209396075734,
-        "top_4_percent": 0.5102309852696739,
-        "top_1_percent": 0.12361246441604096
+        "pick_rate": 0.14091089196090517,
+        "avg_placement": 4.412696680025574,
+        "top_4_percent": 0.5139956648525582,
+        "top_1_percent": 0.12972694808738908
       },
       "top_items": [
         "TFT_Item_JeweledGauntlet",
         "TFT_Item_GuardianAngel",
         "TFT_Item_UnstableConcoction",
         "TFT_Item_RedBuff",
-        "TFT_Item_GargoyleStoneplate"
+        "TFT_Item_WarmogsArmor"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_ivernminion/hud/tft17_ivernminion_square.tft_set17.png"
     },
@@ -569,16 +569,16 @@
       ],
       "tier": "B",
       "stats": {
-        "pick_rate": 0.08709037133667709,
-        "avg_placement": 4.135912314635719,
-        "top_4_percent": 0.5672791747259832,
-        "top_1_percent": 0.16711798839458414
+        "pick_rate": 0.09362507704499427,
+        "avg_placement": 4.27410869463103,
+        "top_4_percent": 0.5430738879233407,
+        "top_1_percent": 0.15047677204189958
       },
       "top_items": [
         "TFT_Item_SpearOfShojin",
-        "TFT_Item_JeweledGauntlet",
-        "TFT_Item_Morellonomicon",
         "TFT_Item_StatikkShiv",
+        "TFT_Item_Morellonomicon",
+        "TFT_Item_JeweledGauntlet",
         "TFT_Item_RabadonsDeathcap"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_milio/hud/tft17_milio_square.tft_set17.png"
@@ -593,19 +593,19 @@
         "Conduit",
         "Vanguard"
       ],
-      "tier": "S",
+      "tier": "A",
       "stats": {
-        "pick_rate": 0.20708598547041226,
-        "avg_placement": 4.392756037763962,
-        "top_4_percent": 0.5197285545938478,
-        "top_1_percent": 0.13187587197095912
+        "pick_rate": 0.19732543805582461,
+        "avg_placement": 4.405130488008458,
+        "top_4_percent": 0.5166657392465639,
+        "top_1_percent": 0.1326359134160592
       },
       "top_items": [
         "TFT_Item_RedBuff",
         "TFT_Item_GargoyleStoneplate",
         "TFT_Item_WarmogsArmor",
-        "TFT_Item_Bloodthirster",
-        "TFT_Item_Redemption"
+        "TFT_Item_Redemption",
+        "TFT17_Item_StargazerEmblemItem"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_mordekaiser/hud/tft17_mordekaiser_square.tft_set17.png"
     },
@@ -621,17 +621,17 @@
       ],
       "tier": "B",
       "stats": {
-        "pick_rate": 0.0847034479656328,
-        "avg_placement": 4.489592640391806,
-        "top_4_percent": 0.49197524736093184,
-        "top_1_percent": 0.15811244581223732
+        "pick_rate": 0.0870872589592322,
+        "avg_placement": 4.602202843028531,
+        "top_4_percent": 0.4745942131263232,
+        "top_1_percent": 0.14147091440669424
       },
       "top_items": [
         "TFT_Item_RedBuff",
         "TFT_Item_SpectralGauntlet",
         "TFT_Item_GargoyleStoneplate",
-        "TFT_Item_WarmogsArmor",
-        "TFT_Item_Redemption"
+        "TFT_Item_Redemption",
+        "TFT_Item_WarmogsArmor"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_pantheon/hud/tft17_pantheon_square.tft_set17.png"
     },
@@ -646,10 +646,10 @@
       ],
       "tier": "",
       "stats": {
-        "pick_rate": 0.038615303299520926,
-        "avg_placement": 4.497239976757699,
-        "top_4_percent": 0.504430563625799,
-        "top_1_percent": 0.09841661824520627
+        "pick_rate": 0.03220921017874439,
+        "avg_placement": 4.451837207716954,
+        "top_4_percent": 0.5117594928079624,
+        "top_1_percent": 0.11084600177244529
       },
       "top_items": [
         "TFT_Item_InfinityEdge",
@@ -671,16 +671,16 @@
       ],
       "tier": "C",
       "stats": {
-        "pick_rate": 0.05333044690852658,
-        "avg_placement": 4.353083561355504,
-        "top_4_percent": 0.5386234476952221,
-        "top_1_percent": 0.10255735634603241
+        "pick_rate": 0.05383463942942678,
+        "avg_placement": 4.3523098269670255,
+        "top_4_percent": 0.5409729023832843,
+        "top_1_percent": 0.1017384916748286
       },
       "top_items": [
         "TFT_Item_StatikkShiv",
         "TFT_Item_Morellonomicon",
-        "TFT_Item_JeweledGauntlet",
         "TFT_Item_SpearOfShojin",
+        "TFT_Item_JeweledGauntlet",
         "TFT_Item_MadredsBloodrazor"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_zoe/hud/tft17_zoe_square.tft_set17.png"
@@ -696,14 +696,14 @@
       ],
       "tier": "C",
       "stats": {
-        "pick_rate": 0.046054407233305596,
-        "avg_placement": 4.663765293079311,
-        "top_4_percent": 0.474831091362834,
-        "top_1_percent": 0.12337939010286689
+        "pick_rate": 0.03841023157523994,
+        "avg_placement": 4.739759725400457,
+        "top_4_percent": 0.4622425629290618,
+        "top_1_percent": 0.12585812356979406
       },
       "top_items": [
-        "TFT_Item_SpearOfShojin",
         "TFT_Item_JeweledGauntlet",
+        "TFT_Item_SpearOfShojin",
         "TFT_Item_RabadonsDeathcap",
         "TFT_Item_Morellonomicon",
         "TFT_Item_StatikkShiv"
@@ -721,10 +721,10 @@
       ],
       "tier": "",
       "stats": {
-        "pick_rate": 0.011808101482197882,
-        "avg_placement": 5.043005671077505,
-        "top_4_percent": 0.39744801512287337,
-        "top_1_percent": 0.09120982986767485
+        "pick_rate": 0.01030421766311526,
+        "avg_placement": 4.976468094127624,
+        "top_4_percent": 0.41933432266270937,
+        "top_1_percent": 0.09985160059359763
       },
       "top_items": [
         "TFT_Item_Bloodthirster",
@@ -746,10 +746,10 @@
       ],
       "tier": "C",
       "stats": {
-        "pick_rate": 0.047513551202177186,
-        "avg_placement": 4.451210868281158,
-        "top_4_percent": 0.5052569403425872,
-        "top_1_percent": 0.12876550502067335
+        "pick_rate": 0.04785594787355816,
+        "avg_placement": 4.427804049400854,
+        "top_4_percent": 0.5124649924245902,
+        "top_1_percent": 0.12795555759606997
       },
       "top_items": [
         "TFT_Item_JeweledGauntlet",
@@ -772,10 +772,10 @@
       ],
       "tier": "A",
       "stats": {
-        "pick_rate": 0.1487370954319516,
-        "avg_placement": 4.453911667169129,
-        "top_4_percent": 0.5138302683147422,
-        "top_1_percent": 0.11612526379258366
+        "pick_rate": 0.14682794752135248,
+        "avg_placement": 4.44561922255574,
+        "top_4_percent": 0.5127309111001598,
+        "top_1_percent": 0.12233621552200469
       },
       "top_items": [
         "TFT_Item_GargoyleStoneplate",
@@ -797,15 +797,15 @@
       ],
       "tier": "B",
       "stats": {
-        "pick_rate": 0.0914987292233643,
-        "avg_placement": 4.293205905777124,
-        "top_4_percent": 0.5371255283955155,
-        "top_1_percent": 0.14280463150156222
+        "pick_rate": 0.09624020427929911,
+        "avg_placement": 4.30133455001711,
+        "top_4_percent": 0.5378806889471883,
+        "top_1_percent": 0.1348465837800844
       },
       "top_items": [
         "TFT_Item_InfinityEdge",
+        "TFT_Item_BlueBuff",
         "TFT_Item_SpearOfShojin",
-        "TFT_Item_MadredsBloodrazor",
         "TFT_Item_PowerGauntlet",
         "TFT_Item_LastWhisper"
       ],
@@ -822,17 +822,17 @@
       ],
       "tier": "",
       "stats": {
-        "pick_rate": 0.020194664987292235,
-        "avg_placement": 4.554260338606716,
-        "top_4_percent": 0.4855675825700805,
-        "top_1_percent": 0.13266722175964474
+        "pick_rate": 0.025022012855507616,
+        "avg_placement": 4.561705113586528,
+        "top_4_percent": 0.4819752653276028,
+        "top_1_percent": 0.13533900535040785
       },
       "top_items": [
         "TFT_Item_JeweledGauntlet",
         "TFT_Item_Leviathan",
         "TFT_Item_SpearOfShojin",
-        "TFT_Item_ArchangelsStaff",
-        "TFT_Item_RabadonsDeathcap"
+        "TFT_Item_RabadonsDeathcap",
+        "TFT_Item_ArchangelsStaff"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_lulu/hud/tft17_lulu_square.tft_set17.png"
     },
@@ -847,10 +847,10 @@
       ],
       "tier": "S",
       "stats": {
-        "pick_rate": 0.1651334877758035,
-        "avg_placement": 4.370017624728851,
-        "top_4_percent": 0.5223529013015185,
-        "top_1_percent": 0.13933703904555314
+        "pick_rate": 0.16288192304305715,
+        "avg_placement": 4.350712112645721,
+        "top_4_percent": 0.5275287402740758,
+        "top_1_percent": 0.1433244487521202
       },
       "top_items": [
         "TFT_Item_RedBuff",
@@ -872,10 +872,10 @@
       ],
       "tier": "",
       "stats": {
-        "pick_rate": 0.012825847371853985,
-        "avg_placement": 4.773695652173913,
-        "top_4_percent": 0.45021739130434785,
-        "top_1_percent": 0.09347826086956522
+        "pick_rate": 0.012219336092277891,
+        "avg_placement": 4.738787226408324,
+        "top_4_percent": 0.45586652314316467,
+        "top_1_percent": 0.11392177969142447
       },
       "top_items": [
         "TFT_Item_InfinityEdge",
@@ -895,12 +895,12 @@
         "Space Groove",
         "Bastion"
       ],
-      "tier": "C",
+      "tier": "",
       "stats": {
-        "pick_rate": 0.04800836688333596,
-        "avg_placement": 4.689204039981161,
-        "top_4_percent": 0.4595740227118112,
-        "top_1_percent": 0.1143963577371919
+        "pick_rate": 0.03814167473804702,
+        "avg_placement": 4.743076843144386,
+        "top_4_percent": 0.4509793734088429,
+        "top_1_percent": 0.10884813217644308
       },
       "top_items": [
         "TFT_Item_GargoyleStoneplate",
@@ -921,10 +921,10 @@
       ],
       "tier": "A",
       "stats": {
-        "pick_rate": 0.1311851960144846,
-        "avg_placement": 4.0780356685724035,
-        "top_4_percent": 0.5827075689051967,
-        "top_1_percent": 0.1555380151890093
+        "pick_rate": 0.12280311702033987,
+        "avg_placement": 4.035318077067367,
+        "top_4_percent": 0.591868088679279,
+        "top_1_percent": 0.16265609089447453
       },
       "top_items": [
         "TFT_Item_RedBuff",
@@ -946,17 +946,17 @@
       ],
       "tier": "",
       "stats": {
-        "pick_rate": 0.018347540541148424,
-        "avg_placement": 4.468493150684932,
-        "top_4_percent": 0.49922572960095296,
-        "top_1_percent": 0.15187611673615248
+        "pick_rate": 0.015703971119133575,
+        "avg_placement": 4.589897163521302,
+        "top_4_percent": 0.4742908803254605,
+        "top_1_percent": 0.13775567860775229
       },
       "top_items": [
         "TFT_Item_InfinityEdge",
         "TFT_Item_SpearOfShojin",
         "TFT_Item_MadredsBloodrazor",
-        "TFT_Item_Deathblade",
-        "TFT_Item_LastWhisper"
+        "TFT_Item_LastWhisper",
+        "TFT_Item_Deathblade"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_samira/hud/tft17_samira_square.tft_set17.png"
     },
@@ -972,10 +972,10 @@
       ],
       "tier": "A",
       "stats": {
-        "pick_rate": 0.10423179865500101,
-        "avg_placement": 4.420802704297902,
-        "top_4_percent": 0.514836078768042,
-        "top_1_percent": 0.13537586521435854
+        "pick_rate": 0.10693625077044994,
+        "avg_placement": 4.329792034127733,
+        "top_4_percent": 0.5340662045202839,
+        "top_1_percent": 0.1457812051355675
       },
       "top_items": [
         "TFT_Item_Quicksilver",
@@ -997,10 +997,10 @@
       ],
       "tier": "",
       "stats": {
-        "pick_rate": 0.0281848136569128,
-        "avg_placement": 4.595640923566879,
-        "top_4_percent": 0.48746019108280253,
-        "top_1_percent": 0.0865843949044586
+        "pick_rate": 0.021086114290745795,
+        "avg_placement": 4.5983110925771475,
+        "top_4_percent": 0.48321517931609675,
+        "top_1_percent": 0.09247289407839866
       },
       "top_items": [
         "TFT_Item_JeweledGauntlet",
@@ -1022,10 +1022,10 @@
       ],
       "tier": "C",
       "stats": {
-        "pick_rate": 0.02556735116169227,
-        "avg_placement": 4.36059637912673,
-        "top_4_percent": 0.5259850905218317,
-        "top_1_percent": 0.18679446219382323
+        "pick_rate": 0.021964427225499693,
+        "avg_placement": 4.374505070014486,
+        "top_4_percent": 0.5232254949299855,
+        "top_1_percent": 0.19526798647996138
       },
       "top_items": [
         "TFT_Item_JeweledGauntlet",
@@ -1047,17 +1047,17 @@
       ],
       "tier": "A",
       "stats": {
-        "pick_rate": 0.06764636422932457,
-        "avg_placement": 4.072163271943733,
-        "top_4_percent": 0.5842988982396227,
-        "top_1_percent": 0.1491645322600317
+        "pick_rate": 0.06821123536145109,
+        "avg_placement": 4.1042595579167065,
+        "top_4_percent": 0.5787875913101224,
+        "top_1_percent": 0.14381937197609335
       },
       "top_items": [
-        "TFT_Item_SpearOfShojin",
-        "TFT_Item_Deathblade",
         "TFT_Item_LastWhisper",
-        "TFT_Item_MadredsBloodrazor",
-        "TFT_Item_PowerGauntlet"
+        "TFT_Item_Deathblade",
+        "TFT_Item_SpearOfShojin",
+        "TFT_Item_PowerGauntlet",
+        "TFT_Item_MadredsBloodrazor"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_corki/hud/tft17_corki_square.tft_set17.png"
     },
@@ -1072,10 +1072,10 @@
       ],
       "tier": "A",
       "stats": {
-        "pick_rate": 0.1390628865747509,
-        "avg_placement": 4.336368753266594,
-        "top_4_percent": 0.5288063361878342,
-        "top_1_percent": 0.14489607204599364
+        "pick_rate": 0.13551333979043761,
+        "avg_placement": 4.324288507846211,
+        "top_4_percent": 0.5299869095140359,
+        "top_1_percent": 0.14763159170612666
       },
       "top_items": [
         "TFT_Item_JeweledGauntlet",
@@ -1097,17 +1097,17 @@
       ],
       "tier": "S",
       "stats": {
-        "pick_rate": 0.10188704707496457,
-        "avg_placement": 4.068022765024644,
-        "top_4_percent": 0.5887046265283338,
-        "top_1_percent": 0.13544645045339432
+        "pick_rate": 0.10946332658272431,
+        "avg_placement": 3.9909390772165483,
+        "top_4_percent": 0.6041608711202957,
+        "top_1_percent": 0.14483567142232642
       },
       "top_items": [
         "TFT_Item_GuinsoosRageblade",
         "TFT_Item_RunaansHurricane",
         "TFT_Item_MadredsBloodrazor",
         "TFT_Item_LastWhisper",
-        "TFT_Item_InfinityEdge"
+        "TFT_Item_Deathblade"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_kindred/hud/tft17_kindred_square.tft_set17.png"
     },
@@ -1122,17 +1122,17 @@
       ],
       "tier": "B",
       "stats": {
-        "pick_rate": 0.05190785182519511,
-        "avg_placement": 4.4157656458055925,
-        "top_4_percent": 0.5194141145139813,
-        "top_1_percent": 0.11051930758988016
+        "pick_rate": 0.05044245839570309,
+        "avg_placement": 4.415241124387518,
+        "top_4_percent": 0.5206739448121722,
+        "top_1_percent": 0.11119229777357517
       },
       "top_items": [
         "TFT_Item_GuinsoosRageblade",
         "TFT_Item_MadredsBloodrazor",
         "TFT_Item_JeweledGauntlet",
         "TFT_Item_HextechGunblade",
-        "TFT_Item_RabadonsDeathcap"
+        "TFT_Item_StatikkShiv"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_leblanc/hud/tft17_leblanc_square.tft_set17.png"
     },
@@ -1145,12 +1145,12 @@
         "Psionic",
         "Marauder"
       ],
-      "tier": "A",
+      "tier": "S",
       "stats": {
-        "pick_rate": 0.07006702503317515,
-        "avg_placement": 4.309265000196209,
-        "top_4_percent": 0.5379664874622297,
-        "top_1_percent": 0.12902719460032178
+        "pick_rate": 0.07818746147750286,
+        "avg_placement": 4.143537639737871,
+        "top_4_percent": 0.5702406520182829,
+        "top_1_percent": 0.14540998953686876
       },
       "top_items": [
         "TFT_Item_GuardianAngel",
@@ -1172,17 +1172,17 @@
       ],
       "tier": "B",
       "stats": {
-        "pick_rate": 0.054426913474730665,
-        "avg_placement": 4.145797249108507,
-        "top_4_percent": 0.5772796739684157,
-        "top_1_percent": 0.12699949057564952
+        "pick_rate": 0.044760940389187286,
+        "avg_placement": 4.178779069767442,
+        "top_4_percent": 0.5735465116279069,
+        "top_1_percent": 0.1182170542635659
       },
       "top_items": [
         "TFT_Item_JeweledGauntlet",
-        "TFT_Item_Leviathan",
         "TFT_Item_SpearOfShojin",
+        "TFT_Item_Leviathan",
         "TFT_Item_StatikkShiv",
-        "TFT_Item_MadredsBloodrazor"
+        "TFT_Item_RabadonsDeathcap"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_nami/hud/tft17_nami_square.tft_set17.png"
     },
@@ -1197,16 +1197,16 @@
       ],
       "tier": "S",
       "stats": {
-        "pick_rate": 0.18285407435730192,
-        "avg_placement": 4.411624251949465,
-        "top_4_percent": 0.5127244151604908,
-        "top_1_percent": 0.1485824820165629
+        "pick_rate": 0.17279871444923836,
+        "avg_placement": 4.4194308932893565,
+        "top_4_percent": 0.5108541617025546,
+        "top_1_percent": 0.1489484442995272
       },
       "top_items": [
         "TFT_Item_FrozenHeart",
         "TFT_Item_RedBuff",
-        "TFT_Item_GargoyleStoneplate",
         "TFT_Item_Redemption",
+        "TFT_Item_GargoyleStoneplate",
         "TFT_Item_WarmogsArmor"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_nunu/hud/tft17_nunu_square.tft_set17.png"
@@ -1222,16 +1222,16 @@
       ],
       "tier": "A",
       "stats": {
-        "pick_rate": 0.11464260812847214,
-        "avg_placement": 4.468224276507929,
-        "top_4_percent": 0.5002051603871497,
-        "top_1_percent": 0.13695059255147113
+        "pick_rate": 0.10552522673241173,
+        "avg_placement": 4.488357742307059,
+        "top_4_percent": 0.49786078657232186,
+        "top_1_percent": 0.13639542537436236
       },
       "top_items": [
         "TFT_Item_GargoyleStoneplate",
         "TFT_Item_RedBuff",
-        "TFT_Item_WarmogsArmor",
         "TFT_Item_Redemption",
+        "TFT_Item_WarmogsArmor",
         "TFT_Item_FrozenHeart"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_rammus/hud/tft17_rammus_square.tft_set17.png"
@@ -1247,17 +1247,17 @@
       ],
       "tier": "S",
       "stats": {
-        "pick_rate": 0.11775488630485144,
-        "avg_placement": 4.022158701660722,
-        "top_4_percent": 0.5877725543927618,
-        "top_1_percent": 0.17549786208688667
+        "pick_rate": 0.12074931760147926,
+        "avg_placement": 4.104452857400396,
+        "top_4_percent": 0.5746529655669731,
+        "top_1_percent": 0.16208761492698756
       },
       "top_items": [
         "TFT_Item_Bloodthirster",
-        "TFT_Item_TitansResolve",
         "TFT_Item_SteraksGage",
-        "TFT_Item_UnstableConcoction",
-        "TFT_Item_GuardianAngel"
+        "TFT_Item_TitansResolve",
+        "TFT_Item_GuardianAngel",
+        "TFT_Item_UnstableConcoction"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_riven/hud/tft17_riven_square.tft_set17.png"
     },
@@ -1272,10 +1272,10 @@
       ],
       "tier": "S",
       "stats": {
-        "pick_rate": 0.17362688648478442,
-        "avg_placement": 4.285372280600276,
-        "top_4_percent": 0.5359266043253318,
-        "top_1_percent": 0.16178219094443907
+        "pick_rate": 0.17262481289072817,
+        "avg_placement": 4.247139095650413,
+        "top_4_percent": 0.5463947541647678,
+        "top_1_percent": 0.16122335308116867
       },
       "top_items": [
         "TFT_Item_RedBuff",
@@ -1297,16 +1297,16 @@
       ],
       "tier": "A",
       "stats": {
-        "pick_rate": 0.10696453071230966,
-        "avg_placement": 4.319617299315495,
-        "top_4_percent": 0.5355994606928023,
-        "top_1_percent": 0.1431238332296204
+        "pick_rate": 0.09910627806639077,
+        "avg_placement": 4.308792558792558,
+        "top_4_percent": 0.5393778518778519,
+        "top_1_percent": 0.14507283257283257
       },
       "top_items": [
         "TFT_Item_GargoyleStoneplate",
         "TFT_Item_SteraksGage",
-        "TFT_Item_WarmogsArmor",
         "TFT_Item_RedBuff",
+        "TFT_Item_WarmogsArmor",
         "TFT_Item_Redemption"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_galio/hud/tft17_galio_square.tft_set17.png"
@@ -1320,12 +1320,12 @@
         "Stargazer",
         "Sniper"
       ],
-      "tier": "A",
+      "tier": "B",
       "stats": {
-        "pick_rate": 0.07679764287802794,
-        "avg_placement": 4.356954336743917,
-        "top_4_percent": 0.5168299649300409,
-        "top_1_percent": 0.17477132217361438
+        "pick_rate": 0.06677379589680374,
+        "avg_placement": 4.391735106244297,
+        "top_4_percent": 0.511178464346239,
+        "top_1_percent": 0.17158779820101683
       },
       "top_items": [
         "TFT_Item_GuinsoosRageblade",
@@ -1347,14 +1347,14 @@
       ],
       "tier": "A",
       "stats": {
-        "pick_rate": 0.09088583252738355,
-        "avg_placement": 3.8852118695811453,
-        "top_4_percent": 0.6137196238857003,
-        "top_1_percent": 0.19907803150567835
+        "pick_rate": 0.08442150215725984,
+        "avg_placement": 3.9246660133078866,
+        "top_4_percent": 0.6036777221849693,
+        "top_1_percent": 0.2009594057873833
       },
       "top_items": [
-        "TFT_Item_SpearOfShojin",
         "TFT_Item_StatikkShiv",
+        "TFT_Item_SpearOfShojin",
         "TFT_Item_JeweledGauntlet",
         "TFT_Item_Morellonomicon",
         "TFT_Item_RabadonsDeathcap"
@@ -1373,17 +1373,17 @@
       ],
       "tier": "A",
       "stats": {
-        "pick_rate": 0.11588527023683678,
-        "avg_placement": 3.9454989797371045,
-        "top_4_percent": 0.6033312769895126,
-        "top_1_percent": 0.18514212499406824
+        "pick_rate": 0.1051708197587391,
+        "avg_placement": 3.961806981519507,
+        "top_4_percent": 0.5992607802874743,
+        "top_1_percent": 0.18815195071868585
       },
       "top_items": [
         "TFT_Item_JeweledGauntlet",
         "TFT_Item_UnstableConcoction",
         "TFT_Item_Bloodthirster",
-        "TFT_Item_Crownguard",
-        "TFT_Item_IonicSpark"
+        "TFT_Item_RabadonsDeathcap",
+        "TFT_Item_Crownguard"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_blitzcrank/hud/tft17_blitzcrank_square.tft_set17.png"
     },
@@ -1397,19 +1397,19 @@
         "Anima",
         "Marauder"
       ],
-      "tier": "A",
+      "tier": "S",
       "stats": {
-        "pick_rate": 0.0870313308292661,
-        "avg_placement": 3.9500031523863566,
-        "top_4_percent": 0.6045331315806065,
-        "top_1_percent": 0.18807137002711052
+        "pick_rate": 0.09202033987848904,
+        "avg_placement": 3.8480455301309227,
+        "top_4_percent": 0.6246808909291051,
+        "top_1_percent": 0.19942853127854415
       },
       "top_items": [
         "TFT_Item_GuardianAngel",
-        "TFT_Item_Bloodthirster",
         "TFT_Item_UnstableConcoction",
+        "TFT_Item_Bloodthirster",
         "TFT_Item_SteraksGage",
-        "TFT_Item_Quicksilver"
+        "TFT_Item_MadredsBloodrazor"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_fiora/hud/tft17_fiora_square.tft_set17.png"
     },
@@ -1423,10 +1423,10 @@
       ],
       "tier": "C",
       "stats": {
-        "pick_rate": 0.04040057578551989,
-        "avg_placement": 4.455142528268671,
-        "top_4_percent": 0.5015911706953754,
-        "top_1_percent": 0.16568488049292437
+        "pick_rate": 0.036246367878841244,
+        "avg_placement": 4.472429740305941,
+        "top_4_percent": 0.49626467449306294,
+        "top_1_percent": 0.17556029882604055
       },
       "top_items": [
         "TFT_Item_MadredsBloodrazor",
@@ -1449,17 +1449,17 @@
       ],
       "tier": "S",
       "stats": {
-        "pick_rate": 0.10588774431524257,
-        "avg_placement": 3.616641824220078,
-        "top_4_percent": 0.6610182788107005,
-        "top_1_percent": 0.2298580058052875
+        "pick_rate": 0.10440697367262482,
+        "avg_placement": 3.6443888193575305,
+        "top_4_percent": 0.6571756362119315,
+        "top_1_percent": 0.22478097622027535
       },
       "top_items": [
         "TFT_Item_InfinityEdge",
         "TFT_Item_MadredsBloodrazor",
         "TFT_Item_LastWhisper",
         "TFT_Item_Deathblade",
-        "TFT_Item_PowerGauntlet"
+        "TFT_Item_GuinsoosRageblade"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_jhin/hud/tft17_jhin_square.tft_set17.png"
     },
@@ -1473,17 +1473,17 @@
       ],
       "tier": "B",
       "stats": {
-        "pick_rate": 0.07560277546613886,
-        "avg_placement": 3.5542252489748094,
-        "top_4_percent": 0.6790055653192736,
-        "top_1_percent": 0.23253514938488576
+        "pick_rate": 0.07242449590560887,
+        "avg_placement": 3.561694346183824,
+        "top_4_percent": 0.6771089393848552,
+        "top_1_percent": 0.23373703459440015
       },
       "top_items": [
         "TFT_Item_Morellonomicon",
         "TFT_Item_JeweledGauntlet",
         "TFT_Item_AdaptiveHelm",
         "TFT_Item_StatikkShiv",
-        "TFT_Item_UnstableConcoction"
+        "TFT_Item_RabadonsDeathcap"
       ],
       "iconUrl": "https://raw.communitydragon.org/latest/game/assets/characters/tft17_morgana/hud/tft17_morgana_square.tft_set17.png"
     },
@@ -1498,10 +1498,10 @@
       ],
       "tier": "A",
       "stats": {
-        "pick_rate": 0.10022266705652144,
-        "avg_placement": 3.777150135681453,
-        "top_4_percent": 0.6359583541009027,
-        "top_1_percent": 0.20368832031898987
+        "pick_rate": 0.09118165008364885,
+        "avg_placement": 3.7591385526347207,
+        "top_4_percent": 0.6405940357663014,
+        "top_1_percent": 0.20609793949812574
       },
       "top_items": [
         "TFT17_Item_StargazerEmblemItem",
@@ -1524,10 +1524,10 @@
       ],
       "tier": "B",
       "stats": {
-        "pick_rate": 0.06712343402082724,
-        "avg_placement": 3.8811373780790213,
-        "top_4_percent": 0.6183666721772194,
-        "top_1_percent": 0.18362539262688046
+        "pick_rate": 0.06363476270141763,
+        "avg_placement": 3.8322338061869767,
+        "top_4_percent": 0.6258417364553068,
+        "top_1_percent": 0.19692360280293966
       },
       "top_items": [
         "TFT_Item_SpearOfShojin",
@@ -1548,10 +1548,10 @@
       ],
       "tier": "B",
       "stats": {
-        "pick_rate": 0.05739861901441713,
-        "avg_placement": 4.192807335944217,
-        "top_4_percent": 0.550912217021683,
-        "top_1_percent": 0.17652115770369664
+        "pick_rate": 0.05464911508320859,
+        "avg_placement": 4.233288717423825,
+        "top_4_percent": 0.5414140618848909,
+        "top_1_percent": 0.18278088339500825
       },
       "top_items": [
         "TFT_Item_GuinsoosRageblade",
@@ -1572,10 +1572,10 @@
       ],
       "tier": "",
       "stats": {
-        "pick_rate": 0.008439981107037628,
-        "avg_placement": 4.141127747690347,
-        "top_4_percent": 0.5489009238611022,
-        "top_1_percent": 0.2054794520547945
+        "pick_rate": 0.007962049837104869,
+        "avg_placement": 4.124901393636603,
+        "top_4_percent": 0.5566657901656586,
+        "top_1_percent": 0.21824875098606364
       },
       "top_items": [
         "TFT_Item_SpearOfShojin",
